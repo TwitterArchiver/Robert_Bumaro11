@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2064759153197994328",
+    "created_at": "2026-06-10T17:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064761128081875172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1166581079970594816",
+          "start": 0,
+          "username": "noxylva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064761128081875172",
+    "in_reply_to_user_id": "1166581079970594816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064759153197994328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noxylva 🥰🥰🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064759153197994328].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064759153197994328",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064759153197994328"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2064759153197994328",
+        "created_at": "2026-06-10T17:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064761128081875172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1166581079970594816",
+              "start": 0,
+              "username": "noxylva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064761128081875172",
+        "in_reply_to_user_id": "1166581079970594816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064759153197994328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noxylva 🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 412,
+          "like_count": 11613,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-28T05:19:57.000Z",
+        "description": "求你增加我的知识",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "noxylva.org",
+                "end": 23,
+                "expanded_url": "https://noxylva.org",
+                "start": 0,
+                "url": "https://t.co/4j6ox1MNMl"
+              }
+            ]
+          }
+        },
+        "id": "1166581079970594816",
+        "location": "Yoknapatawpha",
+        "name": "noxylva",
+        "pinned_tweet_id": "1915820077095784638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998140732448854016/0hIKRwJ__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 1284,
+          "like_count": 49788,
+          "listed_count": 4,
+          "media_count": 662,
+          "tweet_count": 8813
+        },
+        "url": "https://t.co/4j6ox1MNMl",
+        "username": "noxylva",
+        "verified": false
+      }
+    ]
+  }
+}

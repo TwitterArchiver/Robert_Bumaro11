@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060203617471377830",
+    "created_at": "2026-05-29T03:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060203617471377830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2015509801846046721",
+          "start": 3,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060203617471377830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060089946279645420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fffalsum: 嗯我的社交方式就是点赞然后等着被点赞的人来私信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060203617471377830",
+        "created_at": "2026-05-29T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060203617471377830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2015509801846046721",
+              "start": 3,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060203617471377830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060089946279645420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fffalsum: 嗯我的社交方式就是点赞然后等着被点赞的人来私信我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015509801846046721",
+        "conversation_id": "2060089946279645420",
+        "created_at": "2026-05-28T20:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060089946279645420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuan1136985/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/xuan1136985/status/2060009754672427098",
+              "start": 25,
+              "url": "https://t.co/P3fH5FMR2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060089946279645420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060009754672427098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯我的社交方式就是点赞然后等着被点赞的人来私信我 https://t.co/P3fH5FMR2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 441,
+          "like_count": 11010,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "要らない記憶を排除して重たい荷物投げ出して\nそこに残されたものは弱い自分だけ",
+        "id": "2015509801846046721",
+        "name": "西雲絵名",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059762467669250048/WdH0ePSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 547,
+          "like_count": 14811,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 933
+        },
+        "username": "fffalsum",
+        "verified": false
+      }
+    ]
+  }
+}

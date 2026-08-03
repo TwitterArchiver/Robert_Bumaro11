@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983845827887165790",
+    "created_at": "2025-10-30T10:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983845827887165790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971208789853675520",
+          "start": 3,
+          "username": "seroglumax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983845827887165790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983735790565048478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seroglumax: 无意识聚焦型通过追逐欲望对象（人物、地点或物品）来引领关系，他们相信这能使自身更趋完整。欲望驱使他们通过行动构建身份认同，期望通过获得欲望对象来填补“缺失感”，且常伴随比其他类型的无意识亚型更强烈的自我排斥（self-rejection 避免被他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983845827887165790",
+        "created_at": "2025-10-30T10:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983845827887165790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971208789853675520",
+              "start": 3,
+              "username": "seroglumax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983845827887165790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983735790565048478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seroglumax: 无意识聚焦型通过追逐欲望对象（人物、地点或物品）来引领关系，他们相信这能使自身更趋完整。欲望驱使他们通过行动构建身份认同，期望通过获得欲望对象来填补“缺失感”，且常伴随比其他类型的无意识亚型更强烈的自我排斥（self-rejection 避免被他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "1983735790565048478",
+        "created_at": "2025-10-30T03:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983735790565048478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seroglumax/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/seroglumax/status/1983735196659888381",
+              "start": 135,
+              "url": "https://t.co/XyWbEp3bsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983735790565048478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983735196659888381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无意识聚焦型通过追逐欲望对象（人物、地点或物品）来引领关系，他们相信这能使自身更趋完整。欲望驱使他们通过行动构建身份认同，期望通过获得欲望对象来填补“缺失感”，且常伴随比其他类型的无意识亚型更强烈的自我排斥（self-rejection 避免被他人拒绝而主动排斥自己） https://t.co/XyWbEp3bsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 447,
+          "like_count": 5665,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 92,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 354
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

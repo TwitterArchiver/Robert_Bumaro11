@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059884439023554875",
+    "created_at": "2026-05-28T06:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059887358359879901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059887358359879901",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059885283383148774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（5/n）\n自25年来我的主动发言规律①存在某种利益上的、文化上的、工作事务上的、群体上的联系足够正当化通信\n②事先确定对方对自己足够友善或是有需求（援引先例）\n③我精神错乱了\n唉“最大的错误就是说了不该说的话”唉缄默姐妹会。要是人人只像丘比一样，天下大治矣！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059884439023554875",
+        "created_at": "2026-05-28T06:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059887358359879901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059887358359879901",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059885283383148774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（5/n）\n自25年来我的主动发言规律①存在某种利益上的、文化上的、工作事务上的、群体上的联系足够正当化通信\n②事先确定对方对自己足够友善或是有需求（援引先例）\n③我精神错乱了\n唉“最大的错误就是说了不该说的话”唉缄默姐妹会。要是人人只像丘比一样，天下大治矣！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059884439023554875",
+        "created_at": "2026-05-28T06:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059885283383148774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059885283383148774",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059884439023554875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（4/n）\n（你承认自己不知道词语的含义只是在使用他们吧？）又或者真的需要酒精或是药物或是不清醒或是道义之类的豁免权将自己从罪恶（羞耻？）中解放而发展出足够的善意或是主动性去接近别人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 433,
+          "like_count": 10876,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

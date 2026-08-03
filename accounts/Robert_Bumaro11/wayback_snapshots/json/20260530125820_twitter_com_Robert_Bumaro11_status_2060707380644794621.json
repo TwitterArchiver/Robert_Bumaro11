@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060704525217149292",
+    "created_at": "2026-05-30T12:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060707380644794621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "RealityLUV2045"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060707380644794621",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060704525217149292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealityLUV2045 三国杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060704525217149292",
+        "created_at": "2026-05-30T12:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060707380644794621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "RealityLUV2045"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060707380644794621",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060704525217149292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealityLUV2045 三国杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495386210977517568",
+        "conversation_id": "2060704525217149292",
+        "created_at": "2026-05-30T12:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060704525217149292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060704525217149292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想直播打游戏又不知道播什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 443,
+          "like_count": 11212,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "女儿天下第一",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 427,
+          "like_count": 19328,
+          "listed_count": 1,
+          "media_count": 1619,
+          "tweet_count": 7233
+        },
+        "username": "RealityLUV2045",
+        "verified": false
+      }
+    ]
+  }
+}

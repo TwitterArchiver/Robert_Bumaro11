@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966278355231322116"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966280377779343541",
+    "created_at": "2025-09-11T23:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T00:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966280377779343541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/osKmecMU1k",
+          "end": 131,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1966280377779343541/photo/1",
+          "media_key": "3_1966278355231322116",
+          "start": 108,
+          "url": "https://t.co/osKmecMU1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966280377779343541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直回想起少数派报告做换眼手术后那一段，将爬满蛆虫的三明治与发霉腐臭的牛奶放在正常的食物之中，然后让靠触觉感知世界的盲人在误导中吃下去。之所以看完这段感到哀伤大抵是觉得自己盲目的生活也像是重复摄入腐败食物的错误过程 https://t.co/osKmecMU1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_1966278355231322116",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0mfvw0aMAQ4Y8J.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966278355231322116"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966280377779343541",
+        "created_at": "2025-09-11T23:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966280377779343541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osKmecMU1k",
+              "end": 131,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1966280377779343541/photo/1",
+              "media_key": "3_1966278355231322116",
+              "start": 108,
+              "url": "https://t.co/osKmecMU1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966280377779343541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直回想起少数派报告做换眼手术后那一段，将爬满蛆虫的三明治与发霉腐臭的牛奶放在正常的食物之中，然后让靠触觉感知世界的盲人在误导中吃下去。之所以看完这段感到哀伤大抵是觉得自己盲目的生活也像是重复摄入腐败食物的错误过程 https://t.co/osKmecMU1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 393,
+          "like_count": 2745,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 198
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

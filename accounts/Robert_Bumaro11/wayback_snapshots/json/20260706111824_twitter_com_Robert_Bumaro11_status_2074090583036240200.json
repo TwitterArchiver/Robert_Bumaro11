@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074090564677734401"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074090583036240200",
+    "created_at": "2026-07-06T11:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074090583036240200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZqNXW75PhU",
+          "end": 23,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2074090583036240200/photo/1",
+          "media_key": "3_2074090564677734401",
+          "start": 0,
+          "url": "https://t.co/ZqNXW75PhU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074090583036240200",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZqNXW75PhU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3065,
+        "media_key": "3_2074090564677734401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMimYSubEAE0rT1.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074090564677734401"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074090583036240200",
+        "created_at": "2026-07-06T11:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074090583036240200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqNXW75PhU",
+              "end": 23,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2074090583036240200/photo/1",
+              "media_key": "3_2074090564677734401",
+              "start": 0,
+              "url": "https://t.co/ZqNXW75PhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074090583036240200",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZqNXW75PhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 443,
+          "like_count": 12298,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

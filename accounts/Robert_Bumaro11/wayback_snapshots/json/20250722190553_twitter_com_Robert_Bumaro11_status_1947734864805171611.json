@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1947734864805171611",
+    "created_at": "2025-07-22T19:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T20:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947734864805171611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sngzhhu21/stat…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/sngzhhu21/status/1946996907706081360",
+          "start": 40,
+          "url": "https://t.co/2tSsphIRTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947734864805171611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946996907706081360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "灵魂习惯于回忆，仅仅是无法完整记起梦中人就会让自己成为深陷愧疚与罪恶感的篡夺者 https://t.co/2tSsphIRTS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1947734864805171611",
+        "created_at": "2025-07-22T19:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947734864805171611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sngzhhu21/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/sngzhhu21/status/1946996907706081360",
+              "start": 40,
+              "url": "https://t.co/2tSsphIRTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947734864805171611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946996907706081360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "灵魂习惯于回忆，仅仅是无法完整记起梦中人就会让自己成为深陷愧疚与罪恶感的篡夺者 https://t.co/2tSsphIRTS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597240703070793731",
+        "conversation_id": "1946996907706081360",
+        "created_at": "2025-07-20T18:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T19:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946996907706081360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946996907706081360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 58336,
+          "like_count": 879,
+          "quote_count": 31,
+          "reply_count": 134,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么还在回忆？人家都不记得你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 341,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T14:47:35.000Z",
+        "description": "🚪88纯绿（可聊天 私信只挑有礼貌的回（不过🚪不闲聊）喜欢我的可以过我🚪｜希望大家天天开心|提问箱：https://t.co/869Xl9yltY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ava61847",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ava61847",
+                "start": 50,
+                "url": "https://t.co/869Xl9yltY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=6wLtTtBQ",
+                "start": 0,
+                "url": "https://t.co/zMbfrJWSu9"
+              }
+            ]
+          }
+        },
+        "id": "1597240703070793731",
+        "location": "自用蜂鸟VPN👉",
+        "name": "一枚纯净的屌丝",
+        "pinned_tweet_id": "1946885573194740050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930100728397475841/HfMKSHxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 359,
+          "like_count": 10971,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 8398
+        },
+        "url": "https://t.co/zMbfrJWSu9",
+        "username": "sngzhhu21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966507382017835341",
+    "created_at": "2025-09-12T14:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966507382017835341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/04177_realname/status/1966314455077441587",
+          "start": 39,
+          "url": "https://t.co/kJr9C4BvqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966507382017835341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966314455077441587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明我不吃饭仅仅是喜欢不吃饭，老师同学到底为什么要强行附加意义一直问了... https://t.co/kJr9C4BvqC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1562,
+        "media_key": "3_1966314444872634369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nAkdNaUAEiujO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966507382017835341",
+        "created_at": "2025-09-12T14:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966507382017835341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/04177_realname/status/1966314455077441587",
+              "start": 39,
+              "url": "https://t.co/kJr9C4BvqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966507382017835341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966314455077441587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明我不吃饭仅仅是喜欢不吃饭，老师同学到底为什么要强行附加意义一直问了... https://t.co/kJr9C4BvqC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966314444872634369"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1966314455077441587",
+        "created_at": "2025-09-12T01:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T02:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966314455077441587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6g81FvDbqC",
+              "end": 43,
+              "expanded_url": "https://x.com/04177_realname/status/1966314455077441587/photo/1",
+              "media_key": "3_1966314444872634369",
+              "start": 20,
+              "url": "https://t.co/6g81FvDbqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966314455077441587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2228,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "本人已经厌倦了免费给任何人提供情绪价值 https://t.co/6g81FvDbqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 396,
+          "like_count": 2796,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 211
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "工作号/接聊天、陪玩、心理咨询、asd新奇思路解答世间万物/生活号：@04177_truth（来互fo）/🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "04177_truth"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1961655141700157841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10987,
+          "following_count": 6073,
+          "like_count": 65604,
+          "listed_count": 34,
+          "media_count": 2731,
+          "tweet_count": 19763
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

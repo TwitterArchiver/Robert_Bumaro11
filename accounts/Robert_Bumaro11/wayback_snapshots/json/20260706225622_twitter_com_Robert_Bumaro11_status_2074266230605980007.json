@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074266230605980007",
+    "created_at": "2026-07-06T22:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074266230605980007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074266230605980007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "住院第六天:“你们看那天上的飞鸟、也不种、也不收、也不积蓄在仓里、你们的天父尚且养活他——你们不比飞鸟贵重得多么？”在这病院艰苦的环境里诡异地生出了某种幸福感，我的言语难以表达千万分之一对世界的爱意，若是可以我甘愿一生都居住在一室之中。然而然而。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074266230605980007",
+        "created_at": "2026-07-06T22:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074266230605980007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074266230605980007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住院第六天:“你们看那天上的飞鸟、也不种、也不收、也不积蓄在仓里、你们的天父尚且养活他——你们不比飞鸟贵重得多么？”在这病院艰苦的环境里诡异地生出了某种幸福感，我的言语难以表达千万分之一对世界的爱意，若是可以我甘愿一生都居住在一室之中。然而然而。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 445,
+          "like_count": 12308,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

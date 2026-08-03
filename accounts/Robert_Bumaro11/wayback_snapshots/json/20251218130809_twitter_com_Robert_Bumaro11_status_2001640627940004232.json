@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2001242022582386858",
+    "created_at": "2025-12-18T13:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T14:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001640627940004232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736686097919569920",
+          "start": 0,
+          "username": "sesamesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001640627940004232",
+    "in_reply_to_user_id": "1736686097919569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001242022582386858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sesamesama 爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2001242022582386858",
+        "created_at": "2025-12-18T13:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001640627940004232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736686097919569920",
+              "start": 0,
+              "username": "sesamesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001640627940004232",
+        "in_reply_to_user_id": "1736686097919569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001242022582386858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sesamesama 爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736686097919569920",
+        "conversation_id": "2001242022582386858",
+        "created_at": "2025-12-17T10:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001242022582386858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001242022582386858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推里很多右派都失去了爱的能力，没有爱怎么合理自洽地维持神圣呢，可悲。历史给的教训还不够多吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 481,
+          "like_count": 7093,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T09:53:42.000Z",
+        "description": "向往极右的温和右派/希望成为女性的男性/重视公序良俗的反社会者/ts",
+        "id": "1736686097919569920",
+        "location": "上海",
+        "name": "meowdel✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998993140553052160/RWksLYi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 505,
+          "like_count": 19204,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 598
+        },
+        "username": "sesamesama",
+        "verified": false
+      }
+    ]
+  }
+}

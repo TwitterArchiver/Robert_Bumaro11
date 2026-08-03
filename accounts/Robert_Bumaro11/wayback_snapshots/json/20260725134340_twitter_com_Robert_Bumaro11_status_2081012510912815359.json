@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081012510912815359",
+    "created_at": "2026-07-25T13:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012510912815359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1213412688790843397",
+          "start": 3,
+          "username": "AkiratheShining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012510912815359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080958754489762264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkiratheShining: 我还是很讨厌那些拿排卵期黄体期之类概念拍段子的视频，从我自己的经验来说月经周期对我的情绪影响很小，更多是生理上的不便：经前胸部胀痛、经期会拉肚子、睡眠时间变长…现在这些概念就是潜移默化把女人塑造成“情绪化动物”，而所谓的排卵期直接变成了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081012510912815359",
+        "created_at": "2026-07-25T13:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012510912815359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1213412688790843397",
+              "start": 3,
+              "username": "AkiratheShining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012510912815359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080958754489762264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkiratheShining: 我还是很讨厌那些拿排卵期黄体期之类概念拍段子的视频，从我自己的经验来说月经周期对我的情绪影响很小，更多是生理上的不便：经前胸部胀痛、经期会拉肚子、睡眠时间变长…现在这些概念就是潜移默化把女人塑造成“情绪化动物”，而所谓的排卵期直接变成了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "2080958754489762264",
+        "created_at": "2026-07-25T10:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080958754489762264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080958754489762264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我还是很讨厌那些拿排卵期黄体期之类概念拍段子的视频，从我自己的经验来说月经周期对我的情绪影响很小，更多是生理上的不便：经前胸部胀痛、经期会拉肚子、睡眠时间变长…现在这些概念就是潜移默化把女人塑造成“情绪化动物”，而所谓的排卵期直接变成了发情期的代名词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 485,
+          "like_count": 13890,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "可以叫我阿闪/提问箱：https://t.co/50hnnvH08s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akiratheshining",
+                "end": 34,
+                "expanded_url": "https://ngl.link/akiratheshining",
+                "start": 11,
+                "url": "https://t.co/50hnnvH08s"
+              }
+            ]
+          }
+        },
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "闪光阿基拉",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077135567759003648/-gRKopAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 214,
+          "like_count": 5151,
+          "listed_count": 7,
+          "media_count": 551,
+          "tweet_count": 8166
+        },
+        "url": "",
+        "username": "AkiratheShining",
+        "verified": false
+      }
+    ]
+  }
+}

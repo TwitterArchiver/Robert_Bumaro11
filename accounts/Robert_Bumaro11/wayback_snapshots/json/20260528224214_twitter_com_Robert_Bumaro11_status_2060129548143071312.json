@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060129548143071312",
+    "created_at": "2026-05-28T22:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060129548143071312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1097645922232676352",
+          "start": 3,
+          "username": "RafaelTsao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060129548143071312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060128626876506366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RafaelTsao: 每个人都千万不要高估自己长时间独处的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060129548143071312",
+        "created_at": "2026-05-28T22:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060129548143071312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1097645922232676352",
+              "start": 3,
+              "username": "RafaelTsao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060129548143071312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060128626876506366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RafaelTsao: 每个人都千万不要高估自己长时间独处的能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097645922232676352",
+        "conversation_id": "2060128626876506366",
+        "created_at": "2026-05-28T22:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060128626876506366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060128626876506366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每个人都千万不要高估自己长时间独处的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 440,
+          "like_count": 10959,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T23:55:55.000Z",
+        "description": "Mitómano",
+        "id": "1097645922232676352",
+        "name": "Rafael",
+        "pinned_tweet_id": "2019706645635633354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953226633420136448/aw_gFkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 303,
+          "like_count": 14831,
+          "listed_count": 19,
+          "media_count": 580,
+          "tweet_count": 14022
+        },
+        "username": "RafaelTsao",
+        "verified": false
+      }
+    ]
+  }
+}

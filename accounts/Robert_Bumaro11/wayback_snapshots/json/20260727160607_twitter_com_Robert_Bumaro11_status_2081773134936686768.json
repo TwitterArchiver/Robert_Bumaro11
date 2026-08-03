@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081773134936686768",
+    "created_at": "2026-07-27T16:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081773134936686768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980612830824132609",
+          "start": 3,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081773134936686768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081456451491418365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seeFvn: 我是否应该按照医生的处方吃药 是否应该吃 TA 开的精神病药 这样可以变成健全人吗 不可能吧 我以前吃过很久 最后也没有变成健全人 只是控制了吧 现在只想就这样让时间安稳是过下去 吃了很多安眠药还是睡不着 GABA-A 耐受太讨厌了 我吃了曲唑酮 我讨厌…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081773134936686768",
+        "created_at": "2026-07-27T16:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081773134936686768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980612830824132609",
+              "start": 3,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081773134936686768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081456451491418365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seeFvn: 我是否应该按照医生的处方吃药 是否应该吃 TA 开的精神病药 这样可以变成健全人吗 不可能吧 我以前吃过很久 最后也没有变成健全人 只是控制了吧 现在只想就这样让时间安稳是过下去 吃了很多安眠药还是睡不着 GABA-A 耐受太讨厌了 我吃了曲唑酮 我讨厌…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2081456451491418365",
+        "created_at": "2026-07-26T19:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081456451491418365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081456451491418365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是否应该按照医生的处方吃药 是否应该吃 TA 开的精神病药 这样可以变成健全人吗 不可能吧 我以前吃过很久 最后也没有变成健全人 只是控制了吧 现在只想就这样让时间安稳是过下去 吃了很多安眠药还是睡不着 GABA-A 耐受太讨厌了 我吃了曲唑酮 我讨厌很多人很多很多\n（仅个人经历分享，正常剂量医师指导）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是否应该按照医生的处方吃药 是否应该吃 TA 开的精神病药 这样可以变成健全人吗 不可能吧 我以前吃过很久 最后也没有变成健全人 只是控制了吧 现在只想就这样让时间安稳是过下去 吃了很多安眠药还是睡不着 GABA-A 耐受太讨厌了 我吃了曲唑酮 我讨厌很多人很多很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 487,
+          "like_count": 14053,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "location": "New York, USA",
+        "name": "foes",
+        "pinned_tweet_id": "2076483212600087008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 827,
+          "like_count": 8014,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2006
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

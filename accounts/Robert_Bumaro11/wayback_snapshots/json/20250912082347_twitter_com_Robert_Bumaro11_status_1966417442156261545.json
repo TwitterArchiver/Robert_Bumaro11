@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966350247850029566",
+    "created_at": "2025-09-12T08:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T09:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966417442156261545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672200318082326528",
+          "start": 0,
+          "username": "3087_yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966417442156261545",
+    "in_reply_to_user_id": "1672200318082326528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966350247850029566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3087_yi 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966350247850029566",
+        "created_at": "2025-09-12T08:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T09:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966417442156261545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672200318082326528",
+              "start": 0,
+              "username": "3087_yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966417442156261545",
+        "in_reply_to_user_id": "1672200318082326528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966350247850029566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3087_yi 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672200318082326528",
+        "conversation_id": "1966350247850029566",
+        "created_at": "2025-09-12T03:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T04:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966350247850029566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966350247850029566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学四年潜心学习，我要成为大祸害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 394,
+          "like_count": 2758,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 204
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T11:10:46.000Z",
+        "description": "死亡，我可望不可及的初恋",
+        "id": "1672200318082326528",
+        "location": "海底",
+        "name": "nna（宇津木德幸爱好者）",
+        "pinned_tweet_id": "1958971018011451812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960715700760154112/zpxkmo9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 285,
+          "like_count": 4715,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1159
+        },
+        "username": "3087_yi",
+        "verified": false
+      }
+    ]
+  }
+}

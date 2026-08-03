@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983909663616970752"
+      ],
+      "media_source_tweet_id": [
+        "1983909666892738677"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1984128628586914148",
+    "created_at": "2025-10-31T05:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984128628586914148"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 13,
+          "tag": "LimbusCompany"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959142098080505856",
+          "start": 3,
+          "username": "Vaabuol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EwKd4BR9Cf",
+          "end": 90,
+          "expanded_url": "https://x.com/Vaabuol/status/1983909666892738677/photo/1",
+          "media_key": "3_1983909663616970752",
+          "start": 67,
+          "url": "https://t.co/EwKd4BR9Cf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984128628586914148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983909666892738677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vaabuol: #LimbusCompany\n以及上一张图的后续\n这个发型的良秀实际上是一半长发一半短发的某种阴阳头造型？ https://t.co/EwKd4BR9Cf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1983909663616970752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hDU-5asAAHO8H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983909663616970752"
+          ],
+          "media_source_tweet_id": [
+            "1983909666892738677"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1984128628586914148",
+        "created_at": "2025-10-31T05:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984128628586914148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 13,
+              "tag": "LimbusCompany"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959142098080505856",
+              "start": 3,
+              "username": "Vaabuol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwKd4BR9Cf",
+              "end": 90,
+              "expanded_url": "https://x.com/Vaabuol/status/1983909666892738677/photo/1",
+              "media_key": "3_1983909663616970752",
+              "start": 67,
+              "url": "https://t.co/EwKd4BR9Cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984128628586914148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983909666892738677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vaabuol: #LimbusCompany\n以及上一张图的后续\n这个发型的良秀实际上是一半长发一半短发的某种阴阳头造型？ https://t.co/EwKd4BR9Cf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983909663616970752"
+          ]
+        },
+        "author_id": "1959142098080505856",
+        "conversation_id": "1983909666892738677",
+        "created_at": "2025-10-30T14:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983909666892738677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "LimbusCompany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwKd4BR9Cf",
+              "end": 77,
+              "expanded_url": "https://x.com/Vaabuol/status/1983909666892738677/photo/1",
+              "media_key": "3_1983909663616970752",
+              "start": 54,
+              "url": "https://t.co/EwKd4BR9Cf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983909666892738677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 921,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "#LimbusCompany\n以及上一张图的后续\n这个发型的良秀实际上是一半长发一半短发的某种阴阳头造型？ https://t.co/EwKd4BR9Cf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 454,
+          "like_count": 5724,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T06:34:18.000Z",
+        "description": "＝霧 非要说的话我就是喜欢好看的画，是可恶的杂食。你把我打死吧\n最近有点害怕拉老六和老四，很难说是为什么",
+        "id": "1959142098080505856",
+        "name": "Vabuol",
+        "pinned_tweet_id": "1983526096701411684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979708536599752704/tUye1jcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 423,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 57
+        },
+        "username": "Vaabuol",
+        "verified": false
+      }
+    ]
+  }
+}

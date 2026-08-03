@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1954352751435288822",
+    "created_at": "2025-08-11T00:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T01:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954702600739426581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954702600739426581",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954352751435288822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 病娇都有品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1954352751435288822",
+        "created_at": "2025-08-11T00:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T01:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954702600739426581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954702600739426581",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954352751435288822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 病娇都有品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1954352751435288822",
+        "created_at": "2025-08-10T01:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T02:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954352751435288822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954352751435288822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都在批判我\n我病娇我该死 嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 393,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 158
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "含糖MtF｜INFP-T｜社会化程度极低的AS｜BPD｜天残党｜家暴党｜无性恋｜性冷淡｜严重躯体化｜同类互fo｜五年C#开发经验｜LLM Orchestration｜Godot Engine｜没人陪、没人要的恶心的废物，所有人最后都会讨厌我…｜Telegram https://t.co/fUGMj5xj0K 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 154,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 131,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949019958287237125/BckoVlFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 93,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 212
+        },
+        "username": "xmin240286",
+        "verified": false
+      }
+    ]
+  }
+}

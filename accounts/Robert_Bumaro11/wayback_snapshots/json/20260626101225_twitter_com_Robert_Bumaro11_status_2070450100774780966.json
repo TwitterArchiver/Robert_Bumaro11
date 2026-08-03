@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2070450100774780966",
+    "created_at": "2026-06-26T10:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070450100774780966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885656665934168064",
+          "start": 3,
+          "username": "vanmutoka1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070450100774780966",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070108804411199655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vanmutoka1: «L'homme ne veut pas croire qu'il a lui-même commis tous les crimes ; alors, pour échapper aux tourments de sa conscience,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2070108756759764992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqA8kUXYAAcOEh.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2070450100774780966",
+        "created_at": "2026-06-26T10:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070450100774780966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885656665934168064",
+              "start": 3,
+              "username": "vanmutoka1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070450100774780966",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070108804411199655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vanmutoka1: «L'homme ne veut pas croire qu'il a lui-même commis tous les crimes ; alors, pour échapper aux tourments de sa conscience,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070108756759764992"
+          ]
+        },
+        "author_id": "1885656665934168064",
+        "conversation_id": "2070108804411199655",
+        "created_at": "2026-06-25T11:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070108804411199655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6jmMLbBoY",
+              "end": 185,
+              "expanded_url": "https://x.com/vanmutoka1/status/2070108804411199655/photo/1",
+              "media_key": "3_2070108756759764992",
+              "start": 162,
+              "url": "https://t.co/B6jmMLbBoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070108804411199655",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 8241,
+          "like_count": 443,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "«L'homme ne veut pas croire qu'il a lui-même commis tous les crimes ; alors, pour échapper aux tourments de sa conscience,  il a créé Satan » Friedrich Nietzsche https://t.co/B6jmMLbBoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 425,
+          "like_count": 11917,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T11:50:06.000Z",
+        "description": "Juriste, Doctorant en Droit économique et social de l'Unikin  ,\ncoordonnateur de la ligue civile de défense pour la patrie rdc, panafricaniste,\n l'hô des médias",
+        "id": "1885656665934168064",
+        "location": "RDC/Kinshasa",
+        "name": "VAN MUTOKA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950535923193573376/5W3jFQGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67591,
+          "following_count": 1513,
+          "like_count": 6284,
+          "listed_count": 29,
+          "media_count": 4270,
+          "tweet_count": 6213
+        },
+        "url": "",
+        "username": "vanmutoka1",
+        "verified": true
+      }
+    ]
+  }
+}

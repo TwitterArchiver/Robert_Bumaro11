@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076277049166323741",
+    "created_at": "2026-07-12T12:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076277049166323741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967257406129504256",
+          "start": 3,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076277049166323741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076274117406597149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zdu1279757: 我的状态就是要么一直割手要么一直不割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076277049166323741",
+        "created_at": "2026-07-12T12:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076277049166323741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967257406129504256",
+              "start": 3,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076277049166323741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076274117406597149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zdu1279757: 我的状态就是要么一直割手要么一直不割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967257406129504256",
+        "conversation_id": "2076274117406597149",
+        "created_at": "2026-07-12T11:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076274117406597149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076274117406597149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的状态就是要么一直割手要么一直不割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 470,
+          "like_count": 12974,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "🚪52/125/256 萌妹子免费｜自残｜泛性恋｜sub m｜互fo私信｜低精力可能不回消息｜打钱你是例外\n纯绿/半绿线下私信",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2075956408781275634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 59,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

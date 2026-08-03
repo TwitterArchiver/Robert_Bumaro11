@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1936197696312033504",
+    "created_at": "2025-06-20T23:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T00:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936197696312033504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/glueckgruene/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/glueckgruene/status/1812932725567070512",
+          "start": 11,
+          "url": "https://t.co/k3P3WbMMA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936197696312033504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812932725567070512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看不了全世界的青春剧 https://t.co/k3P3WbMMA0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1936197696312033504",
+        "created_at": "2025-06-20T23:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T00:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936197696312033504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/glueckgruene/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/glueckgruene/status/1812932725567070512",
+              "start": 11,
+              "url": "https://t.co/k3P3WbMMA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936197696312033504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812932725567070512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看不了全世界的青春剧 https://t.co/k3P3WbMMA0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349398275938373639",
+        "conversation_id": "1812932725567070512",
+        "created_at": "2024-07-15T19:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T20:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812932725567070512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812932725567070512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 20288,
+          "like_count": 253,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "看不了一点欧美的青春剧，心理原因有点类似于太监见不得别人有性生活。这世界上很多东西可以通过努力获得，唯独过去的时间过去就是过去了。不管怎样之后都不再能过上欧美青春剧里的teenage years，我也不再需要了。\n我对很多东西的需要是仅仅在需要的时候能得到，时间一过也就没有意义了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 261,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 99
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-13T16:50:06.000Z",
+        "description": "I collect my feathers here",
+        "id": "1349398275938373639",
+        "location": "Napoli, Campania",
+        "name": "Devilsivy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735392372333088768/MH6mtkO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 424,
+          "like_count": 9519,
+          "listed_count": 15,
+          "media_count": 460,
+          "tweet_count": 6903
+        },
+        "username": "glueckgruene",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066639176280514923",
+    "created_at": "2026-06-15T21:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066639176280514923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/200x0x1x/status/2066590083038290171",
+          "start": 18,
+          "url": "https://t.co/qnpxkvTDXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066639176280514923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066590083038290171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做出改变，拒绝灵光乍现选择一步到位 https://t.co/qnpxkvTDXV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066639176280514923",
+        "created_at": "2026-06-15T21:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066639176280514923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2066590083038290171",
+              "start": 18,
+              "url": "https://t.co/qnpxkvTDXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066639176280514923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066590083038290171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做出改变，拒绝灵光乍现选择一步到位 https://t.co/qnpxkvTDXV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2066590083038290171",
+        "created_at": "2026-06-15T18:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066590083038290171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066590083038290171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十几岁的时候灵光乍现，二十几岁的时候浑浑噩噩、挥霍无度，到了三十岁开始计划自杀。很多人的生命就是这样的吧。因为没有办法入冬，所以很多生命随着夏季一同消亡了啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 414,
+          "like_count": 11609,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066409118009561088/pMNtaRRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 765,
+          "like_count": 27902,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26724
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

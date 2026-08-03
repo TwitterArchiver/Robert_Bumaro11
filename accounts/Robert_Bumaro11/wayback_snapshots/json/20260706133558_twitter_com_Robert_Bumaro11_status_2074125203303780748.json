@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074125203303780748",
+    "created_at": "2026-07-06T13:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074125203303780748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073001949360971776",
+          "start": 3,
+          "username": "FisCh011i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074125203303780748",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073789768400576550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FisCh011i: 2021: 작년에 자살했어야 했어  \n2022: 작년에 자살했어야 했어  \n2023: 작년에 자살했어야 했어  \n2024: 작년에 자살했어야 했어  \n2025: 작년에 자살했어야 했어  \n2026: 작년에 자살했어야 했어"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074125203303780748",
+        "created_at": "2026-07-06T13:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074125203303780748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073001949360971776",
+              "start": 3,
+              "username": "FisCh011i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074125203303780748",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073789768400576550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FisCh011i: 2021: 작년에 자살했어야 했어  \n2022: 작년에 자살했어야 했어  \n2023: 작년에 자살했어야 했어  \n2024: 작년에 자살했어야 했어  \n2025: 작년에 자살했어야 했어  \n2026: 작년에 자살했어야 했어"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073001949360971776",
+        "conversation_id": "2073789768400576550",
+        "created_at": "2026-07-05T15:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073789768400576550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073789768400576550",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 31226,
+          "like_count": 2062,
+          "quote_count": 25,
+          "reply_count": 6,
+          "retweet_count": 569
+        },
+        "reply_settings": "everyone",
+        "text": "2021: 작년에 자살했어야 했어  \n2022: 작년에 자살했어야 했어  \n2023: 작년에 자살했어야 했어  \n2024: 작년에 자살했어야 했어  \n2025: 작년에 자살했어야 했어  \n2026: 작년에 자살했어야 했어"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 444,
+          "like_count": 12306,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T11:13:55.000Z",
+        "description": "시발인생ㅈ같다\n성인더ㅣ면뭐하고살까\n잡담다받아줘요\n#트찐ㅠㅠ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "트찐ㅠㅠ"
+              }
+            ]
+          }
+        },
+        "id": "2073001949360971776",
+        "name": "초이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073433268939366400/ORX_Gv22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 23,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "FisCh011i",
+        "verified": false
+      }
+    ]
+  }
+}

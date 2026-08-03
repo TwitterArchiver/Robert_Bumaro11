@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860695318163292160"
+      ],
+      "media_source_tweet_id": [
+        "1860695333854142660"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2055916788924534854",
+    "created_at": "2026-05-17T07:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055916788924534854"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 28,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "リンバス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1591675683016560640",
+          "start": 3,
+          "username": "Superbia_Crab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqLQ0oB31X",
+          "end": 73,
+          "expanded_url": "https://x.com/Superbia_Crab/status/1860695333854142660/photo/1",
+          "media_key": "3_1860695318163292160",
+          "start": 50,
+          "url": "https://t.co/mqLQ0oB31X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055916788924534854",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860695333854142660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Superbia_Crab: Nicolina\n#LimbusCompany \n#リンバス https://t.co/mqLQ0oB31X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1860695318163292160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKEiJJbAAA0VBF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860695318163292160"
+          ],
+          "media_source_tweet_id": [
+            "1860695333854142660"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055916788924534854",
+        "created_at": "2026-05-17T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055916788924534854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 28,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "リンバス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1591675683016560640",
+              "start": 3,
+              "username": "Superbia_Crab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqLQ0oB31X",
+              "end": 73,
+              "expanded_url": "https://x.com/Superbia_Crab/status/1860695333854142660/photo/1",
+              "media_key": "3_1860695318163292160",
+              "start": 50,
+              "url": "https://t.co/mqLQ0oB31X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055916788924534854",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860695333854142660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Superbia_Crab: Nicolina\n#LimbusCompany \n#リンバス https://t.co/mqLQ0oB31X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860695318163292160"
+          ]
+        },
+        "author_id": "1591675683016560640",
+        "conversation_id": "1860695333854142660",
+        "created_at": "2024-11-24T14:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860695333854142660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 9,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "リンバス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqLQ0oB31X",
+              "end": 54,
+              "expanded_url": "https://x.com/Superbia_Crab/status/1860695333854142660/photo/1",
+              "media_key": "3_1860695318163292160",
+              "start": 31,
+              "url": "https://t.co/mqLQ0oB31X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860695333854142660",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 648,
+          "impression_count": 102016,
+          "like_count": 7512,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1220
+        },
+        "reply_settings": "everyone",
+        "text": "Nicolina\n#LimbusCompany \n#リンバス https://t.co/mqLQ0oB31X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 527,
+          "like_count": 10027,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T06:14:03.000Z",
+        "description": "色々書く甲殻類です！！！ 暗夜迷宮:517(定期初参加マン)",
+        "id": "1591675683016560640",
+        "name": "🦀KANISI🦀",
+        "pinned_tweet_id": "1964174531414937993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650860298860126209/k93riVZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 2088,
+          "like_count": 22623,
+          "listed_count": 8,
+          "media_count": 146,
+          "tweet_count": 5395
+        },
+        "username": "Superbia_Crab",
+        "verified": false
+      }
+    ]
+  }
+}

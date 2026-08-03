@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1885223317139054986",
+    "created_at": "2025-01-31T07:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T08:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885223317139054986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876613242887282688",
+          "start": 3,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885223317139054986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885147915091345589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liujiayi1111: 感觉X上面很多人都很在意互关/双取/单取，我不太理解这是为什么，谁能解释一下？\n我觉得关注一个博主仅仅代表当下对TA的内容感兴趣，也许某天不感兴趣了，就取消关注了。\n如果对博主感兴趣，但是对方对自己不感兴趣，那不互关也正常，默默关注，看自己喜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1885223317139054986",
+        "created_at": "2025-01-31T07:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T08:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885223317139054986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876613242887282688",
+              "start": 3,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885223317139054986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885147915091345589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liujiayi1111: 感觉X上面很多人都很在意互关/双取/单取，我不太理解这是为什么，谁能解释一下？\n我觉得关注一个博主仅仅代表当下对TA的内容感兴趣，也许某天不感兴趣了，就取消关注了。\n如果对博主感兴趣，但是对方对自己不感兴趣，那不互关也正常，默默关注，看自己喜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "1885147915091345589",
+        "created_at": "2025-01-31T02:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T03:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885147915091345589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885147915091345589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18209,
+          "like_count": 320,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "感觉X上面很多人都很在意互关/双取/单取，我不太理解这是为什么，谁能解释一下？\n我觉得关注一个博主仅仅代表当下对TA的内容感兴趣，也许某天不感兴趣了，就取消关注了。\n如果对博主感兴趣，但是对方对自己不感兴趣，那不互关也正常，默默关注，看自己喜欢的内容就好了呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 224,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "▽・x・▽",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "1882259257388884319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878217807000657921/ZweBzy0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 79,
+          "like_count": 747,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 220
+        },
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

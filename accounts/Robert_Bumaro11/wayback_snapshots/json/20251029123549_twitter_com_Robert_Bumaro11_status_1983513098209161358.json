@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983252862416347498",
+    "created_at": "2025-10-29T12:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983513098209161358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Uturo_Bune"
+        },
+        {
+          "end": 24,
+          "id": "1438420916518539267",
+          "start": 12,
+          "username": "Engelsu0621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983513098209161358",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983252862416347498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uturo_Bune @Engelsu0621 感人肺腑..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983252862416347498",
+        "created_at": "2025-10-29T12:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983513098209161358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Uturo_Bune"
+            },
+            {
+              "end": 24,
+              "id": "1438420916518539267",
+              "start": 12,
+              "username": "Engelsu0621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983513098209161358",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983252862416347498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uturo_Bune @Engelsu0621 感人肺腑..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "1983252862416347498",
+        "created_at": "2025-10-28T19:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T20:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983252862416347498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "Engelsu0621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983252862416347498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 920,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彻底和@Engelsu0621 分手，被全平台拉黑，从此再不往来。但最后的对话，无论是真是假，既然你愿意讲出来，也算是了了我对公义的执着。。。但你最好真的问心无愧，信守诺言，不要再让下一个我出现了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 446,
+          "like_count": 5570,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "因此，时间将来到，他们眼睛上的鳞片将脱落｜妹妹@suwanzi2333｜导师@CMWither｜白月光@Engelsu0621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "suwanzi2333"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "CMWither"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Engelsu0621"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "1955065959464702427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959725077286854656/BR6dJPAQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 292,
+          "like_count": 34578,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 8361
+        },
+        "username": "Uturo_Bune",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981180746581569536/DsNl2mhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 916,
+          "like_count": 25751,
+          "listed_count": 7,
+          "media_count": 2311,
+          "tweet_count": 24808
+        },
+        "username": "Engelsu0621",
+        "verified": true
+      }
+    ]
+  }
+}

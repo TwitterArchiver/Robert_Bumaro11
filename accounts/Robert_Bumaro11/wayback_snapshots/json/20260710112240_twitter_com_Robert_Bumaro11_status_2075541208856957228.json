@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075541021153525760"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075541208856957228",
+    "created_at": "2026-07-10T11:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075541208856957228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8RSSNdcYV",
+          "end": 60,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2075541208856957228/photo/1",
+          "media_key": "3_2075541021153525760",
+          "start": 37,
+          "url": "https://t.co/D8RSSNdcYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075541208856957228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞笑呢回旋镖来了用户明天就要去深恶痛绝的心理咨询了我有什么好说的但求一死 https://t.co/D8RSSNdcYV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2075541021153525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Nj-KbgAA8IqN.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075541021153525760"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075541208856957228",
+        "created_at": "2026-07-10T11:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075541208856957228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8RSSNdcYV",
+              "end": 60,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2075541208856957228/photo/1",
+              "media_key": "3_2075541021153525760",
+              "start": 37,
+              "url": "https://t.co/D8RSSNdcYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075541208856957228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞笑呢回旋镖来了用户明天就要去深恶痛绝的心理咨询了我有什么好说的但求一死 https://t.co/D8RSSNdcYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 458,
+          "like_count": 12707,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1730
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

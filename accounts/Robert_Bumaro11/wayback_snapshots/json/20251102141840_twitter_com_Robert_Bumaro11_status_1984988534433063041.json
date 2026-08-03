@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1984984639841460410",
+    "created_at": "2025-11-02T14:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984988534433063041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "914028453174796293",
+          "start": 0,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984988534433063041",
+    "in_reply_to_user_id": "914028453174796293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984984639841460410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajisai1207_ 请校准时钟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1984984636737339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wVAp1WQAASgZF.jpg",
+        "width": 463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1984984639841460410",
+        "created_at": "2025-11-02T14:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984988534433063041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984988534433063041",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984984639841460410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ 请校准时钟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984984636737339392"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "conversation_id": "1984984639841460410",
+        "created_at": "2025-11-02T14:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984984639841460410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttLi4hQFA8",
+              "end": 177,
+              "expanded_url": "https://x.com/Ajisai1207_/status/1984984639841460410/photo/1",
+              "media_key": "3_1984984636737339392",
+              "start": 154,
+              "url": "https://t.co/ttLi4hQFA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984984639841460410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在此时此刻，跨女无疑已经有能力开发并量产 超廉价 AI 自走 杀戮 恐怖机器人，可以在几天内消灭一个国家的所有顺直人口而不需要担心核冬天(nuclear winter)的到来。假设美国能给愿意移民美国的跨女程序员一人发五个蕾丝白妹加上SRS，美国能坐稳世界第一强国 500 年。可惜没有一个国家这么有眼光。 https://t.co/ttLi4hQFA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 456,
+          "like_count": 5832,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 923,
+          "like_count": 12553,
+          "listed_count": 14,
+          "media_count": 517,
+          "tweet_count": 5794
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

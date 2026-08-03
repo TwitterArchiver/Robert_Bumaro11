@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983450821116506142",
+    "created_at": "2025-10-29T15:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983563194674167848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983563194674167848",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983450821116506142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB ..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983450821116506142",
+        "created_at": "2025-10-29T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983563194674167848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983563194674167848",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983450821116506142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB ..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "1983450821116506142",
+        "created_at": "2025-10-29T08:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983450821116506142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983450821116506142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11410,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "李启荣开证情况简述（医生原话）：“绝对不能开了，医务科就指着我说你绝对不能再开证了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 446,
+          "like_count": 5603,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "广州（含佛山）跨性别避难所运营者｜Nix 黑魔法｜Uplifting Trance｜TG：https://t.co/Bcj9BmrTTv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 68,
+                "expanded_url": "http://Zh40Le1ZOOB.t.me",
+                "start": 45,
+                "url": "https://t.co/Bcj9BmrTTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Zh40Le1ZOOB",
+                "end": 23,
+                "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                "start": 0,
+                "url": "https://t.co/yxR4GeWz6U"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#ςσmmαηd_βλσςκ",
+        "pinned_tweet_id": "1972700849618178364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 586,
+          "like_count": 6087,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 4708
+        },
+        "url": "https://t.co/yxR4GeWz6U",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

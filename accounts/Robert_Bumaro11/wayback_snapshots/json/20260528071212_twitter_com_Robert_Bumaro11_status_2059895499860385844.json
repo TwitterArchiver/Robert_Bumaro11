@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059818345399288113",
+    "created_at": "2026-05-28T07:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059895499860385844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1219652999087345665",
+          "start": 0,
+          "username": "habsburg334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059895499860385844",
+    "in_reply_to_user_id": "1219652999087345665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059818345399288113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@habsburg334 先有刘仲敬再有..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059818345399288113",
+        "created_at": "2026-05-28T07:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059895499860385844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1219652999087345665",
+              "start": 0,
+              "username": "habsburg334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059895499860385844",
+        "in_reply_to_user_id": "1219652999087345665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059818345399288113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@habsburg334 先有刘仲敬再有..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219652999087345665",
+        "conversation_id": "2059818345399288113",
+        "created_at": "2026-05-28T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059818345399288113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doomchief117/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/doomchief117/status/2059557516741406942",
+              "start": 35,
+              "url": "https://t.co/t0Ww3lsbl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059818345399288113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059557516741406942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先有普世教会再有普世价值，再有话语体系，希望不要本末倒置跟刘仲敬一样 https://t.co/t0Ww3lsbl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 433,
+          "like_count": 10877,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T16:08:45.000Z",
+        "description": "巴蜀利亞托利黨人 papist 男人是女人的头 如同基督是教会的头",
+        "id": "1219652999087345665",
+        "name": "🚁Habsburg🚁",
+        "pinned_tweet_id": "2041429023046160447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535263546459639809/2ms5z5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 699,
+          "like_count": 35837,
+          "listed_count": 14,
+          "media_count": 1091,
+          "tweet_count": 27845
+        },
+        "username": "habsburg334",
+        "verified": false
+      }
+    ]
+  }
+}

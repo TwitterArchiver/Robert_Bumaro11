@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074763749299531905",
+    "created_at": "2026-07-08T07:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074763749299531905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LaplaceTong/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/LaplaceTong/status/2074494770488267089",
+          "start": 25,
+          "url": "https://t.co/SRZBaCQqpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074763749299531905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074494770488267089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我恨所有制造问题然后回头假装看不到自欺欺人的群体 https://t.co/SRZBaCQqpv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074763749299531905",
+        "created_at": "2026-07-08T07:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074763749299531905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LaplaceTong/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/LaplaceTong/status/2074494770488267089",
+              "start": 25,
+              "url": "https://t.co/SRZBaCQqpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074763749299531905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074494770488267089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我恨所有制造问题然后回头假装看不到自欺欺人的群体 https://t.co/SRZBaCQqpv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "742295005",
+        "conversation_id": "2074494770488267089",
+        "created_at": "2026-07-07T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074494770488267089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/driantries/sta…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/driantries/status/2074361989175112041",
+              "start": 113,
+              "url": "https://t.co/nX80ZCujmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074494770488267089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6951,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074361989175112041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好笑了，直男能想到的最顶级类比，就是“喜欢瘦子”。他们对同性恋真实面对的家庭压力、职场风险、法律不平等以及慢性心理负担统统装瞎。说白了，这些问题在直男世界里“不存在”，恰恰因为他们就是那个把问题造出来、又假装看不到的群体。 https://t.co/nX80ZCujmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 453,
+          "like_count": 12464,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-07T06:22:12.000Z",
+        "description": "🌈 NJ/HZ Enlightened | 高级拉群工程师 | SQLBOY | 工作是在草台班子装疯卖傻  | 前半生有故事后半生还有故事 | JRPG 爱好者｜探索生活的方向中｜会共情会无情",
+        "id": "742295005",
+        "name": "Laplace",
+        "pinned_tweet_id": "2074527649855406133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644335533093703683/km-p7srp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 308,
+          "like_count": 6823,
+          "listed_count": 8,
+          "media_count": 2102,
+          "tweet_count": 18268
+        },
+        "url": "",
+        "username": "LaplaceTong",
+        "verified": true
+      }
+    ]
+  }
+}

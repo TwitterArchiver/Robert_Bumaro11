@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966857285529202696"
+      ],
+      "media_source_tweet_id": [
+        "1966857298363769171"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050108014",
+          "name": "賭ケグルイ (アニメ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1544464920384704512",
+          "name": "Kakegurui"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714559518150656",
+          "name": "Japanese actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1544464920384704512",
+          "name": "Kakegurui"
+        }
+      }
+    ],
+    "conversation_id": "1966951530944417801",
+    "created_at": "2025-09-13T19:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966951530944417801"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "賭ケグルイ"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "賭ケステ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4110103573",
+          "start": 3,
+          "username": "k_moeka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FC4Jv8oofW",
+          "end": 86,
+          "expanded_url": "https://x.com/k_moeka_/status/1966857298363769171/photo/1",
+          "media_key": "3_1966857285529202696",
+          "start": 63,
+          "url": "https://t.co/FC4Jv8oofW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966951530944417801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966857298363769171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k_moeka_: 本日もありがとうございました🙌\n残り1公演、振り絞って頑張ります✌🏻\n\n#賭ケグルイ\n#賭ケステ https://t.co/FC4Jv8oofW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966857285529202696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uuR8PbcAg1uR8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966857285529202696"
+          ],
+          "media_source_tweet_id": [
+            "1966857298363769171"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050108014",
+              "name": "賭ケグルイ (アニメ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          }
+        ],
+        "conversation_id": "1966951530944417801",
+        "created_at": "2025-09-13T19:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966951530944417801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "賭ケグルイ"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "賭ケステ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4110103573",
+              "start": 3,
+              "username": "k_moeka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FC4Jv8oofW",
+              "end": 86,
+              "expanded_url": "https://x.com/k_moeka_/status/1966857298363769171/photo/1",
+              "media_key": "3_1966857285529202696",
+              "start": 63,
+              "url": "https://t.co/FC4Jv8oofW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966951530944417801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966857298363769171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k_moeka_: 本日もありがとうございました🙌\n残り1公演、振り絞って頑張ります✌🏻\n\n#賭ケグルイ\n#賭ケステ https://t.co/FC4Jv8oofW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966857285529202696"
+          ]
+        },
+        "author_id": "4110103573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050108014",
+              "name": "賭ケグルイ (アニメ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1544464920384704512",
+              "name": "Kakegurui"
+            }
+          }
+        ],
+        "conversation_id": "1966857298363769171",
+        "created_at": "2025-09-13T13:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966857298363769171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "賭ケグルイ"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "賭ケステ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FC4Jv8oofW",
+              "end": 72,
+              "expanded_url": "https://x.com/k_moeka_/status/1966857298363769171/photo/1",
+              "media_key": "3_1966857285529202696",
+              "start": 49,
+              "url": "https://t.co/FC4Jv8oofW"
+            },
+            {
+              "display_url": "x.com/kakegurui_stag…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/kakegurui_stage/status/1966849355027280248",
+              "start": 73,
+              "url": "https://t.co/FqYyGkpiaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966857298363769171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 117259,
+          "like_count": 2762,
+          "quote_count": 33,
+          "reply_count": 46,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966849355027280248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本日もありがとうございました🙌\n残り1公演、振り絞って頑張ります✌🏻\n\n#賭ケグルイ\n#賭ケステ https://t.co/FC4Jv8oofW https://t.co/FqYyGkpiaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 399,
+          "like_count": 2856,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 242
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-03T06:30:02.000Z",
+        "description": "#スタァライト 大場なな/#けもフレ3 タスマニアデビル/#D4DJ 笹子･J･由香/#lovelive 三船栞子/#駅メモ ミオ リコ/#舞台やが君 七海燈子/#少女ヨルハ 二十一号/#オッドタクシー 市村しほ/#舞台カラマリ 星野市香/#濱ステ 濱茜/#トワツガイ フクロウ/#ラスバレ 富永真/#パリステ 久遠七海",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "スタァライト"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "けもフレ3"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "tag": "lovelive"
+              },
+              {
+                "end": 62,
+                "start": 58,
+                "tag": "駅メモ"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "舞台やが君"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "少女ヨルハ"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "tag": "オッドタクシー"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "舞台カラマリ"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "濱ステ"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "トワツガイ"
+              },
+              {
+                "end": 145,
+                "start": 140,
+                "tag": "ラスバレ"
+              },
+              {
+                "end": 155,
+                "start": 150,
+                "tag": "パリステ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/moeka_koizumi_…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/moeka_koizumi_?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/ztkJpNOGNp"
+              }
+            ]
+          }
+        },
+        "id": "4110103573",
+        "name": "小泉萌香◯◇𝒉𝒂𝒓𝕞𝕠𝕖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906985722151899136/Wba4it_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181311,
+          "following_count": 1137,
+          "like_count": 10394,
+          "listed_count": 5329,
+          "media_count": 2032,
+          "tweet_count": 8686
+        },
+        "url": "https://t.co/ztkJpNOGNp",
+        "username": "k_moeka_",
+        "verified": false
+      }
+    ]
+  }
+}

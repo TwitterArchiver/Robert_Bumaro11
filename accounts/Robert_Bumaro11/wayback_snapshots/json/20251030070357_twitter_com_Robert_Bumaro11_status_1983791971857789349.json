@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983224627448180736"
+      ],
+      "media_source_tweet_id": [
+        "1983224643218817089"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983791971857789349",
+    "created_at": "2025-10-30T07:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T08:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983791971857789349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622187924765937664",
+          "start": 3,
+          "username": "9urodine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b9nMLleokx",
+          "end": 37,
+          "expanded_url": "https://x.com/9urodine/status/1983224643218817089/photo/1",
+          "media_key": "3_1983224627448180736",
+          "start": 14,
+          "url": "https://t.co/b9nMLleokx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983791971857789349",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983224643218817089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9urodine: https://t.co/b9nMLleokx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_1983224627448180736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XUSoTa8AAaacl.jpg",
+        "width": 1149
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983224627448180736"
+          ],
+          "media_source_tweet_id": [
+            "1983224643218817089"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983791971857789349",
+        "created_at": "2025-10-30T07:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983791971857789349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622187924765937664",
+              "start": 3,
+              "username": "9urodine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9nMLleokx",
+              "end": 37,
+              "expanded_url": "https://x.com/9urodine/status/1983224643218817089/photo/1",
+              "media_key": "3_1983224627448180736",
+              "start": 14,
+              "url": "https://t.co/b9nMLleokx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983791971857789349",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983224643218817089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9urodine: https://t.co/b9nMLleokx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983224627448180736"
+          ]
+        },
+        "author_id": "1622187924765937664",
+        "conversation_id": "1983224643218817089",
+        "created_at": "2025-10-28T17:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983224643218817089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9nMLleokx",
+              "end": 23,
+              "expanded_url": "https://x.com/9urodine/status/1983224643218817089/photo/1",
+              "media_key": "3_1983224627448180736",
+              "start": 0,
+              "url": "https://t.co/b9nMLleokx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983224643218817089",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 16841,
+          "like_count": 1540,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b9nMLleokx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 447,
+          "like_count": 5644,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T10:58:49.000Z",
+        "description": "텐도 마야가 사이죠 클로딘 좋아하는데, 사이죠 클로딘도 텐도 마야 좋아함",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/9urodine",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/9urodine",
+                "start": 0,
+                "url": "https://t.co/zHeABY803W"
+              }
+            ]
+          }
+        },
+        "id": "1622187924765937664",
+        "location": "bipp99s@gmail.com",
+        "name": "땅땅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976359236864204800/peAP4Xwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13034,
+          "following_count": 68,
+          "like_count": 14909,
+          "listed_count": 55,
+          "media_count": 117,
+          "tweet_count": 5810
+        },
+        "url": "https://t.co/zHeABY803W",
+        "username": "9urodine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872033797849710592"
+      ],
+      "media_source_tweet_id": [
+        "1872033895262400655"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983887516454547810",
+    "created_at": "2025-10-30T13:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983887516454547810"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Sancho",
+          "probability": 0.7069,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 38,
+          "normalized_text": "Limbus_Company",
+          "probability": 0.5638,
+          "start": 25,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 24,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580274306",
+          "start": 3,
+          "username": "NishikujiC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yR2bdCo9gg",
+          "end": 63,
+          "expanded_url": "https://x.com/NishikujiC/status/1872033895262400655/photo/1",
+          "media_key": "3_1872033797849710592",
+          "start": 40,
+          "url": "https://t.co/yR2bdCo9gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983887516454547810",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1471
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872033895262400655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NishikujiC: Sancho\n\n#Limbus_Company https://t.co/yR2bdCo9gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_1872033797849710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfrM0hhbgAAaF1o.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872033797849710592"
+          ],
+          "media_source_tweet_id": [
+            "1872033895262400655"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983887516454547810",
+        "created_at": "2025-10-30T13:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983887516454547810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Sancho",
+              "probability": 0.7069,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Limbus_Company",
+              "probability": 0.5638,
+              "start": 25,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 24,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580274306",
+              "start": 3,
+              "username": "NishikujiC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yR2bdCo9gg",
+              "end": 63,
+              "expanded_url": "https://x.com/NishikujiC/status/1872033895262400655/photo/1",
+              "media_key": "3_1872033797849710592",
+              "start": 40,
+              "url": "https://t.co/yR2bdCo9gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983887516454547810",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1471
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872033895262400655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NishikujiC: Sancho\n\n#Limbus_Company https://t.co/yR2bdCo9gg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872033797849710592"
+          ]
+        },
+        "author_id": "1580274306",
+        "conversation_id": "1872033895262400655",
+        "created_at": "2024-12-25T21:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T22:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872033895262400655"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Sancho",
+              "probability": 0.8004,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 22,
+              "normalized_text": "Limbus_Company",
+              "probability": 0.5722,
+              "start": 9,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 8,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yR2bdCo9gg",
+              "end": 47,
+              "expanded_url": "https://x.com/NishikujiC/status/1872033895262400655/photo/1",
+              "media_key": "3_1872033797849710592",
+              "start": 24,
+              "url": "https://t.co/yR2bdCo9gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872033895262400655",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 715,
+          "impression_count": 150589,
+          "like_count": 7872,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 1471
+        },
+        "reply_settings": "everyone",
+        "text": "Sancho\n\n#Limbus_Company https://t.co/yR2bdCo9gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 452,
+          "like_count": 5694,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-09T12:51:01.000Z",
+        "description": "=ShiiC/西九时\n中国人★現在地：プロムン沼（アルガリア！）★ 他いろいろ\n中国語日本語OK。English probably OK。成人済み\nicon:@South_AC\nheader:@Kelala_R\nマシュマロ：https://t.co/Y61Y0zEqWs\nAI禁止🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "South_AC"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Kelala_R"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nishikujic",
+                "end": 135,
+                "expanded_url": "http://marshmallow-qa.com/nishikujic",
+                "start": 112,
+                "url": "https://t.co/Y61Y0zEqWs"
+              }
+            ]
+          }
+        },
+        "id": "1580274306",
+        "location": "連絡：nishikuji@gmail.com",
+        "name": "西九時 in ラ・マンチャランド",
+        "pinned_tweet_id": "1968856989913551191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894590345226354689/jhAMJaLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70397,
+          "following_count": 369,
+          "like_count": 23427,
+          "listed_count": 221,
+          "media_count": 1857,
+          "tweet_count": 11127
+        },
+        "username": "NishikujiC",
+        "verified": false
+      }
+    ]
+  }
+}

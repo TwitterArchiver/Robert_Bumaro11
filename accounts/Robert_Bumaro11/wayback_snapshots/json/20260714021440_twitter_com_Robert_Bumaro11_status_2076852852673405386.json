@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076842372852494709",
+    "created_at": "2026-07-14T02:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076852852673405386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653207153044520960",
+          "start": 0,
+          "username": "AsilenA123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076852852673405386",
+    "in_reply_to_user_id": "1653207153044520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076842372852494709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsilenA123 确实，小孩子们称呼先生女士显得礼貌得多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076842372852494709",
+        "created_at": "2026-07-14T02:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076852852673405386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653207153044520960",
+              "start": 0,
+              "username": "AsilenA123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076852852673405386",
+        "in_reply_to_user_id": "1653207153044520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076842372852494709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsilenA123 确实，小孩子们称呼先生女士显得礼貌得多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2076842372852494709",
+        "created_at": "2026-07-14T01:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076842372852494709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayingott319/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ayingott319/status/2076477096936042620",
+              "start": 141,
+              "url": "https://t.co/QpprgjbeTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076842372852494709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我一直是觉得叫叔叔阿姨没什么问题。人的年龄又不会真的因为小孩子说什么而改变，而且小孩子也基本不会和成年人有什么利益关系，这称谓只是说比她大，但是不是直系亲属。我小时候有女性让我叫姐姐我也感觉很尴尬，因为那时候我真的有个表姐，平时叫姐姐都只是对她而已。不过我认为叔叔阿姨这种亲属称呼对陌生人其实还是有些不确切了，可以改叫先生女士会比较好。（小孩子这样叫莫名有些译制片的既视感）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076477096936042620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直是觉得叫叔叔阿姨没什么问题。人的年龄又不会真的因为小孩子说什么而改变，而且小孩子也基本不会和成年人有什么利益关系，这称谓只是说比她大，但是不是直系亲属。我小时候有女性让我叫姐姐我也感觉很尴尬，因为那时候我真的有个表姐，平时叫姐姐都只是对她而已。不过我认为叔叔阿姨这种亲属称呼 https://t.co/QpprgjbeTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 477,
+          "like_count": 13114,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "加班中|嵌入式学习中|长三角|温州|爱好coding|我希望停止身份政治意识形态扩散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132✝️ ☪️☭",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 1130,
+          "like_count": 43917,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 4903
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": true
+      }
+    ]
+  }
+}

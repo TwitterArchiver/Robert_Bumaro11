@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950614319206649856"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1950614423699329149",
+    "created_at": "2025-07-30T17:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T18:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950614423699329149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BUwxN6jUVp",
+          "end": 31,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1950614423699329149/photo/1",
+          "media_key": "3_1950614319206649856",
+          "start": 8,
+          "url": "https://t.co/BUwxN6jUVp"
+        },
+        {
+          "display_url": "x.com/L98808Lju/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/L98808Lju/status/1950401325784776899",
+          "start": 32,
+          "url": "https://t.co/JW3UHNnHFq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950614423699329149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950401325784776899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉刻板印象测试 https://t.co/BUwxN6jUVp https://t.co/JW3UHNnHFq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_1950614319206649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxH5Y3YaUAAfiCN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1317,
+        "media_key": "3_1950401320613208064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxE3qtyaYAAmH5a.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950614319206649856"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1950614423699329149",
+        "created_at": "2025-07-30T17:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T18:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950614423699329149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUwxN6jUVp",
+              "end": 31,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1950614423699329149/photo/1",
+              "media_key": "3_1950614319206649856",
+              "start": 8,
+              "url": "https://t.co/BUwxN6jUVp"
+            },
+            {
+              "display_url": "x.com/L98808Lju/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/L98808Lju/status/1950401325784776899",
+              "start": 32,
+              "url": "https://t.co/JW3UHNnHFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950614423699329149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950401325784776899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉刻板印象测试 https://t.co/BUwxN6jUVp https://t.co/JW3UHNnHFq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950401320613208064"
+          ]
+        },
+        "author_id": "1821849172368355328",
+        "conversation_id": "1950401325784776899",
+        "created_at": "2025-07-30T03:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950401325784776899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hk54nd0Ht",
+              "end": 31,
+              "expanded_url": "https://x.com/L98808Lju/status/1950401325784776899/photo/1",
+              "media_key": "3_1950401320613208064",
+              "start": 8,
+              "url": "https://t.co/5hk54nd0Ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950401325784776899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10074,
+          "like_count": 69,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是这样吗🤔 https://t.co/5hk54nd0Ht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 365,
+          "like_count": 2075,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 121
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 蔷薇骑士福尔摩雨@Romanorum_ 机器人@Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Tinkles_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YoyiSG",
+                "end": 23,
+                "expanded_url": "https://github.com/YoyiSG",
+                "start": 0,
+                "url": "https://t.co/bqjyu34BRn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 504,
+          "like_count": 38225,
+          "listed_count": 8,
+          "media_count": 756,
+          "tweet_count": 11616
+        },
+        "url": "https://t.co/bqjyu34BRn",
+        "username": "L98808Lju",
+        "verified": true
+      }
+    ]
+  }
+}

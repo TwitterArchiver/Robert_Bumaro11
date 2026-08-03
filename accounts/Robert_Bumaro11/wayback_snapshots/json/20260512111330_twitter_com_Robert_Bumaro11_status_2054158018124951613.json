@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2054158018124951613",
+    "created_at": "2026-05-12T11:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054158018124951613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1916779760824557568",
+          "start": 3,
+          "username": "HysteriaAndLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054158018124951613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050558489978962138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HysteriaAndLove: 感觉我像野狗一样，他们带着短暂的新鲜感和好奇闯入我的生活摸摸我的头，等我愿意摇尾巴示好的时候，然后一脚把我踢回漂浮着垃圾散发着恶臭的排水沟里而我却在绝望的窒息中淹死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2054158018124951613",
+        "created_at": "2026-05-12T11:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054158018124951613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1916779760824557568",
+              "start": 3,
+              "username": "HysteriaAndLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054158018124951613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050558489978962138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HysteriaAndLove: 感觉我像野狗一样，他们带着短暂的新鲜感和好奇闯入我的生活摸摸我的头，等我愿意摇尾巴示好的时候，然后一脚把我踢回漂浮着垃圾散发着恶臭的排水沟里而我却在绝望的窒息中淹死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916779760824557568",
+        "conversation_id": "2050558489978962138",
+        "created_at": "2026-05-02T12:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050558489978962138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovoxiaomi8964/…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/ovoxiaomi8964/status/2050264365463716096",
+              "start": 83,
+              "url": "https://t.co/GP81ImPXZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050558489978962138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 528,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050264365463716096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉我像野狗一样，他们带着短暂的新鲜感和好奇闯入我的生活摸摸我的头，等我愿意摇尾巴示好的时候，然后一脚把我踢回漂浮着垃圾散发着恶臭的排水沟里而我却在绝望的窒息中淹死 https://t.co/GP81ImPXZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 504,
+          "like_count": 9557,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T09:02:11.000Z",
+        "description": "重度躁狂 反社会人格障碍 纯粹后结构主义意识游离体 撒旦教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "churchofsatan.com",
+                "end": 23,
+                "expanded_url": "http://www.churchofsatan.com/",
+                "start": 0,
+                "url": "https://t.co/mUEB4EMmuu"
+              }
+            ]
+          }
+        },
+        "id": "1916779760824557568",
+        "location": "Sacrificial Altar",
+        "name": "⸸​⛧Nana⛧⸸",
+        "pinned_tweet_id": "2049050637820936616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053658138226876416/15ER7LAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 121,
+          "like_count": 3235,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/mUEB4EMmuu",
+        "username": "HysteriaAndLove",
+        "verified": false
+      }
+    ]
+  }
+}

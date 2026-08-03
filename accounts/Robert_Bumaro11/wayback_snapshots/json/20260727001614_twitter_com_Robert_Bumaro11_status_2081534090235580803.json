@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081534090235580803",
+    "created_at": "2026-07-27T00:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081534090235580803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1170107964834926592",
+          "start": 3,
+          "username": "Freedom_Lian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081534090235580803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081243590328492352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freedom_Lian: “发疯”是男权社会处理女人的万能药。只要女性稍微唤醒情绪的力量，讲话声音一大，就立马可以给她贴个“疯了”的标签，站在道德高地掐灭她的维护自我之心，让她失去对语言的把控，无法表达自己，继而不被人信任。当以“疯子”、“泼妇”、“闹事”的罪名指控受…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081534090235580803",
+        "created_at": "2026-07-27T00:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081534090235580803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1170107964834926592",
+              "start": 3,
+              "username": "Freedom_Lian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081534090235580803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081243590328492352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freedom_Lian: “发疯”是男权社会处理女人的万能药。只要女性稍微唤醒情绪的力量，讲话声音一大，就立马可以给她贴个“疯了”的标签，站在道德高地掐灭她的维护自我之心，让她失去对语言的把控，无法表达自己，继而不被人信任。当以“疯子”、“泼妇”、“闹事”的罪名指控受…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170107964834926592",
+        "conversation_id": "2081243590328492352",
+        "created_at": "2026-07-26T05:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081243590328492352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081243590328492352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 865,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "“发疯”是男权社会处理女人的万能药。只要女性稍微唤醒情绪的力量，讲话声音一大，就立马可以给她贴个“疯了”的标签，站在道德高地掐灭她的维护自我之心，让她失去对语言的把控，无法表达自己，继而不被人信任。当以“疯子”、“泼妇”、“闹事”的罪名指控受害者，也就掐断了受害女性呐喊、自卫、求援的空间。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 485,
+          "like_count": 13979,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T22:54:21.000Z",
+        "description": "欢迎在下面的steam商店把《鸟吃虫子》加入愿望单。Discord不定期和好厚米聊游戏：https://t.co/OWvUVz2Ju2 我亲自实名上网 @chemgeeklian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "chemgeeklian"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Edj7gc3jMR",
+                "end": 67,
+                "expanded_url": "https://discord.gg/Edj7gc3jMR",
+                "start": 44,
+                "url": "https://t.co/OWvUVz2Ju2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/4612530/",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/4612530/",
+                "start": 0,
+                "url": "https://t.co/e0J7b8O2tG"
+              }
+            ]
+          }
+        },
+        "id": "1170107964834926592",
+        "location": "Chicago",
+        "name": "Freedom_Lian",
+        "pinned_tweet_id": "2050048708830540151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027058795063508992/wJSGcSlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 444,
+          "like_count": 17373,
+          "listed_count": 20,
+          "media_count": 2426,
+          "tweet_count": 16926
+        },
+        "url": "https://t.co/e0J7b8O2tG",
+        "username": "Freedom_Lian",
+        "verified": false
+      }
+    ]
+  }
+}

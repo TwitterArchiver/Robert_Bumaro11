@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1971811569190219985",
+    "created_at": "2025-09-27T12:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T13:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971919080673456409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936961429342760960",
+          "start": 0,
+          "username": "opoohpoohism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971919080673456409",
+    "in_reply_to_user_id": "1936961429342760960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971811569190219985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opoohpoohism 我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1971811569190219985",
+        "created_at": "2025-09-27T12:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971919080673456409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936961429342760960",
+              "start": 0,
+              "username": "opoohpoohism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971919080673456409",
+        "in_reply_to_user_id": "1936961429342760960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971811569190219985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opoohpoohism 我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936961429342760960",
+        "conversation_id": "1971811569190219985",
+        "created_at": "2025-09-27T05:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971811569190219985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971811569190219985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候还真的在网上搜过什么“世界十大禁曲”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 445,
+          "like_count": 3794,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T01:37:52.000Z",
+        "description": "non-binary✩‧₊˚⸜('꒳ ')ଓ ༘˚在互联网角落自言自语ᰔ ⟡CN/EG/JP/Bahasa Melayu or Indonesia૮ ․ ․ ྀིა",
+        "id": "1936961429342760960",
+        "location": "🏝️",
+        "name": "Soi⋆.˚୨୧",
+        "pinned_tweet_id": "1971437560468734023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970792134333616128/nkA2SZPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 537,
+          "like_count": 4968,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 4667
+        },
+        "username": "opoohpoohism",
+        "verified": false
+      }
+    ]
+  }
+}

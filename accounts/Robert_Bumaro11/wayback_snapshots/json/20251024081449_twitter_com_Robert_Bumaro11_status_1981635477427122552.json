@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1981635477427122552",
+    "created_at": "2025-10-24T08:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T09:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981635477427122552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778896067171655680",
+          "start": 3,
+          "username": "Pop0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981635477427122552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981012085682393301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pop0v0: 又跟谁聊了？你怎么老是这样，你到底有没有想过我的感受？你跟别人聊天的时候有想过我吗？你难道不知道我一直在等你吗？我早就知道你会这样，都是你把我逼成了这样。我好恨你，但我又最爱你了。你到底想让我怎么样？可以不可以不要跟别人聊天了，多在乎我一点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1981635477427122552",
+        "created_at": "2025-10-24T08:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T09:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981635477427122552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778896067171655680",
+              "start": 3,
+              "username": "Pop0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981635477427122552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981012085682393301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pop0v0: 又跟谁聊了？你怎么老是这样，你到底有没有想过我的感受？你跟别人聊天的时候有想过我吗？你难道不知道我一直在等你吗？我早就知道你会这样，都是你把我逼成了这样。我好恨你，但我又最爱你了。你到底想让我怎么样？可以不可以不要跟别人聊天了，多在乎我一点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778896067171655680",
+        "conversation_id": "1981012085682393301",
+        "created_at": "2025-10-22T14:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981012085682393301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981012085682393301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 73994,
+          "like_count": 726,
+          "quote_count": 15,
+          "reply_count": 33,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "又跟谁聊了？你怎么老是这样，你到底有没有想过我的感受？你跟别人聊天的时候有想过我吗？你难道不知道我一直在等你吗？我早就知道你会这样，都是你把我逼成了这样。我好恨你，但我又最爱你了。你到底想让我怎么样？可以不可以不要跟别人聊天了，多在乎我一点吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 443,
+          "like_count": 5407,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "05 直男｜盗图存图替我挡灾 4000+｜不约不谈不加不收口令",
+        "id": "1778896067171655680",
+        "name": "鱿鱼男主",
+        "pinned_tweet_id": "1979561751990730806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979564121575092225/ZE2HDvj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 230,
+          "like_count": 11362,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 208
+        },
+        "username": "Pop0v0",
+        "verified": false
+      }
+    ]
+  }
+}

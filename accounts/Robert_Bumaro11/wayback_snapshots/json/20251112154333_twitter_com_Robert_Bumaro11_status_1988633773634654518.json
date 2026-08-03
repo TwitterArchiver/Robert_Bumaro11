@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1988626772150149418",
+    "created_at": "2025-11-12T15:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988633773634654518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "471019735",
+          "start": 0,
+          "username": "Gelm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988633773634654518",
+    "in_reply_to_user_id": "471019735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988626772150149418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gelm01 已严肃标记"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_1988625948321927168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kEw4jaUAA048R.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1988626772150149418",
+        "created_at": "2025-11-12T15:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988633773634654518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988633773634654518",
+        "in_reply_to_user_id": "471019735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988626772150149418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 已严肃标记"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988625948321927168"
+          ]
+        },
+        "author_id": "471019735",
+        "conversation_id": "1988626772150149418",
+        "created_at": "2025-11-12T15:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988626772150149418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 56,
+              "tag": "没有色彩的蔷薇和ta的巡礼之年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjchYhtcsJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Gelm01/status/1988626772150149418/photo/1",
+              "media_key": "3_1988625948321927168",
+              "start": 73,
+              "url": "https://t.co/sjchYhtcsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988626772150149418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巡礼正式开始前先建个豆列，第一本列出我最喜欢的一本书。\n《诸神死了：背教者尤利安》\n一个有关高贵的殉道的故事。\n#没有色彩的蔷薇和ta的巡礼之年 https://t.co/sjchYhtcsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 458,
+          "like_count": 6090,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "放浪息子 可以叫我蔷薇。",
+        "id": "471019735",
+        "location": "月まで届け",
+        "name": "少年期の終り🏵✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987330753332715524/O1OJzvcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 592,
+          "like_count": 3240,
+          "listed_count": 5,
+          "media_count": 286,
+          "tweet_count": 3950
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

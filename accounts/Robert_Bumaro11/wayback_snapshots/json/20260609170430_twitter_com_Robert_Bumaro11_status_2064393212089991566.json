@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2064393212089991566",
+    "created_at": "2026-06-09T17:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064393212089991566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Phoenixyin13/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Phoenixyin13/status/2064186522702659862",
+          "start": 3,
+          "url": "https://t.co/n5mLrmVRKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064393212089991566",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064186522702659862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "od https://t.co/n5mLrmVRKx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2064393212089991566",
+        "created_at": "2026-06-09T17:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064393212089991566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Phoenixyin13/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Phoenixyin13/status/2064186522702659862",
+              "start": 3,
+              "url": "https://t.co/n5mLrmVRKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064393212089991566",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064186522702659862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od https://t.co/n5mLrmVRKx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924212425332813824",
+        "conversation_id": "2064186522702659862",
+        "created_at": "2026-06-09T03:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064186522702659862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064186522702659862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "高考完晚上干什么？\n根据我学弟学妹的回答，整理如下：\n\n1.对答案，整理错题\n2.备战四六级、托福雅思\n3.准备强基计划，名校二试\n4.驾校报名，当天晚上背科目一\n5.办卡，狠狠健身\n6.网吧包宿，怒玩三角洲\n7.洗浴足疗，当水娃\n8.烫头发，做医美\n9.起飞\n10.注册Claude Code和Codex\n11.写AI一人公司创业准备书\n12.背量化题，准备暑假实习\n13.预习普物+微积分\n14.狠狠吃一顿米其林三星\n\n你觉得哪个最夯？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 50381,
+          "like_count": 184,
+          "quote_count": 7,
+          "reply_count": 117,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "高考完晚上干什么？\n根据我学弟学妹的回答，整理如下：\n\n1.对答案，整理错题\n2.备战四六级、托福雅思\n3.准备强基计划，名校二试\n4.驾校报名，当天晚上背科目一\n5.办卡，狠狠健身\n6.网吧包宿，怒玩三角洲\n7.洗浴足疗，当水娃\n8.烫头发，做医美\n9.起飞\n10.注册Claude Code和Codex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 413,
+          "like_count": 11576,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Columbus, OH",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2064149805094318301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9065,
+          "following_count": 1041,
+          "like_count": 8801,
+          "listed_count": 45,
+          "media_count": 716,
+          "tweet_count": 6555
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

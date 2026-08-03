@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059497066905448727",
+    "created_at": "2026-05-28T10:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059943662839333039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059943662839333039",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059497066905448727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 至少有写至少有查，相信已经超过推特大多数人了（虽然这么说也很冒犯..）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2059496767948042240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTNZhWbsAACC9v.jpg",
+        "width": 719
+      },
+      {
+        "height": 986,
+        "media_key": "3_2059496767943745536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTNZhVaIAAsM5O.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059497066905448727",
+        "created_at": "2026-05-28T10:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059943662839333039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059943662839333039",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059497066905448727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 至少有写至少有查，相信已经超过推特大多数人了（虽然这么说也很冒犯..）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059496767948042240",
+            "3_2059496767943745536"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2059497066905448727",
+        "created_at": "2026-05-27T04:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059497066905448727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMp8N9gJLa",
+              "end": 40,
+              "expanded_url": "https://x.com/qiancongxyn/status/2059497066905448727/photo/1",
+              "media_key": "3_2059496767948042240",
+              "start": 17,
+              "url": "https://t.co/oMp8N9gJLa"
+            },
+            {
+              "display_url": "pic.x.com/oMp8N9gJLa",
+              "end": 40,
+              "expanded_url": "https://x.com/qiancongxyn/status/2059497066905448727/photo/1",
+              "media_key": "3_2059496767943745536",
+              "start": 17,
+              "url": "https://t.co/oMp8N9gJLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059497066905448727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 101406,
+          "like_count": 273,
+          "quote_count": 11,
+          "reply_count": 164,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我爸写的...（其中一部分）\n唉 https://t.co/oMp8N9gJLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 437,
+          "like_count": 10889,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家长反对党｜😭 断糖 26.5.26\n高二物化生｜成绩倒数｜考虑休学\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban我\n不阔爱不pass｜缺爱想交朋友\n\n私信互fo｜友好相处｜性压抑给我滚🚫\n对象 @xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 794,
+          "like_count": 1101,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": false
+      }
+    ]
+  }
+}

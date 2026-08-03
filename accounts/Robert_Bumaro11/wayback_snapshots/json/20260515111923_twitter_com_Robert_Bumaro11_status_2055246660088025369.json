@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2055246660088025369",
+    "created_at": "2026-05-15T11:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055246660088025369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Robert_Bumaro1…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2055226079955304765",
+          "start": 37,
+          "url": "https://t.co/W1pRfTFVla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055246660088025369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055226079955304765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为我的行为模式命名的话，或许应该成“先射箭后画靶式”或“牵强附会式”动机 https://t.co/W1pRfTFVla"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055246660088025369",
+        "created_at": "2026-05-15T11:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055246660088025369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2055226079955304765",
+              "start": 37,
+              "url": "https://t.co/W1pRfTFVla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055246660088025369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055226079955304765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为我的行为模式命名的话，或许应该成“先射箭后画靶式”或“牵强附会式”动机 https://t.co/W1pRfTFVla"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055226079955304765",
+        "created_at": "2026-05-15T09:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055226079955304765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055226079955304765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说服我始终对生活保持乐观、去完成某件事。并不比令我一动不动盯着时针走完一圈更合理多少（？）也许"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 517,
+          "like_count": 9813,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

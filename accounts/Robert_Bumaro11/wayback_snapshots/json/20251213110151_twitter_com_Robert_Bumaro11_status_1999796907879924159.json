@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999198906564161536",
+        "3_1999198926050852866",
+        "3_1999198938960953344"
+      ],
+      "media_source_tweet_id": [
+        "1999198946867183984",
+        "1999198946867183984",
+        "1999198946867183984"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1999796907879924159",
+    "created_at": "2025-12-13T11:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999796907879924159"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "LCB"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "림버스"
+        },
+        {
+          "end": 59,
+          "start": 45,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 65,
+          "start": 60,
+          "tag": "リンバス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1407670091588669444",
+          "start": 3,
+          "username": "LimbusCompany_B"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSiZTpixx4",
+          "end": 89,
+          "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+          "media_key": "3_1999198906564161536",
+          "start": 66,
+          "url": "https://t.co/DSiZTpixx4"
+        },
+        {
+          "display_url": "pic.x.com/DSiZTpixx4",
+          "end": 89,
+          "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+          "media_key": "3_1999198926050852866",
+          "start": 66,
+          "url": "https://t.co/DSiZTpixx4"
+        },
+        {
+          "display_url": "pic.x.com/DSiZTpixx4",
+          "end": 89,
+          "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+          "media_key": "3_1999198938960953344",
+          "start": 66,
+          "url": "https://t.co/DSiZTpixx4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999796907879924159",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7775
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999198946867183984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LimbusCompany_B: [12-12]  👢🎂\n\n #LCB #림버스 #LimbusCompany #リンバス https://t.co/DSiZTpixx4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1999198906564161536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76U0DUbMAA-yhB.png",
+        "width": 628
+      },
+      {
+        "height": 849,
+        "media_key": "3_1999198926050852866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76U1L6agAIR_z5.png",
+        "width": 794
+      },
+      {
+        "height": 936,
+        "media_key": "3_1999198938960953344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G76U18AbAAA1kA8.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999198906564161536",
+            "3_1999198926050852866",
+            "3_1999198938960953344"
+          ],
+          "media_source_tweet_id": [
+            "1999198946867183984",
+            "1999198946867183984",
+            "1999198946867183984"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1999796907879924159",
+        "created_at": "2025-12-13T11:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999796907879924159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "LCB"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "림버스"
+            },
+            {
+              "end": 59,
+              "start": 45,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "リンバス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1407670091588669444",
+              "start": 3,
+              "username": "LimbusCompany_B"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSiZTpixx4",
+              "end": 89,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+              "media_key": "3_1999198906564161536",
+              "start": 66,
+              "url": "https://t.co/DSiZTpixx4"
+            },
+            {
+              "display_url": "pic.x.com/DSiZTpixx4",
+              "end": 89,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+              "media_key": "3_1999198926050852866",
+              "start": 66,
+              "url": "https://t.co/DSiZTpixx4"
+            },
+            {
+              "display_url": "pic.x.com/DSiZTpixx4",
+              "end": 89,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+              "media_key": "3_1999198938960953344",
+              "start": 66,
+              "url": "https://t.co/DSiZTpixx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999796907879924159",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7775
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999198946867183984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LimbusCompany_B: [12-12]  👢🎂\n\n #LCB #림버스 #LimbusCompany #リンバス https://t.co/DSiZTpixx4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999198906564161536",
+            "3_1999198926050852866",
+            "3_1999198938960953344"
+          ]
+        },
+        "author_id": "1407670091588669444",
+        "conversation_id": "1999198946867183984",
+        "created_at": "2025-12-11T19:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999198946867183984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "LCB"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "림버스"
+            },
+            {
+              "end": 38,
+              "start": 24,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "リンバス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSiZTpixx4",
+              "end": 68,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+              "media_key": "3_1999198906564161536",
+              "start": 45,
+              "url": "https://t.co/DSiZTpixx4"
+            },
+            {
+              "display_url": "pic.x.com/DSiZTpixx4",
+              "end": 68,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+              "media_key": "3_1999198926050852866",
+              "start": 45,
+              "url": "https://t.co/DSiZTpixx4"
+            },
+            {
+              "display_url": "pic.x.com/DSiZTpixx4",
+              "end": 68,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/1999198946867183984/photo/1",
+              "media_key": "3_1999198938960953344",
+              "start": 45,
+              "url": "https://t.co/DSiZTpixx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999198946867183984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3057,
+          "impression_count": 717221,
+          "like_count": 25704,
+          "quote_count": 737,
+          "reply_count": 122,
+          "retweet_count": 7775
+        },
+        "reply_settings": "everyone",
+        "text": "[12-12]  👢🎂\n\n #LCB #림버스 #LimbusCompany #リンバス https://t.co/DSiZTpixx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 482,
+          "like_count": 7026,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T12:01:57.000Z",
+        "description": "Lasciate ogni speranza, voi ch'entrate \n\n문의 / お問い合わせ / Support : https://t.co/MFEWp5SLHV\n\nMature 17+\n\n#LCB  #림버스\n#LimbusCompany \n#リンバス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "LCB"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "림버스"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "tag": "LimbusCompany"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "リンバス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "faq.limbuscompany.site",
+                "end": 88,
+                "expanded_url": "https://faq.limbuscompany.site/",
+                "start": 65,
+                "url": "https://t.co/MFEWp5SLHV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "limbuscompany.global",
+                "end": 23,
+                "expanded_url": "https://limbuscompany.global/",
+                "start": 0,
+                "url": "https://t.co/GJS3bxmThY"
+              }
+            ]
+          }
+        },
+        "id": "1407670091588669444",
+        "location": "City",
+        "name": "Limbus Company",
+        "pinned_tweet_id": "1989318804606701845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509485712550535168/q_SnRdGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336916,
+          "following_count": 2,
+          "like_count": 364,
+          "listed_count": 777,
+          "media_count": 1301,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/GJS3bxmThY",
+        "username": "LimbusCompany_B",
+        "verified": true
+      }
+    ]
+  }
+}

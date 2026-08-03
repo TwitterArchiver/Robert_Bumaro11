@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1970976798533198111",
+    "created_at": "2025-09-24T22:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T23:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970976798533198111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1691844241574776832",
+          "start": 3,
+          "username": "snow_____water"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970976798533198111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970911584144023866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snow_____water: 我发现我几乎每一条推文开头第一个都是“我”。\n满脑子都是自己呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1970976798533198111",
+        "created_at": "2025-09-24T22:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T23:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970976798533198111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1691844241574776832",
+              "start": 3,
+              "username": "snow_____water"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970976798533198111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970911584144023866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snow_____water: 我发现我几乎每一条推文开头第一个都是“我”。\n满脑子都是自己呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691844241574776832",
+        "conversation_id": "1970911584144023866",
+        "created_at": "2025-09-24T18:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T19:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970911584144023866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970911584144023866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我几乎每一条推文开头第一个都是“我”。\n满脑子都是自己呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 443,
+          "like_count": 3609,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T16:08:03.000Z",
+        "description": "我与暮雪共晴消。",
+        "id": "1691844241574776832",
+        "location": "望不到尽头的疲劳与凡庸",
+        "name": "晴消_喊累bot",
+        "pinned_tweet_id": "1917704353793859698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858756801497616384/5_Zy5VIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 2986,
+          "like_count": 50803,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 2911
+        },
+        "username": "snow_____water",
+        "verified": false
+      }
+    ]
+  }
+}

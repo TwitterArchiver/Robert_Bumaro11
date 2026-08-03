@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1978161084285825455",
+    "created_at": "2025-10-16T12:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T13:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978805409797304505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943288759778447360",
+          "start": 0,
+          "username": "lu_tou20445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978805409797304505",
+    "in_reply_to_user_id": "1943288759778447360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978161084285825455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu_tou20445 还是小看了回避的程度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_1978161076291489792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PXBKTb0AAub4s.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1978161084285825455",
+        "created_at": "2025-10-16T12:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978805409797304505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978805409797304505",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978161084285825455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 还是小看了回避的程度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978161076291489792"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1978161084285825455",
+        "created_at": "2025-10-14T18:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978161084285825455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0ppIfpyea",
+              "end": 25,
+              "expanded_url": "https://x.com/lu_tou20445/status/1978161084285825455/photo/1",
+              "media_key": "3_1978161076291489792",
+              "start": 2,
+              "url": "https://t.co/L0ppIfpyea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978161084285825455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 27123,
+          "like_count": 529,
+          "quote_count": 10,
+          "reply_count": 37,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/L0ppIfpyea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 440,
+          "like_count": 5133,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 70,
+          "like_count": 6823,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

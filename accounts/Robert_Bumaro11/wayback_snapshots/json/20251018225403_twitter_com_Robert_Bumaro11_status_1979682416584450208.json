@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1979682416584450208",
+    "created_at": "2025-10-18T22:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T23:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979682416584450208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1361856317703393282",
+          "start": 3,
+          "username": "ThrumboABBBAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979682416584450208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979679812324389360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThrumboABBBAA: 你们有没有想过，把现任男友勒死然后分尸，头丢在地下室的桶里的 Taylor  Schabusiness 是毫无疑问的真正的女孩子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1979682416584450208",
+        "created_at": "2025-10-18T22:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979682416584450208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1361856317703393282",
+              "start": 3,
+              "username": "ThrumboABBBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979682416584450208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979679812324389360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThrumboABBBAA: 你们有没有想过，把现任男友勒死然后分尸，头丢在地下室的桶里的 Taylor  Schabusiness 是毫无疑问的真正的女孩子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361856317703393282",
+        "conversation_id": "1979679812324389360",
+        "created_at": "2025-10-18T22:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979679812324389360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GuiMengNya/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/GuiMengNya/status/1978445595082641784",
+              "start": 66,
+              "url": "https://t.co/8UzkQHDqpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979679812324389360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978445595082641784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们有没有想过，把现任男友勒死然后分尸，头丢在地下室的桶里的 Taylor  Schabusiness 是毫无疑问的真正的女孩子。 https://t.co/8UzkQHDqpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 439,
+          "like_count": 5252,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T01:54:59.000Z",
+        "description": "使用暗属性魔法和破墙斧的萝莉控大叔 | 渥金和安博里的信徒 | 地摊经济学 | @Sana_Volfield@alive.bar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tempes…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tempestmaiden.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EmVVDpiohE"
+              }
+            ]
+          }
+        },
+        "id": "1361856317703393282",
+        "location": "Cepheus",
+        "name": "猫目敲子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932677285402058752/8Q0iwHKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 2068,
+          "like_count": 42746,
+          "listed_count": 10,
+          "media_count": 260,
+          "tweet_count": 10068
+        },
+        "url": "https://t.co/EmVVDpiohE",
+        "username": "ThrumboABBBAA",
+        "verified": false
+      }
+    ]
+  }
+}

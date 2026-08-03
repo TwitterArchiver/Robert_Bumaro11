@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986103470810705920"
+      ],
+      "media_source_tweet_id": [
+        "1986103475504042189"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1986435550803599668",
+    "created_at": "2025-11-06T14:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986435550803599668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820260560711163904",
+          "start": 3,
+          "username": "NuisumK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQxR0StOVG",
+          "end": 36,
+          "expanded_url": "https://x.com/NuisumK/status/1986103475504042189/photo/1",
+          "media_key": "3_1986103470810705920",
+          "start": 13,
+          "url": "https://t.co/IQxR0StOVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986435550803599668",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1842
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986103475504042189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NuisumK: https://t.co/IQxR0StOVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1986103470810705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AOlXjXsAA2Emk.jpg",
+        "width": 1579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986103470810705920"
+          ],
+          "media_source_tweet_id": [
+            "1986103475504042189"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1986435550803599668",
+        "created_at": "2025-11-06T14:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986435550803599668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820260560711163904",
+              "start": 3,
+              "username": "NuisumK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQxR0StOVG",
+              "end": 36,
+              "expanded_url": "https://x.com/NuisumK/status/1986103475504042189/photo/1",
+              "media_key": "3_1986103470810705920",
+              "start": 13,
+              "url": "https://t.co/IQxR0StOVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986435550803599668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1842
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986103475504042189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NuisumK: https://t.co/IQxR0StOVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986103470810705920"
+          ]
+        },
+        "author_id": "1820260560711163904",
+        "conversation_id": "1986103475504042189",
+        "created_at": "2025-11-05T16:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986103475504042189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQxR0StOVG",
+              "end": 23,
+              "expanded_url": "https://x.com/NuisumK/status/1986103475504042189/photo/1",
+              "media_key": "3_1986103470810705920",
+              "start": 0,
+              "url": "https://t.co/IQxR0StOVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986103475504042189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1307,
+          "impression_count": 119461,
+          "like_count": 11603,
+          "quote_count": 15,
+          "reply_count": 15,
+          "retweet_count": 1842
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IQxR0StOVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 455,
+          "like_count": 5945,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T00:48:42.000Z",
+        "description": "我想去后巷生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/x0cx455ui1lalg…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/x0cx455ui1lalgf?t=6knBLn&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/08DEhFbdsm"
+              }
+            ]
+          }
+        },
+        "id": "1820260560711163904",
+        "location": "低浮上",
+        "name": "::：:#::.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832948383855636480/Q3Kt2N9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7928,
+          "following_count": 0,
+          "like_count": 173,
+          "listed_count": 35,
+          "media_count": 48,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/08DEhFbdsm",
+        "username": "NuisumK",
+        "verified": false
+      }
+    ]
+  }
+}

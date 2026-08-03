@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2082383979974734009",
+    "created_at": "2026-07-29T08:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082383979974734009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224033596249382912",
+          "start": 3,
+          "username": "Uturo_Bune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082383979974734009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082375040574865642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uturo_Bune: 也许我们永远都不会知道，在生活中遇见的那些人，脑海里是不是真的只有一个主体，这比他心问题，即怀疑那些人脑海里一个主体都没有要更有思考价值。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2082383979974734009",
+        "created_at": "2026-07-29T08:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082383979974734009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224033596249382912",
+              "start": 3,
+              "username": "Uturo_Bune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082383979974734009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082375040574865642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uturo_Bune: 也许我们永远都不会知道，在生活中遇见的那些人，脑海里是不是真的只有一个主体，这比他心问题，即怀疑那些人脑海里一个主体都没有要更有思考价值。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "2082374912371839333",
+        "created_at": "2026-07-29T07:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082375040574865642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082375040574865642",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082374912371839333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许我们永远都不会知道，在生活中遇见的那些人，脑海里是不是真的只有一个主体，这比他心问题，即怀疑那些人脑海里一个主体都没有要更有思考价值。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 486,
+          "like_count": 14495,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "So wird die Zeit kommen, wo auch ihnen die Schuppen von den Augen fallen werden.",
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "2065192371772400055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051215790318448640/FvMvNz-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 396,
+          "like_count": 36323,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 8816
+        },
+        "url": "",
+        "username": "Uturo_Bune",
+        "verified": true
+      }
+    ]
+  }
+}

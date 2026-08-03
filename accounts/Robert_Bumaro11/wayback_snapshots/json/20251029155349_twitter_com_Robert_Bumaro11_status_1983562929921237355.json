@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983562920698269696"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1981968248082927939",
+    "created_at": "2025-10-29T15:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983562929921237355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672200318082326528",
+          "start": 0,
+          "username": "3087_yi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOByjSGmyN",
+          "end": 32,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1983562929921237355/photo/1",
+          "media_key": "3_1983562920698269696",
+          "start": 9,
+          "url": "https://t.co/HOByjSGmyN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983562929921237355",
+    "in_reply_to_user_id": "1672200318082326528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983558777074036842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3087_yi https://t.co/HOByjSGmyN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1983562920698269696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cH943bUAAwgjt.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983562920698269696"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1981968248082927939",
+        "created_at": "2025-10-29T15:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983562929921237355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672200318082326528",
+              "start": 0,
+              "username": "3087_yi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOByjSGmyN",
+              "end": 32,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1983562929921237355/photo/1",
+              "media_key": "3_1983562920698269696",
+              "start": 9,
+              "url": "https://t.co/HOByjSGmyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983562929921237355",
+        "in_reply_to_user_id": "1672200318082326528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983558777074036842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3087_yi https://t.co/HOByjSGmyN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672200318082326528",
+        "conversation_id": "1981968248082927939",
+        "created_at": "2025-10-29T15:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983558777074036842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983558777074036842",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981968248082927939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 hh您已经达到了赫拉克利特的境界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 446,
+          "like_count": 5599,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T11:10:46.000Z",
+        "description": "一个精神和思想状态完全混乱的人，疑似有精神分裂。擅长不务正业",
+        "id": "1672200318082326528",
+        "location": "海底",
+        "name": "nna",
+        "pinned_tweet_id": "1978905460813008975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960715700760154112/zpxkmo9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 313,
+          "like_count": 6757,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1630
+        },
+        "username": "3087_yi",
+        "verified": false
+      }
+    ]
+  }
+}

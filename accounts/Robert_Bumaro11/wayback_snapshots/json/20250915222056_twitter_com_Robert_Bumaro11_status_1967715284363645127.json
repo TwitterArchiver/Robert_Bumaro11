@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1967715284363645127",
+    "created_at": "2025-09-15T22:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T23:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967715284363645127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886315972476436480",
+          "start": 3,
+          "username": "trash_bin1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967715284363645127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966816388397277612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trash_bin1989: 我十几岁就已经活在网络之中当个窝囊废的网蛆，每天能值得乐一乐的就是网上这些和我一样的家里蹲神人一起了聊天，我没有现实生活，甚至嘴巴上说的好朋友全是网络结交的，你们说我还有活下去的必要吗？我就活着玩玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1967715284363645127",
+        "created_at": "2025-09-15T22:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T23:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967715284363645127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886315972476436480",
+              "start": 3,
+              "username": "trash_bin1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967715284363645127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966816388397277612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trash_bin1989: 我十几岁就已经活在网络之中当个窝囊废的网蛆，每天能值得乐一乐的就是网上这些和我一样的家里蹲神人一起了聊天，我没有现实生活，甚至嘴巴上说的好朋友全是网络结交的，你们说我还有活下去的必要吗？我就活着玩玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886315972476436480",
+        "conversation_id": "1966816388397277612",
+        "created_at": "2025-09-13T10:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966816388397277612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966816388397277612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我十几岁就已经活在网络之中当个窝囊废的网蛆，每天能值得乐一乐的就是网上这些和我一样的家里蹲神人一起了聊天，我没有现实生活，甚至嘴巴上说的好朋友全是网络结交的，你们说我还有活下去的必要吗？我就活着玩玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 421,
+          "like_count": 3000,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 252
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T07:29:14.000Z",
+        "description": "4,5summers",
+        "id": "1886315972476436480",
+        "location": "破茧成蝇",
+        "name": "pilljvce",
+        "pinned_tweet_id": "1960352399815577730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966976201135738880/bC-SxMou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 321,
+          "like_count": 9333,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1594
+        },
+        "username": "trash_bin1989",
+        "verified": false
+      }
+    ]
+  }
+}

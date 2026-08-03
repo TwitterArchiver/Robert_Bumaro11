@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2080582328364183947",
+    "created_at": "2026-07-24T09:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080587775636820169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736686097919569920",
+          "start": 0,
+          "username": "sesamesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080587775636820169",
+    "in_reply_to_user_id": "1736686097919569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080582328364183947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sesamesama 跨然后和女人们非人们伪人们在一起。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080582328364183947].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080582328364183947",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080582328364183947"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2080582328364183947",
+        "created_at": "2026-07-24T09:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080587775636820169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736686097919569920",
+              "start": 0,
+              "username": "sesamesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080587775636820169",
+        "in_reply_to_user_id": "1736686097919569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080582328364183947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sesamesama 跨然后和女人们非人们伪人们在一起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 483,
+          "like_count": 13811,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T09:53:42.000Z",
+        "description": "垃圾桶，记录信仰生活",
+        "id": "1736686097919569920",
+        "location": "交界地",
+        "name": "meowdel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028948497429667840/ZExPgj9k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 530,
+          "like_count": 21640,
+          "listed_count": 6,
+          "media_count": 91,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "sesamesama",
+        "verified": false
+      }
+    ]
+  }
+}

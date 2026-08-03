@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074148822083829760"
+      ],
+      "media_source_tweet_id": [
+        "2074148828094300232"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074378936067448998",
+    "created_at": "2026-07-07T06:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074378936067448998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821004052395913219",
+          "start": 3,
+          "username": "0__11Xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JkMEKOeB8U",
+          "end": 36,
+          "expanded_url": "https://x.com/0__11Xx/status/2074148828094300232/photo/1",
+          "media_key": "3_2074148822083829760",
+          "start": 13,
+          "url": "https://t.co/JkMEKOeB8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074378936067448998",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074148828094300232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0__11Xx: https://t.co/JkMEKOeB8U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074148822083829760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbXUeaAAAQtCp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074148822083829760"
+          ],
+          "media_source_tweet_id": [
+            "2074148828094300232"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074378936067448998",
+        "created_at": "2026-07-07T06:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074378936067448998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821004052395913219",
+              "start": 3,
+              "username": "0__11Xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkMEKOeB8U",
+              "end": 36,
+              "expanded_url": "https://x.com/0__11Xx/status/2074148828094300232/photo/1",
+              "media_key": "3_2074148822083829760",
+              "start": 13,
+              "url": "https://t.co/JkMEKOeB8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074378936067448998",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074148828094300232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0__11Xx: https://t.co/JkMEKOeB8U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074148822083829760"
+          ]
+        },
+        "author_id": "1821004052395913219",
+        "conversation_id": "2074148828094300232",
+        "created_at": "2026-07-06T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:07:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074148117524742330",
+          "2074148828094300232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkMEKOeB8U",
+              "end": 23,
+              "expanded_url": "https://x.com/0__11Xx/status/2074148828094300232/photo/1",
+              "media_key": "3_2074148822083829760",
+              "start": 0,
+              "url": "https://t.co/JkMEKOeB8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074148828094300232",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 26325,
+          "like_count": 3203,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JkMEKOeB8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 445,
+          "like_count": 12365,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1651
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:03:05.000Z",
+        "description": "夢と現の狭間で青に溺れる。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/011Xx",
+                "end": 23,
+                "expanded_url": "https://lit.link/011Xx",
+                "start": 0,
+                "url": "https://t.co/pydlonnJMB"
+              }
+            ]
+          }
+        },
+        "id": "1821004052395913219",
+        "location": "Gen Ai #niji journey",
+        "name": "夢鬱つ",
+        "pinned_tweet_id": "2062366879461830978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857265300506640384/R4AjuVu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161034,
+          "following_count": 68,
+          "like_count": 671,
+          "listed_count": 911,
+          "media_count": 1571,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/pydlonnJMB",
+        "username": "0__11Xx",
+        "verified": true
+      }
+    ]
+  }
+}

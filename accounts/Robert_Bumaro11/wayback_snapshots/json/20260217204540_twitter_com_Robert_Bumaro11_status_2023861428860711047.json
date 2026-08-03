@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2023861428860711047",
+    "created_at": "2026-02-17T20:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T21:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023861428860711047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981918860883488768",
+          "start": 3,
+          "username": "Lira_Fox13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023861428860711047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023600896115175691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lira_Fox13: 世界は可愛く出来ている\n即使在最黑暗的世界观下，我也无法没有任何可爱元素"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2023861428860711047",
+        "created_at": "2026-02-17T20:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T21:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023861428860711047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981918860883488768",
+              "start": 3,
+              "username": "Lira_Fox13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023861428860711047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023600896115175691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lira_Fox13: 世界は可愛く出来ている\n即使在最黑暗的世界观下，我也无法没有任何可爱元素"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981918860883488768",
+        "conversation_id": "2023600896115175691",
+        "created_at": "2026-02-17T03:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023600896115175691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023600896115175691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界は可愛く出来ている\n即使在最黑暗的世界观下，我也无法没有任何可爱元素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 476,
+          "like_count": 8025,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "非二进制狐巫器，很高兴认识你们",
+        "id": "1981918860883488768",
+        "location": "天国阶梯",
+        "name": "᯽劣等感💜",
+        "pinned_tweet_id": "2020345641797611626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017951996372992000/_bLmMzJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 121,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 634
+        },
+        "username": "Lira_Fox13",
+        "verified": false
+      }
+    ]
+  }
+}

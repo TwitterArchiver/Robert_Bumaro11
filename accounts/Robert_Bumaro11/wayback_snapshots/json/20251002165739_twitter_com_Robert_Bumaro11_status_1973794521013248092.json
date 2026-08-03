@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1973497792460104035",
+    "created_at": "2025-10-02T16:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T17:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973794521013248092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798434424176226304",
+          "start": 0,
+          "username": "li8964you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973794521013248092",
+    "in_reply_to_user_id": "1798434424176226304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973497792460104035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li8964you 抱抱你😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1973497792460104035].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1973497792460104035",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1973497792460104035"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1973497792460104035",
+        "created_at": "2025-10-02T16:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T17:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973794521013248092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798434424176226304",
+              "start": 0,
+              "username": "li8964you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973794521013248092",
+        "in_reply_to_user_id": "1798434424176226304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973497792460104035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li8964you 抱抱你😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 444,
+          "like_count": 4200,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:19:23.000Z",
+        "description": "离游，各种通假写法均可。ftm/ftx，DID\n人应该追求的最高价值是死亡，是的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuqizai.bsky.social",
+                "end": 23,
+                "expanded_url": "http://zhuqizai.bsky.social",
+                "start": 0,
+                "url": "https://t.co/haLQJZ73wD"
+              }
+            ]
+          }
+        },
+        "id": "1798434424176226304",
+        "location": "亳社",
+        "name": "離斿",
+        "pinned_tweet_id": "1972378213633683465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636124722065408/3kx6w4Ac_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 545,
+          "like_count": 38761,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 5112
+        },
+        "url": "https://t.co/haLQJZ73wD",
+        "username": "li8964you",
+        "verified": false
+      }
+    ]
+  }
+}

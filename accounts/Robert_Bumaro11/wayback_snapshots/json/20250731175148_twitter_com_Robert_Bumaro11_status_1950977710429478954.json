@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1950977710429478954",
+    "created_at": "2025-07-31T17:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T18:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950977710429478954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fishlike_bird/…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/Fishlike_bird/status/1950671224281166311",
+          "start": 129,
+          "url": "https://t.co/jW31ueq4xt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950977710429478954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950671224281166311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小学三四年级时在知乎接触到药娘这个概念，初中对LGBT权益有所耳闻，结果全程毫无波澜认为和自己的生活不存在联系。单纯某天醒来觉得自己在人类的分类中理应被认知为跨（？）就顺水推舟接受了这个设定。呃其实也没有那么肯定，唉唉大概是最无稽最不靠谱的认同过程之一罢 https://t.co/jW31ueq4xt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1950977710429478954",
+        "created_at": "2025-07-31T17:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950977710429478954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fishlike_bird/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/Fishlike_bird/status/1950671224281166311",
+              "start": 129,
+              "url": "https://t.co/jW31ueq4xt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950977710429478954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950671224281166311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小学三四年级时在知乎接触到药娘这个概念，初中对LGBT权益有所耳闻，结果全程毫无波澜认为和自己的生活不存在联系。单纯某天醒来觉得自己在人类的分类中理应被认知为跨（？）就顺水推舟接受了这个设定。呃其实也没有那么肯定，唉唉大概是最无稽最不靠谱的认同过程之一罢 https://t.co/jW31ueq4xt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770681338221432832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1950671224281166311",
+        "created_at": "2025-07-30T21:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T22:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950671224281166311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950671224281166311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14396,
+          "like_count": 121,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我真后悔我12岁在百度搜“男生可以吃雌激素吗？”的时候没有换几个关键词搜\n我真后悔看到56个性别56个民族的时候没有认真去搜56个性别各自的含义\n我真后悔看到LGBT的时候没有认真看B和T是什么意思，好像大部分对B和T都是一笔带过的\n我真后悔当时没看懂“酷儿”和“性别流动”是什么意思\n我真是个大笨蛋！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 369,
+          "like_count": 2091,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 125
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | intp | 地下党 | 跨女同 | 网络话痨 | 爱发神经 | fishlike_bird | 像鱼的鸟 | 呆鸟 | 鱼喜欢鸟",
+        "id": "1770681338221432832",
+        "location": "扣扣空间",
+        "name": "星梦🍥",
+        "pinned_tweet_id": "1938006909422080186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 494,
+          "like_count": 1663,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 589
+        },
+        "username": "Fishlike_bird",
+        "verified": false
+      }
+    ]
+  }
+}

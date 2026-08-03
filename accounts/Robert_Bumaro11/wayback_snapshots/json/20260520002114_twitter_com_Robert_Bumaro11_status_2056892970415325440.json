@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2056857673388450294",
+    "created_at": "2026-05-20T00:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T01:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056892970415325440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856398244240064512",
+          "start": 0,
+          "username": "tower0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056892970415325440",
+    "in_reply_to_user_id": "1856398244240064512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056886968831594804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tower0408 ohno老师我是说成年之前（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2056857673388450294",
+        "created_at": "2026-05-20T00:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056892970415325440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856398244240064512",
+              "start": 0,
+              "username": "tower0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056892970415325440",
+        "in_reply_to_user_id": "1856398244240064512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056886968831594804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tower0408 ohno老师我是说成年之前（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856398244240064512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+              "id": "2054422303950196736",
+              "name": "ALPHA DRIVE ONE Spoiler Party"
+            }
+          }
+        ],
+        "conversation_id": "2056857673388450294",
+        "created_at": "2026-05-19T23:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056886968831594804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056886968831594804",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056857673388450294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 omg你居然还是wcn吗？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 531,
+          "like_count": 10187,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T18:07:22.000Z",
+        "description": "i need you……………… 传播负面情绪的平台",
+        "id": "1856398244240064512",
+        "name": "tower^ ^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878133443953102848/zxB9H5WB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 25,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 292
+        },
+        "username": "tower0408",
+        "verified": false
+      }
+    ]
+  }
+}

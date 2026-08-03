@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1872614074833568169",
+    "created_at": "2024-12-27T12:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T13:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872614074833568169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872614074833568169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872221251940634632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 12月25日，广东汕尾。网友发帖称，他的朋友徐佳烙就读于华大实验中学，12月22日，班主任在明知徐佳烙患有心脏病的情况下，仍让其跑操，导致徐佳烙永远的倒在了操场上。\n 事后班主任称，徐佳烙是自愿要跑操的。 https://t.co/T6L…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1872614074833568169",
+        "created_at": "2024-12-27T12:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872614074833568169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872614074833568169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872221251940634632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 12月25日，广东汕尾。网友发帖称，他的朋友徐佳烙就读于华大实验中学，12月22日，班主任在明知徐佳烙患有心脏病的情况下，仍让其跑操，导致徐佳烙永远的倒在了操场上。\n 事后班主任称，徐佳烙是自愿要跑操的。 https://t.co/T6L…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872221122110050304",
+            "3_1872220868715388928"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1872221251940634632",
+        "created_at": "2024-12-26T10:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872221251940634632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6Lcfms9wq",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1872221251940634632/photo/1",
+              "media_key": "3_1872221122110050304",
+              "start": 103,
+              "url": "https://t.co/T6Lcfms9wq"
+            },
+            {
+              "display_url": "pic.x.com/T6Lcfms9wq",
+              "end": 126,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1872221251940634632/photo/1",
+              "media_key": "3_1872220868715388928",
+              "start": 103,
+              "url": "https://t.co/T6Lcfms9wq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872221251940634632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 160268,
+          "like_count": 826,
+          "quote_count": 5,
+          "reply_count": 104,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "12月25日，广东汕尾。网友发帖称，他的朋友徐佳烙就读于华大实验中学，12月22日，班主任在明知徐佳烙患有心脏病的情况下，仍让其跑操，导致徐佳烙永远的倒在了操场上。\n 事后班主任称，徐佳烙是自愿要跑操的。 https://t.co/T6Lcfms9wq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 199,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1869409838121521363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884356,
+          "following_count": 927,
+          "like_count": 5532,
+          "listed_count": 8008,
+          "media_count": 21008,
+          "tweet_count": 27249
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

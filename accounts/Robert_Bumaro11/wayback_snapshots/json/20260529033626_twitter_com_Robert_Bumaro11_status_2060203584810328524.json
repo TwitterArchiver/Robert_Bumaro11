@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060162178901315895",
+    "created_at": "2026-05-29T03:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060203584810328524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551716556857810944",
+          "start": 0,
+          "username": "PalomoLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060203584810328524",
+    "in_reply_to_user_id": "1551716556857810944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060162178901315895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PalomoLim 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060162178901315895",
+        "created_at": "2026-05-29T03:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060203584810328524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551716556857810944",
+              "start": 0,
+              "username": "PalomoLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060203584810328524",
+        "in_reply_to_user_id": "1551716556857810944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060162178901315895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PalomoLim 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551716556857810944",
+        "conversation_id": "2060162178901315895",
+        "created_at": "2026-05-29T00:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060162178901315895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060162178901315895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒醒来后第一件事情就是把发在推上的东西都删了，太尴尬了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 441,
+          "like_count": 11008,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T23:50:42.000Z",
+        "description": "亡灵坐在树底下叹息，想要与亡灵相处的话不妨与我通灵 ｜ 一个人精通一切而不认识祢，是不幸的，相反，不知道一切而能认识祢是有福的 ｜天才大猫小猫咪@119calling_ 😼 @nekodoby_ | 公台，今日之事如何呀 @chengong777 | 超级远房亲戚铃小鸟  @paradoxrin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "119calling_"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "chengong777"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "paradoxrin"
+              }
+            ]
+          }
+        },
+        "id": "1551716556857810944",
+        "location": "Je pense,donc je suis",
+        "name": "兰陵笑笑生",
+        "pinned_tweet_id": "2029951239061131710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987172366062133250/vBjhRPey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 481,
+          "like_count": 48316,
+          "listed_count": 5,
+          "media_count": 954,
+          "tweet_count": 8308
+        },
+        "username": "PalomoLim",
+        "verified": false
+      }
+    ]
+  }
+}

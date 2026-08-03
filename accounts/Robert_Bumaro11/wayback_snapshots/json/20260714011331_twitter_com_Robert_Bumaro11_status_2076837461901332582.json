@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076319491181723649"
+      ],
+      "media_source_tweet_id": [
+        "2076319498379137453"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076837461901332582",
+    "created_at": "2026-07-14T01:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076837461901332582"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 21,
+          "tag": "Limbus_company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2024098335020486656",
+          "start": 3,
+          "username": "Kingofgamz28705"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8jagsbhsIe",
+          "end": 65,
+          "expanded_url": "https://x.com/Kingofgamz28705/status/2076319498379137453/photo/1",
+          "media_key": "3_2076319491181723649",
+          "start": 42,
+          "url": "https://t.co/8jagsbhsIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076837461901332582",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076319498379137453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kingofgamz28705: #Limbus_company\n닮은 꼴 https://t.co/8jagsbhsIe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076319491181723649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCRk5AbQAEOJP2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076319491181723649"
+          ],
+          "media_source_tweet_id": [
+            "2076319498379137453"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076837461901332582",
+        "created_at": "2026-07-14T01:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076837461901332582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 21,
+              "tag": "Limbus_company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2024098335020486656",
+              "start": 3,
+              "username": "Kingofgamz28705"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jagsbhsIe",
+              "end": 65,
+              "expanded_url": "https://x.com/Kingofgamz28705/status/2076319498379137453/photo/1",
+              "media_key": "3_2076319491181723649",
+              "start": 42,
+              "url": "https://t.co/8jagsbhsIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076837461901332582",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076319498379137453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kingofgamz28705: #Limbus_company\n닮은 꼴 https://t.co/8jagsbhsIe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076319491181723649"
+          ]
+        },
+        "author_id": "2024098335020486656",
+        "conversation_id": "2076319498379137453",
+        "created_at": "2026-07-12T14:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076319498379137453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "Limbus_company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jagsbhsIe",
+              "end": 44,
+              "expanded_url": "https://x.com/Kingofgamz28705/status/2076319498379137453/photo/1",
+              "media_key": "3_2076319491181723649",
+              "start": 21,
+              "url": "https://t.co/8jagsbhsIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076319498379137453",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 63588,
+          "like_count": 9899,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1201
+        },
+        "reply_settings": "everyone",
+        "text": "#Limbus_company\n닮은 꼴 https://t.co/8jagsbhsIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 476,
+          "like_count": 13104,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T12:27:11.000Z",
+        "description": "료님조아",
+        "id": "2024098335020486656",
+        "name": "순무",
+        "pinned_tweet_id": "2055686976356155696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067807468055642112/GjotDvCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 56,
+          "like_count": 3037,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 1011
+        },
+        "url": "",
+        "username": "Kingofgamz28705",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977376363142087047",
+    "created_at": "2025-10-12T14:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T15:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977376363142087047"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 18,
+          "tag": "つむつむハチャメチャキッチン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "930439312209952768",
+          "start": 3,
+          "username": "risa_tsumugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977376363142087047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977375110295146993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @risa_tsumugi: #つむつむハチャメチャキッチン \n番組3周年を迎えましたッ😻😻😻\n\n包丁禁止から始まったお料理番組も\n今や解禁されて立派なご様子😎\n\n1部にはみゅーちゃ！2部はぴぴ！\n初ゲストに初2部構成！ご満悦☺️\n最高にはぴねすタイム、感謝ですっ\n#NA…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_1977375099943841792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EMLUPa8AAH2JU.jpg",
+        "width": 1477
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1977375099935432704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EMLUNaoAA0gVo.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977375099960594432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EMLUTakAAqOuK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977376363142087047",
+        "created_at": "2025-10-12T14:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977376363142087047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 18,
+              "tag": "つむつむハチャメチャキッチン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "930439312209952768",
+              "start": 3,
+              "username": "risa_tsumugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977376363142087047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977375110295146993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @risa_tsumugi: #つむつむハチャメチャキッチン \n番組3周年を迎えましたッ😻😻😻\n\n包丁禁止から始まったお料理番組も\n今や解禁されて立派なご様子😎\n\n1部にはみゅーちゃ！2部はぴぴ！\n初ゲストに初2部構成！ご満悦☺️\n最高にはぴねすタイム、感謝ですっ\n#NA…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977375099943841792",
+            "3_1977375099935432704",
+            "3_1977375099960594432"
+          ]
+        },
+        "author_id": "930439312209952768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977375110295146993",
+        "created_at": "2025-10-12T14:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977375110295146993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "つむつむハチャメチャキッチン"
+            },
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "NATSLIVE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1PtwjKUnC",
+              "end": 151,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1977375110295146993/photo/1",
+              "media_key": "3_1977375099943841792",
+              "start": 128,
+              "url": "https://t.co/a1PtwjKUnC"
+            },
+            {
+              "display_url": "pic.x.com/a1PtwjKUnC",
+              "end": 151,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1977375110295146993/photo/1",
+              "media_key": "3_1977375099935432704",
+              "start": 128,
+              "url": "https://t.co/a1PtwjKUnC"
+            },
+            {
+              "display_url": "pic.x.com/a1PtwjKUnC",
+              "end": 151,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1977375110295146993/photo/1",
+              "media_key": "3_1977375099960594432",
+              "start": 128,
+              "url": "https://t.co/a1PtwjKUnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977375110295146993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1389,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#つむつむハチャメチャキッチン \n番組3周年を迎えましたッ😻😻😻\n\n包丁禁止から始まったお料理番組も\n今や解禁されて立派なご様子😎\n\n1部にはみゅーちゃ！2部はぴぴ！\n初ゲストに初2部構成！ご満悦☺️\n最高にはぴねすタイム、感謝ですっ\n#NATSLIVE https://t.co/a1PtwjKUnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 444,
+          "like_count": 4961,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-14T14:16:33.000Z",
+        "description": "声優です𖤐˒˒ / #バンドリ RAISE A SUILEN DJ チュチュ / #D4DJ 出雲咲姫 / #アサルトリリィ 安藤鶴紗 / #FGO ロクスタ / #NIKKE モリー / #ゼンゼロ スージー etc... / 💎FC https://t.co/UmKVqUb1Kz #紡木の保護者会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "アサルトリリィ"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "FGO"
+              },
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 151,
+                "start": 143,
+                "tag": "紡木の保護者会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "risatsumugi.bitfan.id",
+                "end": 142,
+                "expanded_url": "https://risatsumugi.bitfan.id/",
+                "start": 119,
+                "url": "https://t.co/UmKVqUb1Kz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/risa.tsumugi/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/risa.tsumugi/",
+                "start": 0,
+                "url": "https://t.co/2FGRo7SVuP"
+              }
+            ]
+          }
+        },
+        "id": "930439312209952768",
+        "location": "mitt management所属",
+        "name": "紡木 吏佐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884551322617401344/Ojc9lZAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214211,
+          "following_count": 395,
+          "like_count": 4182,
+          "listed_count": 2641,
+          "media_count": 635,
+          "tweet_count": 4903
+        },
+        "url": "https://t.co/2FGRo7SVuP",
+        "username": "risa_tsumugi",
+        "verified": true
+      }
+    ]
+  }
+}

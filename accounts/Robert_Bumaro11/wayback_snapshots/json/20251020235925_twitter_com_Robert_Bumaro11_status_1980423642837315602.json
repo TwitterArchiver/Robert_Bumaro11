@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1980423642837315602",
+    "created_at": "2025-10-20T23:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T00:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980423642837315602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/1…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hgds0/status/1979864278321832346",
+          "start": 3,
+          "url": "https://t.co/ltHermdhG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980423642837315602",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979864278321832346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。 https://t.co/ltHermdhG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_1979864216375844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nkA9iW4AAW_6B.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1980423642837315602",
+        "created_at": "2025-10-20T23:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T00:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980423642837315602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/1…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hgds0/status/1979864278321832346",
+              "start": 3,
+              "url": "https://t.co/ltHermdhG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980423642837315602",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979864278321832346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。 https://t.co/ltHermdhG5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979864216375844864"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1979864278321832346",
+        "created_at": "2025-10-19T10:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979864278321832346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWoTebIaPo",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1979864278321832346/photo/1",
+              "media_key": "3_1979864216375844864",
+              "start": 0,
+              "url": "https://t.co/DWoTebIaPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979864278321832346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 369267,
+          "like_count": 2826,
+          "quote_count": 26,
+          "reply_count": 33,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DWoTebIaPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 443,
+          "like_count": 5324,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1979863651969638688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91992,
+          "following_count": 2788,
+          "like_count": 43120,
+          "listed_count": 124,
+          "media_count": 2876,
+          "tweet_count": 7185
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1797751237020135428"
+      ],
+      "media_source_tweet_id": [
+        "1797751278967361951"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2055282030381089264",
+    "created_at": "2026-05-15T13:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055282030381089264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1492808050461196288",
+          "start": 3,
+          "username": "Breaking_Lead_G"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GChFqvIXW9",
+          "end": 54,
+          "expanded_url": "https://x.com/Breaking_Lead_G/status/1797751278967361951/photo/1",
+          "media_key": "3_1797751237020135428",
+          "start": 31,
+          "url": "https://t.co/GChFqvIXW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055282030381089264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797751278967361951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Breaking_Lead_G: 不要存在个人意识。 https://t.co/GChFqvIXW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_1797751237020135428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPLlOaUasAQN9Rh.png",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1797751237020135428"
+          ],
+          "media_source_tweet_id": [
+            "1797751278967361951"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055282030381089264",
+        "created_at": "2026-05-15T13:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055282030381089264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1492808050461196288",
+              "start": 3,
+              "username": "Breaking_Lead_G"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GChFqvIXW9",
+              "end": 54,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/1797751278967361951/photo/1",
+              "media_key": "3_1797751237020135428",
+              "start": 31,
+              "url": "https://t.co/GChFqvIXW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055282030381089264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797751278967361951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Breaking_Lead_G: 不要存在个人意识。 https://t.co/GChFqvIXW9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1797751237020135428"
+          ]
+        },
+        "author_id": "1492808050461196288",
+        "conversation_id": "1797751278967361951",
+        "created_at": "2024-06-03T22:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T23:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797751278967361951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GChFqvIXW9",
+              "end": 33,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/1797751278967361951/photo/1",
+              "media_key": "3_1797751237020135428",
+              "start": 10,
+              "url": "https://t.co/GChFqvIXW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797751278967361951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 976,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不要存在个人意识。 https://t.co/GChFqvIXW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 517,
+          "like_count": 9819,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2\n我恨 數學分析 實分析 傅裡葉分析 泛函分析 各種分析\n\n犯愁論！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千、月",
+        "pinned_tweet_id": "2051609059468652938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 736,
+          "like_count": 1806,
+          "listed_count": 7,
+          "media_count": 844,
+          "tweet_count": 9806
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

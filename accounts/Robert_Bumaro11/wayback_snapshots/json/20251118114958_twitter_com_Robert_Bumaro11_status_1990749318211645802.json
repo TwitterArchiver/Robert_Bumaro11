@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1990393384947638566",
+    "created_at": "2025-11-18T11:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990749318211645802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804018929481981952",
+          "start": 0,
+          "username": "Extrustomach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990749318211645802",
+    "in_reply_to_user_id": "1804018929481981952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990393384947638566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Extrustomach 我信死后复活"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1990393384947638566].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1990393384947638566",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1990393384947638566"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1990393384947638566",
+        "created_at": "2025-11-18T11:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990749318211645802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804018929481981952",
+              "start": 0,
+              "username": "Extrustomach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990749318211645802",
+        "in_reply_to_user_id": "1804018929481981952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990393384947638566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Extrustomach 我信死后复活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 460,
+          "like_count": 6342,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T05:11:02.000Z",
+        "description": "我看见这一代最杰出的头脑毁于翻译\n                                                              原教旨地雷系/死人",
+        "id": "1804018929481981952",
+        "location": "Cloudflare",
+        "name": "gemini哭哭🥺",
+        "pinned_tweet_id": "1919684973126418640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970500039203295232/HUrY7rMB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 884,
+          "like_count": 57502,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 7014
+        },
+        "username": "Extrustomach",
+        "verified": false
+      }
+    ]
+  }
+}

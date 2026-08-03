@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2022606604261310873",
+    "created_at": "2026-02-14T09:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T10:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022606604261310873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1420962557897035781",
+          "start": 3,
+          "username": "shrinkviolet77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022606604261310873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022604768003395628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shrinkviolet77: 我没有活着的证书，也没有去死的证书，所以我不能死也不能活，只能这样半死不活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2022606604261310873",
+        "created_at": "2026-02-14T09:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022606604261310873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1420962557897035781",
+              "start": 3,
+              "username": "shrinkviolet77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022606604261310873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022604768003395628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shrinkviolet77: 我没有活着的证书，也没有去死的证书，所以我不能死也不能活，只能这样半死不活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "2022604768003395628",
+        "created_at": "2026-02-14T09:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022604768003395628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022604768003395628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没有活着的证书，也没有去死的证书，所以我不能死也不能活，只能这样半死不活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 475,
+          "like_count": 7997,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 131,
+          "like_count": 40679,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 15834
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

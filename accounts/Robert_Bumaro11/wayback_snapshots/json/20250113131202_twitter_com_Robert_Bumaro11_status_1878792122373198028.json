@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1878792122373198028",
+    "created_at": "2025-01-13T13:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T14:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878792122373198028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/to__snow/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/to__snow/status/1878398378280943778",
+          "start": 5,
+          "url": "https://t.co/WlOOm4BE5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878792122373198028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878398378280943778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死了🤣 https://t.co/WlOOm4BE5a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1878792122373198028",
+        "created_at": "2025-01-13T13:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T14:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878792122373198028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/to__snow/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/to__snow/status/1878398378280943778",
+              "start": 5,
+              "url": "https://t.co/WlOOm4BE5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878792122373198028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878398378280943778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了🤣 https://t.co/WlOOm4BE5a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878398375965675520"
+          ]
+        },
+        "author_id": "1079611575214911489",
+        "conversation_id": "1878398378280943778",
+        "created_at": "2025-01-12T11:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878398378280943778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjQkqWNzn0",
+              "end": 101,
+              "expanded_url": "https://x.com/to__snow/status/1878398378280943778/photo/1",
+              "media_key": "3_1878398375965675520",
+              "start": 78,
+              "url": "https://t.co/QjQkqWNzn0"
+            },
+            {
+              "display_url": "x.com/SamuyukiTakeno…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/SamuyukiTakenoe/status/1878278852700676273",
+              "start": 102,
+              "url": "https://t.co/b6GLKyfOTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878398378280943778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3468,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878278852700676273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "里面竟然还会调查自己是否出柜（有没有可能把这个发给父母都基本都出了\n\n这么调查怕不是得出国内跨有100%的出柜率，90%+的家长支持率，国内环境遥遥领先😅 https://t.co/QjQkqWNzn0 https://t.co/b6GLKyfOTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 217,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-31T05:33:52.000Z",
+        "description": "雪舞｜@Hiiragi_Yuriko😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Hiiragi_Yuriko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tosnow.github.io",
+                "end": 23,
+                "expanded_url": "http://tosnow.github.io",
+                "start": 0,
+                "url": "https://t.co/BwXRRpdPbO"
+              }
+            ]
+          }
+        },
+        "id": "1079611575214911489",
+        "location": "IP归属地：台北市, 台灣",
+        "name": "To Snow",
+        "pinned_tweet_id": "1207204826360139776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258732974532472832/ODhz-LTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 68,
+          "like_count": 4508,
+          "listed_count": 9,
+          "media_count": 338,
+          "tweet_count": 4246
+        },
+        "url": "https://t.co/BwXRRpdPbO",
+        "username": "to__snow",
+        "verified": false
+      }
+    ]
+  }
+}

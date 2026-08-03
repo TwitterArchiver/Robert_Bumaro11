@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2023861357784059912",
+    "created_at": "2026-02-17T20:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T21:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023861357784059912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1691844241574776832",
+          "start": 3,
+          "username": "snow_____water"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023861357784059912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023807528174580019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snow_____water: 你们是觉得我和你们相处很愉快吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2023861357784059912",
+        "created_at": "2026-02-17T20:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T21:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023861357784059912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1691844241574776832",
+              "start": 3,
+              "username": "snow_____water"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023861357784059912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023807528174580019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snow_____water: 你们是觉得我和你们相处很愉快吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691844241574776832",
+        "conversation_id": "2023807528174580019",
+        "created_at": "2026-02-17T17:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023807528174580019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023807528174580019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是觉得我和你们相处很愉快吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 476,
+          "like_count": 8024,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T16:08:03.000Z",
+        "description": "我与暮雪共晴消。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_____water",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_____water",
+                "start": 0,
+                "url": "https://t.co/0vsNprkDYl"
+              }
+            ]
+          }
+        },
+        "id": "1691844241574776832",
+        "location": "人的一生应当怎样度过？",
+        "name": "晴消",
+        "pinned_tweet_id": "1978651285500149879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858756801497616384/5_Zy5VIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 4075,
+          "like_count": 81845,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 4894
+        },
+        "url": "https://t.co/0vsNprkDYl",
+        "username": "snow_____water",
+        "verified": false
+      }
+    ]
+  }
+}

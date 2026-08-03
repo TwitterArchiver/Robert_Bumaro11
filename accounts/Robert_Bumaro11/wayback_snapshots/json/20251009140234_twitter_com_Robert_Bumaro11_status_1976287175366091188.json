@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975558196447363072"
+      ],
+      "media_source_tweet_id": [
+        "1975558205569999063"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976287175366091188",
+    "created_at": "2025-10-09T14:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T15:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976287175366091188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1425416862276464642",
+          "start": 3,
+          "username": "MisakaMisakaxfu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uy2vuxibAc",
+          "end": 46,
+          "expanded_url": "https://x.com/MisakaMisakaxfu/status/1975558205569999063/photo/1",
+          "media_key": "3_1975558196447363072",
+          "start": 23,
+          "url": "https://t.co/Uy2vuxibAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976287175366091188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975558205569999063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MisakaMisakaxfu: 我 https://t.co/Uy2vuxibAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_1975558196447363072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qXtnRbQAAL0XE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975558196447363072"
+          ],
+          "media_source_tweet_id": [
+            "1975558205569999063"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976287175366091188",
+        "created_at": "2025-10-09T14:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976287175366091188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1425416862276464642",
+              "start": 3,
+              "username": "MisakaMisakaxfu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uy2vuxibAc",
+              "end": 46,
+              "expanded_url": "https://x.com/MisakaMisakaxfu/status/1975558205569999063/photo/1",
+              "media_key": "3_1975558196447363072",
+              "start": 23,
+              "url": "https://t.co/Uy2vuxibAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976287175366091188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975558205569999063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MisakaMisakaxfu: 我 https://t.co/Uy2vuxibAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975558196447363072"
+          ]
+        },
+        "author_id": "1425416862276464642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975558205569999063",
+        "created_at": "2025-10-07T13:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975558205569999063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uy2vuxibAc",
+              "end": 25,
+              "expanded_url": "https://x.com/MisakaMisakaxfu/status/1975558205569999063/photo/1",
+              "media_key": "3_1975558196447363072",
+              "start": 2,
+              "url": "https://t.co/Uy2vuxibAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975558205569999063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 74235,
+          "like_count": 2662,
+          "quote_count": 12,
+          "reply_count": 39,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/Uy2vuxibAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 445,
+          "like_count": 4763,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T11:20:53.000Z",
+        "description": "中国人｜00后｜大一生｜爱好二次元，航模，摄影，数码｜喜欢打音游，雷批，邦邦人，拉拉人｜性少数友好｜不建政｜🥰@rosmarinou｜没什么用@misakamisa10032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "rosmarinou"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "misakamisa10032"
+              }
+            ]
+          }
+        },
+        "id": "1425416862276464642",
+        "location": "花咲川女子学院",
+        "name": "Misaka10526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923011947731222530/1VjBwMVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 915,
+          "like_count": 11991,
+          "listed_count": 1,
+          "media_count": 659,
+          "tweet_count": 2647
+        },
+        "username": "MisakaMisakaxfu",
+        "verified": false
+      }
+    ]
+  }
+}

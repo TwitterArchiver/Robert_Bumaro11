@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059582553812770883",
+    "created_at": "2026-05-27T10:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059582846382326146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059582846382326146",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059582553812770883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想让生活停滞在某一美好时刻永不改变"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059582553812770883",
+        "created_at": "2026-05-27T10:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059582846382326146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059582846382326146",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059582553812770883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想让生活停滞在某一美好时刻永不改变"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059582553812770883",
+        "created_at": "2026-05-27T10:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059582553812770883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2057776898726609020",
+              "start": 50,
+              "url": "https://t.co/R6S6VQBKX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059582553812770883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057776898726609020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是不是太长了...？\n喜欢吃解离剂（？）后的时间混乱里可以一直盯着窗外的霞光，好想白昼永远不会落幕 https://t.co/R6S6VQBKX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 529,
+          "like_count": 10756,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

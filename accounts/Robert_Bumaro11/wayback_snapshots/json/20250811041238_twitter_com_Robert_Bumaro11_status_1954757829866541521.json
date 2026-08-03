@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1954757829866541521",
+    "created_at": "2025-08-11T04:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954757829866541521"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954757829866541521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仅有一方灼灼燃烧，但燃烧的是妒火（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1954757829866541521",
+        "created_at": "2025-08-11T04:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954757829866541521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954757829866541521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仅有一方灼灼燃烧，但燃烧的是妒火（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 394,
+          "like_count": 2319,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 160
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

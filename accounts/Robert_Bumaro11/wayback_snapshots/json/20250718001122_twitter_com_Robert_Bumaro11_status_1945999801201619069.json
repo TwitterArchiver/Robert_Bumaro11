@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945998743171690496",
+        "3_1945998765774565376"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945999801201619069",
+    "created_at": "2025-07-18T00:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T01:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945999801201619069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wslnbxRWzT",
+          "end": 49,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1945999801201619069/photo/1",
+          "media_key": "3_1945998743171690496",
+          "start": 26,
+          "url": "https://t.co/wslnbxRWzT"
+        },
+        {
+          "display_url": "pic.x.com/wslnbxRWzT",
+          "end": 49,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1945999801201619069/photo/1",
+          "media_key": "3_1945998765774565376",
+          "start": 26,
+          "url": "https://t.co/wslnbxRWzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945999801201619069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "二十抽连出两次绝望罗，疑似与屏幕外罪孽共鸣导致的（ https://t.co/wslnbxRWzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_1945998743171690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwGTi-wa8AAMz7b.jpg",
+        "width": 1629
+      },
+      {
+        "height": 569,
+        "media_key": "3_1945998765774565376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwGTkS9XcAAfcH3.jpg",
+        "width": 1601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945998743171690496",
+            "3_1945998765774565376"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945999801201619069",
+        "created_at": "2025-07-18T00:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945999801201619069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wslnbxRWzT",
+              "end": 49,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1945999801201619069/photo/1",
+              "media_key": "3_1945998743171690496",
+              "start": 26,
+              "url": "https://t.co/wslnbxRWzT"
+            },
+            {
+              "display_url": "pic.x.com/wslnbxRWzT",
+              "end": 49,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1945999801201619069/photo/1",
+              "media_key": "3_1945998765774565376",
+              "start": 26,
+              "url": "https://t.co/wslnbxRWzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945999801201619069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二十抽连出两次绝望罗，疑似与屏幕外罪孽共鸣导致的（ https://t.co/wslnbxRWzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 320,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 108
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

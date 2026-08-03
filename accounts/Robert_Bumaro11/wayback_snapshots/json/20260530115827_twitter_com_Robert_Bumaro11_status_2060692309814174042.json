@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060512089865940992"
+      ],
+      "media_source_tweet_id": [
+        "2060512095549243613"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060692309814174042",
+    "created_at": "2026-05-30T11:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060692309814174042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935006709560627201",
+          "start": 3,
+          "username": "GOATGOAT8080"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lyARZPD4AI",
+          "end": 100,
+          "expanded_url": "https://x.com/GOATGOAT8080/status/2060512095549243613/photo/1",
+          "media_key": "3_2060512089865940992",
+          "start": 77,
+          "url": "https://t.co/lyARZPD4AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060692309814174042",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060512095549243613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GOATGOAT8080: 미르칼라 에고그림 자세히보면서 느낀건데\n저거 왕관인줄알았는데 머리에 꽂힌거임..?\n그리고 돈키호테 이쁘다 https://t.co/lyARZPD4AI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1654,
+        "media_key": "3_2060512089865940992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJho1CPbcAAxAkA.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060512089865940992"
+          ],
+          "media_source_tweet_id": [
+            "2060512095549243613"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060692309814174042",
+        "created_at": "2026-05-30T11:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060692309814174042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935006709560627201",
+              "start": 3,
+              "username": "GOATGOAT8080"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyARZPD4AI",
+              "end": 100,
+              "expanded_url": "https://x.com/GOATGOAT8080/status/2060512095549243613/photo/1",
+              "media_key": "3_2060512089865940992",
+              "start": 77,
+              "url": "https://t.co/lyARZPD4AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060692309814174042",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060512095549243613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GOATGOAT8080: 미르칼라 에고그림 자세히보면서 느낀건데\n저거 왕관인줄알았는데 머리에 꽂힌거임..?\n그리고 돈키호테 이쁘다 https://t.co/lyARZPD4AI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060512089865940992"
+          ]
+        },
+        "author_id": "1935006709560627201",
+        "conversation_id": "2060512095549243613",
+        "created_at": "2026-05-30T00:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060512095549243613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyARZPD4AI",
+              "end": 82,
+              "expanded_url": "https://x.com/GOATGOAT8080/status/2060512095549243613/photo/1",
+              "media_key": "3_2060512089865940992",
+              "start": 59,
+              "url": "https://t.co/lyARZPD4AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060512095549243613",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 41499,
+          "like_count": 1313,
+          "quote_count": 21,
+          "reply_count": 8,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "미르칼라 에고그림 자세히보면서 느낀건데\n저거 왕관인줄알았는데 머리에 꽂힌거임..?\n그리고 돈키호테 이쁘다 https://t.co/lyARZPD4AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 443,
+          "like_count": 11197,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T16:09:05.000Z",
+        "description": "그림계이지만 잡다한 말이 조금 많습니다/\n가끔씩와요/염소라고 불러주시면됩니다/\n주로 림버스올림/\n이스마엘최애!🧡🧡\n(다른수감자들도 다 좋아해요)\n이스마엘주로그려요\n/트위터 처음 하고 림버스도 뉴비에요\n/비계:@GOAT_GOAT8080\n#가끔생각날때마다내취향노래만올릴거임",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 131,
+                "tag": "가끔생각날때마다내취향노래만올릴거임"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 116,
+                "username": "GOAT_GOAT8080"
+              }
+            ]
+          }
+        },
+        "id": "1935006709560627201",
+        "location": "이스마엘",
+        "name": "GOAT염소",
+        "pinned_tweet_id": "2043960900328284393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058792914592100352/yJpJN5Gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 161,
+          "like_count": 7837,
+          "listed_count": 10,
+          "media_count": 504,
+          "tweet_count": 3073
+        },
+        "username": "GOATGOAT8080",
+        "verified": false
+      }
+    ]
+  }
+}

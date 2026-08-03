@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1933882434107682904",
+    "created_at": "2025-06-14T13:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T14:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933882434107682904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Minokakay/status/1933776806202781715",
+          "start": 25,
+          "url": "https://t.co/wuq2SDJb20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933882434107682904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933776806202781715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "填补了国内停产后推上药商普遍不卖雷洛昔芬的空白（ https://t.co/wuq2SDJb20"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1933882434107682904",
+        "created_at": "2025-06-14T13:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933882434107682904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Minokakay/status/1933776806202781715",
+              "start": 25,
+              "url": "https://t.co/wuq2SDJb20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933882434107682904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933776806202781715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "填补了国内停产后推上药商普遍不卖雷洛昔芬的空白（ https://t.co/wuq2SDJb20"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1933776806202781715",
+        "created_at": "2025-06-14T06:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T07:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933776806202781715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 139,
+              "id": "1856322437144817667",
+              "start": 123,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933776806202781715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 139,
+                "id": "1856322437144817667",
+                "start": 123,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          },
+          "text": "雷洛昔芬可在MTX个体中作为非激素化的抗雄策略之一，尤其适用于希望保留部分雄性特征、避免乳房发育的非二元者。它通过拮抗雌激素在乳腺组织的作用，防止乳腺发育，是希望微调女性化程度而非完全女性化的MTX个体的潜在选项。其不会显著降低睾酮。\n需要请找 @ChosekiNoraneko 下单，日本进口，199 30粒"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2612,
+          "like_count": 42,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "雷洛昔芬可在MTX个体中作为非激素化的抗雄策略之一，尤其适用于希望保留部分雄性特征、避免乳房发育的非二元者。它通过拮抗雌激素在乳腺组织的作用，防止乳腺发育，是希望微调女性化程度而非完全女性化的MTX个体的潜在选项。其不会显著降低睾酮。\n需要请找 @ChosekiNoraneko 下单，日本进口，199 30粒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 253,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 95
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7682,
+          "following_count": 877,
+          "like_count": 43464,
+          "listed_count": 29,
+          "media_count": 1155,
+          "tweet_count": 18680
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

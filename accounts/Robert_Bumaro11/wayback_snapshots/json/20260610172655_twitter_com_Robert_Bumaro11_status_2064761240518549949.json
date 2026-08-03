@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064472819363086337"
+      ],
+      "media_source_tweet_id": [
+        "2064472874073678275"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2064761240518549949",
+    "created_at": "2026-06-10T17:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064761240518549949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816536334959255552",
+          "start": 3,
+          "username": "luzdiviina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TA2BEx7Le9",
+          "end": 93,
+          "expanded_url": "https://x.com/luzdiviina/status/2064472874073678275/video/1",
+          "media_key": "13_2064472819363086337",
+          "start": 70,
+          "url": "https://t.co/TA2BEx7Le9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064761240518549949",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064472874073678275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luzdiviina: como eu me sinto quando Jesus nos chama de ovelhinhas https://t.co/TA2BEx7Le9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12877,
+        "height": 1024,
+        "media_key": "13_2064472819363086337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064472819363086337/img/OeQx8Z71Nz24TouO.jpg",
+        "public_metrics": {
+          "view_count": 3794
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/320x568/90Xqz3Z_rdkGHk3r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/480x852/u4OykYbeHgEFi-2M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/576x1024/mV60aDbKbStw2lba.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064472819363086337/pl/VF_kRSnC9JBuiPFK.m3u8?v=774"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064472819363086337"
+          ],
+          "media_source_tweet_id": [
+            "2064472874073678275"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2064761240518549949",
+        "created_at": "2026-06-10T17:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064761240518549949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816536334959255552",
+              "start": 3,
+              "username": "luzdiviina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TA2BEx7Le9",
+              "end": 93,
+              "expanded_url": "https://x.com/luzdiviina/status/2064472874073678275/video/1",
+              "media_key": "13_2064472819363086337",
+              "start": 70,
+              "url": "https://t.co/TA2BEx7Le9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064761240518549949",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064472874073678275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luzdiviina: como eu me sinto quando Jesus nos chama de ovelhinhas https://t.co/TA2BEx7Le9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064472819363086337"
+          ]
+        },
+        "author_id": "1816536334959255552",
+        "conversation_id": "2064472874073678275",
+        "created_at": "2026-06-09T22:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064472874073678275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TA2BEx7Le9",
+              "end": 77,
+              "expanded_url": "https://x.com/luzdiviina/status/2064472874073678275/video/1",
+              "media_key": "13_2064472819363086337",
+              "start": 54,
+              "url": "https://t.co/TA2BEx7Le9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064472874073678275",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 10757,
+          "like_count": 1273,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "como eu me sinto quando Jesus nos chama de ovelhinhas https://t.co/TA2BEx7Le9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 412,
+          "like_count": 11614,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T18:09:57.000Z",
+        "description": "͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏eu quero conhecer o céu.",
+        "id": "1816536334959255552",
+        "location": "୧ ‧₊˚ 🇻🇦",
+        "name": "maria ♡.",
+        "pinned_tweet_id": "2025555254108942644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062356935265931264/vhHldjSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1009,
+          "like_count": 20757,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 5296
+        },
+        "username": "luzdiviina",
+        "verified": false
+      }
+    ]
+  }
+}

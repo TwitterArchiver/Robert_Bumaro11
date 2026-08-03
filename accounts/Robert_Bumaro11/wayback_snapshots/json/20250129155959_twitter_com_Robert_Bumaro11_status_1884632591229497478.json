@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1884632591229497478",
+    "created_at": "2025-01-29T15:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T16:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884632591229497478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "865743040647798784",
+          "start": 3,
+          "username": "tincong123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884632591229497478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884202766735925665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tincong123: 你不是原生家庭破碎 痛恨生物爹妈 每天od自残 想活在黑暗世界里的亚逼地雷女吗 怎么朋友圈发上年夜饭跟收款记录了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1884632591229497478",
+        "created_at": "2025-01-29T15:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T16:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884632591229497478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "865743040647798784",
+              "start": 3,
+              "username": "tincong123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884632591229497478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884202766735925665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tincong123: 你不是原生家庭破碎 痛恨生物爹妈 每天od自残 想活在黑暗世界里的亚逼地雷女吗 怎么朋友圈发上年夜饭跟收款记录了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "865743040647798784",
+        "conversation_id": "1884202766735925665",
+        "created_at": "2025-01-28T11:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T12:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884202766735925665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884202766735925665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 32133,
+          "like_count": 428,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "你不是原生家庭破碎 痛恨生物爹妈 每天od自残 想活在黑暗世界里的亚逼地雷女吗 怎么朋友圈发上年夜饭跟收款记录了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 221,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-20T01:36:40.000Z",
+        "description": "福生无量天尊",
+        "id": "865743040647798784",
+        "location": "Hong Kong",
+        "name": "死藤水",
+        "pinned_tweet_id": "1882685282400846106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877243994922692609/uTjqYn2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 260,
+          "like_count": 4577,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1239
+        },
+        "username": "tincong123",
+        "verified": true
+      }
+    ]
+  }
+}

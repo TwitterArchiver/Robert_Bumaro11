@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1974298778980266318",
+    "created_at": "2025-10-04T06:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T07:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974358995210236402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873105262971887616",
+          "start": 0,
+          "username": "yly1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974358995210236402",
+    "in_reply_to_user_id": "1873105262971887616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974298778980266318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yly1229 。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974298774328778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2YeRmRbIAAutuv.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1974298778980266318",
+        "created_at": "2025-10-04T06:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T07:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974358995210236402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873105262971887616",
+              "start": 0,
+              "username": "yly1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974358995210236402",
+        "in_reply_to_user_id": "1873105262971887616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974298778980266318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yly1229 。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974298774328778752"
+          ]
+        },
+        "author_id": "1873105262971887616",
+        "conversation_id": "1974298778980266318",
+        "created_at": "2025-10-04T02:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T03:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974298778980266318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zr4dJ0zMkq",
+              "end": 83,
+              "expanded_url": "https://x.com/yly1229/status/1974298778980266318/photo/1",
+              "media_key": "3_1974298774328778752",
+              "start": 60,
+              "url": "https://t.co/zr4dJ0zMkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974298778980266318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1313,
+          "like_count": 13,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "英国国教迎来历史性时刻 。2025年10月3日 Sarah  Mullally被任命为首位女性坎特伯雷大主教 。。。🤔 https://t.co/zr4dJ0zMkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 444,
+          "like_count": 4303,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T20:34:44.000Z",
+        "description": "愿世界和平 再无泪水\n\n只是记录生活 派系或意见不同的不要和我对打 烦 谁也说服不了谁₍₍ (̨̡ ‾᷄ᗣ‾᷅ )̧̢ ₎₎\n\n把反人类 虐杀等等当玩笑的……就请不要和我说话 闹麻了…… \n\nfo的推文我有可能漏刷了 ……૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "1873105262971887616",
+        "name": "六月六",
+        "pinned_tweet_id": "1974056787906343133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971732545818841088/b1QfNGry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 92,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 405
+        },
+        "username": "yly1229",
+        "verified": false
+      }
+    ]
+  }
+}

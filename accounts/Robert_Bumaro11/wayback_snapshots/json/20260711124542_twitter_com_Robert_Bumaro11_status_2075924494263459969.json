@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1148328095914479616",
+          "name": "Blu-ray"
+        }
+      }
+    ],
+    "conversation_id": "2075924494263459969",
+    "created_at": "2026-07-11T12:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075924494263459969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "女王ステ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1063802975615823874",
+          "start": 3,
+          "username": "AKANOJOHOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075924494263459969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075905443147248127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKANOJOHOU: ／\n📢グッズ情報⚡️\n＼\n\n女王ステ不滅部隊編『Rose』\n\n📀Blu-ray発売決定🎉\n\nArk・Coffinの2種類で販売いたします！\n\nご予約で送料無料❗️\nキービジュアルポストカードも付いてくる✨\nお家で何度でも #女王ステ をお楽しみく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2075789932157865984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6v8f6aEAAZ8xT.jpg",
+        "width": 2481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          }
+        ],
+        "conversation_id": "2075924494263459969",
+        "created_at": "2026-07-11T12:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075924494263459969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "女王ステ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1063802975615823874",
+              "start": 3,
+              "username": "AKANOJOHOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075924494263459969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075905443147248127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKANOJOHOU: ／\n📢グッズ情報⚡️\n＼\n\n女王ステ不滅部隊編『Rose』\n\n📀Blu-ray発売決定🎉\n\nArk・Coffinの2種類で販売いたします！\n\nご予約で送料無料❗️\nキービジュアルポストカードも付いてくる✨\nお家で何度でも #女王ステ をお楽しみく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075789932157865984"
+          ]
+        },
+        "author_id": "1063802975615823874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1148328095914479616",
+              "name": "Blu-ray"
+            }
+          }
+        ],
+        "conversation_id": "2075905443147248127",
+        "created_at": "2026-07-11T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075905443147248127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "女王ステ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "女王ステ 不滅部隊編『Rose』の本編映像を収めた公演Blu－ray！ Ark・Coffinの2種類を販売いたします。 【特典映像としてバックステージツアー映像を収録】 ナビゲーター Ark：黒崎澪／日和ゆず Coffin：十条月／本条万里子　 ※こちらは予約商品となります。通常商品との同時購入はできません。 ※予約商品のため、クーポンのご利用はできません。クーポンをご利用の場合は自動キャンセルとなりますので、ご注意ください。 ●収録回 Ark：7月7日（火）14:00公演／19:00公演のいずれかを収録。 Coffin：7月9日（木）14:00公演／19:00公演のいずれかを収録。 【予約特典】 ①送料無料 こちらは通常送料がかかる商品ですが、予約販売で購入された場合は特典として送料無料でお届けします。 ②ポストカード(キービジュアル） 女王ステ 不滅部隊編『Rose』キービジュアルのポストカードが予約特典としてつきます。 ※Ark／Coffin同じ内容となります。",
+              "display_url": "illuminus-store.com/items/6a49f49e…",
+              "end": 162,
+              "expanded_url": "https://illuminus-store.com/items/6a49f49e50f81df5e24c901f",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2075905450873090048/nwS1RVyW?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075905450873090048/nwS1RVyW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 139,
+              "status": 200,
+              "title": "【予約販売・クーポン利用不可】女王ステ 不滅部隊編『Rose』【送料無料】",
+              "unwound_url": "https://illuminus-store.com/items/6a49f49e50f81df5e24c901f",
+              "url": "https://t.co/77hcM9wRpD"
+            },
+            {
+              "display_url": "pic.x.com/3bArMFdr8z",
+              "end": 186,
+              "expanded_url": "https://x.com/AKANOJOHOU/status/2075905443147248127/photo/1",
+              "media_key": "3_2075789932157865984",
+              "start": 163,
+              "url": "https://t.co/3bArMFdr8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075905443147248127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4793,
+          "like_count": 124,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "／\n📢グッズ情報⚡️\n＼\n\n女王ステ不滅部隊編『Rose』\n\n📀Blu-ray発売決定🎉\n\nArk・Coffinの2種類で販売いたします！\n\nご予約で送料無料❗️\nキービジュアルポストカードも付いてくる✨\nお家で何度でも #女王ステ をお楽しみください！\n\n👇ご予約はこちら‼\nhttps://t.co/77hcM9wRpD https://t.co/3bArMFdr8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 468,
+          "like_count": 12864,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-17T14:36:08.000Z",
+        "description": "舞台『女王ステシリーズ（#女王ステ）』の舞台公演に関する最新情報を発信します！ 作・作詞・演出：#吉田武寛 音楽：hoto-D 企画・製作：#ILLUMINUS #女王ステ\n最新作　女王ステ不滅部隊編『Rose』\nhttps://t.co/5rf6gsLSGG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "女王ステ"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "吉田武寛"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "tag": "ILLUMINUS"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "女王ステ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "unsterbliche-einheit-rose.com",
+                "end": 130,
+                "expanded_url": "http://www.unsterbliche-einheit-rose.com",
+                "start": 107,
+                "url": "https://t.co/5rf6gsLSGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "queenstage-series.net",
+                "end": 23,
+                "expanded_url": "https://queenstage-series.net",
+                "start": 0,
+                "url": "https://t.co/YN9E1Q7kOQ"
+              }
+            ]
+          }
+        },
+        "id": "1063802975615823874",
+        "location": "東京 品川区",
+        "name": "舞台『女王ステシリーズ（#女王ステ）』公式アカウント",
+        "pinned_tweet_id": "2041440853823049901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824299652361097216/H_V3XgQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4804,
+          "following_count": 160,
+          "like_count": 865,
+          "listed_count": 64,
+          "media_count": 782,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/YN9E1Q7kOQ",
+        "username": "AKANOJOHOU",
+        "verified": true
+      }
+    ]
+  }
+}

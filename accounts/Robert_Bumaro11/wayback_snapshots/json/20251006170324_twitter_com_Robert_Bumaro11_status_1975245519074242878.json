@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975241645953053041",
+    "created_at": "2025-10-06T17:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T18:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975245519074242878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943361769814261760",
+          "start": 0,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975245519074242878",
+    "in_reply_to_user_id": "1943361769814261760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975241645953053041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadcatc 哀电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975241645953053041",
+        "created_at": "2025-10-06T17:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975245519074242878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943361769814261760",
+              "start": 0,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975245519074242878",
+        "in_reply_to_user_id": "1943361769814261760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975241645953053041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadcatc 哀电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "1975241645953053041",
+        "created_at": "2025-10-06T16:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975241645953053041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975241645953053041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中秋分手了hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 446,
+          "like_count": 4578,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "月亮沉下海面｜永远属于你的纯白骑士，在此等候多时｜山雨欲来｜长居武汉，04年，是伪装成人类的迷之生物｜欢迎互fo｜被无血无泪的忍者魂魄附身｜重度精神病，严重焦虑｜是大笨蛋｜喜欢TRPG和所有游戏｜会写点什么｜惩戒的使者，请用你的剑刺穿我的心脏｜魔法使｜匿名信息箱 https://t.co/nuv4qXItub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadcat90462",
+                "end": 155,
+                "expanded_url": "https://ngl.link/sadcat90462",
+                "start": 132,
+                "url": "https://t.co/nuv4qXItub"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "1970300028762886257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943362181665558530/iXaaBsNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 843,
+          "like_count": 13703,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 4313
+        },
+        "username": "sadsadcatc",
+        "verified": false
+      }
+    ]
+  }
+}

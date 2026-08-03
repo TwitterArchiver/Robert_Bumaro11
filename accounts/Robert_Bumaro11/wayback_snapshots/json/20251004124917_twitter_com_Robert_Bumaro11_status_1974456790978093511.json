@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1974315101189754887",
+    "created_at": "2025-10-04T12:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T13:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974456790978093511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974456790978093511",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974315101189754887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ 不仅会比惨还会卖弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1974315101189754887",
+        "created_at": "2025-10-04T12:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974456790978093511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974456790978093511",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974315101189754887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 不仅会比惨还会卖弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "1974315101189754887",
+        "created_at": "2025-10-04T03:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T04:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974315101189754887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974315101189754887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的你国的傻逼高中生怎么这么喜欢比惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 444,
+          "like_count": 4343,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "cn鸢安（0_an）/高一/maimai/chunithm/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美&官匹)/友跨/成分正常的都会回\nfo/好朋友@Quitewaterqwq | @Allknowbody2 /最喜欢的姐姐@FusiKayoko/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "FusiKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an（互fo）",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974412381888610304/I1HSvErS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1242,
+          "like_count": 31984,
+          "listed_count": 5,
+          "media_count": 335,
+          "tweet_count": 10232
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

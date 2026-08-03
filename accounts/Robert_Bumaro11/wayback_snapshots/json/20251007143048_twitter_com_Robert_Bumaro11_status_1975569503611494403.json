@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975569503611494403",
+    "created_at": "2025-10-07T14:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T15:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975569503611494403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "294626568",
+          "start": 3,
+          "username": "Lay0113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975569503611494403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975562686177153333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lay0113: ゲネリハしてきました！！\n\nバンドメンバーそれぞれが全力で音を鳴らして、想いをぶつけ合っていて、\n新たなひとつの“サブコンシャス”を創り上げております。\n\nそしてゲストとのスペシャルコラボ🩵❤️\nまた同じ場所で共に歌える幸せ、楽しさ、音楽の力、仲間の力…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975562679294304259",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qbyjLbIAMGzV-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975562679252361219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qbyjBbIAMfZOA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975569503611494403",
+        "created_at": "2025-10-07T14:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975569503611494403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "294626568",
+              "start": 3,
+              "username": "Lay0113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975569503611494403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975562686177153333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lay0113: ゲネリハしてきました！！\n\nバンドメンバーそれぞれが全力で音を鳴らして、想いをぶつけ合っていて、\n新たなひとつの“サブコンシャス”を創り上げております。\n\nそしてゲストとのスペシャルコラボ🩵❤️\nまた同じ場所で共に歌える幸せ、楽しさ、音楽の力、仲間の力…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975562679294304259",
+            "3_1975562679252361219"
+          ]
+        },
+        "author_id": "294626568",
+        "conversation_id": "1975562686177153333",
+        "created_at": "2025-10-07T14:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975562686177153333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPANHWlqHT",
+              "end": 159,
+              "expanded_url": "https://x.com/Lay0113/status/1975562686177153333/photo/1",
+              "media_key": "3_1975562679294304259",
+              "start": 136,
+              "url": "https://t.co/yPANHWlqHT"
+            },
+            {
+              "display_url": "pic.x.com/yPANHWlqHT",
+              "end": 159,
+              "expanded_url": "https://x.com/Lay0113/status/1975562686177153333/photo/1",
+              "media_key": "3_1975562679252361219",
+              "start": 136,
+              "url": "https://t.co/yPANHWlqHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975562686177153333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 300,
+                "start": 273,
+                "tag": "Raychell_LIVE_SubconsciouS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "eplus.jp/sf/detail/3429…",
+                "end": 271,
+                "expanded_url": "https://eplus.jp/sf/detail/3429780001",
+                "start": 248,
+                "url": "https://t.co/bb3Zlso9oa"
+              }
+            ]
+          },
+          "text": "ゲネリハしてきました！！\n\nバンドメンバーそれぞれが全力で音を鳴らして、想いをぶつけ合っていて、\n新たなひとつの“サブコンシャス”を創り上げております。\n\nそしてゲストとのスペシャルコラボ🩵❤️\nまた同じ場所で共に歌える幸せ、楽しさ、音楽の力、仲間の力を全身で感じます✨\n\nこの最高の仲間と一緒にステージに立てることが、本当に幸せです！！\n\nあとは11日。\n全ての想いを込めて、あなたに歌を届けます。\n\nこの日が、あなたにとっても特別な1日になりますように✨✨✨\n\n心から、会場で待ってます！！\nhttps://t.co/bb3Zlso9oa\n\n#Raychell_LIVE_SubconsciouS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3246,
+          "like_count": 186,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "ゲネリハしてきました！！\n\nバンドメンバーそれぞれが全力で音を鳴らして、想いをぶつけ合っていて、\n新たなひとつの“サブコンシャス”を創り上げております。\n\nそしてゲストとのスペシャルコラボ🩵❤️\nまた同じ場所で共に歌える幸せ、楽しさ、音楽の力、仲間の力を全身で感じます✨ https://t.co/yPANHWlqHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 445,
+          "like_count": 4667,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-07T13:48:04.000Z",
+        "description": "RAISE A SUILEN🎧 RAS レイヤ ／ D4DJ 姫神紗乃 ／FFBE幻影戦争 ／FMおだわら📻 #チェルラバ ／Fanclub会員 #ちぇるどれん 募集中👠／#ちぇるチューブ https://t.co/AKw9HGzUpJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 55,
+                "tag": "チェルラバ"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "ちぇるどれん"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "ちぇるチューブ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCiMQ-…",
+                "end": 118,
+                "expanded_url": "https://m.youtube.com/channel/UCiMQ-1qB4qHR4bJZ3VRxUkQ",
+                "start": 95,
+                "url": "https://t.co/AKw9HGzUpJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raychell.net",
+                "end": 23,
+                "expanded_url": "https://raychell.net/",
+                "start": 0,
+                "url": "https://t.co/9irEUhhPLq"
+              }
+            ]
+          }
+        },
+        "id": "294626568",
+        "location": "\"R\" WORLD",
+        "name": "RAYCHELL👠",
+        "pinned_tweet_id": "1965629978554630153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973251812825419776/bpD5Xy_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174828,
+          "following_count": 825,
+          "like_count": 64060,
+          "listed_count": 1876,
+          "media_count": 9137,
+          "tweet_count": 47920
+        },
+        "url": "https://t.co/9irEUhhPLq",
+        "username": "Lay0113",
+        "verified": false
+      }
+    ]
+  }
+}

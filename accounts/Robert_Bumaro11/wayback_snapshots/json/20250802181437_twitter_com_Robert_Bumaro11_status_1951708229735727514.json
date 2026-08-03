@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1951708229735727514",
+    "created_at": "2025-08-02T18:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T19:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951708229735727514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951708229735727514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想成为特别的人。但是普通和特别又是什么呢？小时候羡慕身边孩子都能平凡地融入环境，梦想也能作为路人NPC毫无存在感，不过隐匿的无意识的隔绝的状态也等同于一种特殊了。归根到底是想被区别对待吗？结果最后既没能成为特殊的人也没有那么常态，但还是想逃离，逃到没有性别的大气之外的不被看到的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1951708229735727514",
+        "created_at": "2025-08-02T18:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951708229735727514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951708229735727514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想成为特别的人。但是普通和特别又是什么呢？小时候羡慕身边孩子都能平凡地融入环境，梦想也能作为路人NPC毫无存在感，不过隐匿的无意识的隔绝的状态也等同于一种特殊了。归根到底是想被区别对待吗？结果最后既没能成为特殊的人也没有那么常态，但还是想逃离，逃到没有性别的大气之外的不被看到的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 375,
+          "like_count": 2141,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 132
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

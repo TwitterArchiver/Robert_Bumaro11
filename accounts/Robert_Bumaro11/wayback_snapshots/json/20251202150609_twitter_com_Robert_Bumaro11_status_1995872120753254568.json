@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1995872120753254568",
+    "created_at": "2025-12-02T15:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995872120753254568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1566790307194216450",
+          "start": 3,
+          "username": "zhangyx8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995872120753254568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994466515887034582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhangyx8964: 你开盒我也没有任何意义，只有一张丑得人神共愤的大头照，还有坐落于贫困县贫困镇贫困家庭的地址，你给我寄花圈都寄不到我家，还得骑小电驴去镇上的快递驿站，你就是想线下真实我，也得飞机转高铁，高铁转火车，火车转出租，出租转大巴，大巴转私家车，最后步行去…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1995872120753254568",
+        "created_at": "2025-12-02T15:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995872120753254568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1566790307194216450",
+              "start": 3,
+              "username": "zhangyx8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995872120753254568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994466515887034582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhangyx8964: 你开盒我也没有任何意义，只有一张丑得人神共愤的大头照，还有坐落于贫困县贫困镇贫困家庭的地址，你给我寄花圈都寄不到我家，还得骑小电驴去镇上的快递驿站，你就是想线下真实我，也得飞机转高铁，高铁转火车，火车转出租，出租转大巴，大巴转私家车，最后步行去…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566790307194216450",
+        "conversation_id": "1994466515887034582",
+        "created_at": "2025-11-28T18:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994466515887034582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994466515887034582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 219544,
+          "like_count": 2311,
+          "quote_count": 19,
+          "reply_count": 44,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "你开盒我也没有任何意义，只有一张丑得人神共愤的大头照，还有坐落于贫困县贫困镇贫困家庭的地址，你给我寄花圈都寄不到我家，还得骑小电驴去镇上的快递驿站，你就是想线下真实我，也得飞机转高铁，高铁转火车，火车转出租，出租转大巴，大巴转私家车，最后步行去我家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 467,
+          "like_count": 6801,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T14:08:22.000Z",
+        "description": "习近平的好兄弟。此号包括碎碎念，鉴证",
+        "id": "1566790307194216450",
+        "location": "中南海怀仁堂",
+        "name": "张又侠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992086510888521728/8k7NNsRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 746,
+          "like_count": 26235,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 4909
+        },
+        "username": "zhangyx8964",
+        "verified": false
+      }
+    ]
+  }
+}

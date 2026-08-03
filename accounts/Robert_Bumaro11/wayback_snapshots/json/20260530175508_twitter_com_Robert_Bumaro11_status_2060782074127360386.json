@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060781875527082450",
+    "created_at": "2026-05-30T17:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060782074127360386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417446435700625414",
+          "start": 0,
+          "username": "Aasuka_kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060782074127360386",
+    "in_reply_to_user_id": "1417446435700625414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060781875527082450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aasuka_kkk 善莫大焉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060781875527082450",
+        "created_at": "2026-05-30T17:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060782074127360386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417446435700625414",
+              "start": 0,
+              "username": "Aasuka_kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060782074127360386",
+        "in_reply_to_user_id": "1417446435700625414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060781875527082450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aasuka_kkk 善莫大焉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417446435700625414",
+        "conversation_id": "2060781875527082450",
+        "created_at": "2026-05-30T17:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060781875527082450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060781875527082450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒o了，我不需要药物了，希望如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 419,
+          "like_count": 11239,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T11:29:09.000Z",
+        "description": "Femboy/互fo/点赞就是喜欢你/评论就是爱你/希望可以交很多朋友/互fo有时候看不到请私信我哦/如果大家可以幸福的话，一切苦难都可以由我来承担(｡ì _ í｡)",
+        "id": "1417446435700625414",
+        "location": "2km",
+        "name": "AASuKa",
+        "pinned_tweet_id": "2047544704691265555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057641568421720064/G6VSqD4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 33,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 347
+        },
+        "username": "Aasuka_kkk",
+        "verified": true
+      }
+    ]
+  }
+}

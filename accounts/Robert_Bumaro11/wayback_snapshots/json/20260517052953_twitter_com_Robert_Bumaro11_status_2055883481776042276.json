@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1638141523304013826"
+      ],
+      "media_source_tweet_id": [
+        "1638179151671697410"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2055883481776042276",
+    "created_at": "2026-05-17T05:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055883481776042276"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 12,
+          "tag": "深夜の真剣お絵描き60分一本勝負"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633784994597584901",
+          "start": 3,
+          "username": "7mmx_t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKBxNd287M",
+          "end": 53,
+          "expanded_url": "https://x.com/7mmx_t/status/1638179151671697410/photo/1",
+          "media_key": "3_1638141523304013826",
+          "start": 30,
+          "url": "https://t.co/GKBxNd287M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055883481776042276",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 477
+    },
+    "referenced_tweets": [
+      {
+        "id": "1638179151671697410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7mmx_t: #深夜の真剣お絵描き60分一本勝負 https://t.co/GKBxNd287M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_1638141523304013826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FrvZCURaYAIF8vN.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1638141523304013826"
+          ],
+          "media_source_tweet_id": [
+            "1638179151671697410"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055883481776042276",
+        "created_at": "2026-05-17T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055883481776042276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 12,
+              "tag": "深夜の真剣お絵描き60分一本勝負"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633784994597584901",
+              "start": 3,
+              "username": "7mmx_t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKBxNd287M",
+              "end": 53,
+              "expanded_url": "https://x.com/7mmx_t/status/1638179151671697410/photo/1",
+              "media_key": "3_1638141523304013826",
+              "start": 30,
+              "url": "https://t.co/GKBxNd287M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055883481776042276",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 477
+        },
+        "referenced_tweets": [
+          {
+            "id": "1638179151671697410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7mmx_t: #深夜の真剣お絵描き60分一本勝負 https://t.co/GKBxNd287M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1638141523304013826"
+          ]
+        },
+        "author_id": "1633784994597584901",
+        "conversation_id": "1638179151671697410",
+        "created_at": "2023-03-21T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-21T14:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1638179151671697410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "深夜の真剣お絵描き60分一本勝負"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKBxNd287M",
+              "end": 41,
+              "expanded_url": "https://x.com/7mmx_t/status/1638179151671697410/photo/1",
+              "media_key": "3_1638141523304013826",
+              "start": 18,
+              "url": "https://t.co/GKBxNd287M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1638179151671697410",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 37251,
+          "like_count": 1922,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "#深夜の真剣お絵描き60分一本勝負 https://t.co/GKBxNd287M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 523,
+          "like_count": 9995,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T11:01:17.000Z",
+        "description": "作曲担当(@s2jx6p) 全て公式様とは一切関係ありません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "s2jx6p"
+              }
+            ]
+          }
+        },
+        "id": "1633784994597584901",
+        "location": "Do not use my work without per",
+        "name": "刺ヶ",
+        "pinned_tweet_id": "2005737457711747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725993835803873280/o_EcXnuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 9,
+          "like_count": 51,
+          "listed_count": 14,
+          "media_count": 151,
+          "tweet_count": 280
+        },
+        "username": "7mmx_t",
+        "verified": false
+      }
+    ]
+  }
+}

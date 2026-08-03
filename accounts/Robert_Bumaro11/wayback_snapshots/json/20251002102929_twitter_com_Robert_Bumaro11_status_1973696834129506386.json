@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1973695683581583724",
+    "created_at": "2025-10-02T10:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T11:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973696834129506386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973696834129506386",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973695683581583724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 坏结局是这俩个都不是中国了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1973695683581583724",
+        "created_at": "2025-10-02T10:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973696834129506386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973696834129506386",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973695683581583724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 坏结局是这俩个都不是中国了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853777198018404352",
+        "conversation_id": "1973695683581583724",
+        "created_at": "2025-10-02T10:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973695683581583724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiTiao10560/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/LiTiao10560/status/1973693239808167941",
+              "start": 4,
+              "url": "https://t.co/lY0RTdpFd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973695683581583724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973693239808167941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局 https://t.co/lY0RTdpFd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 444,
+          "like_count": 4157,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "天主教✝️/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "name": "坂下葡萄汽水🥤🇻🇦✝️",
+        "pinned_tweet_id": "1914251129963286853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940273123896561664/5uvFE0k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1187,
+          "like_count": 27158,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 8518
+        },
+        "username": "huthawar17115",
+        "verified": false
+      }
+    ]
+  }
+}

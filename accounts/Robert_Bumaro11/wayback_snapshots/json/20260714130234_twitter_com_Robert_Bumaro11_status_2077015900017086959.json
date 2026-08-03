@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2077015900017086959",
+    "created_at": "2026-07-14T13:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077015900017086959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1259887178",
+          "start": 3,
+          "username": "AsadaYuki_Art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077015900017086959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077006163498172425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsadaYuki_Art: 想到什么就去查什么，查到什么就发什么，不为了流量， 就是单纯的分享欲，如果有人爱看各种奇怪的东西，以后乱发～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077015900017086959",
+        "created_at": "2026-07-14T13:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077015900017086959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1259887178",
+              "start": 3,
+              "username": "AsadaYuki_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077015900017086959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077006163498172425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsadaYuki_Art: 想到什么就去查什么，查到什么就发什么，不为了流量， 就是单纯的分享欲，如果有人爱看各种奇怪的东西，以后乱发～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259887178",
+        "conversation_id": "2077005062040342565",
+        "created_at": "2026-07-14T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077006163498172425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077006163498172425",
+        "in_reply_to_user_id": "1259887178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077005062040342565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到什么就去查什么，查到什么就发什么，不为了流量， 就是单纯的分享欲，如果有人爱看各种奇怪的东西，以后乱发～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 477,
+          "like_count": 13176,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-11T16:41:09.000Z",
+        "description": "INFP-T / 极度厌蠢症 / 不吃压力之人，你压我就碎\n\n成年人社交的底层逻辑，就是价值匹配\n\nLet's start fresh.\n\nTo be misunderstood is the fate of the speaker.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuki.art",
+                "end": 23,
+                "expanded_url": "https://www.yuki.art/",
+                "start": 0,
+                "url": "https://t.co/NGsZjhYaWm"
+              }
+            ]
+          }
+        },
+        "id": "1259887178",
+        "location": "ジュラ・テンペスト連邦国",
+        "name": "Asada-Yuki Genderless Blue Slime (Egoist)",
+        "pinned_tweet_id": "2076758324419424431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048200063709769728/38_-oKvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7772,
+          "following_count": 534,
+          "like_count": 5040,
+          "listed_count": 18,
+          "media_count": 889,
+          "tweet_count": 6866
+        },
+        "url": "https://t.co/NGsZjhYaWm",
+        "username": "AsadaYuki_Art",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2052920109480677762",
+    "created_at": "2026-05-09T01:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052920983116521518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576188912254451714",
+          "start": 0,
+          "username": "theburningfire4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052920983116521518",
+    "in_reply_to_user_id": "1576188912254451714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052920109480677762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theburningfire4 试了这个除了头晕和稍微亢奋（？）外没其他体验了，解离感的话我不怎么能识别出似乎也没怎么感受到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2052920109480677762",
+        "created_at": "2026-05-09T01:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052920983116521518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576188912254451714",
+              "start": 0,
+              "username": "theburningfire4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052920983116521518",
+        "in_reply_to_user_id": "1576188912254451714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052920109480677762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theburningfire4 试了这个除了头晕和稍微亢奋（？）外没其他体验了，解离感的话我不怎么能识别出似乎也没怎么感受到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576188912254451714",
+        "conversation_id": "2052920109480677762",
+        "created_at": "2026-05-09T01:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052920109480677762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052920109480677762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要吃美金刚\n我昨天中午又吃了一颗喹硫平尝试下机，但是睡了一下午加一晚上也没能下机成功，现在还有严重的解离，尤其是不容易出幻的体质（我就是）除非想要追求这种效果否则不建议吃这个，太可怕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 499,
+          "like_count": 9453,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T12:35:05.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️Bi+/xtx/trans/Non-binary/Neutrois/Greyaroace/poly (Xe/They/祂/ta/他）｜BD-II(BPD?)/ASD/(C)PTSD/SUD/GAD/OCD/酷儿安+🪷/#shtwt #odtwt /现代诗/欢迎同类互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 118,
+                "tag": "shtwt"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1576188912254451714",
+        "location": "世界的夹缝",
+        "name": "Alva🏳️‍🌈🏳️‍⚧️💛🤍💜🖤8964",
+        "pinned_tweet_id": "2052562421785477411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003383336019066883/ppbOni8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1007,
+          "like_count": 2709,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 2003
+        },
+        "username": "theburningfire4",
+        "verified": false
+      }
+    ]
+  }
+}

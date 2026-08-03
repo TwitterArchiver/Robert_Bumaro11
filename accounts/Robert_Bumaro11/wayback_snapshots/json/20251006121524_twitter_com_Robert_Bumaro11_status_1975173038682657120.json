@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975146224492965991",
+    "created_at": "2025-10-06T12:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T13:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975173038682657120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608294527453876225",
+          "start": 0,
+          "username": "Paris1Von"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975173038682657120",
+    "in_reply_to_user_id": "1608294527453876225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975172640584401050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paris1Von 我知道被ban了，但这个古方古法属实给我看笑（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975146224492965991",
+        "created_at": "2025-10-06T12:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975173038682657120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608294527453876225",
+              "start": 0,
+              "username": "Paris1Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975173038682657120",
+        "in_reply_to_user_id": "1608294527453876225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975172640584401050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris1Von 我知道被ban了，但这个古方古法属实给我看笑（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608294527453876225",
+        "conversation_id": "1975146224492965991",
+        "created_at": "2025-10-06T12:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975172640584401050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975172640584401050",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975147093397508541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 不知道什么时候被ban了，找不到正规的，然后看到这逆天的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 447,
+          "like_count": 4536,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx🏳️‍🌈🏳️‍⚧️🇹🇼\n「理想主義者的反義詞，是心中沒有愛的人~」🧀🧀🧀🌏🌍🌎",
+        "id": "1608294527453876225",
+        "location": "Foochow-Min; Republic of China",
+        "name": "Parish🇫🇷🏳️Orit 🇪🇺Von",
+        "pinned_tweet_id": "1884646748725125450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 842,
+          "like_count": 68741,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 2978
+        },
+        "username": "Paris1Von",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077356412079091712"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2077355827762217218",
+    "created_at": "2026-07-15T11:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077356437890810304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3IvOq5b8ay",
+          "end": 23,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2077356437890810304/photo/1",
+          "media_key": "3_2077356412079091712",
+          "start": 0,
+          "url": "https://t.co/3IvOq5b8ay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077356437890810304",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077355827762217218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/3IvOq5b8ay"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2077356412079091712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRApoXasAAXqGf.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077356412079091712"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077355827762217218",
+        "created_at": "2026-07-15T11:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077356437890810304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IvOq5b8ay",
+              "end": 23,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2077356437890810304/photo/1",
+              "media_key": "3_2077356412079091712",
+              "start": 0,
+              "url": "https://t.co/3IvOq5b8ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077356437890810304",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355827762217218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/3IvOq5b8ay"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077355827762217218",
+        "created_at": "2026-07-15T11:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077355827762217218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2077355489092948284",
+              "start": 25,
+              "url": "https://t.co/gw8nfiKwUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077355827762217218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355489092948284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友自杀我只会看着\n（所以我不会有朋友，也许吧） https://t.co/gw8nfiKwUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 480,
+          "like_count": 13299,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

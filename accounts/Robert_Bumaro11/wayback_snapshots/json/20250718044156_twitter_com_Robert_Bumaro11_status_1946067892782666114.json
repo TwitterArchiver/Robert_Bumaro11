@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1946011135259644292",
+    "created_at": "2025-07-18T04:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T05:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946067892782666114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "888172653881638912",
+          "start": 0,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946067892782666114",
+    "in_reply_to_user_id": "888172653881638912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946011135259644292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yovartija_nattv 原来还有kr/tno要素"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1946011135259644292",
+        "created_at": "2025-07-18T04:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946067892782666114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "888172653881638912",
+              "start": 0,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946067892782666114",
+        "in_reply_to_user_id": "888172653881638912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946011135259644292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yovartija_nattv 原来还有kr/tno要素"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888172653881638912",
+        "conversation_id": "1946011135259644292",
+        "created_at": "2025-07-18T00:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946011135259644292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Engelsu0621/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Engelsu0621/status/1945772277293031870",
+              "start": 44,
+              "url": "https://t.co/3vPZFEbsMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946011135259644292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 760,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945772277293031870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们，和KR/TNO这些汉化组的人及其玩家接触的时候一定要谨慎.jpg\n哎神人辈出。 https://t.co/3vPZFEbsMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 320,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\AI创业中\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴🏳️‍⚧️",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10161,
+          "following_count": 779,
+          "like_count": 44061,
+          "listed_count": 39,
+          "media_count": 1204,
+          "tweet_count": 4938
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

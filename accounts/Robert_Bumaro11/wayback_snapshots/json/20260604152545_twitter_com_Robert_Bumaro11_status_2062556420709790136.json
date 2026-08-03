@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062552021862158336"
+      ],
+      "media_source_tweet_id": [
+        "2062552031668428882"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2062556420709790136",
+    "created_at": "2026-06-04T15:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062556420709790136"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "スタァライト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMByaBnmOU",
+          "end": 66,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2062552031668428882/photo/1",
+          "media_key": "3_2062552021862158336",
+          "start": 43,
+          "url": "https://t.co/RMByaBnmOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062556420709790136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062552031668428882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: 行こか　行くか\n次のステージへ🌸🌱\n\n#スタァライト https://t.co/RMByaBnmOU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062552021862158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-oItHbkAA14K_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062552021862158336"
+          ],
+          "media_source_tweet_id": [
+            "2062552031668428882"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2062556420709790136",
+        "created_at": "2026-06-04T15:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062556420709790136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "スタァライト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMByaBnmOU",
+              "end": 66,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2062552031668428882/photo/1",
+              "media_key": "3_2062552021862158336",
+              "start": 43,
+              "url": "https://t.co/RMByaBnmOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062556420709790136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062552031668428882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: 行こか　行くか\n次のステージへ🌸🌱\n\n#スタァライト https://t.co/RMByaBnmOU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062552021862158336"
+          ]
+        },
+        "author_id": "1577159828",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2062552031668428882",
+        "created_at": "2026-06-04T15:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062552031668428882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "スタァライト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMByaBnmOU",
+              "end": 50,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2062552031668428882/photo/1",
+              "media_key": "3_2062552021862158336",
+              "start": 27,
+              "url": "https://t.co/RMByaBnmOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062552031668428882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3468,
+          "like_count": 325,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "行こか　行くか\n次のステージへ🌸🌱\n\n#スタァライト https://t.co/RMByaBnmOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 407,
+          "like_count": 11338,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優/愛犬ぽんず 🐾　　　　　　　　　　　　　　　↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "name": "生田 輝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057046583381041152/rZI06G1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81815,
+          "following_count": 828,
+          "like_count": 13437,
+          "listed_count": 2641,
+          "media_count": 5314,
+          "tweet_count": 23917
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false
+      }
+    ]
+  }
+}

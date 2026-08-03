@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059960552500420656",
+    "created_at": "2026-05-29T03:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060203687822479701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841815505562456064",
+          "start": 0,
+          "username": "Lunaticonthemo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060203687822479701",
+    "in_reply_to_user_id": "1841815505562456064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059960552500420656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunaticonthemo1 哀电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059960552500420656",
+        "created_at": "2026-05-29T03:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060203687822479701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841815505562456064",
+              "start": 0,
+              "username": "Lunaticonthemo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060203687822479701",
+        "in_reply_to_user_id": "1841815505562456064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059960552500420656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunaticonthemo1 哀电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841815505562456064",
+        "conversation_id": "2059960552500420656",
+        "created_at": "2026-05-28T11:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059960552500420656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059960552500420656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，遇见烂人，被烂人坑了钱，简直就是倒霉透了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 441,
+          "like_count": 11010,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T12:20:29.000Z",
+        "description": "Yuri♥️\nTranswomen are Women🏳️‍⚧️\nLeft(Heterodox)🌹",
+        "id": "1841815505562456064",
+        "name": "Lunatic on the moon",
+        "pinned_tweet_id": "1947687791414083976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057773658492563456/Jao29eAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 92,
+          "like_count": 4554,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1707
+        },
+        "username": "Lunaticonthemo1",
+        "verified": false
+      }
+    ]
+  }
+}

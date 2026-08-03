@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1823466028162289830",
+    "created_at": "2025-01-05T14:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T15:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875918129559466154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 29,
+          "id": "1762886120923389954",
+          "start": 17,
+          "username": "xingjue8096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875918129559466154",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823561744268300714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @xingjue8096 雾老师时隔半年请问您已经开始使用雷洛昔芬了吗，有什么新的使用体验和注意事项能分享的吗🥺"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [xingjue8096].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xingjue8096",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xingjue8096"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1823466028162289830",
+        "created_at": "2025-01-05T14:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T15:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875918129559466154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 29,
+              "id": "1762886120923389954",
+              "start": 17,
+              "username": "xingjue8096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875918129559466154",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823561744268300714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @xingjue8096 雾老师时隔半年请问您已经开始使用雷洛昔芬了吗，有什么新的使用体验和注意事项能分享的吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "1823466028162289830",
+        "created_at": "2024-08-14T03:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T04:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823561744268300714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1762886120923389954",
+              "start": 11,
+              "username": "xingjue8096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823561744268300714",
+        "in_reply_to_user_id": "1456869803663130626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823466028162289830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuarkLine @xingjue8096 老师你用过雷洛昔芬吗？有什么使用体验还有效果之类的可以告诉我吗 因为我之后也打算使用雷洛昔芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 205,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  MTX🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n最温暖的归宿和恋人 : @quanai_qwq ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "quanai_qwq"
+              }
+            ]
+          }
+        },
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1855898022443721028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 6359,
+          "like_count": 87633,
+          "listed_count": 10,
+          "media_count": 828,
+          "tweet_count": 54493
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      }
+    ]
+  }
+}

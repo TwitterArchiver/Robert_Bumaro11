@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1893703877586788591",
+    "created_at": "2025-02-23T16:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T17:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893703877586788591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NankyuSeiichi/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/NankyuSeiichi/status/1893620982025257008",
+          "start": 33,
+          "url": "https://t.co/qyC7iQpnMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893703877586788591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893620982025257008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在地雷女和药娘之外的人群也是一样的，都只不过是乏味的大多数人罢了 https://t.co/qyC7iQpnMs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1893703877586788591",
+        "created_at": "2025-02-23T16:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T17:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893703877586788591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NankyuSeiichi/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/NankyuSeiichi/status/1893620982025257008",
+              "start": 33,
+              "url": "https://t.co/qyC7iQpnMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893703877586788591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893620982025257008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在地雷女和药娘之外的人群也是一样的，都只不过是乏味的大多数人罢了 https://t.co/qyC7iQpnMs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1893620982025257008",
+        "created_at": "2025-02-23T11:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893620982025257008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893620982025257008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3152,
+          "like_count": 80,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉中推很多的地雷女和药娘给我一张脸谱化的感觉，都是一样的磕药自残，家庭学业不顺利，我感觉我看不到他们抛开精神病和跨性别以外的，自己独有的思想或者兴趣爱好或者工作成果。\n或者我换句话说，就是我连知道他们名字的欲望都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 229,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 943,
+          "like_count": 11564,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 5185
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

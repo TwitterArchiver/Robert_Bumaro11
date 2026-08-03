@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966581390985535986",
+    "created_at": "2025-09-12T19:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T20:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966581435936174490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966581435936174490",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966581390985535986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒不是想要说对方有什么不足，大抵我这种人的不幸之处就在于无法在日常中看到可贵之处也无法对另一个同样平凡的人类倾泻过多爱意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966581390985535986",
+        "created_at": "2025-09-12T19:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966581435936174490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966581435936174490",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966581390985535986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒不是想要说对方有什么不足，大抵我这种人的不幸之处就在于无法在日常中看到可贵之处也无法对另一个同样平凡的人类倾泻过多爱意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966581390985535986",
+        "created_at": "2025-09-12T19:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966581390985535986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966581390985535986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说我对人们口中那种被称为恋爱的关系持有很大的怀疑态度，过去偶尔也和其他人一样希望会有一个来路不明的拯救者闯入自己的生活终结漫漫无期的苦难。后来在机缘巧合下基于类似的背景与另一个孩子朝夕相处观测了对方行为生活几个月，期间除了更进一步意识到自己是个伪人外也没别的收获了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 399,
+          "like_count": 2821,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 225
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

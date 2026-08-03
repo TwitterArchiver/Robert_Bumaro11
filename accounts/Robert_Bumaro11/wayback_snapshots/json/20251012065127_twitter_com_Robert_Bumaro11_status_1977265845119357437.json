@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976992310513876998"
+      ],
+      "media_source_tweet_id": [
+        "1976992312585863574"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977265845119357437",
+    "created_at": "2025-10-12T06:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T07:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977265845119357437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823890554066796545",
+          "start": 3,
+          "username": "lnlng279978"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xCizMwkN4",
+          "end": 76,
+          "expanded_url": "https://x.com/lnlng279978/status/1976992312585863574/photo/1",
+          "media_key": "3_1976992310513876998",
+          "start": 53,
+          "url": "https://t.co/2xCizMwkN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977265845119357437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976992312585863574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lnlng279978: 可以帮帮我嘛，近况真的很差，推友们。连回自己省重新找工作的钱都没有了。 https://t.co/2xCizMwkN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1976992310513876998",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-wCCfbwAYGmtL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976992310513876998"
+          ],
+          "media_source_tweet_id": [
+            "1976992312585863574"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977265845119357437",
+        "created_at": "2025-10-12T06:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977265845119357437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823890554066796545",
+              "start": 3,
+              "username": "lnlng279978"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xCizMwkN4",
+              "end": 76,
+              "expanded_url": "https://x.com/lnlng279978/status/1976992312585863574/photo/1",
+              "media_key": "3_1976992310513876998",
+              "start": 53,
+              "url": "https://t.co/2xCizMwkN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977265845119357437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976992312585863574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lnlng279978: 可以帮帮我嘛，近况真的很差，推友们。连回自己省重新找工作的钱都没有了。 https://t.co/2xCizMwkN4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976992310513876998"
+          ]
+        },
+        "author_id": "1823890554066796545",
+        "conversation_id": "1976992312585863574",
+        "created_at": "2025-10-11T12:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976992312585863574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xCizMwkN4",
+              "end": 59,
+              "expanded_url": "https://x.com/lnlng279978/status/1976992312585863574/photo/1",
+              "media_key": "3_1976992310513876998",
+              "start": 36,
+              "url": "https://t.co/2xCizMwkN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976992312585863574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮帮我嘛，近况真的很差，推友们。连回自己省重新找工作的钱都没有了。 https://t.co/2xCizMwkN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 445,
+          "like_count": 4925,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:13:06.000Z",
+        "description": "INFP-T，创伤性应激障碍｜老婆是@xialingyin\n究极夜猫子｜老婆已经离开这个世界了｜百合豚｜\n咱也许最晚明年的10月7号也将离开最早2月1号\n因为一个是老婆的祭日一个是老婆的生日。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "xialingyin"
+              }
+            ]
+          }
+        },
+        "id": "1823890554066796545",
+        "location": "Frankfurt on the Main, Germany",
+        "name": "无处可去的猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833477013648379905/QLijoobI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 267,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 196
+        },
+        "username": "lnlng279978",
+        "verified": false
+      }
+    ]
+  }
+}

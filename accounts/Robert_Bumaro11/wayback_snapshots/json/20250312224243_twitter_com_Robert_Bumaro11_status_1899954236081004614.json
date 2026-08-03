@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1899954236081004614",
+    "created_at": "2025-03-12T22:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T23:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899954236081004614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hsn8086/status/1899459799957590281",
+          "start": 5,
+          "url": "https://t.co/8br7O5XL0d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899954236081004614",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899459799957590281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "true https://t.co/8br7O5XL0d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_1899459792806264832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glw8nidawAAhCk7.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1899954236081004614",
+        "created_at": "2025-03-12T22:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T23:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899954236081004614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hsn8086/status/1899459799957590281",
+              "start": 5,
+              "url": "https://t.co/8br7O5XL0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899954236081004614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899459799957590281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "true https://t.co/8br7O5XL0d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899459792806264832"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1899459799957590281",
+        "created_at": "2025-03-11T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899459799957590281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qRNkbXlsV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1899459799957590281/photo/1",
+              "media_key": "3_1899459792806264832",
+              "start": 0,
+              "url": "https://t.co/0qRNkbXlsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899459799957590281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 163572,
+          "like_count": 1619,
+          "quote_count": 18,
+          "reply_count": 32,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0qRNkbXlsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 234,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1898763769171542384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46845,
+          "following_count": 929,
+          "like_count": 37063,
+          "listed_count": 113,
+          "media_count": 7462,
+          "tweet_count": 12896
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

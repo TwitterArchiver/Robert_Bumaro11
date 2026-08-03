@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1947889685705200002",
+    "created_at": "2025-07-23T17:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T18:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948073566324568197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "tou12345678910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948073566324568197",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948073398183301339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tou12345678910 此外，社会更能笃定“种族源于他的祖先”“年龄是一个统计上的数字”的结论，但对性别概念的定义却是暧昧不明的。\n尽管概念上的拆解是可以实现的，但如果不能制造出大量因此痛苦的活人的话，感觉即使在未来也很难看到广泛转变的那天（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1947889685705200002",
+        "created_at": "2025-07-23T17:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948073566324568197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "tou12345678910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948073566324568197",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948073398183301339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou12345678910 此外，社会更能笃定“种族源于他的祖先”“年龄是一个统计上的数字”的结论，但对性别概念的定义却是暧昧不明的。\n尽管概念上的拆解是可以实现的，但如果不能制造出大量因此痛苦的活人的话，感觉即使在未来也很难看到广泛转变的那天（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1947889685705200002",
+        "created_at": "2025-07-23T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948073398183301339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "tou12345678910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948073398183301339",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947889685705200002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou12345678910 一些人认为跨性别相较于跨种族、年龄的区别在于，前者会因为不符合自身指派性别规范而被指责“不够男性/女性”，而白人从来不会因为他的肤色被指责“不够白”，也不会因为其自我认定为另一种族而被视为疾病要求矫正（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 343,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 115
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8650,
+          "following_count": 5971,
+          "like_count": 224211,
+          "listed_count": 54,
+          "media_count": 2132,
+          "tweet_count": 38468
+        },
+        "username": "tou12345678910",
+        "verified": false
+      }
+    ]
+  }
+}

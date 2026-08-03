@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2080971096908759077",
+    "created_at": "2026-07-25T10:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080971096908759077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Moutai_H_Maple…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/Moutai_H_Maple/status/2080832038806962229",
+          "start": 76,
+          "url": "https://t.co/FA5nytJBrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080971096908759077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080832038806962229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉共享荣誉。纯个人想法我第一眼看到新闻的感受其实有点恶心，只要一个概念被放到公众前被审视就会变得糟糕（国内百合贴吧也算是内斗吵架得很激烈的一批圈子了） https://t.co/FA5nytJBrN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2080971096908759077",
+        "created_at": "2026-07-25T10:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080971096908759077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moutai_H_Maple…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/Moutai_H_Maple/status/2080832038806962229",
+              "start": 76,
+              "url": "https://t.co/FA5nytJBrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080971096908759077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080832038806962229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉共享荣誉。纯个人想法我第一眼看到新闻的感受其实有点恶心，只要一个概念被放到公众前被审视就会变得糟糕（国内百合贴吧也算是内斗吵架得很激烈的一批圈子了） https://t.co/FA5nytJBrN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561753484512612353",
+        "conversation_id": "2080832038806962229",
+        "created_at": "2026-07-25T01:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080832038806962229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080832038806962229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 799,
+          "like_count": 20,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我逐渐意识到“共享荣誉”是多么可笑。\n“百合豚拿了奖，我是百合豚所以我也拿了奖。”\n这就是为什么我不再将图灵、柴可夫斯基，或是哪个欧盟小国的同性恋出柜首相作为我个人自豪的媒介。\n英雄只能证明我的上限，但不能替我透支骄傲和共享荣誉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 484,
+          "like_count": 13874,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，阿尔伯塔大学本科生｜圣殿教团的黑十字\n｜秘祈人途径，现在是放牧“古代学者”和“观众”的“牧羊人”｜本体是阳光菇｜古代学者的友情链接https://t.co/qCkwfPdciC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/katon53615",
+                "end": 93,
+                "expanded_url": "https://x.com/katon53615",
+                "start": 70,
+                "url": "https://t.co/qCkwfPdciC"
+              }
+            ]
+          }
+        },
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2067904003069899036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068552152054636544/mPqunR8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 302,
+          "like_count": 2015,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

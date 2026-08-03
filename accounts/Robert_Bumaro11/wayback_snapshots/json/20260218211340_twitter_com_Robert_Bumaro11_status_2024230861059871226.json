@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2024115456609787952",
+    "created_at": "2026-02-18T21:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T22:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024230861059871226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1568953331514757121",
+          "start": 0,
+          "username": "yyjet28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024230861059871226",
+    "in_reply_to_user_id": "1568953331514757121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024115456609787952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyjet28 这简直就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2024115456609787952",
+        "created_at": "2026-02-18T21:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024230861059871226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568953331514757121",
+              "start": 0,
+              "username": "yyjet28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024230861059871226",
+        "in_reply_to_user_id": "1568953331514757121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024115456609787952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyjet28 这简直就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568953331514757121",
+        "conversation_id": "2024115456609787952",
+        "created_at": "2026-02-18T13:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024115456609787952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunxvan1/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yunxvan1/status/2023768936572219896",
+              "start": 7,
+              "url": "https://t.co/ObEMejQljr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024115456609787952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023768936572219896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这简直就是我 https://t.co/ObEMejQljr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 476,
+          "like_count": 8088,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T13:23:34.000Z",
+        "description": "锦瑟无端五十弦，一弦一柱思华年",
+        "id": "1568953331514757121",
+        "location": "B612",
+        "name": "锦师傅祝大家春节快乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635316116502499329/Sypp2500_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 593,
+          "like_count": 971,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1394
+        },
+        "username": "yyjet28",
+        "verified": false
+      }
+    ]
+  }
+}

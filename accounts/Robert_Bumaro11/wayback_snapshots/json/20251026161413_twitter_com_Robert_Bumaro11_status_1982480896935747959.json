@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1982480896935747959",
+    "created_at": "2025-10-26T16:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982480896935747959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682687182375636992",
+          "start": 3,
+          "username": "Cavaradossi1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982480896935747959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982479584659656819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cavaradossi1008: 若非为献出祭祀而行动，人生此世则成为行动的深渊，受困于自身的行为。因此，应当以祭祀为目的，坚定地行动。\n愿祭祀成为你们的如意牛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1982480896935747959",
+        "created_at": "2025-10-26T16:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982480896935747959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682687182375636992",
+              "start": 3,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982480896935747959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982479584659656819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cavaradossi1008: 若非为献出祭祀而行动，人生此世则成为行动的深渊，受困于自身的行为。因此，应当以祭祀为目的，坚定地行动。\n愿祭祀成为你们的如意牛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682687182375636992",
+        "conversation_id": "1982479584659656819",
+        "created_at": "2025-10-26T16:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982479584659656819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982479584659656819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "若非为献出祭祀而行动，人生此世则成为行动的深渊，受困于自身的行为。因此，应当以祭祀为目的，坚定地行动。\n愿祭祀成为你们的如意牛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 445,
+          "like_count": 5530,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "If God assigns to me my place in Hell, I do not know why I should aspire to Heaven. He knows best what is for my welfare.🔱🇮🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MajheMaherPand…",
+                "end": 23,
+                "expanded_url": "https://t.me/MajheMaherPandhari",
+                "start": 0,
+                "url": "https://t.co/bNqhFL3SPZ"
+              }
+            ]
+          }
+        },
+        "id": "1682687182375636992",
+        "location": "रामसेतु",
+        "name": "MerryMerryHearn🔱",
+        "pinned_tweet_id": "1981585752648736835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965158889051357184/JPMBAJ2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1485,
+          "like_count": 156931,
+          "listed_count": 11,
+          "media_count": 1112,
+          "tweet_count": 15817
+        },
+        "url": "https://t.co/bNqhFL3SPZ",
+        "username": "Cavaradossi1008",
+        "verified": false
+      }
+    ]
+  }
+}

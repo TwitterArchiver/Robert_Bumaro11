@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2064783374745747777",
+    "created_at": "2026-06-10T19:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T20:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064793693803233525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1660977950680920068",
+          "start": 0,
+          "username": "Panpkin0973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064793693803233525",
+    "in_reply_to_user_id": "1660977950680920068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064783374745747777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Panpkin0973 好看的（词穷）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2064783374745747777",
+        "created_at": "2026-06-10T19:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064793693803233525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660977950680920068",
+              "start": 0,
+              "username": "Panpkin0973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064793693803233525",
+        "in_reply_to_user_id": "1660977950680920068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064783374745747777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Panpkin0973 好看的（词穷）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660977950680920068",
+        "conversation_id": "2064783374745747777",
+        "created_at": "2026-06-10T18:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064783374745747777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064783374745747777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《少女歌剧》值得看吗？有没有二次元老资历说一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 412,
+          "like_count": 11622,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T11:56:30.000Z",
+        "description": "施蒂纳的学生/友男跨顺/我的性别是德谟克拉西/“保卫我们的现代生活”/Sony a6400 user/南京-常熟-苏州-上海/95%回fo/lp60唱片机 /恋人&最惠贸易对象@Liechtensteinal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Liechtensteinal"
+              }
+            ]
+          }
+        },
+        "id": "1660977950680920068",
+        "location": "安资斯坦",
+        "name": "水合氯醛",
+        "pinned_tweet_id": "1767222996253778021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660980398564753408/YMVq0TfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1079,
+          "like_count": 46456,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2511
+        },
+        "username": "Panpkin0973",
+        "verified": false
+      }
+    ]
+  }
+}

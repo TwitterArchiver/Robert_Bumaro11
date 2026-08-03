@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081721790473404595",
+    "created_at": "2026-07-27T12:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081721790473404595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772942887548002304",
+          "start": 3,
+          "username": "hurtuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081721790473404595",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081371652445851903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hurtuke: is suicide really a selfish thing to do when it could free me from all of my sufferings"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081721790473404595",
+        "created_at": "2026-07-27T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081721790473404595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772942887548002304",
+              "start": 3,
+              "username": "hurtuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081721790473404595",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081371652445851903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hurtuke: is suicide really a selfish thing to do when it could free me from all of my sufferings"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772942887548002304",
+        "conversation_id": "2081371652445851903",
+        "created_at": "2026-07-26T13:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081371652445851903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081371652445851903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 70283,
+          "like_count": 6135,
+          "quote_count": 56,
+          "reply_count": 55,
+          "retweet_count": 1392
+        },
+        "reply_settings": "everyone",
+        "text": "is suicide really a selfish thing to do when it could free me from all of my sufferings"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 485,
+          "like_count": 14030,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T11:05:17.000Z",
+        "description": "overly religious people dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuneio.carrd.co",
+                "end": 23,
+                "expanded_url": "https://shuneio.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/p28PS2tV7P"
+              }
+            ]
+          }
+        },
+        "id": "1772942887548002304",
+        "location": " ࣪⠀⠀unlabeled   𓏵⠀.  17",
+        "name": ",",
+        "pinned_tweet_id": "2081342308029800639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081042375590518784/7_-8qJJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 127,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/p28PS2tV7P",
+        "username": "hurtuke",
+        "verified": false
+      }
+    ]
+  }
+}

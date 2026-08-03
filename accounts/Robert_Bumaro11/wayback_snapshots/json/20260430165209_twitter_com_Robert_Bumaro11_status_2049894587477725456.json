@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2049894587477725456",
+    "created_at": "2026-04-30T16:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049894587477725456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1981918860883488768",
+          "start": 3,
+          "username": "Anonymous_L13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049894587477725456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049829893282906439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anonymous_L13: 瓦尔普吉斯之夜(Walpurgisnacht)快乐！\n全世界芭芭雅嘎们，联合起来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2049894587477725456",
+        "created_at": "2026-04-30T16:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049894587477725456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1981918860883488768",
+              "start": 3,
+              "username": "Anonymous_L13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049894587477725456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049829893282906439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anonymous_L13: 瓦尔普吉斯之夜(Walpurgisnacht)快乐！\n全世界芭芭雅嘎们，联合起来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981918860883488768",
+        "conversation_id": "2049829893282906439",
+        "created_at": "2026-04-30T12:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049829893282906439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049829893282906439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "瓦尔普吉斯之夜(Walpurgisnacht)快乐！\n全世界芭芭雅嘎们，联合起来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 488,
+          "like_count": 9112,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "incomplete",
+        "id": "1981918860883488768",
+        "location": "北校C栋天台-α Lyrae车站",
+        "name": "❅中学莉💜",
+        "pinned_tweet_id": "2048808000635486535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048626859773210624/uKU8aza-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 160,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1214
+        },
+        "username": "Anonymous_L13",
+        "verified": false
+      }
+    ]
+  }
+}

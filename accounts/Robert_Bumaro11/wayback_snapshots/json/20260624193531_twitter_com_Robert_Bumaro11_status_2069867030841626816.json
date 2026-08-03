@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2069819704714350783",
+    "created_at": "2026-06-24T19:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069867030841626816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069867030841626816",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069819704714350783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 世界都是世界的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2069819704714350783",
+        "created_at": "2026-06-24T19:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069867030841626816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069867030841626816",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819704714350783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 世界都是世界的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2069819704714350783",
+        "created_at": "2026-06-24T16:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819704714350783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069819704714350783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前朋友的朋友还是我的朋友吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 423,
+          "like_count": 11834,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "∏ ☰ 函数式编程/音韵学/古典音乐/理论魔法学\n∏ ☱ 数学分析，精神分析等分析学不爱好者。\n∏ ☲ 初级程序员，时不时折腾小东西。\n∏ ☳ 疑似 mtx\n∏ ☴ 古法编程爱好者\n∏ ☵ 活了18年。\n∏ ☶ CS/数学讨论组 613637913\n∏ ☷ 这样就凑齐了八卦。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "infmemories.netlify.app",
+                "end": 23,
+                "expanded_url": "http://infmemories.netlify.app",
+                "start": 0,
+                "url": "https://t.co/YcUqF3nDI9"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2068942213565063549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 777,
+          "like_count": 1865,
+          "listed_count": 8,
+          "media_count": 900,
+          "tweet_count": 10497
+        },
+        "url": "https://t.co/YcUqF3nDI9",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

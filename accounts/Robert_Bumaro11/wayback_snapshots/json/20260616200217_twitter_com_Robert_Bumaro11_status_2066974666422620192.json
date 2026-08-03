@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066970136360411285",
+    "created_at": "2026-06-16T20:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066974666422620192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760935245812244480",
+          "start": 0,
+          "username": "ia_forgot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066974666422620192",
+    "in_reply_to_user_id": "1760935245812244480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066970136360411285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia_forgot 看起来是很有效的方法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066970136360411285",
+        "created_at": "2026-06-16T20:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066974666422620192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760935245812244480",
+              "start": 0,
+              "username": "ia_forgot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066974666422620192",
+        "in_reply_to_user_id": "1760935245812244480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066970136360411285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia_forgot 看起来是很有效的方法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760935245812244480",
+        "conversation_id": "2066970136360411285",
+        "created_at": "2026-06-16T19:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066970136360411285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066970136360411285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个月给自己一个小小的可实现的目标/方向，然后去实现，去努力，达到了就获得小小的快乐，以后就这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 419,
+          "like_count": 11677,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T07:51:05.000Z",
+        "description": "不明生物 疑似spd/  记忆光速遗忘",
+        "id": "1760935245812244480",
+        "name": "我忘了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993304766798258176/DJeYK1sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 238,
+          "like_count": 27385,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2136
+        },
+        "username": "ia_forgot",
+        "verified": false
+      }
+    ]
+  }
+}

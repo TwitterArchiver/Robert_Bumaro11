@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1972878834753282500",
+    "created_at": "2025-10-01T05:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T06:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973259577237086534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932404881543118848",
+          "start": 0,
+          "username": "1G1S2Y2L9S5moon"
+        },
+        {
+          "end": 28,
+          "id": "1951444346433314818",
+          "start": 17,
+          "username": "cai0000012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973259577237086534",
+    "in_reply_to_user_id": "1932404881543118848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973238063049613386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1G1S2Y2L9S5moon @cai0000012 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1972878834753282500",
+        "created_at": "2025-10-01T05:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T06:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973259577237086534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932404881543118848",
+              "start": 0,
+              "username": "1G1S2Y2L9S5moon"
+            },
+            {
+              "end": 28,
+              "id": "1951444346433314818",
+              "start": 17,
+              "username": "cai0000012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973259577237086534",
+        "in_reply_to_user_id": "1932404881543118848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973238063049613386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1G1S2Y2L9S5moon @cai0000012 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932404881543118848",
+        "conversation_id": "1972878834753282500",
+        "created_at": "2025-10-01T04:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T05:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973238063049613386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951444346433314818",
+              "start": 0,
+              "username": "cai0000012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973238063049613386",
+        "in_reply_to_user_id": "1951444346433314818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972878834753282500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai0000012 这个猫的表情包好猥琐（没有说你同学不猥琐的意思）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 442,
+          "like_count": 4054,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T11:50:13.000Z",
+        "description": "反对暴力 反对仇恨 反对早起 反对体制",
+        "id": "1932404881543118848",
+        "location": "America",
+        "name": "绛橘色日落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959842564041035776/TVNgfGsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 231,
+          "like_count": 3588,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 560
+        },
+        "username": "1G1S2Y2L9S5moon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T00:46:16.000Z",
+        "description": "什么都很菜的cai/无证含糖MtF/HRT 2025.02.04",
+        "id": "1951444346433314818",
+        "name": "🍥cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951445525925863424/zOv7gm1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 20,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 314
+        },
+        "username": "cai0000012",
+        "verified": false
+      }
+    ]
+  }
+}

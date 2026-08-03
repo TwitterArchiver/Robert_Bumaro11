@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2064720615316349366",
+    "created_at": "2026-06-10T14:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064720615316349366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1824119613162139648",
+          "start": 3,
+          "username": "void__empress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064720615316349366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064718442394202191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @void__empress: 现在推特上怎么这么多门槛妹谈治国理政"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2064720615316349366",
+        "created_at": "2026-06-10T14:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064720615316349366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1824119613162139648",
+              "start": 3,
+              "username": "void__empress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064720615316349366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064718442394202191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @void__empress: 现在推特上怎么这么多门槛妹谈治国理政"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824119613162139648",
+        "conversation_id": "2064718442394202191",
+        "created_at": "2026-06-10T14:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064718442394202191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064718442394202191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在推特上怎么这么多门槛妹谈治国理政"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 412,
+          "like_count": 11610,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:23:09.000Z",
+        "description": "第七星界之主",
+        "id": "1824119613162139648",
+        "location": "第七星界",
+        "name": "资本家（恩师罗龙飞）",
+        "pinned_tweet_id": "2062221301104980152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042842369440272384/PHRXjLTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 683,
+          "like_count": 8741,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 4126
+        },
+        "username": "void__empress",
+        "verified": false
+      }
+    ]
+  }
+}

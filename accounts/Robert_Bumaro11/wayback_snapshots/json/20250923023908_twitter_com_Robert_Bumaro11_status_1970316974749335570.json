@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1970316974749335570",
+    "created_at": "2025-09-23T02:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T03:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970316974749335570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hikari_Ciallo/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Hikari_Ciallo/status/1970154612830437621",
+          "start": 22,
+          "url": "https://t.co/uNgymnGTr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970316974749335570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970154612830437621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结果我独自一人在漆黑空旷的家里盯着窗外发呆 https://t.co/uNgymnGTr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_1970154601921069056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dlLBAbQAAFXAO.jpg",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1970316974749335570",
+        "created_at": "2025-09-23T02:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T03:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970316974749335570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hikari_Ciallo/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Hikari_Ciallo/status/1970154612830437621",
+              "start": 22,
+              "url": "https://t.co/uNgymnGTr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970316974749335570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970154612830437621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果我独自一人在漆黑空旷的家里盯着窗外发呆 https://t.co/uNgymnGTr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970154601921069056"
+          ]
+        },
+        "author_id": "1269442820580016129",
+        "conversation_id": "1970154612830437621",
+        "created_at": "2025-09-22T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970154612830437621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyIG8ZxeNh",
+              "end": 23,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1970154612830437621/photo/1",
+              "media_key": "3_1970154601921069056",
+              "start": 0,
+              "url": "https://t.co/XyIG8ZxeNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970154612830437621",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XyIG8ZxeNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 445,
+          "like_count": 3488,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流｜自家笨蛋 @kithiumR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "kithiumR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "location": "天津市同跨科技有限公司",
+        "name": " Hikari.deb 🏳️‍⚧️ #音游小夜猫",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 670,
+          "like_count": 271157,
+          "listed_count": 11,
+          "media_count": 2231,
+          "tweet_count": 54050
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1971358797840191931",
+    "created_at": "2025-09-25T23:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T00:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971358797840191931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585942498253238273",
+          "start": 3,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971358797840191931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971089648727490773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceEslight: 虽然渴望和人交流，但又惧怕和人交流。谁若向我敞开真心，我就伤害谁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1971358797840191931",
+        "created_at": "2025-09-25T23:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T00:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971358797840191931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585942498253238273",
+              "start": 3,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971358797840191931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971089648727490773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceEslight: 虽然渴望和人交流，但又惧怕和人交流。谁若向我敞开真心，我就伤害谁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "1971089648727490773",
+        "created_at": "2025-09-25T05:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971089648727490773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971089648727490773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然渴望和人交流，但又惧怕和人交流。谁若向我敞开真心，我就伤害谁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 445,
+          "like_count": 3682,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "于睡梦中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "不可思议",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 75,
+          "like_count": 26598,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 9489
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

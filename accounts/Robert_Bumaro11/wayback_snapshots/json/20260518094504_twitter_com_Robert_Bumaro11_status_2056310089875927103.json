@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2056310089875927103",
+    "created_at": "2026-05-18T09:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056310089875927103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053435734737186816",
+          "start": 3,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056310089875927103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056236674192232956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingstaro: 我当时在吃的实际上是唑吡坦口崩片（医师开具医嘱 我遵医嘱使用），但发现能出幻，而且欣快感很强，微醺、迷醉、欢乐\n我去网上检索，发现很多健全人对此感到恐怖，但我却看见了里面巨大的娱乐潜力，一个很安全的安眠药，在医用剂量下能致欣快、迷醉、外幻，这难道不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2056310089875927103",
+        "created_at": "2026-05-18T09:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056310089875927103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053435734737186816",
+              "start": 3,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056310089875927103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056236674192232956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingstaro: 我当时在吃的实际上是唑吡坦口崩片（医师开具医嘱 我遵医嘱使用），但发现能出幻，而且欣快感很强，微醺、迷醉、欢乐\n我去网上检索，发现很多健全人对此感到恐怖，但我却看见了里面巨大的娱乐潜力，一个很安全的安眠药，在医用剂量下能致欣快、迷醉、外幻，这难道不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T04:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056236674192232956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056236674192232956",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时在吃的实际上是唑吡坦口崩片（医师开具医嘱 我遵医嘱使用），但发现能出幻，而且欣快感很强，微醺、迷醉、欢乐\n我去网上检索，发现很多健全人对此感到恐怖，但我却看见了里面巨大的娱乐潜力，一个很安全的安眠药，在医用剂量下能致欣快、迷醉、外幻，这难道不是天才级别的物质吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 529,
+          "like_count": 10067,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 288,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 395
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

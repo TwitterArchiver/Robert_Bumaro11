@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1885661692396519820",
+    "created_at": "2025-02-02T19:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T20:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886128890483204135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813552253875392512",
+          "start": 0,
+          "username": "thomaswade53394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886128890483204135",
+    "in_reply_to_user_id": "1813552253875392512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885661692396519820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thomaswade53394 看到的用量要么是60mg要么是120mg，你可以考虑看看mtfwiki上的资料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1885661692396519820",
+        "created_at": "2025-02-02T19:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886128890483204135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813552253875392512",
+              "start": 0,
+              "username": "thomaswade53394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886128890483204135",
+        "in_reply_to_user_id": "1813552253875392512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885661692396519820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thomaswade53394 看到的用量要么是60mg要么是120mg，你可以考虑看看mtfwiki上的资料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813552253875392512",
+        "conversation_id": "1885661692396519820",
+        "created_at": "2025-02-01T12:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885661692396519820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885661692396519820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想盐酸雷洛昔芬一次要吃多少，主要是身高太高了，周围人吃的又是补和色，没法参考，所以发帖求助一下，打扰了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 225,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T12:32:18.000Z",
+        "description": "",
+        "id": "1813552253875392512",
+        "name": "thomas wade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813552487238160384/xnMWSYo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 320,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 101
+        },
+        "username": "thomaswade53394",
+        "verified": false
+      }
+    ]
+  }
+}

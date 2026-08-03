@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975146224492965991",
+    "created_at": "2025-10-06T10:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T11:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975147093397508541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608294527453876225",
+          "start": 0,
+          "username": "Paris1Von"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975147093397508541",
+    "in_reply_to_user_id": "1608294527453876225",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975146224492965991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paris1Von ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975146221418561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2khBgsbwAATq6q.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975146224492965991",
+        "created_at": "2025-10-06T10:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975147093397508541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608294527453876225",
+              "start": 0,
+              "username": "Paris1Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975147093397508541",
+        "in_reply_to_user_id": "1608294527453876225",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975146224492965991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris1Von ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975146221418561536"
+          ]
+        },
+        "author_id": "1608294527453876225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975146224492965991",
+        "created_at": "2025-10-06T10:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975146224492965991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En0IN7HF7w",
+              "end": 31,
+              "expanded_url": "https://x.com/Paris1Von/status/1975146224492965991/photo/1",
+              "media_key": "3_1975146221418561536",
+              "start": 8,
+              "url": "https://t.co/En0IN7HF7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975146224492965991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是？？？？😨 https://t.co/En0IN7HF7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 446,
+          "like_count": 4527,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx🏳️‍🌈🏳️‍⚧️🇹🇼\n「理想主義者的反義詞，是心中沒有愛的人~」🧀🧀🧀🌏🌍🌎",
+        "id": "1608294527453876225",
+        "location": "Foochow-Min; Republic of China",
+        "name": "Parish🇫🇷🏳️Orit 🇪🇺Von",
+        "pinned_tweet_id": "1884646748725125450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 842,
+          "like_count": 68735,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 2977
+        },
+        "username": "Paris1Von",
+        "verified": false
+      }
+    ]
+  }
+}

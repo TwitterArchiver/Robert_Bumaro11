@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2077556385743839560",
+    "created_at": "2026-07-16T01:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077560530429166048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "760845942618591232",
+          "start": 0,
+          "username": "CarrierVessels9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077560530429166048",
+    "in_reply_to_user_id": "760845942618591232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077556385743839560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarrierVessels9 （听）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077556385743839560",
+        "created_at": "2026-07-16T01:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077560530429166048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "760845942618591232",
+              "start": 0,
+              "username": "CarrierVessels9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077560530429166048",
+        "in_reply_to_user_id": "760845942618591232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077556385743839560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarrierVessels9 （听）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760845942618591232",
+        "conversation_id": "2077556385743839560",
+        "created_at": "2026-07-16T00:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077556385743839560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077556385743839560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在这里说话又有几个人能听到\n\n#可你愿意刷到满屏无意义的垃圾话吗并不#"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 481,
+          "like_count": 13350,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-03T14:33:03.000Z",
+        "description": "衰退",
+        "id": "760845942618591232",
+        "location": "sol III",
+        "name": "饺子",
+        "pinned_tweet_id": "1842245729529872536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888596968584462336/_VAhum-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1464,
+          "like_count": 381086,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 24683
+        },
+        "url": "",
+        "username": "CarrierVessels9",
+        "verified": false
+      }
+    ]
+  }
+}

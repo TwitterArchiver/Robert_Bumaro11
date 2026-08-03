@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2056986398679515445",
+    "created_at": "2026-05-20T06:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056986398679515445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1930060029954273280",
+          "start": 3,
+          "username": "dosukin1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056986398679515445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056945495495659862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dosukin1989: 520出租\n提供一天伴侣服务,包天520r主要有以下业务:\n1.用手斧将肋骨砍下\n2.用锥将肺贯穿\n3.用手半剑将肩膀击碎\n4.用刺剑在身体上开超过十个洞\n5.用锤子将后脑敲碎\n6.用大剑将躯干劈开\n7.用长枪刺穿一个20英寸的洞\n8.用鞭子抽…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2056986398679515445",
+        "created_at": "2026-05-20T06:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056986398679515445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1930060029954273280",
+              "start": 3,
+              "username": "dosukin1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056986398679515445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056945495495659862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dosukin1989: 520出租\n提供一天伴侣服务,包天520r主要有以下业务:\n1.用手斧将肋骨砍下\n2.用锥将肺贯穿\n3.用手半剑将肩膀击碎\n4.用刺剑在身体上开超过十个洞\n5.用锤子将后脑敲碎\n6.用大剑将躯干劈开\n7.用长枪刺穿一个20英寸的洞\n8.用鞭子抽…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930060029954273280",
+        "conversation_id": "2056945495495659862",
+        "created_at": "2026-05-20T03:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056945495495659862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056945495495659862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 397,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "520出租\n提供一天伴侣服务,包天520r主要有以下业务:\n1.用手斧将肋骨砍下\n2.用锥将肺贯穿\n3.用手半剑将肩膀击碎\n4.用刺剑在身体上开超过十个洞\n5.用锤子将后脑敲碎\n6.用大剑将躯干劈开\n7.用长枪刺穿一个20英寸的洞\n8.用鞭子抽落上万块肉\n9.用镰刀…像某人一般沿着空间斩裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 532,
+          "like_count": 10221,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T00:32:34.000Z",
+        "description": "yepii🇨🇳中文/Eng  翻译器使用者  \n🌺/🥄bottom全肯定bot \n🔞里账@yepiiiiirrrr只过眼熟的和喜欢的人\n背景@gotanonobus🌹🌹\n主页99%为碎碎念➕口嗨➕无意义的评论   谢谢你喜欢我的画🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "yepiiiiirrrr"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "gotanonobus"
+              }
+            ]
+          }
+        },
+        "id": "1930060029954273280",
+        "location": "在臭水沟里苟延残喘",
+        "name": "Yepiiieee",
+        "pinned_tweet_id": "2051303223739486332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616683718938624/khHI9Aeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 249,
+          "like_count": 6043,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 3162
+        },
+        "username": "dosukin1989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1917214869843251273",
+    "created_at": "2025-05-01T02:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T03:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917763918619107647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850566454237937664",
+          "start": 0,
+          "username": "anemoneheart912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917763918619107647",
+    "in_reply_to_user_id": "1850566454237937664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917214869843251273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anemoneheart912 对普通人来说参军是好选择吗，怎么到了mtf这里就成好事了，跨对生活的追求天然就比常人低一等是吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1917214869843251273",
+        "created_at": "2025-05-01T02:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T03:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917763918619107647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850566454237937664",
+              "start": 0,
+              "username": "anemoneheart912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917763918619107647",
+        "in_reply_to_user_id": "1850566454237937664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917214869843251273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anemoneheart912 对普通人来说参军是好选择吗，怎么到了mtf这里就成好事了，跨对生活的追求天然就比常人低一等是吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566454237937664",
+        "conversation_id": "1917214869843251273",
+        "created_at": "2025-04-29T13:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917214869843251273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917214869843251273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 98531,
+          "like_count": 501,
+          "quote_count": 9,
+          "reply_count": 65,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到一个真实故事，一个mtf考上大学之后直接参军，两年义务兵退役之后拿到了20万安置费，直接拿钱去做了手术，还有很多结余供自己读完大学。。\n这真的是个很好的思路，两年义务兵比三年衡水高中轻松太多了吧，而且还能锻炼身体，还有钱拿，还有退伍军人优待，还有道德制高点。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 240,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:13.000Z",
+        "description": "曾用名__stdcall，MtF，已SRS，算法竞赛爱好者，ICPC区域赛冠军，音游玩家，喜欢玩游戏，喜欢色色，喜欢Lolita，喜欢可爱的东西。最近在玩：maimai，Ingress，流放之路，FF14，以撒的结合，火炬之光",
+        "id": "1850566454237937664",
+        "location": "厄尔庇斯",
+        "name": "雨萌（放浪神加护）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1850893435420434815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850566747377807360/4nvCn04K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5285,
+          "following_count": 391,
+          "like_count": 29854,
+          "listed_count": 23,
+          "media_count": 130,
+          "tweet_count": 1052
+        },
+        "username": "anemoneheart912",
+        "verified": false
+      }
+    ]
+  }
+}

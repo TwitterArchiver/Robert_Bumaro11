@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075134695105613871",
+    "created_at": "2026-07-09T08:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075134695105613871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1736686097919569920",
+          "start": 3,
+          "username": "sesamesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075134695105613871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882889263845817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sesamesama: 我最近又想社交活动，主要是我需要更多正常人，是基督徒最好，虽然也没什么一定的活动，也算不上有什么深入的爱好和话题。不知道有没有人愿意，希望大家愿意帮忙的转发一下。我觉得自己身边这类朋友还是不够多，焦虑死了。我二十号左右会不在上海一段时间，希望能有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075134695105613871",
+        "created_at": "2026-07-09T08:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075134695105613871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736686097919569920",
+              "start": 3,
+              "username": "sesamesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075134695105613871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882889263845817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sesamesama: 我最近又想社交活动，主要是我需要更多正常人，是基督徒最好，虽然也没什么一定的活动，也算不上有什么深入的爱好和话题。不知道有没有人愿意，希望大家愿意帮忙的转发一下。我觉得自己身边这类朋友还是不够多，焦虑死了。我二十号左右会不在上海一段时间，希望能有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736686097919569920",
+        "conversation_id": "2074882889263845817",
+        "created_at": "2026-07-08T15:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074882889263845817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074882889263845817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我最近又想社交活动，主要是我需要更多正常人，是基督徒最好，虽然也没什么一定的活动，也算不上有什么深入的爱好和话题。不知道有没有人愿意，希望大家愿意帮忙的转发一下。我觉得自己身边这类朋友还是不够多，焦虑死了。我二十号左右会不在上海一段时间，希望能有人邀约。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 457,
+          "like_count": 12565,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T09:53:42.000Z",
+        "description": "自我中心，情绪垃圾桶，易碎高尚的一面",
+        "id": "1736686097919569920",
+        "location": "交界地",
+        "name": "meowdel",
+        "pinned_tweet_id": "2075132933724393929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028948497429667840/ZExPgj9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 539,
+          "like_count": 21294,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 2160
+        },
+        "url": "",
+        "username": "sesamesama",
+        "verified": false
+      }
+    ]
+  }
+}

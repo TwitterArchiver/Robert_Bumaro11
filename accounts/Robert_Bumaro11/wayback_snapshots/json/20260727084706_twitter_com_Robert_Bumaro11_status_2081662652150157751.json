@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081662652150157751",
+    "created_at": "2026-07-27T08:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081662652150157751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1601549039287566336",
+          "start": 3,
+          "username": "mmmammm_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081662652150157751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081518590214217919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmammm_a: 我可以如此简单地改变我宣称的东西，即使社会对待我的方式没有发生丝毫的改变——我可以如此简单地改变我的性别，即使社会将我放置在的性别的位置没有发生丝毫的改变"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081662652150157751",
+        "created_at": "2026-07-27T08:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081662652150157751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1601549039287566336",
+              "start": 3,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081662652150157751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081518590214217919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmmammm_a: 我可以如此简单地改变我宣称的东西，即使社会对待我的方式没有发生丝毫的改变——我可以如此简单地改变我的性别，即使社会将我放置在的性别的位置没有发生丝毫的改变"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2081518049748832490",
+        "created_at": "2026-07-26T23:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081518590214217919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081518590214217919",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081518049748832490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以如此简单地改变我宣称的东西，即使社会对待我的方式没有发生丝毫的改变——我可以如此简单地改变我的性别，即使社会将我放置在的性别的位置没有发生丝毫的改变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 485,
+          "like_count": 13997,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She/ They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 290,
+          "like_count": 15594,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 6170
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": false
+      }
+    ]
+  }
+}

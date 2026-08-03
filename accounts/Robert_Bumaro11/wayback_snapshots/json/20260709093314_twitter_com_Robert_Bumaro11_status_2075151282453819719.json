@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774119699779584",
+          "name": "Kylian Mbappe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774119699779584",
+          "name": "Kylian Mbappe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774119699779584",
+          "name": "Kylian Mbappe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774119699779584",
+          "name": "Kylian Mbappe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774119699779584",
+          "name": "Kylian Mbappe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2075151282453819719",
+    "created_at": "2026-07-09T09:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075151282453819719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DaniMayakovski…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/DaniMayakovski/status/2074749031285211582",
+          "start": 8,
+          "url": "https://t.co/95iX6bB4Xr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075151282453819719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074749031285211582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个翻译 https://t.co/95iX6bB4Xr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22088,
+        "height": 1080,
+        "media_key": "13_2074748097251495936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074748097251495936/img/VlZz00jyDnZ9T0dn.jpg",
+        "public_metrics": {
+          "view_count": 1722299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074748097251495936/vid/avc1/1280x720/5sTQHWJg9X4sIwkT.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074748097251495936/vid/avc1/480x270/OQqXrKC_7UQEhfIX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074748097251495936/vid/avc1/640x360/0weSlxxMbiuFDiWE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074748097251495936/pl/JWuwp_IGg6G9pku2.m3u8?v=56e"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074748097251495936/vid/avc1/1920x1080/u6BC-eu8fzpTxffX.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2075151282453819719",
+        "created_at": "2026-07-09T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075151282453819719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DaniMayakovski…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/DaniMayakovski/status/2074749031285211582",
+              "start": 8,
+              "url": "https://t.co/95iX6bB4Xr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075151282453819719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074749031285211582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个翻译 https://t.co/95iX6bB4Xr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074748097251495936"
+          ]
+        },
+        "author_id": "1528872169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774119699779584",
+              "name": "Kylian Mbappe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2074749031285211582",
+        "created_at": "2026-07-08T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074749031285211582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srPwx3jSDb",
+              "end": 303,
+              "expanded_url": "https://x.com/DaniMayakovski/status/2074749031285211582/video/1",
+              "media_key": "13_2074748097251495936",
+              "start": 280,
+              "url": "https://t.co/srPwx3jSDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749031285211582",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "\"Yo no tengo que pedir disculpas a Mbappé por decir que chupaba cocos en vez de leche materna y solo conocía a chimpancés. Yo vengo de una sociedad donde se le pegaba a los gays y decir negro de mierda era lo más usual\".\n\nCeleste Amarilla, una senadora ultraderechista paraguaya, aseguró que no tiene que pedirle perdón al jugador francés Mbappé, después de insultarle gravemente de manera racista.\n\nHasta donde llega la enfermedad racista en esta sociedad, para creerte aria por ser un poco menos negro que el de al lado."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3270,
+          "impression_count": 3249917,
+          "like_count": 21337,
+          "quote_count": 1365,
+          "reply_count": 2693,
+          "retweet_count": 4990
+        },
+        "reply_settings": "everyone",
+        "text": "\"Yo no tengo que pedir disculpas a Mbappé por decir que chupaba cocos en vez de leche materna y solo conocía a chimpancés. Yo vengo de una sociedad donde se le pegaba a los gays y decir negro de mierda era lo más usual\".\n\nCeleste Amarilla, una senadora ultraderechista paraguaya, https://t.co/srPwx3jSDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 457,
+          "like_count": 12575,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-18T21:06:10.000Z",
+        "description": "Somos los que no alcanzaremos el mar\npero permaneceremos en la lluvia.\nSomos los que aún habrán de nacer. ☭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/danielmayakovs…",
+                "end": 23,
+                "expanded_url": "http://t.me/danielmayakovski",
+                "start": 0,
+                "url": "https://t.co/UcFc3OKSIr"
+              }
+            ]
+          }
+        },
+        "id": "1528872169",
+        "name": "Daniel Mayakovski",
+        "pinned_tweet_id": "2066145048643736034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396666822762565632/rTm7gs8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219433,
+          "following_count": 220,
+          "like_count": 38521,
+          "listed_count": 948,
+          "media_count": 32822,
+          "tweet_count": 52894
+        },
+        "url": "https://t.co/UcFc3OKSIr",
+        "username": "DaniMayakovski",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081788578481451155",
+    "created_at": "2026-07-27T17:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081788578481451155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943773697086558209",
+          "start": 3,
+          "username": "sukikage_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081788578481451155",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44080
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081358350499844490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukikage_: you really could be DEPRESSED for MONTHS and the only thing people will notice about you is how easily you get irritated"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081788578481451155",
+        "created_at": "2026-07-27T17:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081788578481451155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943773697086558209",
+              "start": 3,
+              "username": "sukikage_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081788578481451155",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44080
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081358350499844490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukikage_: you really could be DEPRESSED for MONTHS and the only thing people will notice about you is how easily you get irritated"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943773697086558209",
+        "conversation_id": "2081358350499844490",
+        "created_at": "2026-07-26T12:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081358350499844490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081358350499844490",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10362,
+          "impression_count": 3144904,
+          "like_count": 250127,
+          "quote_count": 1805,
+          "reply_count": 417,
+          "retweet_count": 44070
+        },
+        "reply_settings": "everyone",
+        "text": "you really could be DEPRESSED for MONTHS and the only thing people will notice about you is how easily you get irritated"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 487,
+          "like_count": 14348,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T20:46:17.000Z",
+        "description": "",
+        "id": "1943773697086558209",
+        "name": "kage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070028468121714688/O4Qf_0BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 38,
+          "like_count": 3631,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "sukikage_",
+        "verified": false
+      }
+    ]
+  }
+}

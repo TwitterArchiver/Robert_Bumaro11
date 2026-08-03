@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1953519618389410134",
+    "created_at": "2025-08-08T12:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T13:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953801008309493776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "471019735",
+          "start": 0,
+          "username": "Gelm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953801008309493776",
+    "in_reply_to_user_id": "471019735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953783799193727420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gelm01 大概是认为我怀恨在心罢，本来是比较好的朋友后来闹翻了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1953519618389410134",
+        "created_at": "2025-08-08T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953801008309493776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "471019735",
+              "start": 0,
+              "username": "Gelm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953801008309493776",
+        "in_reply_to_user_id": "471019735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953783799193727420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gelm01 大概是认为我怀恨在心罢，本来是比较好的朋友后来闹翻了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "471019735",
+        "conversation_id": "1953519618389410134",
+        "created_at": "2025-08-08T11:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953783799193727420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953783799193727420",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953520877204910562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 怎样的不怀好意？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 376,
+          "like_count": 2214,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 141
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "🏳️‍⚧️\nDude, Where is my life?",
+        "id": "471019735",
+        "location": "月へ届け",
+        "name": "少年期の終り🏵✝️羽海野先生好き",
+        "pinned_tweet_id": "1949143480732651775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950436123228205056/4gqnxz2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 535,
+          "like_count": 2297,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 2810
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

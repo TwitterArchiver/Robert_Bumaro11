@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983512392903655549",
+    "created_at": "2025-10-29T12:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983512392903655549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893026488662007810",
+          "start": 3,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983512392903655549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983349567434436978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youmu0187: 您的意思是，您一天要抱五六个人，贴三四个人，揉七八个人，但您还是在意我的，请问是这个意思吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983512392903655549",
+        "created_at": "2025-10-29T12:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983512392903655549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893026488662007810",
+              "start": 3,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983512392903655549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983349567434436978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youmu0187: 您的意思是，您一天要抱五六个人，贴三四个人，揉七八个人，但您还是在意我的，请问是这个意思吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "1983349567434436978",
+        "created_at": "2025-10-29T01:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983349567434436978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983349567434436978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14039,
+          "like_count": 170,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "您的意思是，您一天要抱五六个人，贴三四个人，揉七八个人，但您还是在意我的，请问是这个意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 446,
+          "like_count": 5566,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965804929576214528/qK5YFJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 312,
+          "like_count": 7096,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 4323
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

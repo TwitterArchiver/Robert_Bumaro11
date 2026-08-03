@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966466735818813851",
+    "created_at": "2025-09-12T11:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T12:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966466735818813851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1800475140272066560",
+          "start": 3,
+          "username": "xiangcaiiiiiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966466735818813851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966123935331987884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangcaiiiiiio: 我没有主动找人的习惯，但是如果有人坚持连着几天主动找我，形成习惯后我就会经常去看他的对话框，无关恋爱，我愿意去找愿意找我的人。但是如果对方显得并不那么想继续和我玩下去，我也会打退堂鼓，我是国家一级退堂鼓选手。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966466735818813851",
+        "created_at": "2025-09-12T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966466735818813851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1800475140272066560",
+              "start": 3,
+              "username": "xiangcaiiiiiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966466735818813851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966123935331987884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiangcaiiiiiio: 我没有主动找人的习惯，但是如果有人坚持连着几天主动找我，形成习惯后我就会经常去看他的对话框，无关恋爱，我愿意去找愿意找我的人。但是如果对方显得并不那么想继续和我玩下去，我也会打退堂鼓，我是国家一级退堂鼓选手。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800475140272066560",
+        "conversation_id": "1966123935331987884",
+        "created_at": "2025-09-11T12:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966123935331987884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966123935331987884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 61396,
+          "like_count": 731,
+          "quote_count": 23,
+          "reply_count": 50,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "我没有主动找人的习惯，但是如果有人坚持连着几天主动找我，形成习惯后我就会经常去看他的对话框，无关恋爱，我愿意去找愿意找我的人。但是如果对方显得并不那么想继续和我玩下去，我也会打退堂鼓，我是国家一级退堂鼓选手。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 395,
+          "like_count": 2784,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 207
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T10:28:27.000Z",
+        "description": "ENFJ双子/不约/发推随缘看心情/傻屌离我远点",
+        "id": "1800475140272066560",
+        "location": "0.1KM",
+        "name": "多加香菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942653075937759232/GXuNrTxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 145,
+          "like_count": 19084,
+          "listed_count": 9,
+          "media_count": 219,
+          "tweet_count": 6845
+        },
+        "username": "xiangcaiiiiiio",
+        "verified": false
+      }
+    ]
+  }
+}

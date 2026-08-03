@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075541208856957228",
+    "created_at": "2026-07-10T11:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075545497314693492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1743531573478363136",
+          "start": 0,
+          "username": "chionli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075545497314693492",
+    "in_reply_to_user_id": "1743531573478363136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075544806437339519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chionli 善哉🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075541208856957228",
+        "created_at": "2026-07-10T11:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075545497314693492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1743531573478363136",
+              "start": 0,
+              "username": "chionli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075545497314693492",
+        "in_reply_to_user_id": "1743531573478363136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075544806437339519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chionli 善哉🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743531573478363136",
+        "conversation_id": "2075541208856957228",
+        "created_at": "2026-07-10T11:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075544806437339519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075544806437339519",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075541208856957228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 这个东西从医学伦理上是自愿的不想要的话你完全可以拒绝。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 458,
+          "like_count": 12710,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1738
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T07:15:08.000Z",
+        "description": "was/were\nfate or destiny\n\nWe will be together that never apart.\n\nI love you all❤️🥰🥰",
+        "id": "1743531573478363136",
+        "location": "molecular orbital",
+        "name": "i.a.c",
+        "pinned_tweet_id": "2030552008349093936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629062096142336/HijGL79K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 298,
+          "like_count": 3230,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2362
+        },
+        "url": "",
+        "username": "chionli",
+        "verified": false
+      }
+    ]
+  }
+}

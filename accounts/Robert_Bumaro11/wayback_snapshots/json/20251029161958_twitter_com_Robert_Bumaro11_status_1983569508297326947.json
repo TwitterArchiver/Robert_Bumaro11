@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983569508297326947",
+    "created_at": "2025-10-29T16:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983569508297326947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224033596249382912",
+          "start": 3,
+          "username": "Uturo_Bune"
+        },
+        {
+          "end": 60,
+          "id": "1438420916518539267",
+          "start": 48,
+          "username": "Engelsu0621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983569508297326947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983394724460593662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uturo_Bune: 为了澄清我的真面目，为了证明你并未错付信任，我永远的所爱之人啊。@Engelsu0621 请不要再怀疑我说的一切是在威胁你，因为，现在我明确告诉你，即使你主动找我复合，我也不可能答应。我从不后悔曾经爱过你，我在未来也会依然爱你，但我不会再和你复合…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_1983394717384757248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Zu_Ksa0AAgF_t.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983569508297326947",
+        "created_at": "2025-10-29T16:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983569508297326947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224033596249382912",
+              "start": 3,
+              "username": "Uturo_Bune"
+            },
+            {
+              "end": 60,
+              "id": "1438420916518539267",
+              "start": 48,
+              "username": "Engelsu0621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983569508297326947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983394724460593662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uturo_Bune: 为了澄清我的真面目，为了证明你并未错付信任，我永远的所爱之人啊。@Engelsu0621 请不要再怀疑我说的一切是在威胁你，因为，现在我明确告诉你，即使你主动找我复合，我也不可能答应。我从不后悔曾经爱过你，我在未来也会依然爱你，但我不会再和你复合…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983394717384757248"
+          ]
+        },
+        "author_id": "1224033596249382912",
+        "conversation_id": "1983394724460593662",
+        "created_at": "2025-10-29T04:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983394724460593662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1438420916518539267",
+              "start": 32,
+              "username": "Engelsu0621"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCDta3zK06",
+              "end": 169,
+              "expanded_url": "https://x.com/Uturo_Bune/status/1983394724460593662/photo/1",
+              "media_key": "3_1983394717384757248",
+              "start": 146,
+              "url": "https://t.co/lCDta3zK06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983394724460593662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了澄清我的真面目，为了证明你并未错付信任，我永远的所爱之人啊。@Engelsu0621 请不要再怀疑我说的一切是在威胁你，因为，现在我明确告诉你，即使你主动找我复合，我也不可能答应。我从不后悔曾经爱过你，我在未来也会依然爱你，但我不会再和你复合，一切推友皆可见证。若违此誓，人神共弃。。。 https://t.co/lCDta3zK06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 447,
+          "like_count": 5608,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "因此，时间将来到，他们眼睛上的鳞片将脱落｜妹妹@suwanzi2333｜导师@CMWither｜白月光@Engelsu0621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "suwanzi2333"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "CMWither"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Engelsu0621"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "1955065959464702427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959725077286854656/BR6dJPAQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 293,
+          "like_count": 34582,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 8373
+        },
+        "username": "Uturo_Bune",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 915,
+          "like_count": 25750,
+          "listed_count": 7,
+          "media_count": 2311,
+          "tweet_count": 24807
+        },
+        "username": "Engelsu0621",
+        "verified": false
+      }
+    ]
+  }
+}

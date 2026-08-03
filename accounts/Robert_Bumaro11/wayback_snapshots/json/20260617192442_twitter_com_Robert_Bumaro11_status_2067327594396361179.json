@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2067327594396361179",
+    "created_at": "2026-06-17T19:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067327594396361179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yacht_ono/stat…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/yacht_ono/status/2066978101603774715",
+          "start": 124,
+          "url": "https://t.co/XYgs8v3XWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067327594396361179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066978101603774715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无关碎碎念:\n\n按照这个说法我童年时候是最爱全人类的了（谁说未必）社交能力微升很大程度源于见证了真实人类之败坏。\n但我仍然无法不在他人面前感到卑劣...以至于我会条件反射般地选择损己策略（？），会永远觉得自己没有任何价值不应该得到任何成就与胜利。 https://t.co/XYgs8v3XWC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2067327594396361179",
+        "created_at": "2026-06-17T19:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067327594396361179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yacht_ono/stat…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/yacht_ono/status/2066978101603774715",
+              "start": 124,
+              "url": "https://t.co/XYgs8v3XWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067327594396361179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066978101603774715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无关碎碎念:\n\n按照这个说法我童年时候是最爱全人类的了（谁说未必）社交能力微升很大程度源于见证了真实人类之败坏。\n但我仍然无法不在他人面前感到卑劣...以至于我会条件反射般地选择损己策略（？），会永远觉得自己没有任何价值不应该得到任何成就与胜利。 https://t.co/XYgs8v3XWC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2066978101603774715",
+        "created_at": "2026-06-16T20:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066978101603774715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066978101603774715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 737,
+          "impression_count": 108834,
+          "like_count": 3242,
+          "quote_count": 38,
+          "reply_count": 63,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "奧黛丽赫本曾說：「你和谁在一起既害羞又自卑，你就最爱谁，你和誰在一起最放松最自由，谁就最爱你。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 425,
+          "like_count": 11758,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪52",
+        "name": "yacht",
+        "pinned_tweet_id": "2066917575884460113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 36,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075223937605366081",
+    "created_at": "2026-07-09T14:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075223937605366081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1123385386363969536",
+          "start": 3,
+          "username": "yozuha15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075223937605366081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074896540767068523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yozuha15: 我需要动力，需要让自己活下去的燃料，很多很多无穷无尽！我只要停止看动画片之类的，我就会想死，而想死的状态严重到我连看动画片启动都困难，看也不是完全能变好，我只能祈祷哪一个片段触动了我给我哪怕一分钟的燃料让我可以喝一杯水照顾自己一下让这个状态从完全负循…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075223937605366081",
+        "created_at": "2026-07-09T14:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075223937605366081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1123385386363969536",
+              "start": 3,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075223937605366081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074896540767068523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yozuha15: 我需要动力，需要让自己活下去的燃料，很多很多无穷无尽！我只要停止看动画片之类的，我就会想死，而想死的状态严重到我连看动画片启动都困难，看也不是完全能变好，我只能祈祷哪一个片段触动了我给我哪怕一分钟的燃料让我可以喝一杯水照顾自己一下让这个状态从完全负循…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1123385386363969536",
+        "conversation_id": "2074896540767068523",
+        "created_at": "2026-07-08T16:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:38:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074895865999986887",
+          "2074895998816747639",
+          "2074896369958126057",
+          "2074896540767068523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074896540767068523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我需要动力，需要让自己活下去的燃料，很多很多无穷无尽！我只要停止看动画片之类的，我就会想死，而想死的状态严重到我连看动画片启动都困难，看也不是完全能变好，我只能祈祷哪一个片段触动了我给我哪怕一分钟的燃料让我可以喝一杯水照顾自己一下让这个状态从完全负循环开始滚动起来……从完全失能的状态挣扎起来需要很精密的步骤非常花时间非常痛苦，而跌落到这种状态又太简单，完全不可控，上一秒想通的事情下一秒会因为同样的理由崩溃，至今也没有总结出一套可以挣脱这套状态的SOP，我不是在失能想死就是在恐惧自己马上变回失能状态，好想有无穷无尽的支撑我一次一次站起来的力量，虽然听起来很废物，但我很努力地尽量把自己当热血漫主角来活着了，其实我一直在当我一个人的英雄，虽然每次对我而言超级盛大的战斗其实都无人在意，只是我自己想挑战自己而已。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1326,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我需要动力，需要让自己活下去的燃料，很多很多无穷无尽！我只要停止看动画片之类的，我就会想死，而想死的状态严重到我连看动画片启动都困难，看也不是完全能变好，我只能祈祷哪一个片段触动了我给我哪怕一分钟的燃料让我可以喝一杯水照顾自己一下让这个状态从完全负循环开始滚动起来……从完全失能的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 457,
+          "like_count": 12592,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T00:35:22.000Z",
+        "description": "=鱼子酱   水豚转发bot，本体是水豚‖虎鲸性恋月性恋三文鱼性恋‖真的不会写代码‖不懂二次元的美妙的人永别了",
+        "id": "1123385386363969536",
+        "location": "外太空✨",
+        "name": "讴歌终结之物",
+        "pinned_tweet_id": "2063606076680110262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046976246685544448/1ngCNHt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 1582,
+          "like_count": 10061,
+          "listed_count": 12,
+          "media_count": 1595,
+          "tweet_count": 16061
+        },
+        "url": "",
+        "username": "yozuha15",
+        "verified": true
+      }
+    ]
+  }
+}

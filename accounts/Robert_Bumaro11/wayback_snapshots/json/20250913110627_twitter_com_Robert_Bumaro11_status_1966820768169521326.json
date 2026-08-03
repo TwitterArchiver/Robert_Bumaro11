@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966707913558552615",
+    "created_at": "2025-09-13T11:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966820768169521326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1015788561088630791",
+          "start": 0,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966820768169521326",
+    "in_reply_to_user_id": "1015788561088630791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966707913558552615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_ruyue 女的也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966707913558552615",
+        "created_at": "2025-09-13T11:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966820768169521326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966820768169521326",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966707913558552615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue 女的也一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1966707913558552615",
+        "created_at": "2025-09-13T03:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T04:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966707913558552615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966707913558552615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3357,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人为什么稍微大一点就会变成那种很油腻很无趣一天到晚都不知道在为了什么活着的古神？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 399,
+          "like_count": 2836,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 236
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "晚安",
+        "id": "1015788561088630791",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "如月",
+        "pinned_tweet_id": "1965452763326038099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830584532141215744/PblY5QNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33559,
+          "following_count": 4121,
+          "like_count": 151496,
+          "listed_count": 85,
+          "media_count": 2666,
+          "tweet_count": 29704
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

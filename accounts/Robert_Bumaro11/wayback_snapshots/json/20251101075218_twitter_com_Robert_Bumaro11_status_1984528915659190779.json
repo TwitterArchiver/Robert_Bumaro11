@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1984528915659190779",
+    "created_at": "2025-11-01T07:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T08:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984528915659190779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KaminariLatsqe…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/KaminariLatsqem/status/1984455010579894565",
+          "start": 31,
+          "url": "https://t.co/khp9PbPorv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984528915659190779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984455010579894565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果有一天我需要靠开证来肯定自己的性别，那真是走了邪路了，， https://t.co/khp9PbPorv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1984528915659190779",
+        "created_at": "2025-11-01T07:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984528915659190779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KaminariLatsqe…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/KaminariLatsqem/status/1984455010579894565",
+              "start": 31,
+              "url": "https://t.co/khp9PbPorv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984528915659190779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984455010579894565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有一天我需要靠开证来肯定自己的性别，那真是走了邪路了，， https://t.co/khp9PbPorv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733617892550316032",
+        "conversation_id": "1984140812339572898",
+        "created_at": "2025-11-01T02:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984455010579894565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896363597623902208",
+              "start": 0,
+              "username": "yucandyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984455010579894565",
+        "in_reply_to_user_id": "1896363597623902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984140812339572898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yucandyyyy 因为这样的缘故，我特别特别抗拒开证。\n因为我觉得一旦我去开证，就等于承认医疗共同体和公权力有权来 judge 我的性别，而他们实际上并没有这样的权力，所以我也不会承认。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 453,
+          "like_count": 5777,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-20T11:18:30.000Z",
+        "description": "思想被主義姦污得苦。\n\n可能是臭蝈蝻。\n\n基督徒。\n\n推特沒人認識，大概偶爾會發一些不經的言論，雖無道理，皆是性情中語，勿較真。\n\n伴侣 @Hsiu_suwako\n\n主人 @SagiriYamamoto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Hsiu_suwako"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "SagiriYamamoto"
+              }
+            ]
+          }
+        },
+        "id": "733617892550316032",
+        "name": "神鳴大音",
+        "pinned_tweet_id": "1711323111239602496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560151680833839104/0sJkQyN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 961,
+          "like_count": 35628,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 9711
+        },
+        "username": "KaminariLatsqem",
+        "verified": false
+      }
+    ]
+  }
+}

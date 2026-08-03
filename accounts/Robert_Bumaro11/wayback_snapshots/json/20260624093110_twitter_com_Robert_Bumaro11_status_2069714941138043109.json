@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2069714941138043109",
+    "created_at": "2026-06-24T09:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069714941138043109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401733664682102786",
+          "start": 3,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069714941138043109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067980712100446696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mukdengise: 活在一个自己假想的世界里不会让你的理论和运动显得更漂亮更正确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2069714941138043109",
+        "created_at": "2026-06-24T09:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069714941138043109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401733664682102786",
+              "start": 3,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069714941138043109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067980712100446696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mukdengise: 活在一个自己假想的世界里不会让你的理论和运动显得更漂亮更正确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "2067980712100446696",
+        "created_at": "2026-06-19T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067980712100446696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mitsumi_mizuki…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/mitsumi_mizuki/status/2067296612695552072",
+              "start": 31,
+              "url": "https://t.co/gIAUUGCcIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067980712100446696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067296612695552072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活在一个自己假想的世界里不会让你的理论和运动显得更漂亮更正确 https://t.co/gIAUUGCcIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 425,
+          "like_count": 11817,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/好诡秘：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2045520898812481725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10326,
+          "following_count": 763,
+          "like_count": 140805,
+          "listed_count": 51,
+          "media_count": 1903,
+          "tweet_count": 25323
+        },
+        "url": "",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

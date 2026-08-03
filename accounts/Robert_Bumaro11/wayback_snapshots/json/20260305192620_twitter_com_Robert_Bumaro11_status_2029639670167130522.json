@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2029639670167130522",
+    "created_at": "2026-03-05T19:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T20:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029639670167130522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811173170600464384",
+          "start": 3,
+          "username": "HateQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029639670167130522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029613678056657258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HateQAQ: 看一堆冠着“成年人的balabala”的蠢话就完全感觉这些人就把麻木市侩冷漠和烂掉的感觉写脸上了。不是每个人长大都会变成你们这样的烂人的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2029639670167130522",
+        "created_at": "2026-03-05T19:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T20:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029639670167130522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811173170600464384",
+              "start": 3,
+              "username": "HateQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029639670167130522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029613678056657258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HateQAQ: 看一堆冠着“成年人的balabala”的蠢话就完全感觉这些人就把麻木市侩冷漠和烂掉的感觉写脸上了。不是每个人长大都会变成你们这样的烂人的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811173170600464384",
+        "conversation_id": "2029613678056657258",
+        "created_at": "2026-03-05T17:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029613678056657258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029613678056657258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看一堆冠着“成年人的balabala”的蠢话就完全感觉这些人就把麻木市侩冷漠和烂掉的感觉写脸上了。不是每个人长大都会变成你们这样的烂人的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 476,
+          "like_count": 8322,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T22:58:39.000Z",
+        "description": "碎碎念丧丧属鼠// 酷拉皮卡形态维持中//indie game开发中… //发癫和黄色废料@aldrigfo_kralek//老攻@matlab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "aldrigfo_kralek"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "matlab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amoresogno",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amoresogno",
+                "start": 0,
+                "url": "https://t.co/0p8J4ApRkF"
+              }
+            ]
+          }
+        },
+        "id": "1811173170600464384",
+        "location": "Oslo, Norway",
+        "name": "囤囤宅鼠",
+        "pinned_tweet_id": "1950676971903742002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911270211241590785/JKLw4tkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 515,
+          "like_count": 40858,
+          "listed_count": 2,
+          "media_count": 1120,
+          "tweet_count": 9623
+        },
+        "url": "https://t.co/0p8J4ApRkF",
+        "username": "HateQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

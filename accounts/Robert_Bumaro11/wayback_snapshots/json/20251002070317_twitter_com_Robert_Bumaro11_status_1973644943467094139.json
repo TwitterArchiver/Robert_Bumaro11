@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1973644943467094139",
+    "created_at": "2025-10-02T07:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T08:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973644943467094139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "471019735",
+          "start": 3,
+          "username": "Gelm01"
+        }
+      ],
+      "urls": [
+        {
+          "description": "这是这篇回应反跨话术的文章的第一部分，包括对三条经典话术（跨性别是西方资本阴谋、中产阶级特权游戏、破坏团结的分裂行径）的反驳。剩下的部分将会连载发布。我并没有专业的理论背景，对跨性别议题的了解也非常有限，如果我的表达有任何事实或理论错误或不妥当的地方，或者如果您有改进或补充意见，都欢迎在评论或私信在指出。 前言 写这篇文章的目的是为了回应当下简中互联网上常见的反跨、恐跨话语，对其中的错误信息与谬误...",
+          "display_url": "douban.com/note/876317125/",
+          "end": 76,
+          "expanded_url": "http://www.douban.com/note/876317125/",
+          "start": 53,
+          "status": 200,
+          "title": "为什么你应该支持跨性别——一份简明回应当下常见反跨话术的指南（一）",
+          "unwound_url": "https://www.douban.com/note/876317125/",
+          "url": "https://t.co/zQOhbKyqW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973644943467094139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973644494777229460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gelm01: 建议大家来读读这篇：为什么你应该支持跨性别——一份简明回应当下常见反跨话术的指南\nhttps://t.co/zQOhbKyqW0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1973644943467094139",
+        "created_at": "2025-10-02T07:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973644943467094139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "471019735",
+              "start": 3,
+              "username": "Gelm01"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这是这篇回应反跨话术的文章的第一部分，包括对三条经典话术（跨性别是西方资本阴谋、中产阶级特权游戏、破坏团结的分裂行径）的反驳。剩下的部分将会连载发布。我并没有专业的理论背景，对跨性别议题的了解也非常有限，如果我的表达有任何事实或理论错误或不妥当的地方，或者如果您有改进或补充意见，都欢迎在评论或私信在指出。 前言 写这篇文章的目的是为了回应当下简中互联网上常见的反跨、恐跨话语，对其中的错误信息与谬误...",
+              "display_url": "douban.com/note/876317125/",
+              "end": 76,
+              "expanded_url": "http://www.douban.com/note/876317125/",
+              "start": 53,
+              "status": 200,
+              "title": "为什么你应该支持跨性别——一份简明回应当下常见反跨话术的指南（一）",
+              "unwound_url": "https://www.douban.com/note/876317125/",
+              "url": "https://t.co/zQOhbKyqW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973644943467094139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973644494777229460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gelm01: 建议大家来读读这篇：为什么你应该支持跨性别——一份简明回应当下常见反跨话术的指南\nhttps://t.co/zQOhbKyqW0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "471019735",
+        "conversation_id": "1973644494777229460",
+        "created_at": "2025-10-02T07:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973644494777229460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这是这篇回应反跨话术的文章的第一部分，包括对三条经典话术（跨性别是西方资本阴谋、中产阶级特权游戏、破坏团结的分裂行径）的反驳。剩下的部分将会连载发布。我并没有专业的理论背景，对跨性别议题的了解也非常有限，如果我的表达有任何事实或理论错误或不妥当的地方，或者如果您有改进或补充意见，都欢迎在评论或私信在指出。 前言 写这篇文章的目的是为了回应当下简中互联网上常见的反跨、恐跨话语，对其中的错误信息与谬误...",
+              "display_url": "douban.com/note/876317125/",
+              "end": 64,
+              "expanded_url": "http://www.douban.com/note/876317125/",
+              "start": 41,
+              "status": 200,
+              "title": "为什么你应该支持跨性别——一份简明回应当下常见反跨话术的指南（一）",
+              "unwound_url": "https://www.douban.com/note/876317125/",
+              "url": "https://t.co/zQOhbKyqW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973644494777229460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "建议大家来读读这篇：为什么你应该支持跨性别——一份简明回应当下常见反跨话术的指南\nhttps://t.co/zQOhbKyqW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 444,
+          "like_count": 4137,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "一盏灯，一个人，失眠夜。幽烛微芒",
+        "id": "471019735",
+        "location": "月まで届け",
+        "name": "少年期の終り🏵✝️",
+        "pinned_tweet_id": "1971207483176910895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960359102070362112/OogCw3Io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 581,
+          "like_count": 3243,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 3635
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

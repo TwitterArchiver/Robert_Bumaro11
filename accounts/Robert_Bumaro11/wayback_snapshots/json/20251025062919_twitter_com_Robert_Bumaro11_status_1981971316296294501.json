@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981793835303776256"
+      ],
+      "media_source_tweet_id": [
+        "1981793886487117939"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1981971316296294501",
+    "created_at": "2025-10-25T06:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T07:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981971316296294501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C246JfwYFu",
+          "end": 63,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1981793886487117939/photo/1",
+          "media_key": "3_1981793835303776256",
+          "start": 40,
+          "url": "https://t.co/C246JfwYFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981971316296294501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981793886487117939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 望周知，这个东西和把我单删了没什么区别 https://t.co/C246JfwYFu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_1981793835303776256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4C-_kNXMAA_a72.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981793835303776256"
+          ],
+          "media_source_tweet_id": [
+            "1981793886487117939"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1981971316296294501",
+        "created_at": "2025-10-25T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981971316296294501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C246JfwYFu",
+              "end": 63,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1981793886487117939/photo/1",
+              "media_key": "3_1981793835303776256",
+              "start": 40,
+              "url": "https://t.co/C246JfwYFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981971316296294501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981793886487117939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 望周知，这个东西和把我单删了没什么区别 https://t.co/C246JfwYFu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981793835303776256"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1981793886487117939",
+        "created_at": "2025-10-24T18:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981793886487117939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C246JfwYFu",
+              "end": 43,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1981793886487117939/photo/1",
+              "media_key": "3_1981793835303776256",
+              "start": 20,
+              "url": "https://t.co/C246JfwYFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981793886487117939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16191,
+          "like_count": 209,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "望周知，这个东西和把我单删了没什么区别 https://t.co/C246JfwYFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 443,
+          "like_count": 5459,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8258,
+          "following_count": 7213,
+          "like_count": 25791,
+          "listed_count": 15,
+          "media_count": 5744,
+          "tweet_count": 38174
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

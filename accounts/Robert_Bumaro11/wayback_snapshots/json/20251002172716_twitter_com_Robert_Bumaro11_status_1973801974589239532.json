@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1973720738319528308",
+    "created_at": "2025-10-02T17:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T18:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973801974589239532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973801974589239532",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973720738319528308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo6ji4 不！有趣吗！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1973720738319528308",
+        "created_at": "2025-10-02T17:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973801974589239532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973801974589239532",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973720738319528308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 不！有趣吗！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742381695045939200",
+        "conversation_id": "1973720738319528308",
+        "created_at": "2025-10-02T12:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T13:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973720738319528308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973720738319528308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉说话带一堆感叹号的都很味大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 444,
+          "like_count": 4202,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "35zf_out"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Bingfei2v2"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）性压抑下头男",
+        "pinned_tweet_id": "1948006603099447615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 1054,
+          "like_count": 129101,
+          "listed_count": 9,
+          "media_count": 2263,
+          "tweet_count": 32280
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

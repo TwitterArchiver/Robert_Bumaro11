@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083071484675903488"
+      ],
+      "media_source_tweet_id": [
+        "2083071491999182883"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2083074464829583538",
+    "created_at": "2026-07-31T06:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083074464829583538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967257406129504256",
+          "start": 3,
+          "username": "Zdu1279757"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tUxmAFKfoE",
+          "end": 39,
+          "expanded_url": "https://x.com/Zdu1279757/status/2083071491999182883/photo/1",
+          "media_key": "3_2083071484675903488",
+          "start": 16,
+          "url": "https://t.co/tUxmAFKfoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083074464829583538",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083071491999182883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zdu1279757: https://t.co/tUxmAFKfoE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083071484675903488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiOeo3aUAAezVg.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083071484675903488"
+          ]
+        },
+        "author_id": "1967257406129504256",
+        "conversation_id": "2083071491999182883",
+        "created_at": "2026-07-31T06:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083071491999182883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUxmAFKfoE",
+              "end": 23,
+              "expanded_url": "https://x.com/Zdu1279757/status/2083071491999182883/photo/1",
+              "media_key": "3_2083071484675903488",
+              "start": 0,
+              "url": "https://t.co/tUxmAFKfoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083071491999182883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tUxmAFKfoE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083071484675903488"
+          ],
+          "media_source_tweet_id": [
+            "2083071491999182883"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2083074464829583538",
+        "created_at": "2026-07-31T06:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083074464829583538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967257406129504256",
+              "start": 3,
+              "username": "Zdu1279757"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUxmAFKfoE",
+              "end": 39,
+              "expanded_url": "https://x.com/Zdu1279757/status/2083071491999182883/photo/1",
+              "media_key": "3_2083071484675903488",
+              "start": 16,
+              "url": "https://t.co/tUxmAFKfoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083074464829583538",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083071491999182883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zdu1279757: https://t.co/tUxmAFKfoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 487,
+          "like_count": 14467,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "🚪52/125/256 萌妹子免费｜自残｜泛性恋｜sub m｜互fo私信｜低精力可能不回消息｜打钱你是例外\n纯绿/半绿线下私信\n匿名https://t.co/MR7i9ztSvu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alivio55256",
+                "end": 89,
+                "expanded_url": "https://ngl.link/alivio55256",
+                "start": 66,
+                "url": "https://t.co/MR7i9ztSvu"
+              }
+            ]
+          }
+        },
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2075956408781275634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 59,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

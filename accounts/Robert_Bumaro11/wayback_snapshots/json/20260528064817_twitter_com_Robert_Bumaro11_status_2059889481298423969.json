@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059889481298423969",
+    "created_at": "2026-05-28T06:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059889481298423969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "226320142",
+          "start": 3,
+          "username": "JamesMartinSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059889481298423969",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1913
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059735093980139938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamesMartinSJ: Pope Leo XIV: \"Among these ideologies, I consider particularly insidious the one that suggests that every person must ea…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2059734965483458562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWmCcUX0AIwHMr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059889481298423969",
+        "created_at": "2026-05-28T06:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059889481298423969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "226320142",
+              "start": 3,
+              "username": "JamesMartinSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059889481298423969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1913
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059735093980139938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamesMartinSJ: Pope Leo XIV: \"Among these ideologies, I consider particularly insidious the one that suggests that every person must ea…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059734965483458562"
+          ]
+        },
+        "author_id": "226320142",
+        "conversation_id": "2059735093980139938",
+        "created_at": "2026-05-27T20:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059735093980139938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkPMkOptTC",
+              "end": 302,
+              "expanded_url": "https://x.com/JamesMartinSJ/status/2059735093980139938/photo/1",
+              "media_key": "3_2059734965483458562",
+              "start": 279,
+              "url": "https://t.co/vkPMkOptTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059735093980139938",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 705,
+                "start": 686,
+                "tag": "MagnificaHumanitas"
+              }
+            ]
+          },
+          "text": "Pope Leo XIV: \"Among these ideologies, I consider particularly insidious the one that suggests that every person must earn or justify his or her own worth, to the point of attributing greater value to those who are more efficient or effective. From this perspective, persons end up being reduced to a means of achieving results, a resource to be used and exploited, and are no longer recognized as a proper end in themselves who should never be instrumentalized. The value of persons, however, does not depend on what they achieve or produce. There are rights that apply to everyone simply by virtue of being human, and no human power can legitimately deny or arbitrarily limit them.\"  #MagnificaHumanitas"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 604,
+          "impression_count": 74139,
+          "like_count": 5582,
+          "quote_count": 125,
+          "reply_count": 114,
+          "retweet_count": 1913
+        },
+        "reply_settings": "everyone",
+        "text": "Pope Leo XIV: \"Among these ideologies, I consider particularly insidious the one that suggests that every person must earn or justify his or her own worth, to the point of attributing greater value to those who are more efficient or effective. From this perspective, persons end https://t.co/vkPMkOptTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 433,
+          "like_count": 10876,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-13T21:56:22.000Z",
+        "description": "Jesuit priest, editor at large at @Americamag, founder of @outrchcatholic, author of 'Work in Progress,' consultor to Dicastery for Communication @VaticanNews",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Americamag"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "outrchcatholic"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "username": "VaticanNews"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jamesmartinsj",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jamesmartinsj",
+                "start": 0,
+                "url": "https://t.co/gp5JPN0XEp"
+              }
+            ]
+          }
+        },
+        "id": "226320142",
+        "location": "New York City",
+        "name": "James Martin, SJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576002073690349568/eslYEcSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287550,
+          "following_count": 916,
+          "like_count": 69020,
+          "listed_count": 2546,
+          "media_count": 9687,
+          "tweet_count": 64100
+        },
+        "url": "https://t.co/gp5JPN0XEp",
+        "username": "JamesMartinSJ",
+        "verified": true
+      }
+    ]
+  }
+}

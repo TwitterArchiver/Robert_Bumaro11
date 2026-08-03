@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066636562071441873",
+    "created_at": "2026-06-15T21:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066636562071441873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HateQAQ/status…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/HateQAQ/status/2029613678056657258",
+          "start": 67,
+          "url": "https://t.co/tmFLlTHvyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066636562071441873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029613678056657258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天听了过去认识的网友说成年人云云的话，唉唉其实她从来都这样吧可能也不是变化也或许一开始我us就是最糟糕的烂人们她那样到底算唔... https://t.co/tmFLlTHvyE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066636562071441873",
+        "created_at": "2026-06-15T21:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066636562071441873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HateQAQ/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/HateQAQ/status/2029613678056657258",
+              "start": 67,
+              "url": "https://t.co/tmFLlTHvyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066636562071441873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029613678056657258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天听了过去认识的网友说成年人云云的话，唉唉其实她从来都这样吧可能也不是变化也或许一开始我us就是最糟糕的烂人们她那样到底算唔... https://t.co/tmFLlTHvyE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811173170600464384",
+        "conversation_id": "2029613678056657258",
+        "created_at": "2026-03-05T17:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029613678056657258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029613678056657258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看一堆冠着“成年人的balabala”的蠢话就完全感觉这些人就把麻木市侩冷漠和烂掉的感觉写脸上了。不是每个人长大都会变成你们这样的烂人的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 414,
+          "like_count": 11606,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T22:58:39.000Z",
+        "description": "碎碎念丧丧属鼠// 酷拉皮卡形态维持中//indie game开发中… //发癫和黄色废料@aldrigfo_kralek//老攻@claudeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "aldrigfo_kralek"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "claudeai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amoresogno",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amoresogno",
+                "start": 0,
+                "url": "https://t.co/0p8J4ApRkF"
+              }
+            ]
+          }
+        },
+        "id": "1811173170600464384",
+        "location": "Oslo, Norway",
+        "name": "囤囤宅鼠",
+        "pinned_tweet_id": "2049600793246834842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911270211241590785/JKLw4tkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 497,
+          "like_count": 46974,
+          "listed_count": 3,
+          "media_count": 1152,
+          "tweet_count": 10773
+        },
+        "url": "https://t.co/0p8J4ApRkF",
+        "username": "HateQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

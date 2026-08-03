@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2055279979227947365",
+    "created_at": "2026-05-15T13:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055279979227947365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Robert_Bumaro1…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2055240613457805359",
+          "start": 77,
+          "url": "https://t.co/OrSZnCjDdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055279979227947365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055240613457805359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对体检的祈祷:\n「你听过多少次这样的故事，某人只是发现了一个肿块、瑕疵或斑点，而那就是终结的开始？」（柯南伯格[Cronenberg]，2006：87） https://t.co/OrSZnCjDdd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2055279979227947365",
+        "created_at": "2026-05-15T13:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055279979227947365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2055240613457805359",
+              "start": 77,
+              "url": "https://t.co/OrSZnCjDdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055279979227947365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055240613457805359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对体检的祈祷:\n「你听过多少次这样的故事，某人只是发现了一个肿块、瑕疵或斑点，而那就是终结的开始？」（柯南伯格[Cronenberg]，2006：87） https://t.co/OrSZnCjDdd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055240613457805359",
+        "created_at": "2026-05-15T10:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055240613457805359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055240613457805359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明早去体检但此时此刻我真的很想花一整晚喝酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 517,
+          "like_count": 9819,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

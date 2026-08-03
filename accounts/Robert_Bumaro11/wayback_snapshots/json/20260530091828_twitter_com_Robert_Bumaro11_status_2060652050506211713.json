@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060652050506211713",
+    "created_at": "2026-05-30T09:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060652050506211713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1ju3twant2die/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/1ju3twant2die/status/2060650348516413747",
+          "start": 19,
+          "url": "https://t.co/aglwQ1XMZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060652050506211713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060650348516413747",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们在不同的世界只处于同一地点和时间 https://t.co/aglwQ1XMZ3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060652050506211713",
+        "created_at": "2026-05-30T09:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060652050506211713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1ju3twant2die/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1ju3twant2die/status/2060650348516413747",
+              "start": 19,
+              "url": "https://t.co/aglwQ1XMZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060652050506211713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060650348516413747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们在不同的世界只处于同一地点和时间 https://t.co/aglwQ1XMZ3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860970079246303232",
+        "conversation_id": "2060650348516413747",
+        "created_at": "2026-05-30T09:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060650348516413747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060650348516413747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们每天都在说着同样的话阅读着同样的文字吃着同样的食物甚至曾看过同一片天空但是为什么会得到截然不同的人生啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 443,
+          "like_count": 11150,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "意识主体@HysteriaAndLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "HysteriaAndLove"
+              }
+            ]
+          }
+        },
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2058407929846653287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060278761707409408/L5e59Nqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 80,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 128
+        },
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

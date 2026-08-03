@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1972814058178125960",
+    "created_at": "2025-09-30T00:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T01:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972814058178125960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nikikiki8964/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Nikikiki8964/status/1972639361293570551",
+          "start": 19,
+          "url": "https://t.co/fi5byOzAIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972814058178125960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972639361293570551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "666不如我们十日谈拿性交驱魔的理由 https://t.co/fi5byOzAIi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1972814058178125960",
+        "created_at": "2025-09-30T00:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972814058178125960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nikikiki8964/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Nikikiki8964/status/1972639361293570551",
+              "start": 19,
+              "url": "https://t.co/fi5byOzAIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972814058178125960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972639361293570551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "666不如我们十日谈拿性交驱魔的理由 https://t.co/fi5byOzAIi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "1972639361293570551",
+        "created_at": "2025-09-29T12:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972639361293570551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972639361293570551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 631,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“只有和活人性交才能起到调节激素的效果别的都不管用”这不就是很明显的为了骗女的恋爱约炮的认知陷阱吗，关键还真有女的信了卧槽也是牛逼666不如多喝豆浆多吃药😅那么多母胎单身也没见人家激素紊乱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 442,
+          "like_count": 3987,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "普通人泛二次元同人女｜善用划走和屏蔽｜虚拟性恋尊厌岁静宅｜回关交友随缘｜有事提问箱｜why so serious？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "白葵葵",
+        "pinned_tweet_id": "1904049031468229056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955918875037667328/X9fBWWmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 108,
+          "like_count": 67034,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

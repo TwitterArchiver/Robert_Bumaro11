@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1883928302777479675",
+    "created_at": "2025-01-27T17:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T18:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883928302777479675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ctct1927/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ctct1927/status/1883820377992028372",
+          "start": 34,
+          "url": "https://t.co/2cYMoMrHUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883928302777479675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883820377992028372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这样还挺有效率的，相比这下某些塞里斯家长连问话都问不到关键处 https://t.co/2cYMoMrHUj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1883928302777479675",
+        "created_at": "2025-01-27T17:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T18:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883928302777479675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctct1927/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ctct1927/status/1883820377992028372",
+              "start": 34,
+              "url": "https://t.co/2cYMoMrHUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883928302777479675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883820377992028372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这样还挺有效率的，相比这下某些塞里斯家长连问话都问不到关键处 https://t.co/2cYMoMrHUj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293926136645394435",
+        "conversation_id": "1883820377992028372",
+        "created_at": "2025-01-27T10:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T11:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883820377992028372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883820377992028372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2243,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "讲一个小故事。\n我的大伯和我堂弟父子两人在交换关键信息的时候往往像项目经理对投资人做报告。我弟每次从美国回家的时候，从机场开车回家的路上，我大伯就会问，来汇报一下，你这个学年学了哪一些东西啊？哪些是让你受益的？总体有什么感想和有什么遗憾？对美国有什么新的认识？\n然后我弟就会哗啦哗啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 222,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T15:03:35.000Z",
+        "description": "in exile\nDeutsch English Nederlands\n\nRome catholic",
+        "id": "1293926136645394435",
+        "location": "Cantonia",
+        "name": "Athanas urbis aquensis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821904883886194688/YAAuw0EE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 1117,
+          "like_count": 14899,
+          "listed_count": 0,
+          "media_count": 3415,
+          "tweet_count": 13467
+        },
+        "username": "ctct1927",
+        "verified": false
+      }
+    ]
+  }
+}

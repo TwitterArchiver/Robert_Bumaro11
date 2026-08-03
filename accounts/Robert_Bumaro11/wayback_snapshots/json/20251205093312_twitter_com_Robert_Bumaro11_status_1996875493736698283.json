@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995499707419025408"
+      ],
+      "media_source_tweet_id": [
+        "1995499773747744921"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1996875493736698283",
+    "created_at": "2025-12-05T09:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T10:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996875493736698283"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "スタァライト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "419620747",
+          "start": 3,
+          "username": "rr_amil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EY16irao3r",
+          "end": 54,
+          "expanded_url": "https://x.com/rr_amil/status/1995499773747744921/photo/1",
+          "media_key": "3_1995499707419025408",
+          "start": 31,
+          "url": "https://t.co/EY16irao3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996875493736698283",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 962
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995499773747744921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rr_amil: #スタァライト \n불태워라 불태워 https://t.co/EY16irao3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_1995499707419025408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FwaUobYAAyUoV.jpg",
+        "width": 1311
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995499707419025408"
+          ],
+          "media_source_tweet_id": [
+            "1995499773747744921"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1996875493736698283",
+        "created_at": "2025-12-05T09:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996875493736698283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "スタァライト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "419620747",
+              "start": 3,
+              "username": "rr_amil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EY16irao3r",
+              "end": 54,
+              "expanded_url": "https://x.com/rr_amil/status/1995499773747744921/photo/1",
+              "media_key": "3_1995499707419025408",
+              "start": 31,
+              "url": "https://t.co/EY16irao3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996875493736698283",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 962
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995499773747744921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rr_amil: #スタァライト \n불태워라 불태워 https://t.co/EY16irao3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995499707419025408"
+          ]
+        },
+        "author_id": "419620747",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1995499773747744921",
+        "created_at": "2025-12-01T14:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995499773747744921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "スタァライト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EY16irao3r",
+              "end": 41,
+              "expanded_url": "https://x.com/rr_amil/status/1995499773747744921/photo/1",
+              "media_key": "3_1995499707419025408",
+              "start": 18,
+              "url": "https://t.co/EY16irao3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995499773747744921",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 459,
+          "impression_count": 69728,
+          "like_count": 3852,
+          "quote_count": 27,
+          "reply_count": 0,
+          "retweet_count": 962
+        },
+        "reply_settings": "everyone",
+        "text": "#スタァライト \n불태워라 불태워 https://t.co/EY16irao3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 467,
+          "like_count": 6885,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-23T15:41:05.000Z",
+        "description": "bsky=@ amil01 / Do not use my art without my permission.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "archivedamil.tistory.com",
+                "end": 23,
+                "expanded_url": "https://archivedamil.tistory.com/",
+                "start": 0,
+                "url": "https://t.co/yQ91Msa9hC"
+              }
+            ]
+          }
+        },
+        "id": "419620747",
+        "name": "에밀",
+        "pinned_tweet_id": "1859812526013431987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973712363502374912/xCCg9ARN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3366,
+          "following_count": 41,
+          "like_count": 4684,
+          "listed_count": 26,
+          "media_count": 1962,
+          "tweet_count": 44311
+        },
+        "url": "https://t.co/yQ91Msa9hC",
+        "username": "rr_amil",
+        "verified": false
+      }
+    ]
+  }
+}

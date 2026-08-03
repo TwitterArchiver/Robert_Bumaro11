@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2063307200248906132",
+    "created_at": "2026-06-08T09:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063917801694495039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1283672799777886208",
+          "start": 0,
+          "username": "isaacrrr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063917801694495039",
+    "in_reply_to_user_id": "1283672799777886208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063307200248906132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaacrrr7 有点好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28560,
+        "height": 1920,
+        "media_key": "13_2063306961358102528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063306961358102528/img/HVuiKfwrw1cvjp56.jpg",
+        "public_metrics": {
+          "view_count": 840465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063306961358102528/vid/avc1/480x852/uxzSCFC486Rf64YB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063306961358102528/vid/avc1/720x1280/4SdLO0C4Xno0YAXN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063306961358102528/pl/8jY5jlGFRtpOfcHj.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063306961358102528/vid/avc1/1080x1920/mOPxtDVGA2aUqGes.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063306961358102528/vid/avc1/320x568/c5s-Cfc2-YOSflic.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2063307200248906132",
+        "created_at": "2026-06-08T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063917801694495039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1283672799777886208",
+              "start": 0,
+              "username": "isaacrrr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917801694495039",
+        "in_reply_to_user_id": "1283672799777886208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063307200248906132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaacrrr7 有点好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063306961358102528"
+          ]
+        },
+        "author_id": "1283672799777886208",
+        "conversation_id": "2063307200248906132",
+        "created_at": "2026-06-06T17:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063307200248906132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zN5xUXY20Y",
+              "end": 141,
+              "expanded_url": "https://x.com/isaacrrr7/status/2063307200248906132/video/1",
+              "media_key": "13_2063306961358102528",
+              "start": 118,
+              "url": "https://t.co/zN5xUXY20Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063307200248906132",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3120,
+          "impression_count": 2412408,
+          "like_count": 68122,
+          "quote_count": 1582,
+          "reply_count": 3415,
+          "retweet_count": 33217
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇳🇱 La iglesia Vondelkerk, de 150 años de antigüedad, en los Países Bajos, fue incendiada por inmigrantes musulmanes. https://t.co/zN5xUXY20Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 409,
+          "like_count": 11527,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T08:00:38.000Z",
+        "description": "Judío Argentino en Israel, 30 años.\nSígueme también en @isaacrrrr7.\nSiempre defendiendo a Israel y a Occidente.\nNo a Hamás. No a la invasión islámica.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "isaacrrrr7"
+              }
+            ]
+          }
+        },
+        "id": "1283672799777886208",
+        "location": "Israel",
+        "name": "Isaac",
+        "pinned_tweet_id": "2030605506356629834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776698744366305281/hicpNVAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223645,
+          "following_count": 4071,
+          "like_count": 233513,
+          "listed_count": 559,
+          "media_count": 72092,
+          "tweet_count": 133455
+        },
+        "username": "isaacrrr7",
+        "verified": true
+      }
+    ]
+  }
+}

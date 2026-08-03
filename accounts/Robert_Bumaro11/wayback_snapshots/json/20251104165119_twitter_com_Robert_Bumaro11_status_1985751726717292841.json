@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1985751726717292841",
+    "created_at": "2025-11-04T16:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985751726717292841"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "月夜の人形"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/I",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985751726717292841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985504110691697066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: おはようございます。\n普通に、全然、#月夜の人形 ロスです。笑\n月夜の夢から醒めなくちゃ……ぐぬぬ。\n\nまたいつか夢を見るために！\n別の夢を魅せるために！\n今日からまたお仕事頑張ります👏\n\n皆さんも一緒にがんばろ〜ね https://t.co/I…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_1985504086620549121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G43tcncasAEITP7.jpg",
+        "width": 1835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1985751726717292841",
+        "created_at": "2025-11-04T16:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985751726717292841"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "月夜の人形"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/I",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985751726717292841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985504110691697066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: おはようございます。\n普通に、全然、#月夜の人形 ロスです。笑\n月夜の夢から醒めなくちゃ……ぐぬぬ。\n\nまたいつか夢を見るために！\n別の夢を魅せるために！\n今日からまたお仕事頑張ります👏\n\n皆さんも一緒にがんばろ〜ね https://t.co/I…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985504086620549121"
+          ]
+        },
+        "author_id": "1577159828",
+        "conversation_id": "1985504110691697066",
+        "created_at": "2025-11-04T00:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T01:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985504110691697066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "月夜の人形"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhVTffOfRO",
+              "end": 132,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/1985504110691697066/photo/1",
+              "media_key": "3_1985504086620549121",
+              "start": 109,
+              "url": "https://t.co/IhVTffOfRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985504110691697066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19727,
+          "like_count": 601,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます。\n普通に、全然、#月夜の人形 ロスです。笑\n月夜の夢から醒めなくちゃ……ぐぬぬ。\n\nまたいつか夢を見るために！\n別の夢を魅せるために！\n今日からまたお仕事頑張ります👏\n\n皆さんも一緒にがんばろ〜ね https://t.co/IhVTffOfRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 456,
+          "like_count": 5906,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優・歌等/愛犬ぽんず 🩶🩶🩶🩶🩶🩶↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "name": "生田 輝",
+        "pinned_tweet_id": "1976768113493557622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962346262138966017/g0sLzSY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81827,
+          "following_count": 761,
+          "like_count": 12561,
+          "listed_count": 2676,
+          "media_count": 5122,
+          "tweet_count": 23388
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false
+      }
+    ]
+  }
+}

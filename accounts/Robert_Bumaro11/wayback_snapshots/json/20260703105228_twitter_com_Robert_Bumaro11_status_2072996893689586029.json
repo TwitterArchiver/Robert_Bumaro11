@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2072703184007791040",
+    "created_at": "2026-07-03T10:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072996893689586029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736686097919569920",
+          "start": 0,
+          "username": "sesamesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072996893689586029",
+    "in_reply_to_user_id": "1736686097919569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072995785894162490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sesamesama 暂时出不去，活动范围仅限走廊和自己房间"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072995785894162490].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072995785894162490",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072995785894162490"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2072703184007791040",
+        "created_at": "2026-07-03T10:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072996893689586029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736686097919569920",
+              "start": 0,
+              "username": "sesamesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072996893689586029",
+        "in_reply_to_user_id": "1736686097919569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072995785894162490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sesamesama 暂时出不去，活动范围仅限走廊和自己房间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 428,
+          "like_count": 12094,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T09:53:42.000Z",
+        "description": "情绪垃圾桶，易碎高尚的一面",
+        "id": "1736686097919569920",
+        "location": "不知道",
+        "name": "meowdel",
+        "pinned_tweet_id": "2072242449368359366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028948497429667840/ZExPgj9k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 540,
+          "like_count": 21174,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 2051
+        },
+        "url": "",
+        "username": "sesamesama",
+        "verified": false
+      }
+    ]
+  }
+}

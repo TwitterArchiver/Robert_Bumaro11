@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059910613263057263",
+    "created_at": "2026-05-28T08:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059910613263057263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Robert_Bumaro1…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2059909018852999677",
+          "start": 136,
+          "url": "https://t.co/4TKsipqQB3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059910613263057263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059909018852999677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么，，为什么你们都要被爱被喜欢呢？幸福的生活有什么好的？身为人类就那么骄傲吗，，那么。我也要呼唤尸山血海吗（实际这才是逆向Invoker的本意罢）不那么做只是因为那样不够可爱（体面？平静）那又是什么意思了为什么要遵守不知道啊我只想要平静毕竟*失败的连愤怒都很无措呢* https://t.co/4TKsipqQB3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059910613263057263",
+        "created_at": "2026-05-28T08:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059910613263057263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2059909018852999677",
+              "start": 136,
+              "url": "https://t.co/4TKsipqQB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059910613263057263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059909018852999677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么，，为什么你们都要被爱被喜欢呢？幸福的生活有什么好的？身为人类就那么骄傲吗，，那么。我也要呼唤尸山血海吗（实际这才是逆向Invoker的本意罢）不那么做只是因为那样不够可爱（体面？平静）那又是什么意思了为什么要遵守不知道啊我只想要平静毕竟*失败的连愤怒都很无措呢* https://t.co/4TKsipqQB3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059909018852999677",
+        "created_at": "2026-05-28T08:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059909018852999677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059909018852999677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前有人问我“明明我既xx也xx为什么就是没有人喜欢呢”时候你知道我有多恶心吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 437,
+          "like_count": 10885,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

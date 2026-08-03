@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060030159126991160",
+    "created_at": "2026-05-28T16:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060030159126991160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2050781055213244416",
+          "start": 3,
+          "username": "TianXiaoTangDSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060030159126991160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059916903968362567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianXiaoTangDSB: 曾经我也觉得自己在推特上很自卑，毕竟我只是个带专毕业混日子的。不过现在完全没那种感觉了。\n最主要的是再怎么自卑也成为不了那么厉害的人，毕竟能做精英的都是特别有天赋的 ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060030159126991160",
+        "created_at": "2026-05-28T16:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060030159126991160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2050781055213244416",
+              "start": 3,
+              "username": "TianXiaoTangDSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060030159126991160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059916903968362567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianXiaoTangDSB: 曾经我也觉得自己在推特上很自卑，毕竟我只是个带专毕业混日子的。不过现在完全没那种感觉了。\n最主要的是再怎么自卑也成为不了那么厉害的人，毕竟能做精英的都是特别有天赋的 ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050781055213244416",
+        "conversation_id": "2059916903968362567",
+        "created_at": "2026-05-28T08:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059916903968362567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2059907712516030643",
+              "start": 85,
+              "url": "https://t.co/psgejYrLgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059916903968362567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059907712516030643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曾经我也觉得自己在推特上很自卑，毕竟我只是个带专毕业混日子的。不过现在完全没那种感觉了。\n最主要的是再怎么自卑也成为不了那么厉害的人，毕竟能做精英的都是特别有天赋的 ( https://t.co/psgejYrLgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 439,
+          "like_count": 10936,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1278
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T03:34:53.000Z",
+        "description": "过抽象生活，品恶臭人生。\n中转站：@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "2050781055213244416",
+        "location": "辽南第一怂",
+        "name": "TXT.txt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050796392596324352/asG5-kCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 85,
+          "like_count": 788,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 165
+        },
+        "username": "TianXiaoTangDSB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2053973916260192541",
+    "created_at": "2026-05-11T23:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053973916260192541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Robert_Bumaro1…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2052921492036534600",
+          "start": 89,
+          "url": "https://t.co/lYOTyTF0b7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053973916260192541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052921492036534600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些人认为精神药品要越少吃越好，后来才统一认识:没有药物带来的一系列副作用和痛苦就无法激发起个人意志。多吃药才自爱，否则就变成爱肉身的自己了，务必形成我、神经递质、宇宙三国志。 https://t.co/lYOTyTF0b7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2053973916260192541",
+        "created_at": "2026-05-11T23:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053973916260192541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2052921492036534600",
+              "start": 89,
+              "url": "https://t.co/lYOTyTF0b7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053973916260192541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052921492036534600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人认为精神药品要越少吃越好，后来才统一认识:没有药物带来的一系列副作用和痛苦就无法激发起个人意志。多吃药才自爱，否则就变成爱肉身的自己了，务必形成我、神经递质、宇宙三国志。 https://t.co/lYOTyTF0b7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2052921492036534600",
+        "created_at": "2026-05-09T01:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052921492036534600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052921492036534600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚给我最直观的体验就是头晕和想吐其他什么都没有。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 503,
+          "like_count": 9543,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

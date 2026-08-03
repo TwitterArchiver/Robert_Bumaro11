@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971531854181519360"
+      ],
+      "media_source_tweet_id": [
+        "1971534601580695604"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971550208460034162",
+    "created_at": "2025-09-26T12:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T13:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971550208460034162"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "生田輝"
+        },
+        {
+          "end": 95,
+          "start": 87,
+          "tag": "生田輝10周年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1140613301413433344",
+          "start": 3,
+          "username": "ikutateru_staff"
+        },
+        {
+          "end": 51,
+          "id": "220069143",
+          "start": 36,
+          "username": "tomokomotomoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zz6IzH4UoZ",
+          "end": 119,
+          "expanded_url": "https://x.com/ikutateru_staff/status/1971534601580695604/video/1",
+          "media_key": "13_1971531854181519360",
+          "start": 96,
+          "url": "https://t.co/zz6IzH4UoZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971550208460034162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971534601580695604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikutateru_staff: 今回のライブ衣装はなんと新さん@tomokomotomoko さんに製作いただきました✨\n\nグッズと当日もお楽しみに🎶\n\n#生田輝\n#生田輝10周年 https://t.co/zz6IzH4UoZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113025,
+        "height": 1280,
+        "media_key": "13_1971531854181519360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971531854181519360/img/IScVki1BGTc40gte.jpg",
+        "public_metrics": {
+          "view_count": 109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971531854181519360/vid/avc1/320x568/9b1xuGHSid7g4eUR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971531854181519360/vid/avc1/480x852/296neCJScot4PK5d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971531854181519360/vid/avc1/720x1280/QuvcvtF24NLLz9oZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971531854181519360/pl/A_-Taxd0X-XPLDI0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971531854181519360"
+          ],
+          "media_source_tweet_id": [
+            "1971534601580695604"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971550208460034162",
+        "created_at": "2025-09-26T12:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971550208460034162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "生田輝"
+            },
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "生田輝10周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1140613301413433344",
+              "start": 3,
+              "username": "ikutateru_staff"
+            },
+            {
+              "end": 51,
+              "id": "220069143",
+              "start": 36,
+              "username": "tomokomotomoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zz6IzH4UoZ",
+              "end": 119,
+              "expanded_url": "https://x.com/ikutateru_staff/status/1971534601580695604/video/1",
+              "media_key": "13_1971531854181519360",
+              "start": 96,
+              "url": "https://t.co/zz6IzH4UoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971550208460034162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971534601580695604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikutateru_staff: 今回のライブ衣装はなんと新さん@tomokomotomoko さんに製作いただきました✨\n\nグッズと当日もお楽しみに🎶\n\n#生田輝\n#生田輝10周年 https://t.co/zz6IzH4UoZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971531854181519360"
+          ]
+        },
+        "author_id": "1140613301413433344",
+        "conversation_id": "1971530191877951975",
+        "created_at": "2025-09-26T11:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T12:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971534601580695604"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "生田輝"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "生田輝10周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "220069143",
+              "start": 15,
+              "username": "tomokomotomoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zz6IzH4UoZ",
+              "end": 98,
+              "expanded_url": "https://x.com/ikutateru_staff/status/1971534601580695604/video/1",
+              "media_key": "13_1971531854181519360",
+              "start": 75,
+              "url": "https://t.co/zz6IzH4UoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971534601580695604",
+        "in_reply_to_user_id": "1140613301413433344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 754,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971530191877951975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今回のライブ衣装はなんと新さん@tomokomotomoko さんに製作いただきました✨\n\nグッズと当日もお楽しみに🎶\n\n#生田輝\n#生田輝10周年 https://t.co/zz6IzH4UoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 445,
+          "like_count": 3694,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-17T13:32:57.000Z",
+        "description": "クィーンズアベニューが運営する【生田輝】の公式STAFFアカウントです。主に出演情報やイベントのお知らせを発信いたします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/uAkqo2rtLa"
+              }
+            ]
+          }
+        },
+        "id": "1140613301413433344",
+        "name": "生田輝STAFF/Queen's Ave.",
+        "pinned_tweet_id": "1971530191877951975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749657913864704000/RZp4FCBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5271,
+          "following_count": 2,
+          "like_count": 58,
+          "listed_count": 173,
+          "media_count": 271,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/uAkqo2rtLa",
+        "username": "ikutateru_staff",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-26T17:55:34.000Z",
+        "description": "#costumecreator #衣装デザイナー／クリエイターマネジメント／#fashiondesigner @deuxLunescinq ／株式会社コモ 代表取締役／https://t.co/y3lkYqcQvm ／ https://t.co/g59brTL30N",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 0,
+                "tag": "costumecreator"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "衣装デザイナー"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "tag": "fashiondesigner"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "deuxLunescinq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "comoinc.co.jp",
+                "end": 107,
+                "expanded_url": "https://comoinc.co.jp",
+                "start": 84,
+                "url": "https://t.co/y3lkYqcQvm"
+              },
+              {
+                "display_url": "shop.comoinc.co.jp",
+                "end": 133,
+                "expanded_url": "https://shop.comoinc.co.jp/",
+                "start": 110,
+                "url": "https://t.co/g59brTL30N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/deux_lunes_cinq",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/deux_lunes_cinq",
+                "start": 0,
+                "url": "https://t.co/ZmwTmNPD2A"
+              }
+            ]
+          }
+        },
+        "id": "220069143",
+        "location": "日本",
+        "name": "新朋子／tomoko atarashi",
+        "pinned_tweet_id": "1971524511280533891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3132198803/8b2b3a451c15ca969cc3b2d4364673ff_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 406,
+          "like_count": 10008,
+          "listed_count": 58,
+          "media_count": 638,
+          "tweet_count": 12303
+        },
+        "url": "https://t.co/ZmwTmNPD2A",
+        "username": "tomokomotomoko",
+        "verified": false
+      }
+    ]
+  }
+}

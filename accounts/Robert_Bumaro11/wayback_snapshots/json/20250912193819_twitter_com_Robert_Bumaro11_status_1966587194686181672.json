@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966582700351103095",
+    "created_at": "2025-09-12T19:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T20:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966587194686181672"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966587194686181672",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966587133453312487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "密码学、拷问与逼供、文书伪造、微表情分析、侦查监视技术、逻辑推理、高级搏斗能力、暗杀与现场处理。何等诡谲的酒神之舞！让那些真正的狂人去成为病娇罢！（暴论）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966582700351103095",
+        "created_at": "2025-09-12T19:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966587194686181672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966587194686181672",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966587133453312487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "密码学、拷问与逼供、文书伪造、微表情分析、侦查监视技术、逻辑推理、高级搏斗能力、暗杀与现场处理。何等诡谲的酒神之舞！让那些真正的狂人去成为病娇罢！（暴论）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966582700351103095",
+        "created_at": "2025-09-12T19:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966587133453312487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966587133453312487",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966582700351103095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要成为病娇太难了，只有存在感强烈的人才能成为病娇，她们有着用自己的心灵凌驾于整个世界并塑造新事物的能力。况且​作为一个病娇，你需要学会各国语言、手工编织、鉴赏艺术、烹饪料理、网络工程、占卜与诅咒、药学、跟踪与反跟踪技巧、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 399,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 230
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

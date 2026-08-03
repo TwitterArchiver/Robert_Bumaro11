@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066880936377995698",
+    "created_at": "2026-06-18T10:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067556481474686978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1123385386363969536",
+          "start": 0,
+          "username": "yozuha15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067556481474686978",
+    "in_reply_to_user_id": "1123385386363969536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066880936377995698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yozuha15 泪目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066880936377995698",
+        "created_at": "2026-06-18T10:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067556481474686978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1123385386363969536",
+              "start": 0,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067556481474686978",
+        "in_reply_to_user_id": "1123385386363969536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066880936377995698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yozuha15 泪目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1123385386363969536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2066880936377995698",
+        "created_at": "2026-06-16T13:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:49:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066880811815874955",
+          "2066880936377995698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066880936377995698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有时候甚至感觉创伤反应过于强烈都有一些npd的特征了=.=我好像一个黑洞，并不是没有温暖的时刻，我有月月，也受到很多互关的友善对待（对我最好的就是网友们了），我现在也并没有正在经历应试教育马上毕业了，原神家庭已经不怎么联系了，按理来说不应该有这么严重的创伤反应才对，可能还是身体太差导致的吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 926,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候甚至感觉创伤反应过于强烈都有一些npd的特征了=.=我好像一个黑洞，并不是没有温暖的时刻，我有月月，也受到很多互关的友善对待（对我最好的就是网友们了），我现在也并没有正在经历应试教育马上毕业了，原神家庭已经不怎么联系了，按理来说不应该有这么严重的创伤反应才对，可能还是身体太差导致"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 424,
+          "like_count": 11804,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T00:35:22.000Z",
+        "description": "=鱼子酱   水豚转发bot，本体是水豚‖虎鲸性恋月性恋三文鱼性恋‖真的不会写代码‖不懂二次元的美妙的人永别了",
+        "id": "1123385386363969536",
+        "location": "外太空✨",
+        "name": "讴歌终结之物",
+        "pinned_tweet_id": "2063606076680110262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046976246685544448/1ngCNHt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3021,
+          "following_count": 1553,
+          "like_count": 9887,
+          "listed_count": 10,
+          "media_count": 1584,
+          "tweet_count": 15839
+        },
+        "url": "",
+        "username": "yozuha15",
+        "verified": true
+      }
+    ]
+  }
+}

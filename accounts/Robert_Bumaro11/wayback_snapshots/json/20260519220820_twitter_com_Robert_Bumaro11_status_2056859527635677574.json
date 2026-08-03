@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2056859527635677574",
+    "created_at": "2026-05-19T22:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T23:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056859527635677574"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056859527635677574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呕吐、或是处于某些痛苦中的人会想些什么呢？会赌咒发誓让自己永远不再次陷入相同的处境下吗，还是说在不适感消散后又要回到觉得自己无所不能的状态。\n也因为呕吐会有漫长的不适感，因此前后对比下反而更直接的痛楚是值得期待的（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2056859527635677574",
+        "created_at": "2026-05-19T22:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056859527635677574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056859527635677574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呕吐、或是处于某些痛苦中的人会想些什么呢？会赌咒发誓让自己永远不再次陷入相同的处境下吗，还是说在不适感消散后又要回到觉得自己无所不能的状态。\n也因为呕吐会有漫长的不适感，因此前后对比下反而更直接的痛楚是值得期待的（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 532,
+          "like_count": 10187,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

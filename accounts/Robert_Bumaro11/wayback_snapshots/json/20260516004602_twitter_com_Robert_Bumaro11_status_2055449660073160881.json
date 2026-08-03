@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2055408951651631299",
+    "created_at": "2026-05-16T00:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055449660073160881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493601466346610712",
+          "start": 0,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055449660073160881",
+    "in_reply_to_user_id": "1493601466346610712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055408951651631299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilbakery1127 “处理不处理什么的都用不上，只要咬紧牙关把至今凝聚的人体自愈能力都激发出来，就算没有伤口处理那样的技巧也足够恢复！”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055408951651631299",
+        "created_at": "2026-05-16T00:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055449660073160881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493601466346610712",
+              "start": 0,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055449660073160881",
+        "in_reply_to_user_id": "1493601466346610712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055408951651631299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilbakery1127 “处理不处理什么的都用不上，只要咬紧牙关把至今凝聚的人体自愈能力都激发出来，就算没有伤口处理那样的技巧也足够恢复！”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493601466346610712",
+        "conversation_id": "2055408951651631299",
+        "created_at": "2026-05-15T22:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055408951651631299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055408951651631299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想割但是不太会处理伤口TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 519,
+          "like_count": 9874,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。 sub/nonbinary｜可以叫我Yui或者小唯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basilbakery",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basilbakery",
+                "start": 0,
+                "url": "https://t.co/ogMKAWuoko"
+              }
+            ]
+          }
+        },
+        "id": "1493601466346610712",
+        "name": "Yui✝️",
+        "pinned_tweet_id": "2037647039253909781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045969325572714496/PdaxKe4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 290,
+          "like_count": 1931,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/ogMKAWuoko",
+        "username": "basilbakery1127",
+        "verified": false
+      }
+    ]
+  }
+}

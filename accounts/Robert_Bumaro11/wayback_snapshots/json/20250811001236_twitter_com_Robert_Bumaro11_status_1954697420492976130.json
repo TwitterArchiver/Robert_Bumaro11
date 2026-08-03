@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1954684513508114798",
+    "created_at": "2025-08-11T00:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T01:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954697420492976130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "385825811",
+          "start": 0,
+          "username": "rong8338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954697420492976130",
+    "in_reply_to_user_id": "385825811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954695853253538066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rong8338 可能是因为先入为主我还是更习惯微博一些（）之前那样感觉虽然能保留原推被删后的讨论，但是对路人用户来说更难定位上下文（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1954684513508114798",
+        "created_at": "2025-08-11T00:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T01:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954697420492976130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "385825811",
+              "start": 0,
+              "username": "rong8338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954697420492976130",
+        "in_reply_to_user_id": "385825811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954695853253538066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rong8338 可能是因为先入为主我还是更习惯微博一些（）之前那样感觉虽然能保留原推被删后的讨论，但是对路人用户来说更难定位上下文（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385825811",
+        "conversation_id": "1954684513508114798",
+        "created_at": "2025-08-11T00:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T01:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954695853253538066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954695853253538066",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954692459533062412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 有趣的事情是推的用戶都不喜歡這些功能，甚至推出顯示回覆的上下文的時候都被罵了一通，以前是點進去才會顯示上下文的，而不是像樓中樓一樣成一坨（\n那時候第三方客戶端基本上都沒做這些功能，還是按照傳統的方式運作，不然真的成微博了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 391,
+          "like_count": 2293,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 156
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-06T06:08:14.000Z",
+        "description": "aka 茸，犬犬｜🏳️‍⚧️ (?)｜🩷💛🩵｜在宅代码屎山整理师｜icon: @zr6ov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 39,
+                "username": "zr6ov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kym5esueqosyicn",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/kym5esueqosyicn",
+                "start": 0,
+                "url": "https://t.co/BjchMpDIXo"
+              }
+            ]
+          }
+        },
+        "id": "385825811",
+        "name": "海鹽綿綿冰 ☁️",
+        "pinned_tweet_id": "1945937104414110052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933771158266261505/DRj4q9e0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 287,
+          "like_count": 9102,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 4648
+        },
+        "url": "https://t.co/BjchMpDIXo",
+        "username": "rong8338",
+        "verified": true
+      }
+    ]
+  }
+}

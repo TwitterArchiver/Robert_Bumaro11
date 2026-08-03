@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075490106082025472"
+      ],
+      "media_source_tweet_id": [
+        "2075490351377502228"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075766642517344661",
+    "created_at": "2026-07-11T02:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075766642517344661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739602480022048768",
+          "start": 3,
+          "username": "Ch1h4ru3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GxgXOPecR6",
+          "end": 122,
+          "expanded_url": "https://x.com/Ch1h4ru3/status/2075490351377502228/photo/1",
+          "media_key": "3_2075490106082025472",
+          "start": 99,
+          "url": "https://t.co/GxgXOPecR6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075766642517344661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075490351377502228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ch1h4ru3: : Well, she's probably enjoying herself in a comfy seat, lording over peons like us. https://t.co/GxgXOPecR6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2075490106082025472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2fQUvbYAALfdg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075490106082025472"
+          ],
+          "media_source_tweet_id": [
+            "2075490351377502228"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075766642517344661",
+        "created_at": "2026-07-11T02:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075766642517344661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739602480022048768",
+              "start": 3,
+              "username": "Ch1h4ru3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxgXOPecR6",
+              "end": 122,
+              "expanded_url": "https://x.com/Ch1h4ru3/status/2075490351377502228/photo/1",
+              "media_key": "3_2075490106082025472",
+              "start": 99,
+              "url": "https://t.co/GxgXOPecR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075766642517344661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075490351377502228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ch1h4ru3: : Well, she's probably enjoying herself in a comfy seat, lording over peons like us. https://t.co/GxgXOPecR6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075490106082025472"
+          ]
+        },
+        "author_id": "1739602480022048768",
+        "conversation_id": "2075490351377502228",
+        "created_at": "2026-07-10T08:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075490351377502228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxgXOPecR6",
+              "end": 108,
+              "expanded_url": "https://x.com/Ch1h4ru3/status/2075490351377502228/photo/1",
+              "media_key": "3_2075490106082025472",
+              "start": 85,
+              "url": "https://t.co/GxgXOPecR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075490351377502228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1223,
+          "impression_count": 97181,
+          "like_count": 8327,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 1177
+        },
+        "reply_settings": "everyone",
+        "text": ": Well, she's probably enjoying herself in a comfy seat, lording over peons like us. https://t.co/GxgXOPecR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 464,
+          "like_count": 12775,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T11:02:15.000Z",
+        "description": "19↑\n中文/ENG 雜坑 無言フォロー失礼します \nIcon by @ KGoshiro4444\n🔑 @whereisthumb1d\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "whereisthumb1d"
+              }
+            ]
+          }
+        },
+        "id": "1739602480022048768",
+        "location": "臉書常駐",
+        "name": "🚯💤",
+        "pinned_tweet_id": "2062099608134987923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994181906771136515/AIkNb6TH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 375,
+          "like_count": 7347,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2686
+        },
+        "url": "",
+        "username": "Ch1h4ru3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060065680372998145"
+      ],
+      "media_source_tweet_id": [
+        "2060065685372551383"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060202569272897582",
+    "created_at": "2026-05-29T03:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060202569272897582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558048751302103041",
+          "start": 3,
+          "username": "ching__101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvxBRV2glE",
+          "end": 39,
+          "expanded_url": "https://x.com/ching__101/status/2060065685372551383/photo/1",
+          "media_key": "3_2060065680372998145",
+          "start": 16,
+          "url": "https://t.co/WvxBRV2glE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060202569272897582",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060065685372551383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ching__101: https://t.co/WvxBRV2glE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2060065680372998145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbS0lSbIAEEXjB.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060065680372998145"
+          ],
+          "media_source_tweet_id": [
+            "2060065685372551383"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060202569272897582",
+        "created_at": "2026-05-29T03:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060202569272897582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558048751302103041",
+              "start": 3,
+              "username": "ching__101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvxBRV2glE",
+              "end": 39,
+              "expanded_url": "https://x.com/ching__101/status/2060065685372551383/photo/1",
+              "media_key": "3_2060065680372998145",
+              "start": 16,
+              "url": "https://t.co/WvxBRV2glE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060202569272897582",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060065685372551383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ching__101: https://t.co/WvxBRV2glE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060065680372998145"
+          ]
+        },
+        "author_id": "1558048751302103041",
+        "conversation_id": "2060065685372551383",
+        "created_at": "2026-05-28T18:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060065685372551383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvxBRV2glE",
+              "end": 23,
+              "expanded_url": "https://x.com/ching__101/status/2060065685372551383/photo/1",
+              "media_key": "3_2060065680372998145",
+              "start": 0,
+              "url": "https://t.co/WvxBRV2glE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060065685372551383",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WvxBRV2glE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 441,
+          "like_count": 11006,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:12:47.000Z",
+        "description": "あなたの気に入ってくれてありがとう",
+        "id": "1558048751302103041",
+        "location": "🚪52僅好友 88朋友圈",
+        "name": "離禾",
+        "pinned_tweet_id": "2058970408452604015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3425,
+          "following_count": 50,
+          "like_count": 327,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 818
+        },
+        "username": "ching__101",
+        "verified": true
+      }
+    ]
+  }
+}

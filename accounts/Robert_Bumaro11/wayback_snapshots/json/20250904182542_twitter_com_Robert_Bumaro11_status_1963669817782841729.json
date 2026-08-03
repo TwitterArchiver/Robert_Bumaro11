@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963669808479977472"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1963657751978278998",
+    "created_at": "2025-09-04T18:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T19:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963669817782841729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NW5tl7RgnE",
+          "end": 23,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1963669817782841729/photo/1",
+          "media_key": "3_1963669808479977472",
+          "start": 0,
+          "url": "https://t.co/NW5tl7RgnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963669817782841729",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963657751978278998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/NW5tl7RgnE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_1963669808479977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BbSW6bwAA0aWf.png",
+        "width": 832
+      },
+      {
+        "height": 141,
+        "media_key": "3_1963657742645886976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BQUCLagAAht7F.png",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963669808479977472"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1963657751978278998",
+        "created_at": "2025-09-04T18:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T19:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963669817782841729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NW5tl7RgnE",
+              "end": 23,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1963669817782841729/photo/1",
+              "media_key": "3_1963669808479977472",
+              "start": 0,
+              "url": "https://t.co/NW5tl7RgnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963669817782841729",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963657751978278998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/NW5tl7RgnE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963657742645886976"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963657751978278998",
+        "created_at": "2025-09-04T17:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T18:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963657751978278998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoNs3wjdcr",
+              "end": 25,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1963657751978278998/photo/1",
+              "media_key": "3_1963657742645886976",
+              "start": 2,
+              "url": "https://t.co/NoNs3wjdcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963657751978278998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/NoNs3wjdcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 390,
+          "like_count": 2624,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 189
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

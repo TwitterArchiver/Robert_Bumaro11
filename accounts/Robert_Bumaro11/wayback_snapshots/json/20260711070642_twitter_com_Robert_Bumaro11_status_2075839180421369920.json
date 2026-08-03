@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075584226699669504"
+      ],
+      "media_source_tweet_id": [
+        "2075584230927524054"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075839180421369920",
+    "created_at": "2026-07-11T07:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075839180421369920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1399574572836569090",
+          "start": 3,
+          "username": "barbie_context"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w72XJEz9Ho",
+          "end": 113,
+          "expanded_url": "https://x.com/barbie_context/status/2075584230927524054/photo/1",
+          "media_key": "3_2075584226699669504",
+          "start": 90,
+          "url": "https://t.co/w72XJEz9Ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075839180421369920",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075584230927524054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @barbie_context: Hay personas capaces de hacer que el mármol parezca agua. Qué locura. https://t.co/w72XJEz9Ho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075584226699669504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3023XWcAARNAO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075584226699669504"
+          ],
+          "media_source_tweet_id": [
+            "2075584230927524054"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075839180421369920",
+        "created_at": "2026-07-11T07:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075839180421369920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1399574572836569090",
+              "start": 3,
+              "username": "barbie_context"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w72XJEz9Ho",
+              "end": 113,
+              "expanded_url": "https://x.com/barbie_context/status/2075584230927524054/photo/1",
+              "media_key": "3_2075584226699669504",
+              "start": 90,
+              "url": "https://t.co/w72XJEz9Ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075839180421369920",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075584230927524054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @barbie_context: Hay personas capaces de hacer que el mármol parezca agua. Qué locura. https://t.co/w72XJEz9Ho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075584226699669504"
+          ]
+        },
+        "author_id": "1399574572836569090",
+        "conversation_id": "2075584230927524054",
+        "created_at": "2026-07-10T14:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075584230927524054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w72XJEz9Ho",
+              "end": 93,
+              "expanded_url": "https://x.com/barbie_context/status/2075584230927524054/photo/1",
+              "media_key": "3_2075584226699669504",
+              "start": 70,
+              "url": "https://t.co/w72XJEz9Ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075584230927524054",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2740,
+          "impression_count": 770771,
+          "like_count": 53457,
+          "quote_count": 196,
+          "reply_count": 46,
+          "retweet_count": 5169
+        },
+        "reply_settings": "everyone",
+        "text": "Hay personas capaces de hacer que el mármol parezca agua. Qué locura. https://t.co/w72XJEz9Ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 468,
+          "like_count": 12817,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T03:52:46.000Z",
+        "description": "Memes and funny videos every day / Parody / Ads DM 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/barbie_outcont…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/barbie_outcontext",
+                "start": 0,
+                "url": "https://t.co/a7KzR7zpk7"
+              }
+            ]
+          }
+        },
+        "id": "1399574572836569090",
+        "location": "España",
+        "name": "Frases Barbie",
+        "pinned_tweet_id": "2073444726670508087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445246636813393920/24GoCqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973756,
+          "following_count": 81,
+          "like_count": 7172,
+          "listed_count": 427,
+          "media_count": 20482,
+          "tweet_count": 25148
+        },
+        "url": "https://t.co/a7KzR7zpk7",
+        "username": "barbie_context",
+        "verified": true
+      }
+    ]
+  }
+}

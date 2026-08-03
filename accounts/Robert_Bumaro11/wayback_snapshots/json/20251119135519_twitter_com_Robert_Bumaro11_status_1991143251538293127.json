@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990833913250643968"
+      ],
+      "media_source_tweet_id": [
+        "1990833916039540939"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1991143251538293127",
+    "created_at": "2025-11-19T13:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991143251538293127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6nyJGlOMt",
+          "end": 45,
+          "expanded_url": "https://x.com/Ephraim_deca/status/1990833916039540939/photo/1",
+          "media_key": "3_1990833913250643968",
+          "start": 22,
+          "url": "https://t.co/s6nyJGlOMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991143251538293127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990833916039540939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: 河马。 https://t.co/s6nyJGlOMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_1990833913250643968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Dc5W4bAAAfRbt.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990833913250643968"
+          ],
+          "media_source_tweet_id": [
+            "1990833916039540939"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1991143251538293127",
+        "created_at": "2025-11-19T13:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991143251538293127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6nyJGlOMt",
+              "end": 45,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1990833916039540939/photo/1",
+              "media_key": "3_1990833913250643968",
+              "start": 22,
+              "url": "https://t.co/s6nyJGlOMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991143251538293127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990833916039540939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: 河马。 https://t.co/s6nyJGlOMt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990833913250643968"
+          ]
+        },
+        "author_id": "1587696726022017027",
+        "conversation_id": "1990833916039540939",
+        "created_at": "2025-11-18T17:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990833916039540939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6nyJGlOMt",
+              "end": 27,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1990833916039540939/photo/1",
+              "media_key": "3_1990833913250643968",
+              "start": 4,
+              "url": "https://t.co/s6nyJGlOMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990833916039540939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2194,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "河马。 https://t.co/s6nyJGlOMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 460,
+          "like_count": 6377,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "苦逼西专生来加拿大干嘛来了//中文/English/Español/Latina ecclesiastica(studeo)//\n“人灵之得救，在教会中常应视为最高无上之法律。”🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 118,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 95,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 146,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 123,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.github.io",
+                "end": 23,
+                "expanded_url": "http://clemensdsh.github.io",
+                "start": 0,
+                "url": "https://t.co/5hQ1rQqSqz"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1990185483905953809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 3979,
+          "like_count": 69621,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/5hQ1rQqSqz",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

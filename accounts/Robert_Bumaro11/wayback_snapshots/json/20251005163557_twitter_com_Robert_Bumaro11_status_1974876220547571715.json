@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964646502011387906"
+      ],
+      "media_source_tweet_id": [
+        "1974776585929769031"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974876220547571715",
+    "created_at": "2025-10-05T16:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974876220547571715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "33161443",
+          "start": 3,
+          "username": "Blind___Gamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIm6vXEIkh",
+          "end": 61,
+          "expanded_url": "https://x.com/Blind___Gamer/status/1974776585929769031/video/1",
+          "media_key": "13_1964646502011387906",
+          "start": 38,
+          "url": "https://t.co/LIm6vXEIkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974876220547571715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974776585929769031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Blind___Gamer: 遇到帽子叔叔查证件如何提高效率的方法 https://t.co/LIm6vXEIkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17111,
+        "height": 1920,
+        "media_key": "13_1964646502011387906",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964646502011387906/img/fnzF_fM-8cJSNO-c.jpg",
+        "public_metrics": {
+          "view_count": 39103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964646502011387906/pl/b4xHYmjPQm4_YFvM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964646502011387906/vid/avc1/320x568/PXUlyhnARM-Zhs5G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964646502011387906/vid/avc1/720x1280/n5SgG1h-BmO6_Uw5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964646502011387906/vid/avc1/480x852/CXcCjWki194JBiav.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964646502011387906/vid/avc1/1080x1920/oy3s1xIuxAtAjT2h.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964646502011387906"
+          ],
+          "media_source_tweet_id": [
+            "1974776585929769031"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974876220547571715",
+        "created_at": "2025-10-05T16:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974876220547571715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "33161443",
+              "start": 3,
+              "username": "Blind___Gamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIm6vXEIkh",
+              "end": 61,
+              "expanded_url": "https://x.com/Blind___Gamer/status/1974776585929769031/video/1",
+              "media_key": "13_1964646502011387906",
+              "start": 38,
+              "url": "https://t.co/LIm6vXEIkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974876220547571715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974776585929769031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Blind___Gamer: 遇到帽子叔叔查证件如何提高效率的方法 https://t.co/LIm6vXEIkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964646502011387906"
+          ]
+        },
+        "author_id": "33161443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974776585929769031",
+        "created_at": "2025-10-05T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974776585929769031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIm6vXEIkh",
+              "end": 42,
+              "expanded_url": "https://x.com/Blind___Gamer/status/1974776585929769031/video/1",
+              "media_key": "13_1964646502011387906",
+              "start": 19,
+              "url": "https://t.co/LIm6vXEIkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974776585929769031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 75707,
+          "like_count": 186,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "遇到帽子叔叔查证件如何提高效率的方法 https://t.co/LIm6vXEIkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 443,
+          "like_count": 4468,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-19T08:18:52.000Z",
+        "description": "这世界破破烂烂，但总有人缝缝补补。 防失联小号@XBlindGamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "XBlindGamer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.suzi04.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://go.suzi04.xyz/#/register?code=45nDIGhS",
+                "start": 0,
+                "url": "https://t.co/65ZHojZiki"
+              }
+            ]
+          }
+        },
+        "id": "33161443",
+        "location": "自用机场：",
+        "name": "瞎玩菌",
+        "pinned_tweet_id": "1973569292156465153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401406517740331009/GXuEQuDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117453,
+          "following_count": 425,
+          "like_count": 1244,
+          "listed_count": 421,
+          "media_count": 14356,
+          "tweet_count": 30245
+        },
+        "url": "https://t.co/65ZHojZiki",
+        "username": "Blind___Gamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977363291665014900",
+    "created_at": "2025-10-12T13:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T14:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977363291665014900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765825463103139840",
+          "start": 3,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977363291665014900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976987928648909025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chloris923: 每天放學：操你媽我明天再和這幫傻逼說一個字我就是狗\n每天上學：哇哇早上好（笑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977363291665014900",
+        "created_at": "2025-10-12T13:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977363291665014900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765825463103139840",
+              "start": 3,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977363291665014900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976987928648909025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chloris923: 每天放學：操你媽我明天再和這幫傻逼說一個字我就是狗\n每天上學：哇哇早上好（笑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1976987928648909025",
+        "created_at": "2025-10-11T12:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976987928648909025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976987928648909025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每天放學：操你媽我明天再和這幫傻逼說一個字我就是狗\n每天上學：哇哇早上好（笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 444,
+          "like_count": 4954,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "夏牧Æstas｜08｜y10｜bi｜any pron｜🔮🎼🍸💤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+62HFM9EDRGM5M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+62HFM9EDRGM5MWJl",
+                "start": 0,
+                "url": "https://t.co/wyDHlZVKwK"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "name": "🪞",
+        "pinned_tweet_id": "1976832943663538680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975842551317069824/nqziIras_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 310,
+          "like_count": 20195,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 9793
+        },
+        "url": "https://t.co/wyDHlZVKwK",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

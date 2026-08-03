@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983549755612655716",
+    "created_at": "2025-10-30T02:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T03:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983729102273290578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894692288963792896",
+          "start": 0,
+          "username": "dongxlian114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983729102273290578",
+    "in_reply_to_user_id": "1894692288963792896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983725422023172366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongxlian114514 没推理，神授军机，纯暴论。至于原贴的你可以自己去问当事人（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983549755612655716",
+        "created_at": "2025-10-30T02:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983729102273290578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894692288963792896",
+              "start": 0,
+              "username": "dongxlian114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983729102273290578",
+        "in_reply_to_user_id": "1894692288963792896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983725422023172366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongxlian114514 没推理，神授军机，纯暴论。至于原贴的你可以自己去问当事人（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894692288963792896",
+        "conversation_id": "1983549755612655716",
+        "created_at": "2025-10-30T02:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983725422023172366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983725422023172366",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983549755612655716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 逻辑在哪，能给个推理吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 447,
+          "like_count": 5627,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T10:15:20.000Z",
+        "description": "没有摆脱低级趣味的人/MTF：Male transformer/Decepticon/反跨顺男",
+        "id": "1894692288963792896",
+        "location": "北京中南海",
+        "name": "祥の乂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894697758595952640/7HTAs6Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 84,
+          "like_count": 460,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 289
+        },
+        "username": "dongxlian114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2077355827762217218",
+    "created_at": "2026-07-15T11:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077355827762217218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GrievousPotato…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/GrievousPotato1/status/2077355489092948284",
+          "start": 25,
+          "url": "https://t.co/gw8nfiKwUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077355827762217218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077355489092948284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友自杀我只会看着\n（所以我不会有朋友，也许吧） https://t.co/gw8nfiKwUn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077355827762217218",
+        "created_at": "2026-07-15T11:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077355827762217218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2077355489092948284",
+              "start": 25,
+              "url": "https://t.co/gw8nfiKwUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077355827762217218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355489092948284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友自杀我只会看着\n（所以我不会有朋友，也许吧） https://t.co/gw8nfiKwUn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2077355489092948284",
+        "created_at": "2026-07-15T11:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077355489092948284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077355489092948284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友抽烟我递火\n朋友喝酒我开瓶盖\n朋友卷🍃我递纸\n朋友嗑💊我递水\n朋友歌手我递刀\n朋友噶人我埋尸\n朋友想戒💊我送朋友去医院\n朋友想好好学习我帮ta补习\n朋友想健身我带ta去健身房\n\n总之尊重朋友的所有个人选择👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 480,
+          "like_count": 13299,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 334,
+          "like_count": 11484,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

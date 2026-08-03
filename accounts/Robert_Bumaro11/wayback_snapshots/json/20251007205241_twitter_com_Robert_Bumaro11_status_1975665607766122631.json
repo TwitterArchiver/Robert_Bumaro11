@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975665607766122631",
+    "created_at": "2025-10-07T20:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T21:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975665607766122631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1975581508745502898",
+          "start": 24,
+          "url": "https://t.co/Q1cMgd1O9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975665607766122631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975581508745502898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "校园经典场景之讲蹩脚笑话的阳角与只会傻笑的群众 https://t.co/Q1cMgd1O9s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_1975581483885862912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qs5HvbIAA8Y34.png",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975665607766122631",
+        "created_at": "2025-10-07T20:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T21:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975665607766122631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1975581508745502898",
+              "start": 24,
+              "url": "https://t.co/Q1cMgd1O9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975665607766122631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975581508745502898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "校园经典场景之讲蹩脚笑话的阳角与只会傻笑的群众 https://t.co/Q1cMgd1O9s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975581483885862912"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1975581508745502898",
+        "created_at": "2025-10-07T15:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975581508745502898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChOrwsIhpY",
+              "end": 26,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1975581508745502898/photo/1",
+              "media_key": "3_1975581483885862912",
+              "start": 3,
+              "url": "https://t.co/ChOrwsIhpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975581508745502898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1052,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "确实 https://t.co/ChOrwsIhpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 444,
+          "like_count": 4679,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7509,
+          "following_count": 6930,
+          "like_count": 24666,
+          "listed_count": 15,
+          "media_count": 5331,
+          "tweet_count": 36037
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

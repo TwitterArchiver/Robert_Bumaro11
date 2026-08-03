@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075561243759509688",
+    "created_at": "2026-07-10T12:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075561243759509688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993279718049910784",
+          "start": 3,
+          "username": "7um1_shh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075561243759509688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 902
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075217914320621799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7um1_shh: no amount of therapy can erase the hatred i have for myself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075561243759509688",
+        "created_at": "2026-07-10T12:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075561243759509688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993279718049910784",
+              "start": 3,
+              "username": "7um1_shh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075561243759509688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 902
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075217914320621799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7um1_shh: no amount of therapy can erase the hatred i have for myself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993279718049910784",
+        "conversation_id": "2075217914320621799",
+        "created_at": "2026-07-09T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075217914320621799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075217914320621799",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 30574,
+          "like_count": 2732,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 902
+        },
+        "reply_settings": "everyone",
+        "text": "no amount of therapy can erase the hatred i have for myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 459,
+          "like_count": 12720,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T11:25:06.000Z",
+        "description": "17 / pro recov / basic dni #shedtwt #suicidaltwt #bipolartwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "tag": "suicidaltwt"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "bipolartwt"
+              }
+            ]
+          }
+        },
+        "id": "1993279718049910784",
+        "name": "yukio ⋆˙⟡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059180431925460992/S0UieHq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 74,
+          "like_count": 4062,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1532
+        },
+        "url": "",
+        "username": "7um1_shh",
+        "verified": false
+      }
+    ]
+  }
+}

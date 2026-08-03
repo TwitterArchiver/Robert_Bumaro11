@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972157286568333312"
+      ],
+      "media_source_tweet_id": [
+        "1972157300682248253"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "1972286189660262537",
+    "created_at": "2025-09-28T13:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T14:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972286189660262537"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "名古屋",
+          "probability": 0.8873,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 36,
+          "tag": "愛美A_CODE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "253177157",
+          "start": 3,
+          "username": "aimi_sound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7vopSyQU0Q",
+          "end": 69,
+          "expanded_url": "https://x.com/aimi_sound/status/1972157300682248253/photo/1",
+          "media_key": "3_1972157286568333312",
+          "start": 46,
+          "url": "https://t.co/7vopSyQU0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972286189660262537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972157300682248253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aimi_sound: 名古屋リリイベ🍤ありがっと！！！！！！\n#愛美A_CODE https://t.co/7vopSyQU0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1972157286568333312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16CmmsakAAxv4d.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972157286568333312"
+          ],
+          "media_source_tweet_id": [
+            "1972157300682248253"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1972286189660262537",
+        "created_at": "2025-09-28T13:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972286189660262537"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "名古屋",
+              "probability": 0.8873,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 36,
+              "tag": "愛美A_CODE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "253177157",
+              "start": 3,
+              "username": "aimi_sound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vopSyQU0Q",
+              "end": 69,
+              "expanded_url": "https://x.com/aimi_sound/status/1972157300682248253/photo/1",
+              "media_key": "3_1972157286568333312",
+              "start": 46,
+              "url": "https://t.co/7vopSyQU0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972286189660262537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972157300682248253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aimi_sound: 名古屋リリイベ🍤ありがっと！！！！！！\n#愛美A_CODE https://t.co/7vopSyQU0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972157286568333312"
+          ]
+        },
+        "author_id": "253177157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1972157300682248253",
+        "created_at": "2025-09-28T04:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972157300682248253"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "名古屋",
+              "probability": 0.8956,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "愛美A_CODE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vopSyQU0Q",
+              "end": 53,
+              "expanded_url": "https://x.com/aimi_sound/status/1972157300682248253/photo/1",
+              "media_key": "3_1972157286568333312",
+              "start": 30,
+              "url": "https://t.co/7vopSyQU0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972157300682248253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 36569,
+          "like_count": 2407,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "名古屋リリイベ🍤ありがっと！！！！！！\n#愛美A_CODE https://t.co/7vopSyQU0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 442,
+          "like_count": 3863,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-16T18:24:01.000Z",
+        "description": "イラストロジックLOVE/VoiceActor/Singer/AiM:Øriginal/TeamY/INTP/Instagram→ https://t.co/SrwR900ksH FC→ https://t.co/zaSaw2Kmu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aimin_official/",
+                "end": 89,
+                "expanded_url": "https://www.instagram.com/aimin_official/",
+                "start": 66,
+                "url": "https://t.co/SrwR900ksH"
+              },
+              {
+                "display_url": "fanicon.net/fancommunities…",
+                "end": 117,
+                "expanded_url": "https://fanicon.net/fancommunities/5037",
+                "start": 94,
+                "url": "https://t.co/zaSaw2Kmu5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aimin_officia…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aimin_official?si=qdGBEqyXi6MZf7W0",
+                "start": 0,
+                "url": "https://t.co/yPK9NdTs2L"
+              }
+            ]
+          }
+        },
+        "id": "253177157",
+        "location": "響・キングレコード",
+        "name": "愛美/AIMI",
+        "pinned_tweet_id": "1967232043433271798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790017537419448320/CpfWdOtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462174,
+          "following_count": 25,
+          "like_count": 3974,
+          "listed_count": 7762,
+          "media_count": 7808,
+          "tweet_count": 39715
+        },
+        "url": "https://t.co/yPK9NdTs2L",
+        "username": "aimi_sound",
+        "verified": true
+      }
+    ]
+  }
+}

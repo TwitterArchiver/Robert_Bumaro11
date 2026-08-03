@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067199799976431616"
+      ],
+      "media_source_tweet_id": [
+        "2067199838295646356"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2067319446633676915",
+    "created_at": "2026-06-17T18:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067319446633676915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1414795900732338177",
+          "start": 3,
+          "username": "uninosono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRKntLU02k",
+          "end": 41,
+          "expanded_url": "https://x.com/uninosono/status/2067199838295646356/photo/1",
+          "media_key": "3_2067199799976431616",
+          "start": 18,
+          "url": "https://t.co/SRKntLU02k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067319446633676915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067199838295646356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uninosono: 幽霊 https://t.co/SRKntLU02k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2067199799976431616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLArQ_1akAAN0Y7.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067199799976431616"
+          ],
+          "media_source_tweet_id": [
+            "2067199838295646356"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2067319446633676915",
+        "created_at": "2026-06-17T18:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067319446633676915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1414795900732338177",
+              "start": 3,
+              "username": "uninosono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRKntLU02k",
+              "end": 41,
+              "expanded_url": "https://x.com/uninosono/status/2067199838295646356/photo/1",
+              "media_key": "3_2067199799976431616",
+              "start": 18,
+              "url": "https://t.co/SRKntLU02k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067319446633676915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067199838295646356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uninosono: 幽霊 https://t.co/SRKntLU02k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067199799976431616"
+          ]
+        },
+        "author_id": "1414795900732338177",
+        "conversation_id": "2067199838295646356",
+        "created_at": "2026-06-17T10:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067199838295646356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRKntLU02k",
+              "end": 26,
+              "expanded_url": "https://x.com/uninosono/status/2067199838295646356/photo/1",
+              "media_key": "3_2067199799976431616",
+              "start": 3,
+              "url": "https://t.co/SRKntLU02k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067199838295646356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 26331,
+          "like_count": 2895,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "幽霊 https://t.co/SRKntLU02k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 425,
+          "like_count": 11756,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-13T03:56:52.000Z",
+        "description": "うにぞの \nskeb（基本OC　二次創作は東方のみ）　https://t.co/kpsiTlEGxr\nご依頼について　https://t.co/YB0Nfq0FqN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uninosono",
+                "end": 50,
+                "expanded_url": "http://skeb.jp/@uninosono",
+                "start": 27,
+                "url": "https://t.co/kpsiTlEGxr"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/uniz…",
+                "end": 82,
+                "expanded_url": "https://xfolio.jp/portfolio/unizono/free/1461909",
+                "start": 59,
+                "url": "https://t.co/YB0Nfq0FqN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/uniz…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/unizono",
+                "start": 0,
+                "url": "https://t.co/GWw9hz4bmp"
+              }
+            ]
+          }
+        },
+        "id": "1414795900732338177",
+        "name": "雲丹園",
+        "pinned_tweet_id": "2052360834513596628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551439992093753345/ViPBYwH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8474,
+          "following_count": 47,
+          "like_count": 437,
+          "listed_count": 86,
+          "media_count": 527,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/GWw9hz4bmp",
+        "username": "uninosono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2054709384211792182",
+    "created_at": "2026-05-14T00:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054719595106439411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054719595106439411",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054709384211792182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 瓶装，原来如此（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2054709384211792182",
+        "created_at": "2026-05-14T00:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054719595106439411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054719595106439411",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054709384211792182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 瓶装，原来如此（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2054709384211792182",
+        "created_at": "2026-05-13T23:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054709384211792182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianxiexingnb/…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/jianxiexingnb/status/2054551458868326542",
+              "start": 149,
+              "url": "https://t.co/Qz2K1duQ5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054709384211792182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054551458868326542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请所有想尝试美金刚的，购买这个盒装20t的，瓶装的是狗屎，切记切记，美金刚效果因人而异，请勿以雷霆剂量开始，这玩意可不好下机，我怀疑美金刚的滥用剂量应该在6t-10t之间，目前所有10t以上的报告bad trip很多，而6t左右的大都不错，至于戒断问题，我的观点是只有药效过去的那一会，会十分难受 https://t.co/Qz2K1duQ5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 507,
+          "like_count": 9687,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "od 药理学 心理学 玄学 \n任何问题都可以来问我，我不会拒绝任何一个礼貌的来访者\n六爻 八字 塔罗 精通 曾经有自己的小摊 欢迎来找我看看未来\n重抑中焦 环性心境",
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 120,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 559
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

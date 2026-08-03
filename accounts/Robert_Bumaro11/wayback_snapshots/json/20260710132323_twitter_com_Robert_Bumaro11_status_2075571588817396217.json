@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075570879300547033",
+    "created_at": "2026-07-10T13:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075571588817396217"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075571588817396217",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075570879300547033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "于是我醒了其实这是一个连环梦，这个梦真正的问题是最后一个人问天主义人的数量，他们从一百不断对半折叠但是没有一个人愿意为他人牺牲自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075570879300547033",
+        "created_at": "2026-07-10T13:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075571588817396217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075571588817396217",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075570879300547033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是我醒了其实这是一个连环梦，这个梦真正的问题是最后一个人问天主义人的数量，他们从一百不断对半折叠但是没有一个人愿意为他人牺牲自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075570879300547033",
+        "created_at": "2026-07-10T13:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075570879300547033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075570879300547033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前做了个噩梦内容是毛泽东是世界上最后一个人类，然后当时每个人死后都会回到他们最爱的人身边。梦境最后给出一个问句是如果让我回到共和国前三十年当平民愿不愿意。而他们最爱的人也是最恨的人（斯大林死状），似乎还挺科幻（什）一部分天主教内容友情客串可能是看了吕楠那部摄影集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 459,
+          "like_count": 12723,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

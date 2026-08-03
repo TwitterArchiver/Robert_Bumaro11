@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054182940742123521"
+      ],
+      "media_source_tweet_id": [
+        "2055225928209350851"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2055241872600420728",
+    "created_at": "2026-05-15T11:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055241872600420728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2954383699",
+          "start": 3,
+          "username": "tsu_ne_tune"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9FvjrTrcG",
+          "end": 47,
+          "expanded_url": "https://x.com/tsu_ne_tune/status/2055225928209350851/photo/1",
+          "media_key": "3_2054182940742123521",
+          "start": 24,
+          "url": "https://t.co/a9FvjrTrcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055241872600420728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055225928209350851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsu_ne_tune: 摩多羅隠岐奈 https://t.co/a9FvjrTrcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2046,
+        "media_key": "3_2054182940742123521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHsgEaaAAE1NA9.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054182940742123521"
+          ],
+          "media_source_tweet_id": [
+            "2055225928209350851"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2055241872600420728",
+        "created_at": "2026-05-15T11:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055241872600420728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2954383699",
+              "start": 3,
+              "username": "tsu_ne_tune"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9FvjrTrcG",
+              "end": 47,
+              "expanded_url": "https://x.com/tsu_ne_tune/status/2055225928209350851/photo/1",
+              "media_key": "3_2054182940742123521",
+              "start": 24,
+              "url": "https://t.co/a9FvjrTrcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055241872600420728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055225928209350851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsu_ne_tune: 摩多羅隠岐奈 https://t.co/a9FvjrTrcG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054182940742123521"
+          ]
+        },
+        "author_id": "2954383699",
+        "conversation_id": "2055225928209350851",
+        "created_at": "2026-05-15T09:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055225928209350851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9FvjrTrcG",
+              "end": 30,
+              "expanded_url": "https://x.com/tsu_ne_tune/status/2055225928209350851/photo/1",
+              "media_key": "3_2054182940742123521",
+              "start": 7,
+              "url": "https://t.co/a9FvjrTrcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055225928209350851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 7151,
+          "like_count": 781,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "摩多羅隠岐奈 https://t.co/a9FvjrTrcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 517,
+          "like_count": 9812,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-01T05:24:54.000Z",
+        "description": "イラスト描いてます！ ■創作女子 理宇・海瑠・燈花 #りうみるとーか\nYouTube→https://t.co/qYg9HAY1Yi\ncontact→tsune896@gmail.com（2026年7月以降着手可能）\nFANBOX→https://t.co/Avh7ZX0li7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 26,
+                "tag": "りうみるとーか"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@kararagetsune",
+                "end": 66,
+                "expanded_url": "https://www.youtube.com/@kararagetsune",
+                "start": 43,
+                "url": "https://t.co/qYg9HAY1Yi"
+              },
+              {
+                "display_url": "tsunetune.fanbox.cc",
+                "end": 139,
+                "expanded_url": "http://tsunetune.fanbox.cc",
+                "start": 116,
+                "url": "https://t.co/Avh7ZX0li7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=11365815",
+                "start": 0,
+                "url": "https://t.co/wDdFzrFD4G"
+              }
+            ]
+          }
+        },
+        "id": "2954383699",
+        "location": "AIへの利用禁止です",
+        "name": "かららげ つね@ｺﾐﾃｨｱ東7V08b",
+        "pinned_tweet_id": "2032396789136187735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031305083917578240/3zsmGr5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199634,
+          "following_count": 710,
+          "like_count": 4018,
+          "listed_count": 1234,
+          "media_count": 1291,
+          "tweet_count": 16411
+        },
+        "url": "https://t.co/wDdFzrFD4G",
+        "username": "tsu_ne_tune",
+        "verified": true
+      }
+    ]
+  }
+}

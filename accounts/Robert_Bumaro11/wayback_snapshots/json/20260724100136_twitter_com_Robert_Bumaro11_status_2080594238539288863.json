@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2080594238539288863",
+    "created_at": "2026-07-24T10:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080594238539288863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080594238539288863",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080593158304596394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: Cameras intended for surveillance have intruded into every corner of the public space and someone who has access to the…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2080594238539288863",
+        "created_at": "2026-07-24T10:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080594238539288863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080594238539288863",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593158304596394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: Cameras intended for surveillance have intruded into every corner of the public space and someone who has access to the…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2080593158304596394",
+        "created_at": "2026-07-24T09:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080593158304596394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kianfahrentia/…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/kianfahrentia/status/2080278404784599515",
+              "start": 281,
+              "url": "https://t.co/1F3c5jweei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080593158304596394",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Cameras intended for surveillance have intruded into every corner of the public space and someone who has access to these devices dared to record private intimate behaviors and post the footage onto the internet. Yet you ppl think this is the “victory” of CCTV because it provides the homosexual life details for your amusement as something spectacularized. You guys suck."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080278404784599515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cameras intended for surveillance have intruded into every corner of the public space and someone who has access to these devices dared to record private intimate behaviors and post the footage onto the internet. Yet you ppl think this is the “victory” of CCTV because it provides https://t.co/1F3c5jweei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 483,
+          "like_count": 13816,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2072308189689958631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076146561453895680/INVCE3xG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 189,
+          "like_count": 14181,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 9671
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

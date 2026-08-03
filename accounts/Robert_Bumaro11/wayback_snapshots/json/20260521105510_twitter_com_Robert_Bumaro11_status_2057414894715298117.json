@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2057414894715298117",
+    "created_at": "2026-05-21T10:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057414894715298117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1930060029954273280",
+          "start": 3,
+          "username": "dosukin1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057414894715298117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057317014474211635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dosukin1989: 521到了，恋爱中学会这些技能，男生女生都招架不住\n1.Furioso-Replica\n2.黑兽-卯 奥义-云解显现\n3.超绝猛虎杀击乱斩\n4.落星一杀\n5.闭馆-装置艺术第1号“各位四散的肉与骨将化为观众席”\n6.最高输出-超高压电流放电\n7…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2057414894715298117",
+        "created_at": "2026-05-21T10:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057414894715298117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1930060029954273280",
+              "start": 3,
+              "username": "dosukin1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057414894715298117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057317014474211635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dosukin1989: 521到了，恋爱中学会这些技能，男生女生都招架不住\n1.Furioso-Replica\n2.黑兽-卯 奥义-云解显现\n3.超绝猛虎杀击乱斩\n4.落星一杀\n5.闭馆-装置艺术第1号“各位四散的肉与骨将化为观众席”\n6.最高输出-超高压电流放电\n7…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930060029954273280",
+        "conversation_id": "2057317014474211635",
+        "created_at": "2026-05-21T04:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057317014474211635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057317014474211635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 21068,
+          "like_count": 680,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "521到了，恋爱中学会这些技能，男生女生都招架不住\n1.Furioso-Replica\n2.黑兽-卯 奥义-云解显现\n3.超绝猛虎杀击乱斩\n4.落星一杀\n5.闭馆-装置艺术第1号“各位四散的肉与骨将化为观众席”\n6.最高输出-超高压电流放电\n7.空间斩-残\n8.桑丘派硬血奥义-La Sangre\n9.阿卡纳裂泪穿刺\n10.全员，处刑！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 532,
+          "like_count": 10362,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T00:32:34.000Z",
+        "description": "yepii🇨🇳中文/Eng  翻译器使用者  \n🌺/🥄bottom全肯定bot \n🔞里账@yepiiiiirrrr只过眼熟的和喜欢的人\n背景@gotanonobus🌹🌹\n主页99%为碎碎念➕口嗨➕无意义的评论   谢谢你喜欢我的画🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "yepiiiiirrrr"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "gotanonobus"
+              }
+            ]
+          }
+        },
+        "id": "1930060029954273280",
+        "location": "在臭水沟里苟延残喘",
+        "name": "Yepiiieee",
+        "pinned_tweet_id": "2051303223739486332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616683718938624/khHI9Aeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 252,
+          "like_count": 6150,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 3225
+        },
+        "username": "dosukin1989",
+        "verified": false
+      }
+    ]
+  }
+}

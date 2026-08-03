@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067057646989901825"
+      ],
+      "media_source_tweet_id": [
+        "2067057735271596296"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067060755686674717",
+    "created_at": "2026-06-17T01:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067060755686674717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        },
+        {
+          "end": 32,
+          "id": "1420962557897035781",
+          "start": 17,
+          "username": "shrinkviolet77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5uHySYfrpe",
+          "end": 68,
+          "expanded_url": "https://x.com/Ajisai1207_/status/2067057735271596296/photo/1",
+          "media_key": "3_2067057646989901825",
+          "start": 45,
+          "url": "https://t.co/5uHySYfrpe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067060755686674717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067057735271596296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: @shrinkviolet77 出手吧，图跨切夫斯基！ https://t.co/5uHySYfrpe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 143,
+        "media_key": "3_2067057646989901825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-p-msWgAEfxb-.png",
+        "width": 255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067057646989901825"
+          ],
+          "media_source_tweet_id": [
+            "2067057735271596296"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067060755686674717",
+        "created_at": "2026-06-17T01:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067060755686674717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            },
+            {
+              "end": 32,
+              "id": "1420962557897035781",
+              "start": 17,
+              "username": "shrinkviolet77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uHySYfrpe",
+              "end": 68,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2067057735271596296/photo/1",
+              "media_key": "3_2067057646989901825",
+              "start": 45,
+              "url": "https://t.co/5uHySYfrpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067060755686674717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067057735271596296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: @shrinkviolet77 出手吧，图跨切夫斯基！ https://t.co/5uHySYfrpe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067057646989901825"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067007849994342460",
+        "created_at": "2026-06-17T01:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067057735271596296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420962557897035781",
+              "start": 0,
+              "username": "shrinkviolet77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uHySYfrpe",
+              "end": 51,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2067057735271596296/photo/1",
+              "media_key": "3_2067057646989901825",
+              "start": 28,
+              "url": "https://t.co/5uHySYfrpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067057735271596296",
+        "in_reply_to_user_id": "1420962557897035781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067007849994342460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrinkviolet77 出手吧，图跨切夫斯基！ https://t.co/5uHySYfrpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 419,
+          "like_count": 11676,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1020,
+          "like_count": 16428,
+          "listed_count": 14,
+          "media_count": 721,
+          "tweet_count": 7438
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 126,
+          "like_count": 44718,
+          "listed_count": 1,
+          "media_count": 550,
+          "tweet_count": 16563
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

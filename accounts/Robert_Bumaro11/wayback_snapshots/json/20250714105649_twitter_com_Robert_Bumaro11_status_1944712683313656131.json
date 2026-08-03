@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1944706461902545236",
+    "created_at": "2025-07-14T10:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T11:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944712683313656131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762050911332081664",
+          "start": 0,
+          "username": "qaz3564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944712683313656131",
+    "in_reply_to_user_id": "1762050911332081664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944706461902545236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaz3564 丢飞镖可信度比较高（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1944706461902545236",
+        "created_at": "2025-07-14T10:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944712683313656131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "qaz3564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944712683313656131",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944706461902545236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaz3564 丢飞镖可信度比较高（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762050911332081664",
+        "conversation_id": "1944706461902545236",
+        "created_at": "2025-07-14T10:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944706461902545236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944706461902545236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "政治坐标测试和网络性格测试哪个可信度更高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 312,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 106
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "灌注水桶谢谢喵//cd直男 日常推 //一般路过4tran国南网友，特别温良的nicecel ，ASD精神病社会化程度为0的neet预备役 不会说话 主页默认含nsfw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "lysol🏳️‍⚧️",
+        "pinned_tweet_id": "1762052620594856426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944304106195017728/PRwc-Cmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 158,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "qaz3564",
+        "verified": false
+      }
+    ]
+  }
+}

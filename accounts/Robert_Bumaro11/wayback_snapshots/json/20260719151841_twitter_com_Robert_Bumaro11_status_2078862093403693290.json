@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2078862093403693290",
+    "created_at": "2026-07-19T15:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078862093403693290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagaikisetsu/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nagaikisetsu/status/2078760316524270030",
+          "start": 9,
+          "url": "https://t.co/DijX53gDRy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078862093403693290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078760316524270030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有原生物种阴影 https://t.co/DijX53gDRy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2078862093403693290",
+        "created_at": "2026-07-19T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078862093403693290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagaikisetsu/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nagaikisetsu/status/2078760316524270030",
+              "start": 9,
+              "url": "https://t.co/DijX53gDRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078862093403693290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078760316524270030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有原生物种阴影 https://t.co/DijX53gDRy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797831340987195392",
+        "conversation_id": "2078760316524270030",
+        "created_at": "2026-07-19T08:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078760316524270030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078760316524270030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有原生国家阴影"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 481,
+          "like_count": 13593,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "好厉害，你简直是后悔的天才",
+        "id": "1797831340987195392",
+        "name": "我变成这样都是你们害的",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078758883670327296/b0BlwPo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 136,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

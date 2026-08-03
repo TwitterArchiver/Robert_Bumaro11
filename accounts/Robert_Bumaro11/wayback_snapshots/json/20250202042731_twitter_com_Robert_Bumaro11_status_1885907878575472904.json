@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1885907878575472904",
+    "created_at": "2025-02-02T04:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T05:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885907878575472904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Paris1Von/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Paris1Von/status/1885743239829004637",
+          "start": 12,
+          "url": "https://t.co/4LnuVaNRlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885907878575472904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885743239829004637",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去这根本就是我（x） https://t.co/4LnuVaNRlD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1885907878575472904",
+        "created_at": "2025-02-02T04:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T05:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885907878575472904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Paris1Von/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Paris1Von/status/1885743239829004637",
+              "start": 12,
+              "url": "https://t.co/4LnuVaNRlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885907878575472904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885743239829004637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去这根本就是我（x） https://t.co/4LnuVaNRlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885743237266280448"
+          ]
+        },
+        "author_id": "1608294527453876225",
+        "conversation_id": "1885743239829004637",
+        "created_at": "2025-02-01T17:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T18:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885743239829004637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJ0IrHmAR0",
+              "end": 153,
+              "expanded_url": "https://x.com/Paris1Von/status/1885743239829004637/photo/1",
+              "media_key": "3_1885743237266280448",
+              "start": 130,
+              "url": "https://t.co/jJ0IrHmAR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885743239829004637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊我们缺爱逼bpd就是你会回复我讯息我就把你当天使然后突然不回的时候就会大脑过载然后觉得是我的错然后在手上划爱心和你的名字给你道歉然后发相片给你看然后找人哭有人理就会把从自己身上割点什么东西送给他没有人的话就会继续歌手然后给你道歉然后就想要放血给你做蛋糕啊捏 https://t.co/jJ0IrHmAR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 225,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx🏳️‍🌈🏳️‍⚧️（或者什麼東西）Fr/En/華語, 生物Biology/化學Chemistry/Environmental science/——/🌏Earth science🌎 {閩東語友好}Viva la Vida;「閩南語學習中」；Foochownese/Kokkien；泛亞主義~",
+        "id": "1608294527453876225",
+        "location": "Foochow-Min; Republic of China",
+        "name": "Parish🇫🇷🏳️🇹🇼🇪🇺",
+        "pinned_tweet_id": "1884646748725125450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 595,
+          "like_count": 39576,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1804
+        },
+        "username": "Paris1Von",
+        "verified": false
+      }
+    ]
+  }
+}

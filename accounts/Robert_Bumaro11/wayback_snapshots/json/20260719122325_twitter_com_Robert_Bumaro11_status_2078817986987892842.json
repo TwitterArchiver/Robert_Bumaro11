@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078812705646112768"
+      ],
+      "media_source_tweet_id": [
+        "2078812712336019836"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2078817986987892842",
+    "created_at": "2026-07-19T12:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078817986987892842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752635717485023232",
+          "start": 3,
+          "username": "ddd_4c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xFICE5DKlo",
+          "end": 47,
+          "expanded_url": "https://x.com/ddd_4c/status/2078812712336019836/photo/1",
+          "media_key": "3_2078812705646112768",
+          "start": 24,
+          "url": "https://t.co/xFICE5DKlo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078817986987892842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078812712336019836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ddd_4c: 見るな\n聞くな\n語るな https://t.co/xFICE5DKlo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1862,
+        "media_key": "3_2078812705646112768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNltJEqa8AAsDm5.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078812705646112768"
+          ]
+        },
+        "author_id": "1752635717485023232",
+        "conversation_id": "2078812712336019836",
+        "created_at": "2026-07-19T12:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078812712336019836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFICE5DKlo",
+              "end": 35,
+              "expanded_url": "https://x.com/ddd_4c/status/2078812712336019836/photo/1",
+              "media_key": "3_2078812705646112768",
+              "start": 12,
+              "url": "https://t.co/xFICE5DKlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078812712336019836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 85,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "見るな\n聞くな\n語るな https://t.co/xFICE5DKlo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078812705646112768"
+          ],
+          "media_source_tweet_id": [
+            "2078812712336019836"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2078817986987892842",
+        "created_at": "2026-07-19T12:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078817986987892842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752635717485023232",
+              "start": 3,
+              "username": "ddd_4c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFICE5DKlo",
+              "end": 47,
+              "expanded_url": "https://x.com/ddd_4c/status/2078812712336019836/photo/1",
+              "media_key": "3_2078812705646112768",
+              "start": 24,
+              "url": "https://t.co/xFICE5DKlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078817986987892842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078812712336019836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ddd_4c: 見るな\n聞くな\n語るな https://t.co/xFICE5DKlo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 481,
+          "like_count": 13582,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:11:41.000Z",
+        "description": "ジャンル偏りがち雑多垢(東方多め)│成人済\nskeb🏷https://t.co/xz6fGxBvoR\nMail 🏷️ddd4ci007@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ddd_4c",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@ddd_4c",
+                "start": 27,
+                "url": "https://t.co/xz6fGxBvoR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ddd_4c",
+                "end": 23,
+                "expanded_url": "https://lit.link/ddd_4c",
+                "start": 0,
+                "url": "https://t.co/LBZXyg7ozp"
+              }
+            ]
+          }
+        },
+        "id": "1752635717485023232",
+        "location": "常陸国",
+        "name": "蝦々",
+        "pinned_tweet_id": "2008495010065645684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035902783606714368/Z3TsnTNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 19,
+          "like_count": 179,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/LBZXyg7ozp",
+        "username": "ddd_4c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1877731525036540250",
+    "created_at": "2025-01-11T02:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T03:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877908899803852918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1810946541169061888",
+          "start": 0,
+          "username": "Chokyiium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877908899803852918",
+    "in_reply_to_user_id": "1810946541169061888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877731525036540250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chokyiium 感觉不如我们冰与火之歌的静默姐妹会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1877731525036540250",
+        "created_at": "2025-01-11T02:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877908899803852918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1810946541169061888",
+              "start": 0,
+              "username": "Chokyiium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877908899803852918",
+        "in_reply_to_user_id": "1810946541169061888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877731525036540250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chokyiium 感觉不如我们冰与火之歌的静默姐妹会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810946541169061888",
+        "conversation_id": "1877731525036540250",
+        "created_at": "2025-01-10T14:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T15:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877731525036540250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877731525036540250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 564,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说有一种取得某种灵知的办法，是从某日开始立誓，在可观的一段时间内不说任何话。我应该尝试这样的事情吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟪",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 213,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:58:16.000Z",
+        "description": "学不会语言 | 非典型飞天猫 | dweller of the City Never in paradox；私人持有@Ligeiumm作为猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Ligeiumm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+OHYMMSKQweRlN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+OHYMMSKQweRlNmRl",
+                "start": 0,
+                "url": "https://t.co/ZV9AikEeSP"
+              }
+            ]
+          }
+        },
+        "id": "1810946541169061888",
+        "name": "Chokyiium",
+        "pinned_tweet_id": "1810995335365542159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811228479675097088/eYV7MUi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 112,
+          "like_count": 8400,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/ZV9AikEeSP",
+        "username": "Chokyiium",
+        "verified": false
+      }
+    ]
+  }
+}

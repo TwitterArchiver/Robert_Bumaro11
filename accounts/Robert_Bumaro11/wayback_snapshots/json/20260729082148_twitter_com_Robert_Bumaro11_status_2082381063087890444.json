@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2082381063087890444",
+    "created_at": "2026-07-29T08:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082381063087890444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akebono__Yohir…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Akebono__Yohira/status/2082335284797284798",
+          "start": 8,
+          "url": "https://t.co/yyZt1d9MQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082381063087890444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082335284797284798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雪花屏地图够劲 https://t.co/yyZt1d9MQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2082335273757925376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXw5hebYAAkNgJ.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2082381063087890444",
+        "created_at": "2026-07-29T08:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082381063087890444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akebono__Yohir…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Akebono__Yohira/status/2082335284797284798",
+              "start": 8,
+              "url": "https://t.co/yyZt1d9MQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082381063087890444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082335284797284798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雪花屏地图够劲 https://t.co/yyZt1d9MQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082335273757925376"
+          ]
+        },
+        "author_id": "1805486587666644992",
+        "conversation_id": "2082335284797284798",
+        "created_at": "2026-07-29T05:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082335284797284798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "諸夏獨立"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lZ4cwCSUd",
+              "end": 64,
+              "expanded_url": "https://x.com/Akebono__Yohira/status/2082335284797284798/photo/1",
+              "media_key": "3_2082335273757925376",
+              "start": 41,
+              "url": "https://t.co/8lZ4cwCSUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082335284797284798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 549,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各过各的，各管各的，中國解體，諸夏復興 \n#諸夏獨立\n。。\n笑了十分钟才发出来🤣 https://t.co/8lZ4cwCSUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 486,
+          "like_count": 14494,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了，相同的梦。\n避难舱：@Akebono6sqrt249\n里账号：@KamomeCasiopeia 看情况通过验证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Akebono6sqrt249"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "KamomeCasiopeia"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "location": "千島列島",
+        "name": "✱ YOHIRA ✿",
+        "pinned_tweet_id": "2071043134495375663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 3254,
+          "like_count": 23251,
+          "listed_count": 1,
+          "media_count": 547,
+          "tweet_count": 4136
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false
+      }
+    ]
+  }
+}

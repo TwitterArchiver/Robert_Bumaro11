@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2067310118526669265",
+    "created_at": "2026-06-17T18:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067310118526669265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585942498253238273",
+          "start": 3,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067310118526669265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067247274368118913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceEslight: 我所恐惧的未来就是失去一切正当性，成为彻头彻尾的末路鬼、十分恶心，被所有存在嫌恶的存在。\n耻辱地、没脸没皮地活着。嚷嚷着去死，却又完全不敢死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2067310118526669265",
+        "created_at": "2026-06-17T18:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067310118526669265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585942498253238273",
+              "start": 3,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067310118526669265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067247274368118913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceEslight: 我所恐惧的未来就是失去一切正当性，成为彻头彻尾的末路鬼、十分恶心，被所有存在嫌恶的存在。\n耻辱地、没脸没皮地活着。嚷嚷着去死，却又完全不敢死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2067247274368118913",
+        "created_at": "2026-06-17T14:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067247274368118913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067247274368118913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我所恐惧的未来就是失去一切正当性，成为彻头彻尾的末路鬼、十分恶心，被所有存在嫌恶的存在。\n耻辱地、没脸没皮地活着。嚷嚷着去死，却又完全不敢死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 422,
+          "like_count": 11744,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，我爱着你……对吗？",
+        "id": "1585942498253238273",
+        "location": "想象界",
+        "name": "疯子酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066801665949433856/0Uc5GorO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 87,
+          "like_count": 40052,
+          "listed_count": 4,
+          "media_count": 635,
+          "tweet_count": 14647
+        },
+        "username": "AliceEslight",
+        "verified": true
+      }
+    ]
+  }
+}

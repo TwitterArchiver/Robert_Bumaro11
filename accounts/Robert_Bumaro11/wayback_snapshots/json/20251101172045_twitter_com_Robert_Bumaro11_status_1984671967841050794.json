@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984312728538796032"
+      ],
+      "media_source_tweet_id": [
+        "1984312732896711167"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1984671967841050794",
+    "created_at": "2025-11-01T17:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984671967841050794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972045017318412288",
+          "start": 3,
+          "username": "twperritos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/loiEwUVmjj",
+          "end": 39,
+          "expanded_url": "https://x.com/twperritos/status/1984312732896711167/photo/1",
+          "media_key": "3_1984312728538796032",
+          "start": 16,
+          "url": "https://t.co/loiEwUVmjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984671967841050794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2449
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984312732896711167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twperritos: https://t.co/loiEwUVmjj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984312728538796032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mx6cvXUAAkNsm.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984312728538796032"
+          ],
+          "media_source_tweet_id": [
+            "1984312732896711167"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1984671967841050794",
+        "created_at": "2025-11-01T17:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984671967841050794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972045017318412288",
+              "start": 3,
+              "username": "twperritos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/loiEwUVmjj",
+              "end": 39,
+              "expanded_url": "https://x.com/twperritos/status/1984312732896711167/photo/1",
+              "media_key": "3_1984312728538796032",
+              "start": 16,
+              "url": "https://t.co/loiEwUVmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984671967841050794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2449
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984312732896711167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twperritos: https://t.co/loiEwUVmjj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984312728538796032"
+          ]
+        },
+        "author_id": "1972045017318412288",
+        "conversation_id": "1984312732896711167",
+        "created_at": "2025-10-31T17:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984312732896711167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/loiEwUVmjj",
+              "end": 23,
+              "expanded_url": "https://x.com/twperritos/status/1984312732896711167/photo/1",
+              "media_key": "3_1984312728538796032",
+              "start": 0,
+              "url": "https://t.co/loiEwUVmjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984312732896711167",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 185928,
+          "like_count": 25196,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 2449
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/loiEwUVmjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 456,
+          "like_count": 5804,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T21:05:56.000Z",
+        "description": "",
+        "id": "1972045017318412288",
+        "name": "no context animals",
+        "pinned_tweet_id": "1972698452107628991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975935897313976320/R1Fw3swu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7262,
+          "following_count": 361,
+          "like_count": 323,
+          "listed_count": 12,
+          "media_count": 169,
+          "tweet_count": 169
+        },
+        "username": "twperritos",
+        "verified": true
+      }
+    ]
+  }
+}

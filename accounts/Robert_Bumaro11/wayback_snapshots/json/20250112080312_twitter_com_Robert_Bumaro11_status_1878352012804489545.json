@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875878250691604480",
+        "3_1875878250691584000"
+      ],
+      "media_source_tweet_id": [
+        "1875878257465397494",
+        "1875878257465397494"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1878352012804489545",
+    "created_at": "2025-01-12T08:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T09:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878352012804489545"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 39,
+          "tag": "RASTOUR_PANDEMONIUM"
+        },
+        {
+          "end": 84,
+          "start": 60,
+          "tag": "RASTOUR_PANDEMONIUM_名古屋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "930439312209952768",
+          "start": 3,
+          "username": "risa_tsumugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQP4LiCI73",
+          "end": 108,
+          "expanded_url": "https://x.com/risa_tsumugi/status/1875878257465397494/photo/1",
+          "media_key": "3_1875878250691604480",
+          "start": 85,
+          "url": "https://t.co/DQP4LiCI73"
+        },
+        {
+          "display_url": "pic.x.com/DQP4LiCI73",
+          "end": 108,
+          "expanded_url": "https://x.com/risa_tsumugi/status/1875878257465397494/photo/1",
+          "media_key": "3_1875878250691584000",
+          "start": 85,
+          "url": "https://t.co/DQP4LiCI73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878352012804489545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 776
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875878257465397494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @risa_tsumugi: 2025年も何卒おHELLな感じで😈🤘\n\n#RASTOUR_PANDEMONIUM\n#RASTOUR_PANDEMONIUM_名古屋 https://t.co/DQP4LiCI73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1875878250691604480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggh1VIZasAAVF-u.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1875878250691584000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggh1VIZaYAAWKc4.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875878250691604480",
+            "3_1875878250691584000"
+          ],
+          "media_source_tweet_id": [
+            "1875878257465397494",
+            "1875878257465397494"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1878352012804489545",
+        "created_at": "2025-01-12T08:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T09:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878352012804489545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 39,
+              "tag": "RASTOUR_PANDEMONIUM"
+            },
+            {
+              "end": 84,
+              "start": 60,
+              "tag": "RASTOUR_PANDEMONIUM_名古屋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "930439312209952768",
+              "start": 3,
+              "username": "risa_tsumugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQP4LiCI73",
+              "end": 108,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1875878257465397494/photo/1",
+              "media_key": "3_1875878250691604480",
+              "start": 85,
+              "url": "https://t.co/DQP4LiCI73"
+            },
+            {
+              "display_url": "pic.x.com/DQP4LiCI73",
+              "end": 108,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1875878257465397494/photo/1",
+              "media_key": "3_1875878250691584000",
+              "start": 85,
+              "url": "https://t.co/DQP4LiCI73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878352012804489545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 776
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875878257465397494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @risa_tsumugi: 2025年も何卒おHELLな感じで😈🤘\n\n#RASTOUR_PANDEMONIUM\n#RASTOUR_PANDEMONIUM_名古屋 https://t.co/DQP4LiCI73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875878250691604480",
+            "3_1875878250691584000"
+          ]
+        },
+        "author_id": "930439312209952768",
+        "conversation_id": "1875878257465397494",
+        "created_at": "2025-01-05T12:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T13:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875878257465397494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 21,
+              "tag": "RASTOUR_PANDEMONIUM"
+            },
+            {
+              "end": 66,
+              "start": 42,
+              "tag": "RASTOUR_PANDEMONIUM_名古屋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQP4LiCI73",
+              "end": 90,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1875878257465397494/photo/1",
+              "media_key": "3_1875878250691604480",
+              "start": 67,
+              "url": "https://t.co/DQP4LiCI73"
+            },
+            {
+              "display_url": "pic.x.com/DQP4LiCI73",
+              "end": 90,
+              "expanded_url": "https://x.com/risa_tsumugi/status/1875878257465397494/photo/1",
+              "media_key": "3_1875878250691584000",
+              "start": 67,
+              "url": "https://t.co/DQP4LiCI73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875878257465397494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 112771,
+          "like_count": 5916,
+          "quote_count": 32,
+          "reply_count": 50,
+          "retweet_count": 776
+        },
+        "reply_settings": "everyone",
+        "text": "2025年も何卒おHELLな感じで😈🤘\n\n#RASTOUR_PANDEMONIUM\n#RASTOUR_PANDEMONIUM_名古屋 https://t.co/DQP4LiCI73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟪",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 212,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-14T14:16:33.000Z",
+        "description": "声優でございます𖤐˒˒ / FC💎 https://t.co/ulzRgGW2GV / お仕事のご依頼はこちらまで→ info.mittmg@mittama.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "risatsumugi.bitfan.id",
+                "end": 41,
+                "expanded_url": "https://risatsumugi.bitfan.id",
+                "start": 18,
+                "url": "https://t.co/ulzRgGW2GV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "risatsumugi.jp",
+                "end": 23,
+                "expanded_url": "https://risatsumugi.jp",
+                "start": 0,
+                "url": "https://t.co/VIh714UksK"
+              }
+            ]
+          }
+        },
+        "id": "930439312209952768",
+        "location": "mitt management所属",
+        "name": "紡木 吏佐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777963366621085696/8aZ63ezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202204,
+          "following_count": 296,
+          "like_count": 3974,
+          "listed_count": 2682,
+          "media_count": 589,
+          "tweet_count": 4685
+        },
+        "url": "https://t.co/VIh714UksK",
+        "username": "risa_tsumugi",
+        "verified": true
+      }
+    ]
+  }
+}

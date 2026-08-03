@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966884909852881251",
+    "created_at": "2025-09-13T18:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T19:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966935106909847666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835632340388950016",
+          "start": 0,
+          "username": "Stupid_yao112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966935106909847666",
+    "in_reply_to_user_id": "1835632340388950016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966884909852881251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupid_yao112 这根本就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966884909852881251",
+        "created_at": "2025-09-13T18:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T19:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966935106909847666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835632340388950016",
+              "start": 0,
+              "username": "Stupid_yao112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966935106909847666",
+        "in_reply_to_user_id": "1835632340388950016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966884909852881251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupid_yao112 这根本就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835632340388950016",
+        "conversation_id": "1966884909852881251",
+        "created_at": "2025-09-13T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966884909852881251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966884909852881251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个现实\n我没有任何现实生活的社交圈\n我的亲朋好友和我几乎完全没有联系\n我几乎没有活在现实里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 399,
+          "like_count": 2853,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 238
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T10:50:40.000Z",
+        "description": "和我交流➡️知道了我为什么没朋友",
+        "id": "1835632340388950016",
+        "location": "Tokyo-to, Japan",
+        "name": "Stupid_YAO",
+        "pinned_tweet_id": "1958247399178297623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948551460234690563/M8dzOUrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 332,
+          "like_count": 5048,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1899
+        },
+        "username": "Stupid_yao112",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075559178366779890",
+    "created_at": "2026-07-10T12:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075559178366779890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870149088358084609",
+          "start": 3,
+          "username": "straydogbites"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075559178366779890",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 650
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075223919619923980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @straydogbites: é estranho quando alguem fala do meu passado, eu nao consigo me lembrar de nada, nada de mim parece ser real"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075559178366779890",
+        "created_at": "2026-07-10T12:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075559178366779890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870149088358084609",
+              "start": 3,
+              "username": "straydogbites"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075559178366779890",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 650
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075223919619923980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @straydogbites: é estranho quando alguem fala do meu passado, eu nao consigo me lembrar de nada, nada de mim parece ser real"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870149088358084609",
+        "conversation_id": "2075223919619923980",
+        "created_at": "2026-07-09T14:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075223919619923980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075223919619923980",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 16863,
+          "like_count": 1911,
+          "quote_count": 27,
+          "reply_count": 6,
+          "retweet_count": 650
+        },
+        "reply_settings": "everyone",
+        "text": "é estranho quando alguem fala do meu passado, eu nao consigo me lembrar de nada, nada de mim parece ser real"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 459,
+          "like_count": 12719,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T16:48:04.000Z",
+        "description": "⎯      a     de𝘮𝘰𝘯     𝒘ith      an     angel    heartㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ۫   he   /   they         ✚        multifandom acc\n\nㅤ    #hannigram       &       #bsdㅤ  ׅ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 123,
+                "tag": "hannigram"
+              },
+              {
+                "end": 153,
+                "start": 148,
+                "tag": "bsdㅤ"
+              }
+            ]
+          }
+        },
+        "id": "1870149088358084609",
+        "location": "𝐄rⲟⲧⲓⲥ Melan𝗰𝗵𝗼𝗹𝗶𝗮",
+        "name": "sebastien .",
+        "pinned_tweet_id": "2075022211203678494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072776581836144641/H5x4E517_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 109,
+          "like_count": 2121,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2730
+        },
+        "url": "",
+        "username": "straydogbites",
+        "verified": false
+      }
+    ]
+  }
+}

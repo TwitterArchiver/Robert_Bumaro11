@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060759726850560000"
+      ],
+      "media_source_tweet_id": [
+        "2060759731942343144"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060785404497084503",
+    "created_at": "2026-05-30T18:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060785404497084503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1469624264920035333",
+          "start": 3,
+          "username": "uramyai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sTeLtA8Cu",
+          "end": 41,
+          "expanded_url": "https://x.com/uramyai/status/2060759731942343144/photo/1",
+          "media_key": "3_2060759726850560000",
+          "start": 18,
+          "url": "https://t.co/3sTeLtA8Cu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060785404497084503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060759731942343144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uramyai: 後戸の主 https://t.co/3sTeLtA8Cu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060759726850560000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlKDZ5b0AAON9q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060759726850560000"
+          ],
+          "media_source_tweet_id": [
+            "2060759731942343144"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060785404497084503",
+        "created_at": "2026-05-30T18:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060785404497084503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1469624264920035333",
+              "start": 3,
+              "username": "uramyai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sTeLtA8Cu",
+              "end": 41,
+              "expanded_url": "https://x.com/uramyai/status/2060759731942343144/photo/1",
+              "media_key": "3_2060759726850560000",
+              "start": 18,
+              "url": "https://t.co/3sTeLtA8Cu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060785404497084503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060759731942343144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uramyai: 後戸の主 https://t.co/3sTeLtA8Cu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060759726850560000"
+          ]
+        },
+        "author_id": "1469624264920035333",
+        "conversation_id": "2060759731942343144",
+        "created_at": "2026-05-30T16:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060759731942343144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sTeLtA8Cu",
+              "end": 28,
+              "expanded_url": "https://x.com/uramyai/status/2060759731942343144/photo/1",
+              "media_key": "3_2060759726850560000",
+              "start": 5,
+              "url": "https://t.co/3sTeLtA8Cu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060759731942343144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "後戸の主 https://t.co/3sTeLtA8Cu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 419,
+          "like_count": 11244,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T11:06:37.000Z",
+        "description": "成人済/東方飛鳥🚪👂／🐛🦋／大生部多ガチ勢／🦊🏹͙(射日神話)にハマる／マシュマロ→https://t.co/P1dvfWscxV xj3w7vaavvcglci／隠岐奈オンリー主催／東方飛鳥創作一気見たい方はこちらへ→ https://t.co/ibugitNORv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 65,
+                "expanded_url": "https://marshmallow-qa.com/",
+                "start": 42,
+                "url": "https://t.co/P1dvfWscxV"
+              },
+              {
+                "display_url": "pixiv.net/users/106613939",
+                "end": 134,
+                "expanded_url": "https://www.pixiv.net/users/106613939",
+                "start": 111,
+                "url": "https://t.co/ibugitNORv"
+              }
+            ]
+          }
+        },
+        "id": "1469624264920035333",
+        "location": "飛鳥",
+        "name": "うらみゃいさん@春例お疲れ様",
+        "pinned_tweet_id": "2051686528938844402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047524227696537600/1MtqRhIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 239,
+          "like_count": 12124,
+          "listed_count": 6,
+          "media_count": 1863,
+          "tweet_count": 12339
+        },
+        "username": "uramyai",
+        "verified": false
+      }
+    ]
+  }
+}

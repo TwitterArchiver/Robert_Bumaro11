@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1881742500995756086",
+    "created_at": "2025-01-21T16:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T17:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881742500995756086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881742500995756086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881722496594153579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: 倒也没必要给就业歧视找这么牵强的理由\n上到老板下到HR对招录标准没有个清晰认知，没有可操作的试用期考核制度，也没有关键岗位人员因故缺勤情况下的应急方案或者业务备份，一味希望招进来的人都是精神强韧的健全人，不提道德上如何，起码也是没做好劳动用工…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1881742500995756086",
+        "created_at": "2025-01-21T16:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T17:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881742500995756086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881742500995756086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881722496594153579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: 倒也没必要给就业歧视找这么牵强的理由\n上到老板下到HR对招录标准没有个清晰认知，没有可操作的试用期考核制度，也没有关键岗位人员因故缺勤情况下的应急方案或者业务备份，一味希望招进来的人都是精神强韧的健全人，不提道德上如何，起码也是没做好劳动用工…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "1881722496594153579",
+        "created_at": "2025-01-21T15:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T16:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881722496594153579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Saturney_Erdon…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Saturney_Erdong/status/1881690221185814924",
+              "start": 140,
+              "url": "https://t.co/CQluHuoDkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881722496594153579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 412,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881690221185814924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒也没必要给就业歧视找这么牵强的理由\n上到老板下到HR对招录标准没有个清晰认知，没有可操作的试用期考核制度，也没有关键岗位人员因故缺勤情况下的应急方案或者业务备份，一味希望招进来的人都是精神强韧的健全人，不提道德上如何，起码也是没做好劳动用工风险管理，那就承担风险呗有什么好说的 https://t.co/CQluHuoDkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 221,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1667736742236160000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 98,
+          "like_count": 3932,
+          "listed_count": 3,
+          "media_count": 571,
+          "tweet_count": 4134
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

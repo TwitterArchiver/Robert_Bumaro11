@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1976306786299994459",
+    "created_at": "2025-10-09T15:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T16:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976307916249674233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583711070098640896",
+          "start": 0,
+          "username": "PriestleyZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976307916249674233",
+    "in_reply_to_user_id": "1583711070098640896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976306786299994459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriestleyZZZ 博闻+1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1976306786299994459",
+        "created_at": "2025-10-09T15:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976307916249674233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583711070098640896",
+              "start": 0,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976307916249674233",
+        "in_reply_to_user_id": "1583711070098640896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976306786299994459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriestleyZZZ 博闻+1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583711070098640896",
+        "conversation_id": "1976306786299994459",
+        "created_at": "2025-10-09T15:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976306786299994459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976306786299994459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯发现一个解决对话的公式，对方找你诉苦，你表示同情安慰，然后把话题往自己的悲惨上面引，等到对方忍不住安慰你角色调换，你就可以发出终止“就这样吧”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 443,
+          "like_count": 4788,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T06:45:55.000Z",
+        "description": "可以叫我Pri / 医学生",
+        "id": "1583711070098640896",
+        "location": "生活向上委員會",
+        "name": "Priestley🍃",
+        "pinned_tweet_id": "1974954639377478000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970500540422565888/GiGXPVjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 806,
+          "like_count": 35930,
+          "listed_count": 6,
+          "media_count": 1365,
+          "tweet_count": 20138
+        },
+        "username": "PriestleyZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

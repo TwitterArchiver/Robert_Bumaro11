@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2077067318174044512",
+    "created_at": "2026-07-15T07:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077296071664111932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841429529413529600",
+          "start": 0,
+          "username": "LazyCataww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077296071664111932",
+    "in_reply_to_user_id": "1841429529413529600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077067318174044512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyCataww 多喝酒试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077067318174044512",
+        "created_at": "2026-07-15T07:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077296071664111932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841429529413529600",
+              "start": 0,
+              "username": "LazyCataww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077296071664111932",
+        "in_reply_to_user_id": "1841429529413529600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077067318174044512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyCataww 多喝酒试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841429529413529600",
+        "conversation_id": "2077067318174044512",
+        "created_at": "2026-07-14T16:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077067318174044512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077067318174044512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的焦虑至少有百分之八十五是因为这个软件引起的\n剩下的百分之十五来自我可能考不到想去的大学\n这个软件为啥引起\n一群脑子有病的人和一群脑子有病的事物冲击来去搞得我觉得我脑子也有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 481,
+          "like_count": 13260,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm缺爱逼泛（双？）性恋（x）爱喝酒爱吃菠萝白切鸡……长发男短发女重度依赖（确信）喜欢年上但长相多半没人喜欢……想不起来了……会写欧体不抽烟没精神疾病……差不多这些XD……很喜欢一句歌词：别忘了寂寞的山谷的角落里野百合也有春天！",
+        "id": "1841429529413529600",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2050612191548825768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068341947690082304/T7DnUdZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 338,
+          "like_count": 11932,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2595
+        },
+        "url": "",
+        "username": "LazyCataww",
+        "verified": false
+      }
+    ]
+  }
+}

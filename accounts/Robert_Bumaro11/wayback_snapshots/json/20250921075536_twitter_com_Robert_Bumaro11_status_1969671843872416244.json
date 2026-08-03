@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1969467314509922571",
+    "created_at": "2025-09-21T07:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969671843872416244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654297647518466048",
+          "start": 0,
+          "username": "AngeloMcna6787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969671843872416244",
+    "in_reply_to_user_id": "1654297647518466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969467314509922571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngeloMcna6787 唉证明你的讨好不是演戏唉不一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1969467291848097794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T0ETdbQAI22gw.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1969467314509922571",
+        "created_at": "2025-09-21T07:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969671843872416244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654297647518466048",
+              "start": 0,
+              "username": "AngeloMcna6787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969671843872416244",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969467314509922571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngeloMcna6787 唉证明你的讨好不是演戏唉不一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969467291848097794"
+          ]
+        },
+        "author_id": "1654297647518466048",
+        "conversation_id": "1969467314509922571",
+        "created_at": "2025-09-20T18:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969467314509922571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuZjLMUrUD",
+              "end": 30,
+              "expanded_url": "https://x.com/AngeloMcna6787/status/1969467314509922571/photo/1",
+              "media_key": "3_1969467291848097794",
+              "start": 7,
+              "url": "https://t.co/PuZjLMUrUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969467314509922571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6715,
+          "like_count": 50,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞笑另类右。 https://t.co/PuZjLMUrUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 438,
+          "like_count": 3352,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 299
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "1889948565918863379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 167,
+          "like_count": 11532,
+          "listed_count": 21,
+          "media_count": 1328,
+          "tweet_count": 20261
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

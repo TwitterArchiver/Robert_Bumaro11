@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1956705885570674731",
+    "created_at": "2025-08-16T13:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T14:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956705885570674731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        },
+        {
+          "end": 28,
+          "id": "2802608952",
+          "start": 17,
+          "username": "AkelyEquab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956705885570674731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956523226307387674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: @AkelyEquab 神助兵、十字军，只因现代性来侵。\n劝奉教、自信天，不信上帝忘祖先。\n天无雨、地焦旱，5G铁塔遮住天。\n拆电车、拔网线，紧急毁坏LLM。\n塞里斯、心胆寒，第三世界尽消然。\n原子人、尽除完，trad一统靖江山。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1956705885570674731",
+        "created_at": "2025-08-16T13:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956705885570674731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            },
+            {
+              "end": 28,
+              "id": "2802608952",
+              "start": 17,
+              "username": "AkelyEquab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956705885570674731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956523226307387674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: @AkelyEquab 神助兵、十字军，只因现代性来侵。\n劝奉教、自信天，不信上帝忘祖先。\n天无雨、地焦旱，5G铁塔遮住天。\n拆电车、拔网线，紧急毁坏LLM。\n塞里斯、心胆寒，第三世界尽消然。\n原子人、尽除完，trad一统靖江山。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1956498654661079288",
+        "created_at": "2025-08-16T01:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956523226307387674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2802608952",
+              "start": 0,
+              "username": "AkelyEquab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956523226307387674",
+        "in_reply_to_user_id": "2802608952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956498654661079288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkelyEquab 神助兵、十字军，只因现代性来侵。\n劝奉教、自信天，不信上帝忘祖先。\n天无雨、地焦旱，5G铁塔遮住天。\n拆电车、拔网线，紧急毁坏LLM。\n塞里斯、心胆寒，第三世界尽消然。\n原子人、尽除完，trad一统靖江山。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 400,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 168
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "“做个独立思想的人。”——他们众口一声地讲。\n\n我只是倚在地下室的墙上，偶尔听见古老足音的回响。",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1208130416605093889/y7j-vPpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 792,
+          "like_count": 9597,
+          "listed_count": 10,
+          "media_count": 382,
+          "tweet_count": 4814
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-10T23:34:39.000Z",
+        "description": "a kiwi, more than kiwi, observer\n\nI speak 中文, Pó-sing-gṳ̂，Deutsch, English, العربية  and... more!",
+        "id": "2802608952",
+        "name": "Alexej",
+        "pinned_tweet_id": "1749706282909704514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856849811208896512/2jOJagDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6051,
+          "following_count": 2303,
+          "like_count": 232624,
+          "listed_count": 41,
+          "media_count": 8918,
+          "tweet_count": 117054
+        },
+        "username": "AkelyEquab",
+        "verified": false
+      }
+    ]
+  }
+}

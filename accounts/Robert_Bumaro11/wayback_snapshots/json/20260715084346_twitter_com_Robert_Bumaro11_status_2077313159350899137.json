@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2077306099733266778",
+    "created_at": "2026-07-15T08:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077313159350899137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1743531573478363136",
+          "start": 0,
+          "username": "chionli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077313159350899137",
+    "in_reply_to_user_id": "1743531573478363136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077312456540782860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chionli 正确的ദ്ദി（• ˕ •マ.ᐟ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2077306099733266778",
+        "created_at": "2026-07-15T08:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077313159350899137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1743531573478363136",
+              "start": 0,
+              "username": "chionli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077313159350899137",
+        "in_reply_to_user_id": "1743531573478363136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077312456540782860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chionli 正确的ദ്ദി（• ˕ •マ.ᐟ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743531573478363136",
+        "conversation_id": "2077306099733266778",
+        "created_at": "2026-07-15T08:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077312456540782860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077312456540782860",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077311871745741301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 我之前住院時也有類似的。然我編了個理由拒不參加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 480,
+          "like_count": 13264,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T07:15:08.000Z",
+        "description": "was/were\nfate or destiny\n\nWe will be together that never apart.\n\nI love you all❤️🥰🥰",
+        "id": "1743531573478363136",
+        "location": "molecular orbital",
+        "name": "i.a.c",
+        "pinned_tweet_id": "2030552008349093936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629062096142336/HijGL79K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 302,
+          "like_count": 3271,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 2396
+        },
+        "url": "",
+        "username": "chionli",
+        "verified": false
+      }
+    ]
+  }
+}

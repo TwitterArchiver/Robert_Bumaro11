@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853539015154425856"
+      ],
+      "media_source_tweet_id": [
+        "1853539058057978120"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983884181546668054",
+    "created_at": "2025-10-30T13:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983884181546668054"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "The Dream",
+          "probability": 0.6703,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "Limbus_Company",
+          "probability": 0.5357,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 26,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580274306",
+          "start": 3,
+          "username": "NishikujiC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0SPDnJqOnf",
+          "end": 65,
+          "expanded_url": "https://x.com/NishikujiC/status/1853539058057978120/photo/1",
+          "media_key": "3_1853539015154425856",
+          "start": 42,
+          "url": "https://t.co/0SPDnJqOnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983884181546668054",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3512
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853539058057978120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NishikujiC: The Dream\n#Limbus_Company https://t.co/0SPDnJqOnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1853539015154425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbkX6e-bYAAhJrm.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853539015154425856"
+          ],
+          "media_source_tweet_id": [
+            "1853539058057978120"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983884181546668054",
+        "created_at": "2025-10-30T13:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983884181546668054"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "The Dream",
+              "probability": 0.6703,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Limbus_Company",
+              "probability": 0.5357,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 26,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580274306",
+              "start": 3,
+              "username": "NishikujiC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SPDnJqOnf",
+              "end": 65,
+              "expanded_url": "https://x.com/NishikujiC/status/1853539058057978120/photo/1",
+              "media_key": "3_1853539015154425856",
+              "start": 42,
+              "url": "https://t.co/0SPDnJqOnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983884181546668054",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3512
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853539058057978120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NishikujiC: The Dream\n#Limbus_Company https://t.co/0SPDnJqOnf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853539015154425856"
+          ]
+        },
+        "author_id": "1580274306",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1853539058057978120",
+        "created_at": "2024-11-04T20:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T21:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853539058057978120"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "The Dream",
+              "probability": 0.441,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "Limbus_Company",
+              "probability": 0.4512,
+              "start": 11,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 10,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SPDnJqOnf",
+              "end": 49,
+              "expanded_url": "https://x.com/NishikujiC/status/1853539058057978120/photo/1",
+              "media_key": "3_1853539015154425856",
+              "start": 26,
+              "url": "https://t.co/0SPDnJqOnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853539058057978120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1934,
+          "impression_count": 313783,
+          "like_count": 15926,
+          "quote_count": 34,
+          "reply_count": 10,
+          "retweet_count": 3512
+        },
+        "reply_settings": "everyone",
+        "text": "The Dream\n#Limbus_Company https://t.co/0SPDnJqOnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 452,
+          "like_count": 5691,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-09T12:51:01.000Z",
+        "description": "=ShiiC/西九时\n中国人★現在地：プロムン沼（アルガリア！）★ 他いろいろ\n中国語日本語OK。English probably OK。成人済み\nicon:@South_AC\nheader:@Kelala_R\nマシュマロ：https://t.co/Y61Y0zEqWs\nAI禁止🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "South_AC"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Kelala_R"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nishikujic",
+                "end": 135,
+                "expanded_url": "http://marshmallow-qa.com/nishikujic",
+                "start": 112,
+                "url": "https://t.co/Y61Y0zEqWs"
+              }
+            ]
+          }
+        },
+        "id": "1580274306",
+        "location": "連絡：nishikuji@gmail.com",
+        "name": "西九時 in ラ・マンチャランド",
+        "pinned_tweet_id": "1968856989913551191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894590345226354689/jhAMJaLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70397,
+          "following_count": 369,
+          "like_count": 23427,
+          "listed_count": 221,
+          "media_count": 1857,
+          "tweet_count": 11127
+        },
+        "username": "NishikujiC",
+        "verified": false
+      }
+    ]
+  }
+}

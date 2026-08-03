@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075537858577018963",
+    "created_at": "2026-07-10T11:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075537858577018963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1794222795754532864",
+          "start": 3,
+          "username": "MordredP_0501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075537858577018963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075476148717523382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MordredP_0501: tl上又有推友在说罪人真名的事情，忽然想起之前看到的一个理论就是，只有唐璐奥三人的初始立绘上出现了这种金属牌子，而其他罪人（如p4以实玛利）都没有，这证明只有他们三人用于登记的名字不是真名，刚才去看了一下还真是这样。比较有趣的是良秀并不属于…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2075476145924124672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2SjvGasAAuqUn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 793,
+        "media_key": "3_2075476145898999808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2SjvAbUAAewt5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 899,
+        "media_key": "3_2075476146410618880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2Sjw6aAAADRBh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 877,
+        "media_key": "3_2075476146842693632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2Sjyha8AAc3k1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075537858577018963",
+        "created_at": "2026-07-10T11:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075537858577018963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1794222795754532864",
+              "start": 3,
+              "username": "MordredP_0501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075537858577018963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075476148717523382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MordredP_0501: tl上又有推友在说罪人真名的事情，忽然想起之前看到的一个理论就是，只有唐璐奥三人的初始立绘上出现了这种金属牌子，而其他罪人（如p4以实玛利）都没有，这证明只有他们三人用于登记的名字不是真名，刚才去看了一下还真是这样。比较有趣的是良秀并不属于…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075476145924124672",
+            "3_2075476145898999808",
+            "3_2075476146410618880",
+            "3_2075476146842693632"
+          ]
+        },
+        "author_id": "1794222795754532864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075476148717523382",
+        "created_at": "2026-07-10T07:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075476148717523382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jv2taWsMfD",
+              "end": 160,
+              "expanded_url": "https://x.com/MordredP_0501/status/2075476148717523382/photo/1",
+              "media_key": "3_2075476145924124672",
+              "start": 137,
+              "url": "https://t.co/jv2taWsMfD"
+            },
+            {
+              "display_url": "pic.x.com/jv2taWsMfD",
+              "end": 160,
+              "expanded_url": "https://x.com/MordredP_0501/status/2075476148717523382/photo/1",
+              "media_key": "3_2075476145898999808",
+              "start": 137,
+              "url": "https://t.co/jv2taWsMfD"
+            },
+            {
+              "display_url": "pic.x.com/jv2taWsMfD",
+              "end": 160,
+              "expanded_url": "https://x.com/MordredP_0501/status/2075476148717523382/photo/1",
+              "media_key": "3_2075476146410618880",
+              "start": 137,
+              "url": "https://t.co/jv2taWsMfD"
+            },
+            {
+              "display_url": "pic.x.com/jv2taWsMfD",
+              "end": 160,
+              "expanded_url": "https://x.com/MordredP_0501/status/2075476148717523382/photo/1",
+              "media_key": "3_2075476146842693632",
+              "start": 137,
+              "url": "https://t.co/jv2taWsMfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075476148717523382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 9381,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "tl上又有推友在说罪人真名的事情，忽然想起之前看到的一个理论就是，只有唐璐奥三人的初始立绘上出现了这种金属牌子，而其他罪人（如p4以实玛利）都没有，这证明只有他们三人用于登记的名字不是真名，刚才去看了一下还真是这样。比较有趣的是良秀并不属于这个群体，目前想到的原因有两个： https://t.co/jv2taWsMfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 458,
+          "like_count": 12706,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T04:23:53.000Z",
+        "description": "无名燕 | any pronouns queer leftist | 中文/ENG/日本語本当苦手 | local mentally ill 🪦🕊 acc | I have a phd in incestology | T0级盐见夜色孽大嬷 | 全网最尊重盐见夜的账号 | RienShio intoxicated",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/ASwallow…",
+                "end": 23,
+                "expanded_url": "https://archiveofourown.org/users/ASwallow323",
+                "start": 0,
+                "url": "https://t.co/jcnpLRxGsM"
+              }
+            ]
+          }
+        },
+        "id": "1794222795754532864",
+        "location": "Shiomi Yoru's Womb",
+        "name": "无名燕（蜘蛛之家版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929683595343679491/M6FvJDoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1196,
+          "like_count": 219541,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 16001
+        },
+        "url": "https://t.co/jcnpLRxGsM",
+        "username": "MordredP_0501",
+        "verified": false
+      }
+    ]
+  }
+}

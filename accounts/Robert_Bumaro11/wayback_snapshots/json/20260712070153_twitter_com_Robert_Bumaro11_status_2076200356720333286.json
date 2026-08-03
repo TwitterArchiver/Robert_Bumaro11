@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076200356720333286",
+    "created_at": "2026-07-12T07:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076200356720333286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624277789754138624",
+          "start": 3,
+          "username": "denji_012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076200356720333286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075623000381284480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denji_012: 看到存在主义跟虚无主义这俩儿词就想笑是什么鬼? 现在看到这两词，举个例子，比如一个人一本正经的谈这些玩意，给我一种他正在说“我晚餐吃的意大利面拌42号混凝土咕咕嘎嘎”这样的观感……\n\n语义饱和了?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076200356720333286",
+        "created_at": "2026-07-12T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076200356720333286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624277789754138624",
+              "start": 3,
+              "username": "denji_012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076200356720333286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075623000381284480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denji_012: 看到存在主义跟虚无主义这俩儿词就想笑是什么鬼? 现在看到这两词，举个例子，比如一个人一本正经的谈这些玩意，给我一种他正在说“我晚餐吃的意大利面拌42号混凝土咕咕嘎嘎”这样的观感……\n\n语义饱和了?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624277789754138624",
+        "conversation_id": "2075623000381284480",
+        "created_at": "2026-07-10T16:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075623000381284480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075623000381284480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到存在主义跟虚无主义这俩儿词就想笑是什么鬼? 现在看到这两词，举个例子，比如一个人一本正经的谈这些玩意，给我一种他正在说“我晚餐吃的意大利面拌42号混凝土咕咕嘎嘎”这样的观感……\n\n语义饱和了?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 468,
+          "like_count": 12937,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T05:23:33.000Z",
+        "description": "「いつかきっと未来のわたしと答え合わせしよう」\n「高く澄んだClear Sky キュンと響くこのメロディ」",
+        "id": "1624277789754138624",
+        "location": "Tokyo-to, Japan",
+        "name": "伊吕波",
+        "pinned_tweet_id": "1959949838608445500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069804740737634304/wt5zQN-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 672,
+          "like_count": 12481,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 4510
+        },
+        "url": "",
+        "username": "denji_012",
+        "verified": false
+      }
+    ]
+  }
+}

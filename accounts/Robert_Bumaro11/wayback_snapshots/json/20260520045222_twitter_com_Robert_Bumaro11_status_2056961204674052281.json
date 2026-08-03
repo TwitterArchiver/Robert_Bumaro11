@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2056859527635677574",
+    "created_at": "2026-05-20T04:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056961204674052281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733139095352918016",
+          "start": 0,
+          "username": "aoi4uto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056961204674052281",
+    "in_reply_to_user_id": "1733139095352918016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056959676328358176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi4uto 那路或多！🧐🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2056859527635677574",
+        "created_at": "2026-05-20T04:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056961204674052281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733139095352918016",
+              "start": 0,
+              "username": "aoi4uto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056961204674052281",
+        "in_reply_to_user_id": "1733139095352918016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056959676328358176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi4uto 那路或多！🧐🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733139095352918016",
+        "conversation_id": "2056859527635677574",
+        "created_at": "2026-05-20T04:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056959676328358176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056959676328358176",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056859527635677574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 提供一个微小参考是偏好自认为无所不能的，更早的时候是前者，存在一个先后顺序。如果剧烈排斥，经历一段时间反刍后发现引起相同巨大厌恶的事会反反复复降临无数遍，太频繁，太荒谬，让我觉得每次都拿出很大反应实在是造成了生命力的消耗\n平淡一些或者刻意遗忘“匮乏”是更好的选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 531,
+          "like_count": 10199,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "All their prejudices. All their passions. Their local interests and selfish views. And yet, we'll be fine.\n神经多样性｜不良嗜好｜回关各类学生\n亲友@Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "Acmduemsks"
+              }
+            ]
+          }
+        },
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025944445372313600/3EQTUkjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 638,
+          "like_count": 57169,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 8764
+        },
+        "username": "aoi4uto",
+        "verified": false
+      }
+    ]
+  }
+}

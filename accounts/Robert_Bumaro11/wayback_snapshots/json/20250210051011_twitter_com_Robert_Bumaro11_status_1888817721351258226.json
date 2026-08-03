@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1888566014880920014",
+    "created_at": "2025-02-10T05:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T06:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888817721351258226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888817721351258226",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888566014880920014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo 但是跨性别本来就是可以既hrt也srs、只hrt不srs甚至不hrt也不srs，只要说清楚后果让别人有足够信息自由做出选择就够了，没必要高高在上去审判别人有多少觉悟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1888566014880920014",
+        "created_at": "2025-02-10T05:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T06:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888817721351258226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888817721351258226",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888566014880920014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo 但是跨性别本来就是可以既hrt也srs、只hrt不srs甚至不hrt也不srs，只要说清楚后果让别人有足够信息自由做出选择就够了，没必要高高在上去审判别人有多少觉悟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211879989995421696",
+        "conversation_id": "1888566014880920014",
+        "created_at": "2025-02-09T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888566014880920014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888566014880920014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2623,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受男娘影响，来了很多新人吃糖动机很复杂，每天都有很多人问怎么入圈、怎么吃糖、吃多久能让皮肤变好毛毛变少、吃几个月能不能不影响生育……只有极少一部分是性别焦虑下定决心srs，再说大部分yn结果不好，因此很多老mtf对低龄mtf是用自己的方式尽量劝退。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 227,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "MtF/X🍥，以前的念夏。\n推文都是不过脑子的东西，没营养价值，不回fo也没事。\n长期处于解离记忆很差意识恍惚。",
+        "id": "1211879989995421696",
+        "location": "大陆东部沿海多省乱跑",
+        "name": "🎀🍫芒芒萝萝橘橘草🌰",
+        "pinned_tweet_id": "1884057857014051005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867512981070000133/vV8gpQoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1267,
+          "like_count": 5977,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1438
+        },
+        "username": "medicagoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981627782401609728"
+      ],
+      "media_source_tweet_id": [
+        "1981651880783593615"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597570732032",
+          "name": "Multi-Purpose Department - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Don Quixote (ドン・キホーテ)",
+          "id": "1038147907264765954",
+          "name": "Don Quixote (ドン・キホーテ)"
+        }
+      }
+    ],
+    "conversation_id": "1981989123343929473",
+    "created_at": "2025-10-25T07:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T08:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981989123343929473"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "ミルカラ ドンキホーテ",
+          "probability": 0.2736,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 36,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1931181854075588608",
+          "start": 3,
+          "username": "ritaritatter96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNltYzKalU",
+          "end": 75,
+          "expanded_url": "https://x.com/ritaritatter96/status/1981651880783593615/photo/1",
+          "media_key": "3_1981627782401609728",
+          "start": 52,
+          "url": "https://t.co/rNltYzKalU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981989123343929473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981651880783593615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ritaritatter96: 渇望-ミルカラ  ドンキホーテ\n#Limbus_Company https://t.co/rNltYzKalU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1981627782401609728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4An-A8X0AAT6ru.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981627782401609728"
+          ],
+          "media_source_tweet_id": [
+            "1981651880783593615"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Don Quixote (ドン・キホーテ)",
+              "id": "1038147907264765954",
+              "name": "Don Quixote (ドン・キホーテ)"
+            }
+          }
+        ],
+        "conversation_id": "1981989123343929473",
+        "created_at": "2025-10-25T07:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981989123343929473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ミルカラ ドンキホーテ",
+              "probability": 0.2736,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1931181854075588608",
+              "start": 3,
+              "username": "ritaritatter96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNltYzKalU",
+              "end": 75,
+              "expanded_url": "https://x.com/ritaritatter96/status/1981651880783593615/photo/1",
+              "media_key": "3_1981627782401609728",
+              "start": 52,
+              "url": "https://t.co/rNltYzKalU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981989123343929473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981651880783593615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ritaritatter96: 渇望-ミルカラ  ドンキホーテ\n#Limbus_Company https://t.co/rNltYzKalU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981627782401609728"
+          ]
+        },
+        "author_id": "1931181854075588608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Don Quixote (ドン・キホーテ)",
+              "id": "1038147907264765954",
+              "name": "Don Quixote (ドン・キホーテ)"
+            }
+          }
+        ],
+        "conversation_id": "1981651880783593615",
+        "created_at": "2025-10-24T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981651880783593615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "ミルカラ ドンキホーテ",
+              "probability": 0.3818,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 16,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNltYzKalU",
+              "end": 55,
+              "expanded_url": "https://x.com/ritaritatter96/status/1981651880783593615/photo/1",
+              "media_key": "3_1981627782401609728",
+              "start": 32,
+              "url": "https://t.co/rNltYzKalU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981651880783593615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 15331,
+          "like_count": 1658,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "渇望-ミルカラ  ドンキホーテ\n#Limbus_Company https://t.co/rNltYzKalU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 445,
+          "like_count": 5462,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T02:50:18.000Z",
+        "description": "初心者管理人 / Limbusメイン / 🎠 / 🗝️→@ritaritatter_96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "ritaritatter_96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9hka7gm9i21j2o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9hka7gm9i21j2ob?t=tMPpaX&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ULwUjgRnFj"
+              }
+            ]
+          }
+        },
+        "id": "1931181854075588608",
+        "location": "無断使用・転載❌",
+        "name": "リタ",
+        "pinned_tweet_id": "1977398599425171765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052766757330944/TJn-lean_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 169,
+          "like_count": 7770,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/ULwUjgRnFj",
+        "username": "ritaritatter96",
+        "verified": false
+      }
+    ]
+  }
+}

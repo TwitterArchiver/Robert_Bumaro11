@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968682288842952704"
+      ],
+      "media_source_tweet_id": [
+        "1968682291040858318"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1969651144692809976",
+    "created_at": "2025-09-21T06:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969651144692809976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x6SxG0OoiD",
+          "end": 99,
+          "expanded_url": "https://x.com/Ephraim_deca/status/1968682291040858318/photo/1",
+          "media_key": "3_1968682288842952704",
+          "start": 76,
+          "url": "https://t.co/x6SxG0OoiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969651144692809976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968682291040858318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: 如果你们之中，有等待隐遁伊玛目的信士、继承卡尔巴拉烈士灵魂的人、能引领真正信徒的学者，或者战士，就来找我吧。以上。 https://t.co/x6SxG0OoiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1803,
+        "media_key": "3_1968682288842952704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IqHHYWUAAE5WY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968682288842952704"
+          ],
+          "media_source_tweet_id": [
+            "1968682291040858318"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1969651144692809976",
+        "created_at": "2025-09-21T06:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969651144692809976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6SxG0OoiD",
+              "end": 99,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1968682291040858318/photo/1",
+              "media_key": "3_1968682288842952704",
+              "start": 76,
+              "url": "https://t.co/x6SxG0OoiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969651144692809976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968682291040858318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: 如果你们之中，有等待隐遁伊玛目的信士、继承卡尔巴拉烈士灵魂的人、能引领真正信徒的学者，或者战士，就来找我吧。以上。 https://t.co/x6SxG0OoiD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968682288842952704"
+          ]
+        },
+        "author_id": "1587696726022017027",
+        "conversation_id": "1968682291040858318",
+        "created_at": "2025-09-18T14:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T15:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968682291040858318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6SxG0OoiD",
+              "end": 81,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1968682291040858318/photo/1",
+              "media_key": "3_1968682288842952704",
+              "start": 58,
+              "url": "https://t.co/x6SxG0OoiD"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4939b600461c30a4"
+        },
+        "id": "1968682291040858318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你们之中，有等待隐遁伊玛目的信士、继承卡尔巴拉烈士灵魂的人、能引领真正信徒的学者，或者战士，就来找我吧。以上。 https://t.co/x6SxG0OoiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 436,
+          "like_count": 3343,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 298
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "现流放在加拿大//中文/English/Español//\n进教之佑，为我等祈；中华圣母，为我等祈；吁玛利亚无原罪之始胎，我等奔尔台前为我等祈🇻🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 0,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1959026398766510194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 3901,
+          "like_count": 64295,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/BUKhQfYqVS",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

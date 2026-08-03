@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074199361844662272"
+      ],
+      "media_source_tweet_id": [
+        "2074199364226981949"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074325736387944596",
+    "created_at": "2026-07-07T02:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074325736387944596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1356072233052086285",
+          "start": 3,
+          "username": "Cualqui67240085"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2llGvtu2l5",
+          "end": 82,
+          "expanded_url": "https://x.com/Cualqui67240085/status/2074199364226981949/photo/1",
+          "media_key": "3_2074199361844662272",
+          "start": 59,
+          "url": "https://t.co/2llGvtu2l5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074325736387944596",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074199364226981949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cualqui67240085: Buenos días a todos, los quiero mucho https://t.co/2llGvtu2l5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2074199361844662272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkJVHwX0AAsOUL.jpg",
+        "width": 1369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074199361844662272"
+          ],
+          "media_source_tweet_id": [
+            "2074199364226981949"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074325736387944596",
+        "created_at": "2026-07-07T02:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074325736387944596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1356072233052086285",
+              "start": 3,
+              "username": "Cualqui67240085"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2llGvtu2l5",
+              "end": 82,
+              "expanded_url": "https://x.com/Cualqui67240085/status/2074199364226981949/photo/1",
+              "media_key": "3_2074199361844662272",
+              "start": 59,
+              "url": "https://t.co/2llGvtu2l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074325736387944596",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074199364226981949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cualqui67240085: Buenos días a todos, los quiero mucho https://t.co/2llGvtu2l5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074199361844662272"
+          ]
+        },
+        "author_id": "1356072233052086285",
+        "conversation_id": "2074199364226981949",
+        "created_at": "2026-07-06T18:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074199364226981949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2llGvtu2l5",
+              "end": 61,
+              "expanded_url": "https://x.com/Cualqui67240085/status/2074199364226981949/photo/1",
+              "media_key": "3_2074199361844662272",
+              "start": 38,
+              "url": "https://t.co/2llGvtu2l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074199364226981949",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1102,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Buenos días a todos, los quiero mucho https://t.co/2llGvtu2l5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 445,
+          "like_count": 12341,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T02:50:10.000Z",
+        "description": "Escriban al DM con confianza, me gusta hablar",
+        "id": "1356072233052086285",
+        "location": "calalini island",
+        "name": "Aubrey paisa",
+        "pinned_tweet_id": "2072371145983111335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072819974251364352/uW7Np2y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 408,
+          "like_count": 12596,
+          "listed_count": 1,
+          "media_count": 3564,
+          "tweet_count": 14955
+        },
+        "url": "",
+        "username": "Cualqui67240085",
+        "verified": false
+      }
+    ]
+  }
+}

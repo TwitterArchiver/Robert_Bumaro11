@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1951516369427767612",
+    "created_at": "2025-08-02T06:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T07:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951527905131110414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951527905131110414",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951516369427767612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 我过去也有同样的病娇理想（）可惜二次元之外心神涣散疲于生计的人类是无法全力脱产当病娇的。\n真达到互相占有就不存在*可不可以*的考量，感觉就算两个人都有这种愿望恐怕当宿敌的可能性反而更大，亲密关系太过单薄以至于难以承载炽热的意志(｡í _ ì｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1951516369427767612",
+        "created_at": "2025-08-02T06:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951527905131110414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951527905131110414",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951516369427767612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 我过去也有同样的病娇理想（）可惜二次元之外心神涣散疲于生计的人类是无法全力脱产当病娇的。\n真达到互相占有就不存在*可不可以*的考量，感觉就算两个人都有这种愿望恐怕当宿敌的可能性反而更大，亲密关系太过单薄以至于难以承载炽热的意志(｡í _ ì｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1951516369427767612",
+        "created_at": "2025-08-02T05:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951516369427767612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xmin240286/sta…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/xmin240286/status/1951514565772189958",
+              "start": 87,
+              "url": "https://t.co/Br2bHGrJ5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951516369427767612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951514565772189958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有谁可以吗…\n我对爱的理解是互相依赖、互相控制、互相占有、互相认同，像融合，平静又幸福，永远的在一起…\n我会极端且病态的抓住你…占有你…\n「我只有你了…你也只能有我一个…」 https://t.co/Br2bHGrJ5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 373,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 130
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "含糖MtF｜INFP-T｜社会化程度极低的AS｜BPD｜天残党｜家暴党｜无性恋｜性冷淡｜严重躯体化｜同类互fo｜五年C#开发经验｜LLM Orchestration｜Godot Engine｜没人陪、没人要的恶心的废物，所有人最后都会讨厌我…｜Telegram https://t.co/fUGMj5xj0K 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 154,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 131,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949019958287237125/BckoVlFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 58,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 134
+        },
+        "username": "xmin240286",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2082084307565449410",
+    "created_at": "2026-07-28T12:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082084307565449410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897445432365821952",
+          "start": 3,
+          "username": "yoyokiiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082084307565449410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081710063035744260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoyokiiy: 想象一下我是你的回避型女友 不喜欢回信息但是一天在社交平台上发几十条莫名其妙的文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2082084307565449410",
+        "created_at": "2026-07-28T12:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082084307565449410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897445432365821952",
+              "start": 3,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082084307565449410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081710063035744260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoyokiiy: 想象一下我是你的回避型女友 不喜欢回信息但是一天在社交平台上发几十条莫名其妙的文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081710063035744260",
+        "created_at": "2026-07-27T11:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081710063035744260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081710063035744260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24168,
+          "like_count": 586,
+          "quote_count": 24,
+          "reply_count": 51,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的回避型女友 不喜欢回信息但是一天在社交平台上发几十条莫名其妙的文字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 485,
+          "like_count": 14414,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 158,
+          "like_count": 3387,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

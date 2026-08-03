@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984075449547542528"
+      ],
+      "media_source_tweet_id": [
+        "1984075488013488296"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984260279342137845",
+    "created_at": "2025-10-31T14:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T15:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984260279342137845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934129435906838528",
+          "start": 3,
+          "username": "Peopyo123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lEHrK84OfS",
+          "end": 63,
+          "expanded_url": "https://x.com/Peopyo123/status/1984075488013488296/photo/1",
+          "media_key": "3_1984075449547542528",
+          "start": 40,
+          "url": "https://t.co/lEHrK84OfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984260279342137845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984075488013488296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Peopyo123: 今天是任何人&amp;没有人～万圣节快乐!👻🎃👻 https://t.co/lEHrK84OfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984075449547542528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4jaG_na0AA0h5t.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984075449547542528"
+          ],
+          "media_source_tweet_id": [
+            "1984075488013488296"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984260279342137845",
+        "created_at": "2025-10-31T14:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984260279342137845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934129435906838528",
+              "start": 3,
+              "username": "Peopyo123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEHrK84OfS",
+              "end": 63,
+              "expanded_url": "https://x.com/Peopyo123/status/1984075488013488296/photo/1",
+              "media_key": "3_1984075449547542528",
+              "start": 40,
+              "url": "https://t.co/lEHrK84OfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984260279342137845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984075488013488296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Peopyo123: 今天是任何人&amp;没有人～万圣节快乐!👻🎃👻 https://t.co/lEHrK84OfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984075449547542528"
+          ]
+        },
+        "author_id": "1934129435906838528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984075488013488296",
+        "created_at": "2025-10-31T01:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984075488013488296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEHrK84OfS",
+              "end": 48,
+              "expanded_url": "https://x.com/Peopyo123/status/1984075488013488296/photo/1",
+              "media_key": "3_1984075449547542528",
+              "start": 25,
+              "url": "https://t.co/lEHrK84OfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984075488013488296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 2438,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "今天是任何人&amp;没有人～万圣节快乐!👻🎃👻 https://t.co/lEHrK84OfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 453,
+          "like_count": 5758,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T06:03:08.000Z",
+        "description": "20↑/中文账号/主要是👢/不社交🙇/此账号发布各种同人图片&记录生活，希望我的关注不会造成困扰!無言フォロー失礼します",
+        "id": "1934129435906838528",
+        "name": "Peo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934131091042103296/2uOkuQM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 26,
+          "like_count": 1891,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 542
+        },
+        "username": "Peopyo123",
+        "verified": false
+      }
+    ]
+  }
+}

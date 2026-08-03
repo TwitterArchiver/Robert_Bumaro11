@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2064719440508555529",
+    "created_at": "2026-06-10T14:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064719440508555529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1004362078956613632",
+          "start": 3,
+          "username": "OliviaWantsHugs"
+        },
+        {
+          "end": 37,
+          "id": "2035882965671215104",
+          "start": 21,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064719440508555529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064579992181407890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OliviaWantsHugs: @amber_medusozoa 禁止学科自恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2064719440508555529",
+        "created_at": "2026-06-10T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064719440508555529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1004362078956613632",
+              "start": 3,
+              "username": "OliviaWantsHugs"
+            },
+            {
+              "end": 37,
+              "id": "2035882965671215104",
+              "start": 21,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064719440508555529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064579992181407890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OliviaWantsHugs: @amber_medusozoa 禁止学科自恨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "2064400566340460795",
+        "created_at": "2026-06-10T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064579992181407890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064579992181407890",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064400566340460795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 禁止学科自恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 412,
+          "like_count": 11608,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 / Traveller / Samoyed lover / Enjoying and exploring the world as you read this / work in Vietnam 🇻🇳 now",
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "狗白白 🇸🇬",
+        "pinned_tweet_id": "2026234699723727291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047656161365893120/9K7zUYPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 520,
+          "like_count": 26395,
+          "listed_count": 19,
+          "media_count": 1541,
+          "tweet_count": 28630
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5712,
+          "following_count": 981,
+          "like_count": 4706,
+          "listed_count": 10,
+          "media_count": 150,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076835094980132942",
+    "created_at": "2026-07-14T01:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076835094980132942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1097645922232676352",
+          "start": 3,
+          "username": "RafaelTsao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076835094980132942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076803482917446084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RafaelTsao: 我在临床真地不止一次听到一些来访者反映他们的母亲或者妻子会幸灾乐祸他们生病或者受苦，因为这给了她们一个名正言顺控制他们的黄金机会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076835094980132942",
+        "created_at": "2026-07-14T01:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076835094980132942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1097645922232676352",
+              "start": 3,
+              "username": "RafaelTsao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076835094980132942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076803482917446084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RafaelTsao: 我在临床真地不止一次听到一些来访者反映他们的母亲或者妻子会幸灾乐祸他们生病或者受苦，因为这给了她们一个名正言顺控制他们的黄金机会。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097645922232676352",
+        "conversation_id": "2076803482917446084",
+        "created_at": "2026-07-13T22:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076803482917446084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076803482917446084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在临床真地不止一次听到一些来访者反映他们的母亲或者妻子会幸灾乐祸他们生病或者受苦，因为这给了她们一个名正言顺控制他们的黄金机会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 476,
+          "like_count": 13092,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T23:55:55.000Z",
+        "description": "Mitómano",
+        "id": "1097645922232676352",
+        "name": "Rafael",
+        "pinned_tweet_id": "2065055207088681018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953226633420136448/aw_gFkxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 307,
+          "like_count": 15092,
+          "listed_count": 18,
+          "media_count": 583,
+          "tweet_count": 14255
+        },
+        "url": "",
+        "username": "RafaelTsao",
+        "verified": false
+      }
+    ]
+  }
+}

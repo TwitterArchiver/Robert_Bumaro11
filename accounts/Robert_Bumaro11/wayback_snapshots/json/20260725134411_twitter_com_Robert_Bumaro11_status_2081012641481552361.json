@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081012641481552361",
+    "created_at": "2026-07-25T13:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012641481552361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397850509323554817",
+          "start": 3,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012641481552361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080998221313405291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noaayoyaoaya: 本人在国外这么多年最大的教训就是永远不要迷信身份政治,,外表审美教育程度理论文化品味身份性取向全都是会骗人的标签\n\n大家说到底都是同等的人，辱骂生物爹妈抗议政府挂pride旗子的enby酷儿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081012641481552361",
+        "created_at": "2026-07-25T13:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012641481552361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397850509323554817",
+              "start": 3,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012641481552361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080998221313405291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noaayoyaoaya: 本人在国外这么多年最大的教训就是永远不要迷信身份政治,,外表审美教育程度理论文化品味身份性取向全都是会骗人的标签\n\n大家说到底都是同等的人，辱骂生物爹妈抗议政府挂pride旗子的enby酷儿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2080998221313405291",
+        "created_at": "2026-07-25T12:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080998221313405291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080998221313405291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本人在国外这么多年最大的教训就是永远不要迷信身份政治,,外表审美教育程度理论文化品味身份性取向全都是会骗人的标签\n\n大家说到底都是同等的人，辱骂生物爹妈抗议政府挂pride旗子的enby酷儿 可能和每天骂彩礼的土逼基本盘顺男在亲密关系生活习惯上因为同样的幼稚懦弱而显得同样的保守愚蠢，有时候和前者关系更好只是因为你和前者共享同一种家庭条件同一套时尚单品而已\n\n虽然道理上早就懂得这些，但自己心里就是一直有那么一点点幻想，总是幻想万一实际上不一样，万一至少还是会有一些用处。于是最后也花了很多很多年吃了一次又一次亏才终于极其痛苦地接受了这一点"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 655,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "本人在国外这么多年最大的教训就是永远不要迷信身份政治,,外表审美教育程度理论文化品味身份性取向全都是会骗人的标签\n\n大家说到底都是同等的人，辱骂生物爹妈抗议政府挂pride旗子的enby酷儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 485,
+          "like_count": 13891,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22155,
+          "following_count": 900,
+          "like_count": 10864,
+          "listed_count": 32,
+          "media_count": 133,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981633592095600640"
+      ],
+      "media_source_tweet_id": [
+        "1981633604741713955"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1981971584907948066",
+    "created_at": "2025-10-25T06:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T07:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981971584907948066"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 12,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955167285381124096",
+          "start": 3,
+          "username": "Ii_P1p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ig7B3aYIkX",
+          "end": 51,
+          "expanded_url": "https://x.com/Ii_P1p/status/1981633604741713955/photo/1",
+          "media_key": "3_1981633592095600640",
+          "start": 28,
+          "url": "https://t.co/ig7B3aYIkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981971584907948066",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981633604741713955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ii_P1p: #Limbus_Company https://t.co/ig7B3aYIkX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981633592095600640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AtQLvW8AAn3_n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981633592095600640"
+          ],
+          "media_source_tweet_id": [
+            "1981633604741713955"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1981971584907948066",
+        "created_at": "2025-10-25T06:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981971584907948066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 12,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955167285381124096",
+              "start": 3,
+              "username": "Ii_P1p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig7B3aYIkX",
+              "end": 51,
+              "expanded_url": "https://x.com/Ii_P1p/status/1981633604741713955/photo/1",
+              "media_key": "3_1981633592095600640",
+              "start": 28,
+              "url": "https://t.co/ig7B3aYIkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981971584907948066",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981633604741713955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ii_P1p: #Limbus_Company https://t.co/ig7B3aYIkX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981633592095600640"
+          ]
+        },
+        "author_id": "1955167285381124096",
+        "conversation_id": "1981633604741713955",
+        "created_at": "2025-10-24T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981633604741713955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig7B3aYIkX",
+              "end": 39,
+              "expanded_url": "https://x.com/Ii_P1p/status/1981633604741713955/photo/1",
+              "media_key": "3_1981633592095600640",
+              "start": 16,
+              "url": "https://t.co/ig7B3aYIkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981633604741713955",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 14517,
+          "like_count": 1412,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "#Limbus_Company https://t.co/ig7B3aYIkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 443,
+          "like_count": 5460,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T07:19:50.000Z",
+        "description": "🚌8.5章済 https://t.co/THa8FnJqZT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/p_ii",
+                "end": 30,
+                "expanded_url": "https://lit.link/p_ii",
+                "start": 7,
+                "url": "https://t.co/THa8FnJqZT"
+              }
+            ]
+          }
+        },
+        "id": "1955167285381124096",
+        "name": "良い",
+        "pinned_tweet_id": "1981327238995071124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981314533676257280/6W3qD4Zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 9,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "Ii_P1p",
+        "verified": false
+      }
+    ]
+  }
+}

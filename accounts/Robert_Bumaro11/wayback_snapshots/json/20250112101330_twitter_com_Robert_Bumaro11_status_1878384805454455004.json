@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1878367409159245906",
+    "created_at": "2025-01-12T10:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T11:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878384805454455004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590620481002082311",
+          "start": 0,
+          "username": "_Alone15532"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878384805454455004",
+    "in_reply_to_user_id": "1590620481002082311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878377703541297161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Alone15532 跨性别者的社会技能很大程度上源于他们性别过渡前的生活经历没错，但这个过程为什么会出现德性的损耗。跨性别无法予以当事人一种“学会计算机”式的启发似乎更证明它能够摆脱功利的考量作为自成目的存在（？）\n（这个描述倒是让我想到某些跨为了与过去完全分隔宁愿放弃先前事业）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1878367409159245906",
+        "created_at": "2025-01-12T10:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T11:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878384805454455004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590620481002082311",
+              "start": 0,
+              "username": "_Alone15532"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878384805454455004",
+        "in_reply_to_user_id": "1590620481002082311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878377703541297161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Alone15532 跨性别者的社会技能很大程度上源于他们性别过渡前的生活经历没错，但这个过程为什么会出现德性的损耗。跨性别无法予以当事人一种“学会计算机”式的启发似乎更证明它能够摆脱功利的考量作为自成目的存在（？）\n（这个描述倒是让我想到某些跨为了与过去完全分隔宁愿放弃先前事业）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590620481002082311",
+        "conversation_id": "1878367409159245906",
+        "created_at": "2025-01-12T09:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T10:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878377703541297161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878377703541297161",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878373589403267191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 男性许久以前就是以家庭为单位的主要组成部分 我并不反对这样定义下的男性拥有自主选择性别的权利 重点是他们重定义自身性别的目的：大部分男跨性别者实际上他们的能力还都是他们因生理男性而面对的社会生活所获取的能力\n简单来说 一个跨性别会计算机并不是因为他被跨性别所启发 而是他原有的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟪",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 212,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T08:21:07.000Z",
+        "description": "信仰比知识更难动摇；热爱比尊重更难变易；仇恨比厌恶更加持久。",
+        "id": "1590620481002082311",
+        "location": "用肩膀扛起天空吧，朋友，再将那杯啤酒一饮而尽。",
+        "name": "輕砲",
+        "pinned_tweet_id": "1869245797600235750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877643587871227904/s2Uo34L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 575,
+          "like_count": 19014,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 611
+        },
+        "username": "_Alone15532",
+        "verified": false
+      }
+    ]
+  }
+}

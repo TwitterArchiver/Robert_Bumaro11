@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2033946841352700086",
+    "created_at": "2026-03-17T16:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033946841352700086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1570069037496819714",
+          "start": 3,
+          "username": "SilentNagiyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033946841352700086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033767752666910866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SilentNagiyou: 我就不配有喜欢的人出现在我身边，因为我是纯废物，有也不敢去追，社交能力也很差，绞尽脑汁半天想不出一个合理的上前接触的理由，或者想出来做出来不自然到自己都想吐，然后要共同话题我也没有，要颜值我没有，俗套点要性交我也用不了，我哭了，我就不配在现…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2033946841352700086",
+        "created_at": "2026-03-17T16:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033946841352700086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1570069037496819714",
+              "start": 3,
+              "username": "SilentNagiyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033946841352700086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033767752666910866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SilentNagiyou: 我就不配有喜欢的人出现在我身边，因为我是纯废物，有也不敢去追，社交能力也很差，绞尽脑汁半天想不出一个合理的上前接触的理由，或者想出来做出来不自然到自己都想吐，然后要共同话题我也没有，要颜值我没有，俗套点要性交我也用不了，我哭了，我就不配在现…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "2033767752666910866",
+        "created_at": "2026-03-17T04:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033767752666910866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2033726986644857104",
+              "start": 130,
+              "url": "https://t.co/zIZpynQon5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033767752666910866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033726986644857104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就不配有喜欢的人出现在我身边，因为我是纯废物，有也不敢去追，社交能力也很差，绞尽脑汁半天想不出一个合理的上前接触的理由，或者想出来做出来不自然到自己都想吐，然后要共同话题我也没有，要颜值我没有，俗套点要性交我也用不了，我哭了，我就不配在现实世界中得到幸福。 https://t.co/zIZpynQon5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 473,
+          "like_count": 8595,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "玩过很多游戏，以及更多的盗版游戏丨3D眩晕、乳房发育不良、口唇单纯性疱疹、幽门螺旋杆菌感染丨精神edging享受者丨反社会反人类丨无定形态丨https://t.co/aI2cuJM2W8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 93,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 70,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 23,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 0,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "🍥the 疏🍥",
+        "pinned_tweet_id": "1953483222341304775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 505,
+          "like_count": 47507,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 7139
+        },
+        "url": "https://t.co/aI2cuJM2W8",
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

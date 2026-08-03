@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1953879424610578616",
+    "created_at": "2025-08-08T18:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T19:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953879424610578616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773041626581221376",
+          "start": 3,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953879424610578616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953865675161952388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikikiki8964: 想双取我的人请单取，我一开始关注你们就是单纯想看你们的内容当小粉丝，当时本来也没指望你们回关我，我不是一定要和你们交友，你不想看我想取关我是你的事，你取关了我会不会取关回去是我的事\n不然给我双取了我还以为哪里惹到了不敢关注回去😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1953879424610578616",
+        "created_at": "2025-08-08T18:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T19:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953879424610578616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773041626581221376",
+              "start": 3,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953879424610578616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953865675161952388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nikikiki8964: 想双取我的人请单取，我一开始关注你们就是单纯想看你们的内容当小粉丝，当时本来也没指望你们回关我，我不是一定要和你们交友，你不想看我想取关我是你的事，你取关了我会不会取关回去是我的事\n不然给我双取了我还以为哪里惹到了不敢关注回去😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "1953865675161952388",
+        "created_at": "2025-08-08T17:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953865675161952388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953865675161952388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想双取我的人请单取，我一开始关注你们就是单纯想看你们的内容当小粉丝，当时本来也没指望你们回关我，我不是一定要和你们交友，你不想看我想取关我是你的事，你取关了我会不会取关回去是我的事\n不然给我双取了我还以为哪里惹到了不敢关注回去😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 379,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 142
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "梦到哪句说哪句｜善用划走屏蔽对号入座贴脸犯贱滚｜尊厌岁静宅｜一切群体友好极端魔怔过激除外｜回关交友随缘｜不开私信有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "阳光洒在水泥地",
+        "pinned_tweet_id": "1904049031468229056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910353754169409536/9y20G2A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 103,
+          "like_count": 59556,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

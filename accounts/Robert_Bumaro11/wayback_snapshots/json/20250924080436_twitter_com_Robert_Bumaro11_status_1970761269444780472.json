@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1970761269444780472",
+    "created_at": "2025-09-24T08:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970761269444780472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 65,
+          "id": "868831876315848705",
+          "start": 56,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "道德阵营测试",
+          "display_url": "idrlabs.com/cn/moral-align…",
+          "end": 52,
+          "expanded_url": "https://www.idrlabs.com/cn/moral-alignment/1/14.2/1/43.3/result.php",
+          "images": [
+            {
+              "height": 700,
+              "url": "https://pbs.twimg.com/news_img/1970761270547881985/lL_PGyPy?format=jpg&name=orig",
+              "width": 1250
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1970761270547881985/lL_PGyPy?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "我的结果是14.2%邪恶,43.3%混乱，结果显示我为混乱中立.",
+          "unwound_url": "https://www.idrlabs.com/cn/moral-alignment/1/14.2/1/43.3/result.php",
+          "url": "https://t.co/CEMiYhRXjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970761269444780472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的结果是14.2%邪恶,43.3%混乱，让我混乱中立. https://t.co/CEMiYhRXjv 来自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1970761269444780472",
+        "created_at": "2025-09-24T08:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970761269444780472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "868831876315848705",
+              "start": 56,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "道德阵营测试",
+              "display_url": "idrlabs.com/cn/moral-align…",
+              "end": 52,
+              "expanded_url": "https://www.idrlabs.com/cn/moral-alignment/1/14.2/1/43.3/result.php",
+              "images": [
+                {
+                  "height": 700,
+                  "url": "https://pbs.twimg.com/news_img/1970761270547881985/lL_PGyPy?format=jpg&name=orig",
+                  "width": 1250
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970761270547881985/lL_PGyPy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "我的结果是14.2%邪恶,43.3%混乱，结果显示我为混乱中立.",
+              "unwound_url": "https://www.idrlabs.com/cn/moral-alignment/1/14.2/1/43.3/result.php",
+              "url": "https://t.co/CEMiYhRXjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970761269444780472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的结果是14.2%邪恶,43.3%混乱，让我混乱中立. https://t.co/CEMiYhRXjv 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 443,
+          "like_count": 3562,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "name": "IDRlabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9798,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 44,
+          "media_count": 19,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

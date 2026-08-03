@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1972281117173850612",
+    "created_at": "2025-09-28T14:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T15:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972307219992690854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587696726022017027",
+          "start": 0,
+          "username": "Ephraim_deca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972307219992690854",
+    "in_reply_to_user_id": "1587696726022017027",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972300532619604142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ephraim_deca 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1972281117173850612",
+        "created_at": "2025-09-28T14:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972307219992690854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587696726022017027",
+              "start": 0,
+              "username": "Ephraim_deca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972307219992690854",
+        "in_reply_to_user_id": "1587696726022017027",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972300532619604142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ephraim_deca 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "1972281117173850612",
+        "created_at": "2025-09-28T14:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972300532619604142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972300532619604142",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972281117173850612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 👁️👁️我记住你了~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 442,
+          "like_count": 3874,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "现流放在加拿大//中文/English/Español（科班生😡不是业余的）//\n进教之佑，为我等祈；中华圣母，为我等祈；吁玛利亚无原罪之始胎，我等奔尔台前为我等祈🇻🇦\nhttps://t.co/TfjP9W0sVX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/TfjP9W0sVX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 0,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1959026398766510194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 3916,
+          "like_count": 65093,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/BUKhQfYqVS",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

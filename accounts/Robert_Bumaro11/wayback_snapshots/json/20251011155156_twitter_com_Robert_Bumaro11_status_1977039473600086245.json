@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977039473600086245",
+    "created_at": "2025-10-11T15:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977039473600086245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        },
+        {
+          "end": 26,
+          "id": "1345361439221972995",
+          "start": 17,
+          "username": "k3_erxzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977039473600086245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977009851927871656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: @k3_erxzj 已严肃接受批评，深刻检讨局限，将更加深入开展反跨大学习，遵循跨文化传播的内在规律，敏锐洞察全球舆论斗争的新趋势、新动向，讲好跨友故事，传播跨性别声音，展现真实、立体、全面的跨性别形象，让网友更好地反对跨性别✊🥺 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_1977007387920777217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-9vqNXQAEUMG6.png",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977039473600086245",
+        "created_at": "2025-10-11T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977039473600086245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            },
+            {
+              "end": 26,
+              "id": "1345361439221972995",
+              "start": 17,
+              "username": "k3_erxzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977039473600086245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977009851927871656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: @k3_erxzj 已严肃接受批评，深刻检讨局限，将更加深入开展反跨大学习，遵循跨文化传播的内在规律，敏锐洞察全球舆论斗争的新趋势、新动向，讲好跨友故事，传播跨性别声音，展现真实、立体、全面的跨性别形象，让网友更好地反对跨性别✊🥺 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977007387920777217"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "conversation_id": "1976903668797743538",
+        "created_at": "2025-10-11T13:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977009851927871656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1345361439221972995",
+              "start": 0,
+              "username": "k3_erxzj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mNOVmGhyX",
+              "end": 139,
+              "expanded_url": "https://x.com/Ajisai1207_/status/1977009851927871656/photo/1",
+              "media_key": "3_1977007387920777217",
+              "start": 116,
+              "url": "https://t.co/5mNOVmGhyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977009851927871656",
+        "in_reply_to_user_id": "1345361439221972995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976903668797743538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3_erxzj 已严肃接受批评，深刻检讨局限，将更加深入开展反跨大学习，遵循跨文化传播的内在规律，敏锐洞察全球舆论斗争的新趋势、新动向，讲好跨友故事，传播跨性别声音，展现真实、立体、全面的跨性别形象，让网友更好地反对跨性别✊🥺 https://t.co/5mNOVmGhyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 444,
+          "like_count": 4879,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 883,
+          "like_count": 11452,
+          "listed_count": 14,
+          "media_count": 463,
+          "tweet_count": 5408
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T13:29:09.000Z",
+        "description": "跨女/女同，喜欢除了顺直男以外一切我认为好看的人  中文/français       这里没有正能量，只有我的故事\ntransfemme/lesbien，\nj'aime tous les personnes que je pense belle sauf l'homme cisgenre hétérosexuels",
+        "id": "1345361439221972995",
+        "location": "Paris, France",
+        "name": "柳成荫",
+        "pinned_tweet_id": "1816397717435740425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410271462049599496/0oEXbyX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 403,
+          "like_count": 1815,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 2393
+        },
+        "username": "k3_erxzj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984983109692194816"
+      ],
+      "media_source_tweet_id": [
+        "1984983114431823915"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1985037181300384057",
+    "created_at": "2025-11-02T17:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985037181300384057"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "月夜の人形"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2430067160",
+          "start": 3,
+          "username": "koyamamomoyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/22gVZVkexF",
+          "end": 119,
+          "expanded_url": "https://x.com/koyamamomoyo/status/1984983114431823915/photo/1",
+          "media_key": "3_1984983109692194816",
+          "start": 96,
+          "url": "https://t.co/22gVZVkexF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985037181300384057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984983114431823915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koyamamomoyo: 舞台「#月夜の人形」\n2日目ありがとうございました🍎\n\n輝。てち。てちゃん。\n\n明日は機材席開放で\n数枚当日券が出るそうです！\n\n最後まで楽しみます🙏🏻🌕 https://t.co/22gVZVkexF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_1984983109692194816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wTnxJagAAz_Vi.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984983109692194816"
+          ],
+          "media_source_tweet_id": [
+            "1984983114431823915"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1985037181300384057",
+        "created_at": "2025-11-02T17:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985037181300384057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "月夜の人形"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2430067160",
+              "start": 3,
+              "username": "koyamamomoyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/22gVZVkexF",
+              "end": 119,
+              "expanded_url": "https://x.com/koyamamomoyo/status/1984983114431823915/photo/1",
+              "media_key": "3_1984983109692194816",
+              "start": 96,
+              "url": "https://t.co/22gVZVkexF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985037181300384057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984983114431823915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koyamamomoyo: 舞台「#月夜の人形」\n2日目ありがとうございました🍎\n\n輝。てち。てちゃん。\n\n明日は機材席開放で\n数枚当日券が出るそうです！\n\n最後まで楽しみます🙏🏻🌕 https://t.co/22gVZVkexF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984983109692194816"
+          ]
+        },
+        "author_id": "2430067160",
+        "conversation_id": "1984983114431823915",
+        "created_at": "2025-11-02T13:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984983114431823915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "月夜の人形"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/22gVZVkexF",
+              "end": 101,
+              "expanded_url": "https://x.com/koyamamomoyo/status/1984983114431823915/photo/1",
+              "media_key": "3_1984983109692194816",
+              "start": 78,
+              "url": "https://t.co/22gVZVkexF"
+            },
+            {
+              "display_url": "x.com/tomcolle_808/s…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/tomcolle_808/status/1984973548889506051",
+              "start": 102,
+              "url": "https://t.co/vki4Xt8eeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984983114431823915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14766,
+          "like_count": 686,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984973548889506051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "舞台「#月夜の人形」\n2日目ありがとうございました🍎\n\n輝。てち。てちゃん。\n\n明日は機材席開放で\n数枚当日券が出るそうです！\n\n最後まで楽しみます🙏🏻🌕 https://t.co/22gVZVkexF https://t.co/vki4Xt8eeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 456,
+          "like_count": 5842,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-06T07:29:07.000Z",
+        "description": "声優・役者/フリーランス。 お仕事のご依頼はｺﾁﾗにお願いいたします➡︎ 【✉️koyamamomoyo.official@gmail.com】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "koyamamomoyo.com",
+                "end": 23,
+                "expanded_url": "https://koyamamomoyo.com",
+                "start": 0,
+                "url": "https://t.co/nJBbnfwxch"
+              }
+            ]
+          }
+        },
+        "id": "2430067160",
+        "location": "オフィシャルサイト➡︎",
+        "name": "小山百代",
+        "pinned_tweet_id": "1960318566110277683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954518937250762752/1op32AMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83936,
+          "following_count": 826,
+          "like_count": 16174,
+          "listed_count": 1827,
+          "media_count": 5804,
+          "tweet_count": 23171
+        },
+        "url": "https://t.co/nJBbnfwxch",
+        "username": "koyamamomoyo",
+        "verified": false
+      }
+    ]
+  }
+}

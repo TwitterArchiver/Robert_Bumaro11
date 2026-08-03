@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2063817094559568026",
+    "created_at": "2026-06-08T02:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063817094559568026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LastDinosaur23…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/LastDinosaur23/status/2063814695728103602",
+          "start": 143,
+          "url": "https://t.co/ektVr7Pcnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063817094559568026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063814695728103602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一瞬追忆+1:因为家附近都没什么天主教堂实际上只有初中时长途跋涉一次去望弥撒过。听到人群用本地方言念出来的祷告词很震撼恍惚间有种不真实感，平日里从来不使用方言的我第一次感到亲切。\n别的细节都记不清了只记得低语声以及那之后几周都很清醒（？）（以及不言而喻过段时间又恢复成颓废状态了ww） https://t.co/ektVr7Pcnx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2063817094559568026",
+        "created_at": "2026-06-08T02:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063817094559568026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LastDinosaur23…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LastDinosaur23/status/2063814695728103602",
+              "start": 143,
+              "url": "https://t.co/ektVr7Pcnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063817094559568026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063814695728103602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一瞬追忆+1:因为家附近都没什么天主教堂实际上只有初中时长途跋涉一次去望弥撒过。听到人群用本地方言念出来的祷告词很震撼恍惚间有种不真实感，平日里从来不使用方言的我第一次感到亲切。\n别的细节都记不清了只记得低语声以及那之后几周都很清醒（？）（以及不言而喻过段时间又恢复成颓废状态了ww） https://t.co/ektVr7Pcnx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2063814695728103602",
+        "created_at": "2026-06-08T02:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063814695728103602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063814695728103602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*片刻追忆：小学住所隔壁有座天主教堂，那里冬天的光线总是冷的。我在二年级的圣诞节第一次蹭进去。记忆跟被水泡过似的，残破发胀，仅凭这模糊的景象占据了我脑海一席"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 407,
+          "like_count": 11493,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 321,
+          "like_count": 2998,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 494
+        },
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2081012326715769079",
+    "created_at": "2026-07-25T13:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012326715769079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1904731881817735168",
+          "start": 3,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012326715769079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080266477379395593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3e1diei0_oi7y: 我本来就不是什么好孩子喔，也并不拥有健全的生命，对我这种人，只要放任自流就好了。\n我最讨厌的就是高高在上的大人，既没办法也不想要理解对方的心情，却一心想着要擅断他人的人生来装腔作势了。\n我就是我而已，并不需要任何人帮助或拯救。\n我的生命，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2081012326715769079",
+        "created_at": "2026-07-25T13:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012326715769079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1904731881817735168",
+              "start": 3,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012326715769079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080266477379395593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3e1diei0_oi7y: 我本来就不是什么好孩子喔，也并不拥有健全的生命，对我这种人，只要放任自流就好了。\n我最讨厌的就是高高在上的大人，既没办法也不想要理解对方的心情，却一心想着要擅断他人的人生来装腔作势了。\n我就是我而已，并不需要任何人帮助或拯救。\n我的生命，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2080266477379395593",
+        "created_at": "2026-07-23T12:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080266477379395593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080266477379395593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1821,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我本来就不是什么好孩子喔，也并不拥有健全的生命，对我这种人，只要放任自流就好了。\n我最讨厌的就是高高在上的大人，既没办法也不想要理解对方的心情，却一心想着要擅断他人的人生来装腔作势了。\n我就是我而已，并不需要任何人帮助或拯救。\n我的生命，我的生活，我的所思所想也与你无关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 485,
+          "like_count": 13889,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 456,
+          "like_count": 25504,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066638717016735848",
+    "created_at": "2026-06-15T21:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066638717016735848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senga118/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/senga118/status/2066143341381878069",
+          "start": 31,
+          "url": "https://t.co/VkPmpelQuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066638717016735848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066143341381878069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个世界每时每刻都在侮辱并玷污人类的生计活动和所有人际关系。 https://t.co/VkPmpelQuM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066638717016735848",
+        "created_at": "2026-06-15T21:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066638717016735848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senga118/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/senga118/status/2066143341381878069",
+              "start": 31,
+              "url": "https://t.co/VkPmpelQuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066638717016735848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066143341381878069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界每时每刻都在侮辱并玷污人类的生计活动和所有人际关系。 https://t.co/VkPmpelQuM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004171226965782528",
+        "conversation_id": "2066143341381878069",
+        "created_at": "2026-06-14T12:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066143341381878069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066143341381878069",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1122,
+          "impression_count": 1031329,
+          "like_count": 22019,
+          "quote_count": 201,
+          "reply_count": 105,
+          "retweet_count": 3041
+        },
+        "reply_settings": "everyone",
+        "text": "AV ㄹㅇ여자들이 생각하는 것 이상으로 심각함\n그냥 단순히 야한 비디오 정도가 아니야\n여성이 공부하고 일하고 생활하는 모든 일상공간을 포르노의 무대로 만들고\n여성의 생계활동, 모든 인간관계를 모욕하고 더럽히는거임"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 414,
+          "like_count": 11607,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T12:44:04.000Z",
+        "description": "6B4T 페미니스트/ 여성을 결혼·출산·돌봄에 묶어두는 구조에 협조하지 않겠다. 내 몸, 내 시간, 내 삶은 나의 것",
+        "id": "2004171226965782528",
+        "name": "센 Bake",
+        "pinned_tweet_id": "2062469855979376866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888969882435584/F0rcvgIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 1127,
+          "like_count": 25152,
+          "listed_count": 8,
+          "media_count": 152,
+          "tweet_count": 10728
+        },
+        "username": "senga118",
+        "verified": true
+      }
+    ]
+  }
+}

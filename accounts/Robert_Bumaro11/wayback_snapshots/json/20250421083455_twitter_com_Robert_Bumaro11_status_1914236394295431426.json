@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914227024123531264"
+      ],
+      "media_source_tweet_id": [
+        "1914227043635438001"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pope Francis",
+          "id": "806597775282421760",
+          "name": "Pope Francis"
+        }
+      }
+    ],
+    "conversation_id": "1914236394295431426",
+    "created_at": "2025-04-21T08:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T09:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914236394295431426"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 20,
+          "tag": "PapaFrancisco"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "124438713",
+          "start": 3,
+          "username": "vaticannews_pt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9edO8mlgPC",
+          "end": 58,
+          "expanded_url": "https://x.com/vaticannews_pt/status/1914227043635438001/photo/1",
+          "media_key": "3_1914227024123531264",
+          "start": 35,
+          "url": "https://t.co/9edO8mlgPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914236394295431426",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2409
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914227043635438001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vaticannews_pt: #PapaFrancisco https://t.co/9edO8mlgPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_1914227024123531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpCzViBWEAAAvjp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914227024123531264"
+          ],
+          "media_source_tweet_id": [
+            "1914227043635438001"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "1914236394295431426",
+        "created_at": "2025-04-21T08:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914236394295431426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 20,
+              "tag": "PapaFrancisco"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "124438713",
+              "start": 3,
+              "username": "vaticannews_pt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9edO8mlgPC",
+              "end": 58,
+              "expanded_url": "https://x.com/vaticannews_pt/status/1914227043635438001/photo/1",
+              "media_key": "3_1914227024123531264",
+              "start": 35,
+              "url": "https://t.co/9edO8mlgPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914236394295431426",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2409
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914227043635438001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vaticannews_pt: #PapaFrancisco https://t.co/9edO8mlgPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914227024123531264"
+          ]
+        },
+        "author_id": "124438713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "1914227043635438001",
+        "created_at": "2025-04-21T07:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T08:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914227043635438001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "PapaFrancisco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9edO8mlgPC",
+              "end": 38,
+              "expanded_url": "https://x.com/vaticannews_pt/status/1914227043635438001/photo/1",
+              "media_key": "3_1914227024123531264",
+              "start": 15,
+              "url": "https://t.co/9edO8mlgPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914227043635438001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 261251,
+          "like_count": 6556,
+          "quote_count": 677,
+          "reply_count": 251,
+          "retweet_count": 2409
+        },
+        "reply_settings": "everyone",
+        "text": "#PapaFrancisco https://t.co/9edO8mlgPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 241,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T11:53:19.000Z",
+        "description": "Vatican News é um serviço prestado pelo Dicastério para a Comunicação da Santa Sé. Siga-nos para receber notícias sobre o Papa Francisco, o Vaticano e a Igreja.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vaticannews.va",
+                "end": 23,
+                "expanded_url": "http://www.vaticannews.va",
+                "start": 0,
+                "url": "https://t.co/tC0EuI7Ear"
+              }
+            ]
+          }
+        },
+        "id": "124438713",
+        "location": "Cidade do Vaticano",
+        "name": "Vatican News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721860306136133632/Yp4XLsjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139208,
+          "following_count": 78,
+          "like_count": 1398,
+          "listed_count": 466,
+          "media_count": 15822,
+          "tweet_count": 78204
+        },
+        "url": "https://t.co/tC0EuI7Ear",
+        "username": "vaticannews_pt",
+        "verified": false
+      }
+    ]
+  }
+}

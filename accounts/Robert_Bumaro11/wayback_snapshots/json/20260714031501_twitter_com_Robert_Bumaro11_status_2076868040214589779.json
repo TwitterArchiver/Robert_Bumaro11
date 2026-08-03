@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076868040214589779",
+    "created_at": "2026-07-14T03:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076868040214589779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050468566047109120",
+          "start": 3,
+          "username": "X_Bill_Gl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076868040214589779",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 780
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076567275411296624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X_Bill_Gl: I recently learned about passive suicidal thoughts, when someone doesn't necessarily want to end their life, but feels so em…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076868040214589779",
+        "created_at": "2026-07-14T03:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076868040214589779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050468566047109120",
+              "start": 3,
+              "username": "X_Bill_Gl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076868040214589779",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 780
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076567275411296624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X_Bill_Gl: I recently learned about passive suicidal thoughts, when someone doesn't necessarily want to end their life, but feels so em…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050468566047109120",
+        "conversation_id": "2076567275411296624",
+        "created_at": "2026-07-13T07:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076567275411296624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076567275411296624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1583,
+          "impression_count": 818835,
+          "like_count": 8613,
+          "quote_count": 75,
+          "reply_count": 146,
+          "retweet_count": 779
+        },
+        "reply_settings": "everyone",
+        "text": "I recently learned about passive suicidal thoughts, when someone doesn't necessarily want to end their life, but feels so emotionally or mentally exhausted that they wish they could just go to sleep and not wake up, or disappear without having to make anything happen.\n1/2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 477,
+          "like_count": 13124,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T06:53:21.000Z",
+        "description": "Tweeting  about Borderline Personality Disorder ✨️ 🍸@Be_like_legend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Be_like_legend"
+              }
+            ]
+          }
+        },
+        "id": "2050468566047109120",
+        "location": "space X",
+        "name": "𝐁𝐈𝐋𝐋𝐘",
+        "pinned_tweet_id": "2076702363562266759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056136562438496257/BjxX4JKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 2725,
+          "like_count": 15535,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 3814
+        },
+        "url": "",
+        "username": "X_Bill_Gl",
+        "verified": true
+      }
+    ]
+  }
+}

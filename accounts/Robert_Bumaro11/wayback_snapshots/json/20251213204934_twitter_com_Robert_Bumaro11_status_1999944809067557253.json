@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999805733903421440"
+      ],
+      "media_source_tweet_id": [
+        "1999805739028955617"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1999944809067557253",
+    "created_at": "2025-12-13T20:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T21:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999944809067557253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1931181854075588608",
+          "start": 3,
+          "username": "ritaritatter96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2FQoQ4UZsn",
+          "end": 47,
+          "expanded_url": "https://x.com/ritaritatter96/status/1999805739028955617/photo/1",
+          "media_key": "3_1999805733903421440",
+          "start": 24,
+          "url": "https://t.co/2FQoQ4UZsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999944809067557253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999805739028955617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ritaritatter96: 落書き https://t.co/2FQoQ4UZsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_1999805733903421440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8C8uDUaUAA0wZc.jpg",
+        "width": 1716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999805733903421440"
+          ],
+          "media_source_tweet_id": [
+            "1999805739028955617"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1999944809067557253",
+        "created_at": "2025-12-13T20:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T21:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999944809067557253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1931181854075588608",
+              "start": 3,
+              "username": "ritaritatter96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FQoQ4UZsn",
+              "end": 47,
+              "expanded_url": "https://x.com/ritaritatter96/status/1999805739028955617/photo/1",
+              "media_key": "3_1999805733903421440",
+              "start": 24,
+              "url": "https://t.co/2FQoQ4UZsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999944809067557253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999805739028955617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ritaritatter96: 落書き https://t.co/2FQoQ4UZsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999805733903421440"
+          ]
+        },
+        "author_id": "1931181854075588608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1999805739028955617",
+        "created_at": "2025-12-13T11:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999805739028955617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FQoQ4UZsn",
+              "end": 27,
+              "expanded_url": "https://x.com/ritaritatter96/status/1999805739028955617/photo/1",
+              "media_key": "3_1999805733903421440",
+              "start": 4,
+              "url": "https://t.co/2FQoQ4UZsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999805739028955617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 11093,
+          "like_count": 1239,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "落書き https://t.co/2FQoQ4UZsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 481,
+          "like_count": 7049,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T02:50:18.000Z",
+        "description": "Limbusメイン / 🎠 / 無断使用・転載❌ / 🗝️→@ritaritatter_96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "ritaritatter_96"
+              }
+            ]
+          }
+        },
+        "id": "1931181854075588608",
+        "name": "リタ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990349546636124160/aBirLLR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 228,
+          "like_count": 11521,
+          "listed_count": 7,
+          "media_count": 78,
+          "tweet_count": 832
+        },
+        "username": "ritaritatter96",
+        "verified": false
+      }
+    ]
+  }
+}

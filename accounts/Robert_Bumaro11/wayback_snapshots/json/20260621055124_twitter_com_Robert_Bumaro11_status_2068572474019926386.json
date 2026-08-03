@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2068572474019926386",
+    "created_at": "2026-06-21T05:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068572474019926386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835481513028419584",
+          "start": 3,
+          "username": "thxn2xt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068572474019926386",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068152689901642141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @thxn2xt_: 오늘은 어제 죽은 사람이 바라던 내일이다\nㄴ 이 말이 제3세계 어린이들은 굶고 있으니 넌 행복한 거다 이거랑 뭐가 다름\n정말 힘든 상황의 어떤 어린이는 본인을 가지고 위안 삼는다는 거 알면 얼마나 화가 나겠음\n\n물론 나보다…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2068572474019926386",
+        "created_at": "2026-06-21T05:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068572474019926386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835481513028419584",
+              "start": 3,
+              "username": "thxn2xt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068572474019926386",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068152689901642141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @thxn2xt_: 오늘은 어제 죽은 사람이 바라던 내일이다\nㄴ 이 말이 제3세계 어린이들은 굶고 있으니 넌 행복한 거다 이거랑 뭐가 다름\n정말 힘든 상황의 어떤 어린이는 본인을 가지고 위안 삼는다는 거 알면 얼마나 화가 나겠음\n\n물론 나보다…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835481513028419584",
+        "conversation_id": "2068152689901642141",
+        "created_at": "2026-06-20T02:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068152689901642141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068152689901642141",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 20285,
+          "like_count": 1057,
+          "quote_count": 27,
+          "reply_count": 1,
+          "retweet_count": 271
+        },
+        "reply_settings": "following",
+        "text": "오늘은 어제 죽은 사람이 바라던 내일이다\nㄴ 이 말이 제3세계 어린이들은 굶고 있으니 넌 행복한 거다 이거랑 뭐가 다름\n정말 힘든 상황의 어떤 어린이는 본인을 가지고 위안 삼는다는 거 알면 얼마나 화가 나겠음\n\n물론 나보다 상황이 좋지 않은 사람도 많겟지\n그렇다고 내 지옥이 작아지는 건 아님"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 425,
+          "like_count": 11808,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T00:51:16.000Z",
+        "description": "자랑처럼 풀이 무성할 거외다",
+        "id": "1835481513028419584",
+        "name": "쎕쩨",
+        "pinned_tweet_id": "2061277816956899626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017109944055844866/TgIv0im6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5459,
+          "following_count": 752,
+          "like_count": 10543,
+          "listed_count": 13,
+          "media_count": 763,
+          "tweet_count": 3246
+        },
+        "url": "",
+        "username": "thxn2xt_",
+        "verified": false
+      }
+    ]
+  }
+}

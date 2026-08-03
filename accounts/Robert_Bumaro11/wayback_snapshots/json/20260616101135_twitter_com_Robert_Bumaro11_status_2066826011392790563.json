@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066826011392790563",
+    "created_at": "2026-06-16T10:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066826011392790563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unforthc0ming/…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/unforthc0ming/status/2066223909603627396",
+          "start": 116,
+          "url": "https://t.co/yE9GM1rNW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066826011392790563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066223909603627396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在那个时代一个孩子可以徒步整个湖南省吗（）\n想起书上看到中世纪的朝圣者或是重走苦路（？）时沿途居民都会无偿（也许有偿）提供住宿。普通旅人在外地教区的教堂和陌生教友家借住是寻常的事\n前后文无关but住有所居何时实现安得广厦千万间，， https://t.co/yE9GM1rNW9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066826011392790563",
+        "created_at": "2026-06-16T10:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066826011392790563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unforthc0ming/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/unforthc0ming/status/2066223909603627396",
+              "start": 116,
+              "url": "https://t.co/yE9GM1rNW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066826011392790563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066223909603627396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在那个时代一个孩子可以徒步整个湖南省吗（）\n想起书上看到中世纪的朝圣者或是重走苦路（？）时沿途居民都会无偿（也许有偿）提供住宿。普通旅人在外地教区的教堂和陌生教友家借住是寻常的事\n前后文无关but住有所居何时实现安得广厦千万间，， https://t.co/yE9GM1rNW9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2635672831",
+        "conversation_id": "2066223909603627396",
+        "created_at": "2026-06-14T18:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066223909603627396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066223909603627396",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16488,
+          "like_count": 170,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "C'è stato un tempo in cui esisteva una cosa bizzarra chiamata comunità. In quel tempo un bambino poteva uscire e percorrere chilometri senza problemi, perché ogni cinquanta metri c'era qualche adulto che lo vedeva e lo teneva d'occhio sentendosene responsabile. &gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 414,
+          "like_count": 11663,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-13T08:43:06.000Z",
+        "description": "La strada che mi porta qui ogni giorno è cosparsa | ad ogni miglio di cadaveri: | gatti che non faranno più ritorno, | cani che sognano un campo di papaveri.",
+        "id": "2635672831",
+        "name": "vncnz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1083092270449152000/tjvCdFpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 2986,
+          "like_count": 65821,
+          "listed_count": 5,
+          "media_count": 1115,
+          "tweet_count": 7594
+        },
+        "username": "unforthc0ming",
+        "verified": false
+      }
+    ]
+  }
+}

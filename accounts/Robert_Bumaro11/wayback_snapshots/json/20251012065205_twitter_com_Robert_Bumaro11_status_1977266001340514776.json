@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977265724268986595",
+    "created_at": "2025-10-12T06:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T07:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977266001340514776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977266001340514776",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977265724268986595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 什么查户口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977265711279181824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CosDtbEAAsKhH.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977265711040151559",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CosC0bwAcnttR.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977265711572807680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CosEzbcAAfuxc.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977265711027511296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CosCxa4AAk94j.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977265724268986595",
+        "created_at": "2025-10-12T06:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977266001340514776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977266001340514776",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977265724268986595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 什么查户口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977265711279181824",
+            "3_1977265711040151559",
+            "3_1977265711572807680",
+            "3_1977265711027511296"
+          ]
+        },
+        "author_id": "1764728841010831360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1977265724268986595",
+        "created_at": "2025-10-12T06:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977265724268986595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAiMObZVsN",
+              "end": 164,
+              "expanded_url": "https://x.com/Quack_one/status/1977265724268986595/photo/1",
+              "media_key": "3_1977265711279181824",
+              "start": 141,
+              "url": "https://t.co/OAiMObZVsN"
+            },
+            {
+              "display_url": "pic.x.com/OAiMObZVsN",
+              "end": 164,
+              "expanded_url": "https://x.com/Quack_one/status/1977265724268986595/photo/1",
+              "media_key": "3_1977265711040151559",
+              "start": 141,
+              "url": "https://t.co/OAiMObZVsN"
+            },
+            {
+              "display_url": "pic.x.com/OAiMObZVsN",
+              "end": 164,
+              "expanded_url": "https://x.com/Quack_one/status/1977265724268986595/photo/1",
+              "media_key": "3_1977265711572807680",
+              "start": 141,
+              "url": "https://t.co/OAiMObZVsN"
+            },
+            {
+              "display_url": "pic.x.com/OAiMObZVsN",
+              "end": 164,
+              "expanded_url": "https://x.com/Quack_one/status/1977265724268986595/photo/1",
+              "media_key": "3_1977265711027511296",
+              "start": 141,
+              "url": "https://t.co/OAiMObZVsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977265724268986595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你叫什么名字？多大了？哪里人？学校？学历？高考多少分。今年多大了？独生子女吗？什么星座？身高体重多少？有车房吗？父母什么工作？谈过几个女朋友？性格怎么样？有照片吗？有腹肌吗？有腹肌照吗？早晨几点起床？晚上几点睡觉？一天上多久的网？喜欢吃辣的还是甜的？爱吃面还是饭？笑起来有小酒窝吗 https://t.co/OAiMObZVsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 445,
+          "like_count": 4925,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "职业吉他手 | 乐理、和声、扒歌、吉他教学请私信 | 演奏视频在b站：尤里uri",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "小鹅",
+        "pinned_tweet_id": "1969363492294812133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969361407830552576/mOGhNXs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 327,
+          "like_count": 2400,
+          "listed_count": 11,
+          "media_count": 155,
+          "tweet_count": 2727
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

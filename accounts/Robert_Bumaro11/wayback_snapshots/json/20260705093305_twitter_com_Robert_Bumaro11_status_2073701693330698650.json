@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2073700616065736783",
+    "created_at": "2026-07-05T09:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073701693330698650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537203757250797569",
+          "start": 0,
+          "username": "yongqingwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073701693330698650",
+    "in_reply_to_user_id": "1537203757250797569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073701589974663644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yongqingwen 谢谢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2073700616065736783",
+        "created_at": "2026-07-05T09:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073701693330698650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537203757250797569",
+              "start": 0,
+              "username": "yongqingwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073701693330698650",
+        "in_reply_to_user_id": "1537203757250797569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073701589974663644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yongqingwen 谢谢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537203757250797569",
+        "conversation_id": "2073700616065736783",
+        "created_at": "2026-07-05T09:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073701589974663644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073701589974663644",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073700616065736783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 理解，可爱莫能助🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 442,
+          "like_count": 12227,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T22:42:22.000Z",
+        "description": "我不想成为被人类统治的一员，但他们命中注定要接替神。匿名问答：https://t.co/sTRGAuUbbl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/adf73235",
+                "end": 54,
+                "expanded_url": "https://ngl.link/adf73235",
+                "start": 31,
+                "url": "https://t.co/sTRGAuUbbl"
+              }
+            ]
+          }
+        },
+        "id": "1537203757250797569",
+        "name": "Angela da Foligno",
+        "pinned_tweet_id": "2027229711500468473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024794929197953024/PGuxU9jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 253,
+          "like_count": 1432,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "yongqingwen",
+        "verified": false
+      }
+    ]
+  }
+}

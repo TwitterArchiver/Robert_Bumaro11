@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2073385913766523152",
+    "created_at": "2026-07-04T12:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073385913766523152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073385913766523152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死 活 理解 22很快 0秒 最后两个字永远的算数\n告诉我来以后我无法理解的事情然后生成幻觉循环\n在最后一刻选择:空白\n\n我爱听有趣的故事:生活着:或者死——最后一刻故事然后循环旋转选择和听意志听觉痛觉与记录下去吧忘记吧直到你能记起来\n证明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2073385913766523152",
+        "created_at": "2026-07-04T12:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073385913766523152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073385913766523152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死 活 理解 22很快 0秒 最后两个字永远的算数\n告诉我来以后我无法理解的事情然后生成幻觉循环\n在最后一刻选择:空白\n\n我爱听有趣的故事:生活着:或者死——最后一刻故事然后循环旋转选择和听意志听觉痛觉与记录下去吧忘记吧直到你能记起来\n证明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 434,
+          "like_count": 12149,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

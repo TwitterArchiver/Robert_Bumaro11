@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1953519618389410134",
+    "created_at": "2025-08-07T18:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T19:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953520877204910562"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953520877204910562",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953519618389410134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析:初中时因为视线停留在班上优等生身上太久被当成不怀好意了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1953519618389410134",
+        "created_at": "2025-08-07T18:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953520877204910562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953520877204910562",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953519618389410134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析:初中时因为视线停留在班上优等生身上太久被当成不怀好意了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1953519618389410134",
+        "created_at": "2025-08-07T18:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953519618389410134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Engelsu0621/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Engelsu0621/status/1953511528009019440",
+              "start": 34,
+              "url": "https://t.co/s6eKiAfU1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953519618389410134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953511528009019440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的性幻想之一:听人讲有趣的或者不有趣的话然后表现得很崇拜盯着对方 https://t.co/s6eKiAfU1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 375,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 140
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

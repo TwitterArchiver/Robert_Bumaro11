@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1967939655258738993",
+    "created_at": "2025-09-16T13:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967939655258738993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horizon_tem/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/horizon_tem/status/1967656088939237614",
+          "start": 13,
+          "url": "https://t.co/UNcBTVripD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967939655258738993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967656088939237614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将竞选全推最庸碌高中生 https://t.co/UNcBTVripD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1967939655258738993",
+        "created_at": "2025-09-16T13:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967939655258738993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1967656088939237614",
+              "start": 13,
+              "url": "https://t.co/UNcBTVripD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967939655258738993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967656088939237614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将竞选全推最庸碌高中生 https://t.co/UNcBTVripD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1967656088939237614",
+        "created_at": "2025-09-15T18:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967656088939237614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967656088939237614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "同龄人懂得都好多，只有我什么也不懂，像个小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 421,
+          "like_count": 3032,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 253
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1967607699144855563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958788478659080192/50PLjod7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5932,
+          "following_count": 2490,
+          "like_count": 51112,
+          "listed_count": 13,
+          "media_count": 977,
+          "tweet_count": 13088
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053048371888463872"
+      ],
+      "media_source_tweet_id": [
+        "2055317281018990659"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055784052129714651",
+    "created_at": "2026-05-16T22:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055784052129714651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1418758026912174082",
+          "start": 3,
+          "username": "ShouldHaveRabit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/itJZL6y7mt",
+          "end": 44,
+          "expanded_url": "https://x.com/ShouldHaveRabit/status/2055317281018990659/video/1",
+          "media_key": "13_2053048371888463872",
+          "start": 21,
+          "url": "https://t.co/itJZL6y7mt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055784052129714651",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 427
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055317281018990659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveRabit: https://t.co/itJZL6y7mt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11766,
+        "height": 1280,
+        "media_key": "13_2053048371888463872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053048371888463872/img/TFUK_3pweJvthPSu.jpg",
+        "public_metrics": {
+          "view_count": 17275
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053048371888463872/vid/avc1/320x568/4__jIfpTHyjy2s7W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053048371888463872/vid/avc1/480x852/BuVz-Zkx6Xd_lg1w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053048371888463872/vid/avc1/720x1280/KobF6ORclVVKCZtc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053048371888463872/pl/eS0HnWUX5ansbMgw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053048371888463872"
+          ],
+          "media_source_tweet_id": [
+            "2055317281018990659"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055784052129714651",
+        "created_at": "2026-05-16T22:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055784052129714651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1418758026912174082",
+              "start": 3,
+              "username": "ShouldHaveRabit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/itJZL6y7mt",
+              "end": 44,
+              "expanded_url": "https://x.com/ShouldHaveRabit/status/2055317281018990659/video/1",
+              "media_key": "13_2053048371888463872",
+              "start": 21,
+              "url": "https://t.co/itJZL6y7mt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055784052129714651",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 427
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055317281018990659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveRabit: https://t.co/itJZL6y7mt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053048371888463872"
+          ]
+        },
+        "author_id": "1418758026912174082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055317281018990659",
+        "created_at": "2026-05-15T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055317281018990659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itJZL6y7mt",
+              "end": 23,
+              "expanded_url": "https://x.com/ShouldHaveRabit/status/2055317281018990659/video/1",
+              "media_key": "13_2053048371888463872",
+              "start": 0,
+              "url": "https://t.co/itJZL6y7mt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055317281018990659",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 76971,
+          "like_count": 3167,
+          "quote_count": 36,
+          "reply_count": 8,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/itJZL6y7mt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 522,
+          "like_count": 9970,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T02:21:00.000Z",
+        "description": "Follow us daily bunny content.🐰❤️ DM for Credit/Remove.",
+        "id": "1418758026912174082",
+        "location": "Turn on notifs 🔔",
+        "name": "Why you should have a rabbit",
+        "pinned_tweet_id": "2026880114865361039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776546440682307584/CqVPSy6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155971,
+          "following_count": 883,
+          "like_count": 18135,
+          "listed_count": 412,
+          "media_count": 17762,
+          "tweet_count": 21219
+        },
+        "username": "ShouldHaveRabit",
+        "verified": true
+      }
+    ]
+  }
+}

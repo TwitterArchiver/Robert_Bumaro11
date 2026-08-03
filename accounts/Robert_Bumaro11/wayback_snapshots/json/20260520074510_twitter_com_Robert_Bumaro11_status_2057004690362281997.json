@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2057004690362281997",
+    "created_at": "2026-05-20T07:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057004690362281997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1422567543940677634",
+          "start": 3,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057004690362281997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056994830333714917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UraOlt: 开始接触那些自由平等、解放、接纳自我、走出抑郁的理论时，心里有点激动。但时间久了，却渐渐感到失望。即使明白这些道理，也改变不了现实。严重抑郁愈发严重，对抗抑郁的理论也没有用。讲起理论来令人敬佩的博主，不讲理论时又是另一副面孔：歧视他人、自视优越，甚至用理…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2057004690362281997",
+        "created_at": "2026-05-20T07:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057004690362281997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1422567543940677634",
+              "start": 3,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057004690362281997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056994830333714917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UraOlt: 开始接触那些自由平等、解放、接纳自我、走出抑郁的理论时，心里有点激动。但时间久了，却渐渐感到失望。即使明白这些道理，也改变不了现实。严重抑郁愈发严重，对抗抑郁的理论也没有用。讲起理论来令人敬佩的博主，不讲理论时又是另一副面孔：歧视他人、自视优越，甚至用理…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2056994830333714917",
+        "created_at": "2026-05-20T07:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056994830333714917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056994830333714917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "开始接触那些自由平等、解放、接纳自我、走出抑郁的理论时，心里有点激动。但时间久了，却渐渐感到失望。即使明白这些道理，也改变不了现实。严重抑郁愈发严重，对抗抑郁的理论也没有用。讲起理论来令人敬佩的博主，不讲理论时又是另一副面孔：歧视他人、自视优越，甚至用理论黑话和粉丝影响力攻击别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 532,
+          "like_count": 10228,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "天浅亅月",
+        "pinned_tweet_id": "1442153644812476416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049537048395366400/QLpYzsuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 412,
+          "like_count": 211179,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 13568
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

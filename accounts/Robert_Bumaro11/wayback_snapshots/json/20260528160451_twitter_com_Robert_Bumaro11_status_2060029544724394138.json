@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060029544724394138",
+    "created_at": "2026-05-28T16:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060029544724394138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787714778116272128",
+          "start": 3,
+          "username": "Senti_Maur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060029544724394138",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059691136391021038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Senti_Maur: La mort est du domaine de la foi. Vous avez bien raison de croire que vous allez mourir, bien sûr ; ça vous soutient. Si vo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060029544724394138",
+        "created_at": "2026-05-28T16:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060029544724394138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787714778116272128",
+              "start": 3,
+              "username": "Senti_Maur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060029544724394138",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059691136391021038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Senti_Maur: La mort est du domaine de la foi. Vous avez bien raison de croire que vous allez mourir, bien sûr ; ça vous soutient. Si vo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787714778116272128",
+        "conversation_id": "2059691136391021038",
+        "created_at": "2026-05-27T17:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059691136391021038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059691136391021038",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "La mort est du domaine de la foi. Vous avez bien raison de croire que vous allez mourir, bien sûr ; ça vous soutient. Si vous n’y croyez pas, est-ce que vous pourriez supporter la vie que vous avez ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 439,
+          "like_count": 10936,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "｜可爱软萌16岁女高中生一枚 在这里分享可爱日常💖. 喜欢我就来找我聊天吧~｜🚪88有图包｜接爸爸活｜价格表私聊",
+        "id": "1787714778116272128",
+        "location": "Real",
+        "name": "Mirruflex",
+        "pinned_tweet_id": "2059691136391021038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049359937705525248/XeXgXKY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 314,
+          "like_count": 5777,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2561
+        },
+        "username": "Senti_Maur",
+        "verified": true
+      }
+    ]
+  }
+}

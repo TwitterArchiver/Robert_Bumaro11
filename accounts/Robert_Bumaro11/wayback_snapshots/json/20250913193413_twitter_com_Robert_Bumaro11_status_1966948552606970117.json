@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966948552606970117",
+    "created_at": "2025-09-13T19:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966948552606970117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1434608964629639168",
+          "start": 3,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966948552606970117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966570538282688601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sharkie_4005: 第一次見到需要救助的人，吸引救助者前來，然後催眠和精神控制到對方心甘情願跟他上床的事，\n\n你們社群真黑暗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966948552606970117",
+        "created_at": "2025-09-13T19:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966948552606970117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1434608964629639168",
+              "start": 3,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966948552606970117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966570538282688601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sharkie_4005: 第一次見到需要救助的人，吸引救助者前來，然後催眠和精神控制到對方心甘情願跟他上床的事，\n\n你們社群真黑暗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1966570538282688601",
+        "created_at": "2025-09-12T18:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966570538282688601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966570538282688601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "第一次見到需要救助的人，吸引救助者前來，然後催眠和精神控制到對方心甘情願跟他上床的事，\n\n你們社群真黑暗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 399,
+          "like_count": 2856,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 240
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "｜19 years old｜CÉGEP | 海豹姊姊@Siyao_Xiao｜永遠的楓葉🍁｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "Siyao_Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Montréal, Québec",
+        "name": "Atlantic_Sea Shark",
+        "pinned_tweet_id": "1947749953738314234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 483,
+          "like_count": 34148,
+          "listed_count": 4,
+          "media_count": 568,
+          "tweet_count": 9045
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

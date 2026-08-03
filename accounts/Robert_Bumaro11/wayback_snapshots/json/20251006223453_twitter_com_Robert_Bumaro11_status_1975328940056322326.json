@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975328940056322326",
+    "created_at": "2025-10-06T22:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T23:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975328940056322326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1357123381712195584",
+          "start": 3,
+          "username": "sberrybambi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975328940056322326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975183025689256433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sberrybambi_: 对有好感的人冷漠 可能就是最好的个人保护机制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975328940056322326",
+        "created_at": "2025-10-06T22:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T23:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975328940056322326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1357123381712195584",
+              "start": 3,
+              "username": "sberrybambi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975328940056322326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975183025689256433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sberrybambi_: 对有好感的人冷漠 可能就是最好的个人保护机制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357123381712195584",
+        "conversation_id": "1975183025689256433",
+        "created_at": "2025-10-06T12:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975183025689256433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975183025689256433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8642,
+          "like_count": 154,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "对有好感的人冷漠 可能就是最好的个人保护机制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 447,
+          "like_count": 4618,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T00:26:49.000Z",
+        "description": "🖤♡ ₊˚ 告别日记 ₊˚ ♡🖤",
+        "id": "1357123381712195584",
+        "name": "🦦（淡推版）",
+        "pinned_tweet_id": "1952750564510466155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928635307886575616/m1aTZYXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14055,
+          "following_count": 219,
+          "like_count": 30324,
+          "listed_count": 14,
+          "media_count": 68,
+          "tweet_count": 4522
+        },
+        "username": "sberrybambi_",
+        "verified": false
+      }
+    ]
+  }
+}

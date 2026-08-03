@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1975328920460530095",
+    "created_at": "2025-10-06T22:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T23:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975328920460530095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953677728911417344",
+          "start": 3,
+          "username": "dbdywbgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975328920460530095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975086362828341264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dbdywbgd: 别人推特发废话被人暗恋了，我推特发废话被人单取了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1975328920460530095",
+        "created_at": "2025-10-06T22:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T23:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975328920460530095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953677728911417344",
+              "start": 3,
+              "username": "dbdywbgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975328920460530095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975086362828341264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dbdywbgd: 别人推特发废话被人暗恋了，我推特发废话被人单取了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953677728911417344",
+        "conversation_id": "1975086362828341264",
+        "created_at": "2025-10-06T06:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975086362828341264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975086362828341264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 43598,
+          "like_count": 404,
+          "quote_count": 19,
+          "reply_count": 35,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "别人推特发废话被人暗恋了，我推特发废话被人单取了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 447,
+          "like_count": 4618,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T04:40:51.000Z",
+        "description": "喜欢我自己。少互动保号中。不礼貌回关。不回私信。",
+        "id": "1953677728911417344",
+        "name": "真的吗",
+        "pinned_tweet_id": "1955782777301033070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975228936008413184/EwFOvQal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 86,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 621
+        },
+        "username": "dbdywbgd",
+        "verified": false
+      }
+    ]
+  }
+}

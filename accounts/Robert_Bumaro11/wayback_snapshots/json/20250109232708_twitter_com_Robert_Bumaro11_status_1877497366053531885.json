@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1877461875698381218",
+    "created_at": "2025-01-09T23:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T00:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877497366053531885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1229055277879554049",
+          "start": 0,
+          "username": "qizao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877497366053531885",
+    "in_reply_to_user_id": "1229055277879554049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877492350886490614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qizao1 我也菜（），id私发了有空欢迎来找我联机捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1877461875698381218",
+        "created_at": "2025-01-09T23:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T00:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877497366053531885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1229055277879554049",
+              "start": 0,
+              "username": "qizao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877497366053531885",
+        "in_reply_to_user_id": "1229055277879554049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877492350886490614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qizao1 我也菜（），id私发了有空欢迎来找我联机捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229055277879554049",
+        "conversation_id": "1877461875698381218",
+        "created_at": "2025-01-09T23:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T00:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877492350886490614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877492350886490614",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877480423900451080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 可以的！我大部分游戏都玩！瓦有点菜菜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟪",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 210,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-16T14:49:58.000Z",
+        "description": "双（只是希望被爱）/重度互联网依赖男孩/比起别人救赎不如变成那个救赎人的人/虽然会发情但是比较拒绝性ღ彼得.潘综合征✙",
+        "id": "1229055277879554049",
+        "location": "河南洛阳",
+        "name": "谢尔汀",
+        "pinned_tweet_id": "1439858329191284739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772526928001716224/QUnLwbW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1906,
+          "like_count": 1045,
+          "listed_count": 7,
+          "media_count": 37,
+          "tweet_count": 1369
+        },
+        "username": "qizao1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076276605534818717",
+    "created_at": "2026-07-12T12:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076289413328613388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076289413328613388",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076276605534818717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "得了吧就像马基雅维利主义者不会自称自己是马基雅维利主义一样，会拿送精神病院威胁我的家人也是并非真心呢😇（此处应有心理咨询师语气）我不会忘记有人试图威胁我的，但我也不会忘记这个世界上的谎言能有多漫长，驯良如鸽狡诈如蛇并不是指导你去背刺的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076276605534818717",
+        "created_at": "2026-07-12T12:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076289413328613388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076289413328613388",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076276605534818717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "得了吧就像马基雅维利主义者不会自称自己是马基雅维利主义一样，会拿送精神病院威胁我的家人也是并非真心呢😇（此处应有心理咨询师语气）我不会忘记有人试图威胁我的，但我也不会忘记这个世界上的谎言能有多漫长，驯良如鸽狡诈如蛇并不是指导你去背刺的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076276605534818717",
+        "created_at": "2026-07-12T12:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076276605534818717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076276605534818717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神病院太香了。任何一个接触过这一套系统的人能忍住不把敌人送进去的诱惑呢？我那不幸的母亲已经深陷其中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 470,
+          "like_count": 12982,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059842589734694912"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059841566207057969",
+    "created_at": "2026-05-28T03:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059842627965731122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A56ejxpJHI",
+          "end": 32,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2059842627965731122/photo/1",
+          "media_key": "3_2059842589734694912",
+          "start": 9,
+          "url": "https://t.co/A56ejxpJHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059842627965731122",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059841566207057969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和别人告别时： https://t.co/A56ejxpJHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_2059842589734694912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYH6_5bcAA9OHU.png",
+        "width": 333
+      },
+      {
+        "height": 165,
+        "media_key": "3_2059841486716559360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYG6y1aYAAmzWO.png",
+        "width": 258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059842589734694912"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059841566207057969",
+        "created_at": "2026-05-28T03:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059842627965731122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A56ejxpJHI",
+              "end": 32,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2059842627965731122/photo/1",
+              "media_key": "3_2059842589734694912",
+              "start": 9,
+              "url": "https://t.co/A56ejxpJHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059842627965731122",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059841566207057969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和别人告别时： https://t.co/A56ejxpJHI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059841486716559360"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059841566207057969",
+        "created_at": "2026-05-28T03:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059841566207057969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBeGnxwIpz",
+              "end": 44,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2059841566207057969/photo/1",
+              "media_key": "3_2059841486716559360",
+              "start": 21,
+              "url": "https://t.co/iBeGnxwIpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059841566207057969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我和别人说了些自己的看法后得到的回复： https://t.co/iBeGnxwIpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 432,
+          "like_count": 10869,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

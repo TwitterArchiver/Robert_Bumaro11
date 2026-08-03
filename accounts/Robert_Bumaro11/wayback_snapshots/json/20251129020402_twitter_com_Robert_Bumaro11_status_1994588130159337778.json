@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994381390880620545"
+      ],
+      "media_source_tweet_id": [
+        "1994381398799724813"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994588130159337778",
+    "created_at": "2025-11-29T02:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994588130159337778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327280434477195266",
+          "start": 3,
+          "username": "kuroooko3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0RC3blzFE",
+          "end": 47,
+          "expanded_url": "https://x.com/kuroooko3/status/1994381398799724813/photo/1",
+          "media_key": "3_1994381390880620545",
+          "start": 24,
+          "url": "https://t.co/z0RC3blzFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994588130159337778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994381398799724813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroooko3: 水群看到的。。。 https://t.co/z0RC3blzFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1994381390880620545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G613Tu4WwAEx1sq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994381390880620545"
+          ],
+          "media_source_tweet_id": [
+            "1994381398799724813"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994588130159337778",
+        "created_at": "2025-11-29T02:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994588130159337778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327280434477195266",
+              "start": 3,
+              "username": "kuroooko3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0RC3blzFE",
+              "end": 47,
+              "expanded_url": "https://x.com/kuroooko3/status/1994381398799724813/photo/1",
+              "media_key": "3_1994381390880620545",
+              "start": 24,
+              "url": "https://t.co/z0RC3blzFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994588130159337778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994381398799724813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroooko3: 水群看到的。。。 https://t.co/z0RC3blzFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994381390880620545"
+          ]
+        },
+        "author_id": "1327280434477195266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994381398799724813",
+        "created_at": "2025-11-28T12:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994381398799724813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0RC3blzFE",
+              "end": 32,
+              "expanded_url": "https://x.com/kuroooko3/status/1994381398799724813/photo/1",
+              "media_key": "3_1994381390880620545",
+              "start": 9,
+              "url": "https://t.co/z0RC3blzFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994381398799724813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13352,
+          "like_count": 475,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "水群看到的。。。 https://t.co/z0RC3blzFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 468,
+          "like_count": 6742,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T16:01:40.000Z",
+        "description": "日本語勉強中/en/中文，高校生です（我为我画垃圾画的行为道歉）\n花組，芽組，幸組/中国人です！\n不介意看垃圾文移步→@chunchafan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chunchafan"
+              }
+            ]
+          }
+        },
+        "id": "1327280434477195266",
+        "location": "神椿市 零番街",
+        "name": "Momokan",
+        "pinned_tweet_id": "1965738648529481810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970516946740228098/dQv261fQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 967,
+          "like_count": 33954,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 5150
+        },
+        "username": "kuroooko3",
+        "verified": false
+      }
+    ]
+  }
+}

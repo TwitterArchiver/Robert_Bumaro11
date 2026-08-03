@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059884439023554875",
+    "created_at": "2026-05-28T06:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059884759975919739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059884759975919739",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059884439023554875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "于是这些被压抑的攻击性投射到了自己身上；又或许是因为我处于一个会打压贬低人的学校家庭环境里面，是以我常常对自己的发言想法不自信总是反刍。\nInfact对那些表面光彩靓丽或是看起来很厉害的人面前都会感到自惭形愧（以及为什么我觉得推上人均那么强）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059884439023554875",
+        "created_at": "2026-05-28T06:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059884759975919739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059884759975919739",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059884439023554875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是这些被压抑的攻击性投射到了自己身上；又或许是因为我处于一个会打压贬低人的学校家庭环境里面，是以我常常对自己的发言想法不自信总是反刍。\nInfact对那些表面光彩靓丽或是看起来很厉害的人面前都会感到自惭形愧（以及为什么我觉得推上人均那么强）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059884439023554875",
+        "created_at": "2026-05-28T06:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059884439023554875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059884439023554875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阴暗想法之\n听起来很诡异很多时候我也总是很担心自己说很多话然后回过神来发现对方诧异地用看白痴的眼神一副“你到底在说什么”的表情那种情境，或许是因为很多时候在学校在其他地方我就是这么处于想要质疑别人说的话狗屁不通谬不可言但因为等级权威或者世俗礼议按耐下自己对人际关系不耐烦的一个位置，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 433,
+          "like_count": 10876,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

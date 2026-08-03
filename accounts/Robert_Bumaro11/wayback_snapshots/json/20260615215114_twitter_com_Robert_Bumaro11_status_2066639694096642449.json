@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2066639694096642449",
+    "created_at": "2026-06-15T21:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066639694096642449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/verderebb/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/verderebb/status/2066171605198254548",
+          "start": 28,
+          "url": "https://t.co/Q88jaYEfst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066639694096642449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066171605198254548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实人类都已经死了是他们上面的性别（性征？）在控制他们 https://t.co/Q88jaYEfst"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066639694096642449",
+        "created_at": "2026-06-15T21:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066639694096642449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/verderebb/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/verderebb/status/2066171605198254548",
+              "start": 28,
+              "url": "https://t.co/Q88jaYEfst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066639694096642449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066171605198254548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实人类都已经死了是他们上面的性别（性征？）在控制他们 https://t.co/Q88jaYEfst"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645784751368966144",
+        "conversation_id": "2066171605198254548",
+        "created_at": "2026-06-14T14:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066171605198254548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GoofBrah/statu…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/GoofBrah/status/2065760222157660580",
+              "start": 91,
+              "url": "https://t.co/OTcxziNi1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066171605198254548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 409,
+          "impression_count": 99260,
+          "like_count": 8162,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 912
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065760222157660580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Men are the parasite sex and will die without a host from whom to suck the life force off. https://t.co/OTcxziNi1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 414,
+          "like_count": 11611,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T13:44:22.000Z",
+        "description": "love the greenery 😍😩",
+        "id": "1645784751368966144",
+        "name": "viva verdi!",
+        "pinned_tweet_id": "1934891544412033129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645803810445725701/WMGa8DQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 148,
+          "like_count": 160971,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 27491
+        },
+        "username": "verderebb",
+        "verified": false
+      }
+    ]
+  }
+}

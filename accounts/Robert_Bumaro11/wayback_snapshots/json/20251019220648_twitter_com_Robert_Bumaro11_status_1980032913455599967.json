@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1980030433976037680",
+    "created_at": "2025-10-19T22:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T23:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980032913455599967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361856317703393282",
+          "start": 0,
+          "username": "ThrumboABBBAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980032913455599967",
+    "in_reply_to_user_id": "1361856317703393282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980030433976037680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThrumboABBBAA 原推:照理说你这个级别的mtf是无权和我汴京的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1980030433976037680",
+        "created_at": "2025-10-19T22:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980032913455599967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361856317703393282",
+              "start": 0,
+              "username": "ThrumboABBBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980032913455599967",
+        "in_reply_to_user_id": "1361856317703393282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980030433976037680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThrumboABBBAA 原推:照理说你这个级别的mtf是无权和我汴京的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361856317703393282",
+        "conversation_id": "1980030433976037680",
+        "created_at": "2025-10-19T21:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T22:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980030433976037680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/lianshufa/status/1979925375950999907",
+              "start": 58,
+              "url": "https://t.co/oEsabQoPBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980030433976037680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979925375950999907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那最高等的是什么？血肉子宫＊？\n＊血肉心脏的变异体，具有数个血肉卵巢，会不断孕育出血肉兽，并间歇性地导致血怒之雨。 https://t.co/oEsabQoPBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 438,
+          "like_count": 5280,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T01:54:59.000Z",
+        "description": "使用暗属性魔法和破墙斧的萝莉控大叔 | 渥金和安博里的信徒 | 地摊经济学 | @Sana_Volfield@alive.bar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tempes…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tempestmaiden.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EmVVDpiohE"
+              }
+            ]
+          }
+        },
+        "id": "1361856317703393282",
+        "location": "Cepheus",
+        "name": "猫目敲子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932677285402058752/8Q0iwHKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 2071,
+          "like_count": 42842,
+          "listed_count": 10,
+          "media_count": 261,
+          "tweet_count": 10080
+        },
+        "url": "https://t.co/EmVVDpiohE",
+        "username": "ThrumboABBBAA",
+        "verified": false
+      }
+    ]
+  }
+}

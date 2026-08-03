@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1966412715213353196",
+    "created_at": "2025-09-12T08:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T09:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966412715213353196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994627597966368768",
+          "start": 3,
+          "username": "linear_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966412715213353196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966327412595261668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linear_27: 你最近的状态没有激情，你对这些文案不满意的话就不要做了，以后发推之前要想想你对这个领域有什么贡献，有什么概念上的推进，没有的话就要考虑是不是最近没有认真思考炒作问题，这么多文案，我没有看到在炒作问题的凝练和升华。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1966412715213353196",
+        "created_at": "2025-09-12T08:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T09:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966412715213353196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994627597966368768",
+              "start": 3,
+              "username": "linear_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966412715213353196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966327412595261668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linear_27: 你最近的状态没有激情，你对这些文案不满意的话就不要做了，以后发推之前要想想你对这个领域有什么贡献，有什么概念上的推进，没有的话就要考虑是不是最近没有认真思考炒作问题，这么多文案，我没有看到在炒作问题的凝练和升华。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994627597966368768",
+        "conversation_id": "1966327412595261668",
+        "created_at": "2025-09-12T02:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966327412595261668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966327412595261668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你最近的状态没有激情，你对这些文案不满意的话就不要做了，以后发推之前要想想你对这个领域有什么贡献，有什么概念上的推进，没有的话就要考虑是不是最近没有认真思考炒作问题，这么多文案，我没有看到在炒作问题的凝练和升华。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 394,
+          "like_count": 2754,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 203
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-10T17:17:53.000Z",
+        "description": "雑多垢 | 秘封病",
+        "id": "994627597966368768",
+        "location": "靜かな海",
+        "name": "カズネ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914348930747568129/bEcQDY9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 589,
+          "like_count": 19509,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3040
+        },
+        "username": "linear_27",
+        "verified": false
+      }
+    ]
+  }
+}

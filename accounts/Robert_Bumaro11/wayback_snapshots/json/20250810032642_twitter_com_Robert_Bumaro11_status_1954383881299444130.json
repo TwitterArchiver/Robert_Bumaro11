@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1954347663220216289",
+    "created_at": "2025-08-10T03:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T04:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954383881299444130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954383881299444130",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954347663220216289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinneMTF 看病意识太弱了，不止性别焦虑很多人其他病也是宁愿当无事发生也不肯去医院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1954347663220216289",
+        "created_at": "2025-08-10T03:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954383881299444130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954383881299444130",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954347663220216289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 看病意识太弱了，不止性别焦虑很多人其他病也是宁愿当无事发生也不肯去医院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "1954347663220216289",
+        "created_at": "2025-08-10T01:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T02:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954347663220216289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954347663220216289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想不明白，明明我11岁开始就几乎天天求着父母帮我开阻止身体生长发育的药，为什么他们直到我青春期结束也无动于衷。然后因为性别焦虑学习退步，他们想的不想就把所有问题都归咎到网络游戏上，直接把我网线断了八年级下半年加上九年级一年几乎完全不让我上网，自己在网上寻求帮助的机会都没有\n\n如果对于性别焦虑，他们硬说是不了解也就罢了。可是为什么多动症，自闭症以及一系列并发症自始至终无一得到他们重视，不管是哪个问题，每次我提出想找专业医生看看，他们要么硬说我没问题，要么骂我没把心思放学习上才有这么多破事。而一旦出了事就只会对我一味的谩骂和随意惩罚。\n\n要是他们都是目不识丁的大老粗，也就罢了，权当自认倒霉。问题是，他们两个都是正高职称的医生啊。明明处理这种事对他们来说就是举手之劳，为什么一定要拖十几年彻底积重难返才肯放手啊😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想不明白，明明我11岁开始就几乎天天求着父母帮我开阻止身体生长发育的药，为什么他们直到我青春期结束也无动于衷。然后因为性别焦虑学习退步，他们想的不想就把所有问题都归咎到网络游戏上，直接把我网线断了八年级下半年加上九年级一年几乎完全不让我上网，自己在网上寻求帮助的机会都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 383,
+          "like_count": 2258,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 146
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD，ASD，BPD/究极天残党/同类互关/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 1867,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 868
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

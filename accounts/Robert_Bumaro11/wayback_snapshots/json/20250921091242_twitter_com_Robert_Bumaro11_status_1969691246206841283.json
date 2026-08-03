@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1969041572055368063",
+    "created_at": "2025-09-21T09:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T10:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969691246206841283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915087790913810432",
+          "start": 0,
+          "username": "Jougasaki_Noa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969691246206841283",
+    "in_reply_to_user_id": "1915087790913810432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969041572055368063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jougasaki_Noa 会视奸的都有品👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1969041572055368063",
+        "created_at": "2025-09-21T09:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969691246206841283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915087790913810432",
+              "start": 0,
+              "username": "Jougasaki_Noa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969691246206841283",
+        "in_reply_to_user_id": "1915087790913810432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969041572055368063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jougasaki_Noa 会视奸的都有品👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915087790913810432",
+        "conversation_id": "1969041572055368063",
+        "created_at": "2025-09-19T14:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969041572055368063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969041572055368063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1174,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "视奸瘾犯了👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 439,
+          "like_count": 3363,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 301
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:58:29.000Z",
+        "description": "我是某人的神秘小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MaqfxwFK",
+                "end": 23,
+                "expanded_url": "https://discord.gg/MaqfxwFK",
+                "start": 0,
+                "url": "https://t.co/08YW5Q6u8P"
+              }
+            ]
+          }
+        },
+        "id": "1915087790913810432",
+        "name": "城ケ崎 ノア",
+        "pinned_tweet_id": "1957072684271194469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957108759588966400/rf1JPhdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 141,
+          "like_count": 7607,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/08YW5Q6u8P",
+        "username": "Jougasaki_Noa",
+        "verified": false
+      }
+    ]
+  }
+}

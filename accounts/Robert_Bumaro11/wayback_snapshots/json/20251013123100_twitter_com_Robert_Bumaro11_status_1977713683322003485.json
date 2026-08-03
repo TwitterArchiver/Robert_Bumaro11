@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977713683322003485",
+    "created_at": "2025-10-13T12:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T13:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977713683322003485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Gelm01/status/…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/Gelm01/status/1977591237545996652",
+          "start": 81,
+          "url": "https://t.co/AVb0X6lP9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977713683322003485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977591237545996652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看丘比搞得就不错，乐子与社交极大丰富，寿命性别差距基本消灭，感情波动基本消失，等价原则、文明存续的追求也受重视，如果能由人类转化，那就是我们理想中的生命体了。 https://t.co/AVb0X6lP9D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "16_1977591223637704704",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3HQvXvbAAA8du-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3HQvXvbAAA8du-.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977713683322003485",
+        "created_at": "2025-10-13T12:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977713683322003485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Gelm01/status/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Gelm01/status/1977591237545996652",
+              "start": 81,
+              "url": "https://t.co/AVb0X6lP9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977713683322003485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977591237545996652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看丘比搞得就不错，乐子与社交极大丰富，寿命性别差距基本消灭，感情波动基本消失，等价原则、文明存续的追求也受重视，如果能由人类转化，那就是我们理想中的生命体了。 https://t.co/AVb0X6lP9D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1977591223637704704"
+          ]
+        },
+        "author_id": "471019735",
+        "conversation_id": "1977591237545996652",
+        "created_at": "2025-10-13T04:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977591237545996652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jgd7Vt6h3",
+              "end": 38,
+              "expanded_url": "https://x.com/Gelm01/status/1977591237545996652/photo/1",
+              "media_key": "16_1977591223637704704",
+              "start": 15,
+              "url": "https://t.co/3jgd7Vt6h3"
+            },
+            {
+              "display_url": "x.com/gelm01/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/gelm01/status/1977574844993778062",
+              "start": 39,
+              "url": "https://t.co/dKLLuZkBhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977591237545996652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977574844993778062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢我incubator吗？ https://t.co/3jgd7Vt6h3 https://t.co/dKLLuZkBhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 444,
+          "like_count": 4984,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "放浪息子",
+        "id": "471019735",
+        "location": "月まで届け",
+        "name": "修一🏵✝️蝶々使い🦋",
+        "pinned_tweet_id": "1974239758567297437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960359102070362112/OogCw3Io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 588,
+          "like_count": 3156,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 3827
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

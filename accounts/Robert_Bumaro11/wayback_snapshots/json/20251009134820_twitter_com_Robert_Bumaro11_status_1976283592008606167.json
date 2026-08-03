@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1976029119940100547",
+    "created_at": "2025-10-09T13:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976283592008606167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600777254522343425",
+          "start": 0,
+          "username": "Zephyr_Lilies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976283592008606167",
+    "in_reply_to_user_id": "1600777254522343425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976078756780572986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zephyr_Lilies 非常好玩(｡&gt;∀&lt;｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1976029119940100547",
+        "created_at": "2025-10-09T13:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976283592008606167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600777254522343425",
+              "start": 0,
+              "username": "Zephyr_Lilies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976283592008606167",
+        "in_reply_to_user_id": "1600777254522343425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976078756780572986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zephyr_Lilies 非常好玩(｡&gt;∀&lt;｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600777254522343425",
+        "conversation_id": "1976029119940100547",
+        "created_at": "2025-10-09T00:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T01:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976078756780572986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976078756780572986",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976029119940100547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 《幽灵镇少女》🥹🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 445,
+          "like_count": 4758,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T09:00:20.000Z",
+        "description": "我不生产文本，我只是文字的缝合怪",
+        "id": "1600777254522343425",
+        "name": "-ˋˏ✄┈┈┈",
+        "pinned_tweet_id": "1974659806037471469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955084112596963330/wfBJQD4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 408,
+          "like_count": 12827,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 807
+        },
+        "username": "Zephyr_Lilies",
+        "verified": false
+      }
+    ]
+  }
+}

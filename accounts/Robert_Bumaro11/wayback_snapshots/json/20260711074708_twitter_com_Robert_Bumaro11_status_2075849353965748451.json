@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075849353965748451",
+    "created_at": "2026-07-11T07:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075849353965748451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075849353965748451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920068368725598333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 去年年初和一个精神科的朋友去拜访杭州的一个公益组织时。不由得为该公益组织“奢华”的配置所感到震惊。\n\n这个公益组织的初衷是为了给长年累月在精神科住院的双相、精分和抑郁症青少年，出院后提供一个融入社会的“过渡”。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075849353965748451",
+        "created_at": "2026-07-11T07:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075849353965748451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075849353965748451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920068368725598333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 去年年初和一个精神科的朋友去拜访杭州的一个公益组织时。不由得为该公益组织“奢华”的配置所感到震惊。\n\n这个公益组织的初衷是为了给长年累月在精神科住院的双相、精分和抑郁症青少年，出院后提供一个融入社会的“过渡”。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1920068368725598333",
+        "created_at": "2025-05-07T10:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T11:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920068368725598333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920068368725598333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去年年初和一个精神科的朋友去拜访杭州的一个公益组织时。不由得为该公益组织“奢华”的配置所感到震惊。\n\n这个公益组织的初衷是为了给长年累月在精神科住院的双相、精分和抑郁症青少年，出院后提供一个融入社会的“过渡”。\n\n从我自己开设庇护所的眼光来看，这个公益组织收容的青少年在精神疾病的严重程度上，甚至可以说普遍要比庇护所绝大多数的居住人员都要好。\n\n但是这个公益组织收容的青少年，人均的照顾成本却达到了2万元人民币以上——一个住着8个人的房屋，却配备了约二十个全职或非全职的社会工作专业人员。一个全职人员每个月可以发八千元的工资，每一个青少年都有着一对一的心理照顾人员，同时有专门的工作人员做饭，举办活动，打扫卫生，以及做防止自杀的预防措施。\n\n这里的孩子普遍都是被家长送进来的，一个月缴纳的费用在一万五以上。但即使这样，这个公益组织仍然在常年亏损，入不敷出。最后靠成功被政府宣传和救济才得以存续。\n\n能生活在让家长一个月支付一万五以上的家庭里的孩子，虽然也同样需要“救济”，但却一开始就和出生于破碎家庭的孩子们生活在了两个世界里。相对于在经济上苦苦挣扎，一切从简的庇护所，这里倒是更像是在社会工作和精神医学领域更加“理想化和标准化”的救济场所。\n\n很显然，庇护所也完全可以采用这个模式，一切都看上去这么光明，美好，甚至可以和政府合作，帮助政府宣传。打交道的都是上流阶级的高素质家庭和从小得到优质教育的孩子。每当有“想要做好事的人”登门拜访时，看到一群高素质又可爱的孩子们在慢慢的从抑郁中恢复，每个人都觉得自己做的事情“充满了意义”。\n\n但是，生活另一个世界的人，又该怎么办呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 43972,
+          "like_count": 372,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "去年年初和一个精神科的朋友去拜访杭州的一个公益组织时。不由得为该公益组织“奢华”的配置所感到震惊。\n\n这个公益组织的初衷是为了给长年累月在精神科住院的双相、精分和抑郁症青少年，出院后提供一个融入社会的“过渡”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 468,
+          "like_count": 12827,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41914,
+          "following_count": 3922,
+          "like_count": 1844,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 3047
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

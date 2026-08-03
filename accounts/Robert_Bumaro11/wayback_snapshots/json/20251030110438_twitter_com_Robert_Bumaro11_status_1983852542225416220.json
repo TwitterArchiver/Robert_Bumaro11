@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983852534017232896"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1983852542225416220",
+    "created_at": "2025-10-30T11:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983852542225416220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infintytweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infintytweet.me/secret-stalker?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1983605341347848193/Atb33V0B?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1983605341347848193/Atb33V0B?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infintytweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/bOKCEU1Vep"
+        },
+        {
+          "display_url": "pic.x.com/n9L8cHZ9yM",
+          "end": 71,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/1983852542225416220/photo/1",
+          "media_key": "3_1983852534017232896",
+          "start": 48,
+          "url": "https://t.co/n9L8cHZ9yM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983852542225416220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/bOKCEU1Vep https://t.co/n9L8cHZ9yM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1983852534017232896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gPXmjbEAA7a8D.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983852534017232896"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1983852542225416220",
+        "created_at": "2025-10-30T11:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983852542225416220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infintytweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983605341347848193/Atb33V0B?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983605341347848193/Atb33V0B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/bOKCEU1Vep"
+            },
+            {
+              "display_url": "pic.x.com/n9L8cHZ9yM",
+              "end": 71,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/1983852542225416220/photo/1",
+              "media_key": "3_1983852534017232896",
+              "start": 48,
+              "url": "https://t.co/n9L8cHZ9yM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983852542225416220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/bOKCEU1Vep https://t.co/n9L8cHZ9yM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 451,
+          "like_count": 5672,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

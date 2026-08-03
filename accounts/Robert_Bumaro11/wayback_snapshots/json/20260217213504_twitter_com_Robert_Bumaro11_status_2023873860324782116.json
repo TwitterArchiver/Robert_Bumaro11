@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2023873860324782116",
+    "created_at": "2026-02-17T21:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023873860324782116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232735016821518336",
+          "start": 3,
+          "username": "WhisperofRen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023873860324782116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023701027120091568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhisperofRen: 我没有讨厌或喜欢任何人的资格。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2023873860324782116",
+        "created_at": "2026-02-17T21:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023873860324782116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232735016821518336",
+              "start": 3,
+              "username": "WhisperofRen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023873860324782116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023701027120091568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhisperofRen: 我没有讨厌或喜欢任何人的资格。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232735016821518336",
+        "conversation_id": "2023701027120091568",
+        "created_at": "2026-02-17T10:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023701027120091568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023701027120091568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我没有讨厌或喜欢任何人的资格。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 476,
+          "like_count": 8031,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T18:31:58.000Z",
+        "description": "一個想把生命用來養性事天的女子，一個願意一生守死善道的小人，一個把過往當作夢魘的跨性別者，一個由妄根作主、習焉不察的凡愚。\n\n諸夏主義者，儒教的宗教改革家，迫真自由派，反共，反大一統，反中國文化，中國文化≠儒家，喜欢關注現代新興宗教",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "confucianity.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://confucianity.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/Mkkuv6Pxpw"
+              }
+            ]
+          }
+        },
+        "id": "1232735016821518336",
+        "location": "唐虞三代",
+        "name": "自訟齋",
+        "pinned_tweet_id": "1874199748682596837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995901464154411009/qKVB_cxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 110,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/Mkkuv6Pxpw",
+        "username": "WhisperofRen",
+        "verified": false
+      }
+    ]
+  }
+}

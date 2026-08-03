@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1977787998722052155",
+    "created_at": "2025-10-13T17:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T18:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977787998722052155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292713592777838597",
+          "start": 3,
+          "username": "TwinkieNoSay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977787998722052155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977787244527120450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwinkieNoSay: 非二元跨真拧巴。\n不hrt觉得少点什么，开始hrt之后觉得真多余。\n像个男的不够非二元，一路向女也不够非二元。\n没胸感到遗憾，长胸又觉得身体太吵。\n没胸硬要垫胸，有胸不想穿bra。\n不穿觉得不好看，穿了觉得不自由/太表演。\n最后当然还是没穿./"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1977787998722052155",
+        "created_at": "2025-10-13T17:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977787998722052155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292713592777838597",
+              "start": 3,
+              "username": "TwinkieNoSay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977787998722052155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977787244527120450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwinkieNoSay: 非二元跨真拧巴。\n不hrt觉得少点什么，开始hrt之后觉得真多余。\n像个男的不够非二元，一路向女也不够非二元。\n没胸感到遗憾，长胸又觉得身体太吵。\n没胸硬要垫胸，有胸不想穿bra。\n不穿觉得不好看，穿了觉得不自由/太表演。\n最后当然还是没穿./"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292713592777838597",
+        "conversation_id": "1977787244527120450",
+        "created_at": "2025-10-13T17:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977787244527120450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977787244527120450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "非二元跨真拧巴。\n不hrt觉得少点什么，开始hrt之后觉得真多余。\n像个男的不够非二元，一路向女也不够非二元。\n没胸感到遗憾，长胸又觉得身体太吵。\n没胸硬要垫胸，有胸不想穿bra。\n不穿觉得不好看，穿了觉得不自由/太表演。\n最后当然还是没穿./"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 443,
+          "like_count": 5026,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T06:45:20.000Z",
+        "description": "“逃逃”//无立场小狗//已婚已婚已婚//清水自拍废话推/Quaker/道姑/锅性恋/不约/100% INFP/enby/但不是男的//地质/语言学/音乐理论/景观建筑/植物分类/皮肤癌/数摇/手语/苦空非我/诡计逃禅/MLP/霹雳金光\n//transphobia is misogyny//",
+        "id": "1292713592777838597",
+        "location": "United States",
+        "name": "芒花桃蝉",
+        "pinned_tweet_id": "1303518437961011202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715050580828123138/aJa2uBd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1004,
+          "like_count": 17034,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 2596
+        },
+        "username": "TwinkieNoSay",
+        "verified": false
+      }
+    ]
+  }
+}

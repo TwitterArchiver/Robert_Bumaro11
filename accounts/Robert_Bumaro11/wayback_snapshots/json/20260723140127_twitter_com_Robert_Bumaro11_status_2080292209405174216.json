@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080268721462050816"
+      ],
+      "media_source_tweet_id": [
+        "2080268763115688240"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2080292209405174216",
+    "created_at": "2026-07-23T14:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080292209405174216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 43,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "LCB12"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2015610541541351424",
+          "start": 3,
+          "username": "sogumiszzayozza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/isqHakjanT",
+          "end": 126,
+          "expanded_url": "https://x.com/sogumiszzayozza/status/2080268763115688240/photo/1",
+          "media_key": "3_2080268721462050816",
+          "start": 103,
+          "url": "https://t.co/isqHakjanT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080292209405174216",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080268763115688240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sogumiszzayozza: The night before War\n\n#LimbusCompany #LCB12\nInspired by Ancient Greek pottery art https://t.co/isqHakjanT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3346,
+        "media_key": "3_2080268721462050816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6ZYWQaAAA-huv.jpg",
+        "width": 3229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080268721462050816"
+          ]
+        },
+        "author_id": "2015610541541351424",
+        "conversation_id": "2080268763115688240",
+        "created_at": "2026-07-23T12:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080268763115688240"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 22,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "LCB12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/isqHakjanT",
+              "end": 105,
+              "expanded_url": "https://x.com/sogumiszzayozza/status/2080268763115688240/photo/1",
+              "media_key": "3_2080268721462050816",
+              "start": 82,
+              "url": "https://t.co/isqHakjanT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080268763115688240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 3406,
+          "like_count": 526,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "The night before War\n\n#LimbusCompany #LCB12\nInspired by Ancient Greek pottery art https://t.co/isqHakjanT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080268721462050816"
+          ],
+          "media_source_tweet_id": [
+            "2080268763115688240"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2080292209405174216",
+        "created_at": "2026-07-23T14:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080292209405174216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 43,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "LCB12"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2015610541541351424",
+              "start": 3,
+              "username": "sogumiszzayozza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/isqHakjanT",
+              "end": 126,
+              "expanded_url": "https://x.com/sogumiszzayozza/status/2080268763115688240/photo/1",
+              "media_key": "3_2080268721462050816",
+              "start": 103,
+              "url": "https://t.co/isqHakjanT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080292209405174216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080268763115688240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sogumiszzayozza: The night before War\n\n#LimbusCompany #LCB12\nInspired by Ancient Greek pottery art https://t.co/isqHakjanT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 483,
+          "like_count": 13762,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1916
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T02:19:47.000Z",
+        "description": "20↑\n🪳🪓🪳/⛓️🪳♀/🪳&🍎(ncp only)\n그 외 ncp 다수\n\n부계: @sogumissalt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "sogumissalt"
+              }
+            ]
+          }
+        },
+        "id": "2015610541541351424",
+        "name": "바다다",
+        "pinned_tweet_id": "2046462754178117782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053133640302026752/XrP--q4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3475,
+          "following_count": 159,
+          "like_count": 4975,
+          "listed_count": 9,
+          "media_count": 240,
+          "tweet_count": 1827
+        },
+        "url": "",
+        "username": "sogumiszzayozza",
+        "verified": false
+      }
+    ]
+  }
+}

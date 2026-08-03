@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075914200153788660",
+    "created_at": "2026-07-11T12:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075914200153788660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1422567543940677634",
+          "start": 3,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075914200153788660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075912992257151420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UraOlt: 有些帮助者的心态和父母是一样的，我供你吃穿，你就得给我考上清华北大，要是一开始就明说条件也好，但可恶的是开始帮助别人时候一副无所求的样子，过一段时间就你达不到我的要求你辜负了我的善意，从今天开始我要强迫你了，是你逼我的”的样子真恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075914200153788660",
+        "created_at": "2026-07-11T12:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075914200153788660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1422567543940677634",
+              "start": 3,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075914200153788660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075912992257151420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UraOlt: 有些帮助者的心态和父母是一样的，我供你吃穿，你就得给我考上清华北大，要是一开始就明说条件也好，但可恶的是开始帮助别人时候一副无所求的样子，过一段时间就你达不到我的要求你辜负了我的善意，从今天开始我要强迫你了，是你逼我的”的样子真恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2075912992257151420",
+        "created_at": "2026-07-11T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075912992257151420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075912992257151420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些帮助者的心态和父母是一样的，我供你吃穿，你就得给我考上清华北大，要是一开始就明说条件也好，但可恶的是开始帮助别人时候一副无所求的样子，过一段时间就你达不到我的要求你辜负了我的善意，从今天开始我要强迫你了，是你逼我的”的样子真恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 468,
+          "like_count": 12849,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "天澹无情 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060944742486274048/XFk2oB01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 437,
+          "like_count": 223477,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 14264
+        },
+        "url": "",
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

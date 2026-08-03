@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063800079488794624"
+      ],
+      "media_source_tweet_id": [
+        "2063800086967279736"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2063813483880501576",
+    "created_at": "2026-06-08T02:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063813483880501576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFv3NpsKHD",
+          "end": 87,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2063800086967279736/photo/1",
+          "media_key": "3_2063800079488794624",
+          "start": 64,
+          "url": "https://t.co/cFv3NpsKHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063813483880501576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063800086967279736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: おはようございます🌞\n\n髪を切ってから毎朝寝癖が芸術点高いです🥸\n\n今日もお稽古頑張るどん✌️ https://t.co/cFv3NpsKHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2063800079488794624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQXPOFaQAAfzok.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063800079488794624"
+          ],
+          "media_source_tweet_id": [
+            "2063800086967279736"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2063813483880501576",
+        "created_at": "2026-06-08T02:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063813483880501576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFv3NpsKHD",
+              "end": 87,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2063800086967279736/photo/1",
+              "media_key": "3_2063800079488794624",
+              "start": 64,
+              "url": "https://t.co/cFv3NpsKHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063813483880501576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063800086967279736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: おはようございます🌞\n\n髪を切ってから毎朝寝癖が芸術点高いです🥸\n\n今日もお稽古頑張るどん✌️ https://t.co/cFv3NpsKHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063800079488794624"
+          ]
+        },
+        "author_id": "1577159828",
+        "conversation_id": "2063800086967279736",
+        "created_at": "2026-06-08T01:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063800086967279736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFv3NpsKHD",
+              "end": 71,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2063800086967279736/photo/1",
+              "media_key": "3_2063800079488794624",
+              "start": 48,
+              "url": "https://t.co/cFv3NpsKHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063800086967279736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2617,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます🌞\n\n髪を切ってから毎朝寝癖が芸術点高いです🥸\n\n今日もお稽古頑張るどん✌️ https://t.co/cFv3NpsKHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 407,
+          "like_count": 11492,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優/愛犬ぽんず 🐾　　　　　　　　　　　　　　　↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "name": "生田 輝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057046583381041152/rZI06G1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81851,
+          "following_count": 828,
+          "like_count": 13451,
+          "listed_count": 2644,
+          "media_count": 5318,
+          "tweet_count": 23932
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false
+      }
+    ]
+  }
+}

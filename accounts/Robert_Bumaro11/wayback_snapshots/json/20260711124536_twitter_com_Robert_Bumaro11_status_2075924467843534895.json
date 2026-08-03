@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075922227015585792"
+      ],
+      "media_source_tweet_id": [
+        "2075922242362556703"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075924467843534895",
+    "created_at": "2026-07-11T12:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075924467843534895"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "女王ステ"
+        },
+        {
+          "end": 107,
+          "start": 101,
+          "tag": "不滅部隊編"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y2R47VkwNA",
+          "end": 131,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2075922242362556703/photo/1",
+          "media_key": "3_2075922227015585792",
+          "start": 108,
+          "url": "https://t.co/y2R47VkwNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075924467843534895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075922242362556703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: 本日もご来場ありがとうございました🌹\n\nCoffinアドラー隊のみんな🦅✨\nちはや、はるか、いつき！\n千秋楽おめでとう✨\n一緒にお芝居できて楽しかったよ✨\n\n#女王ステ\n#不滅部隊編 https://t.co/y2R47VkwNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075922227015585792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8oREqaEAAjfIN.jpg",
+        "width": 1742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075922227015585792"
+          ],
+          "media_source_tweet_id": [
+            "2075922242362556703"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075924467843534895",
+        "created_at": "2026-07-11T12:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075924467843534895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "女王ステ"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "不滅部隊編"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2R47VkwNA",
+              "end": 131,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2075922242362556703/photo/1",
+              "media_key": "3_2075922227015585792",
+              "start": 108,
+              "url": "https://t.co/y2R47VkwNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075924467843534895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075922242362556703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: 本日もご来場ありがとうございました🌹\n\nCoffinアドラー隊のみんな🦅✨\nちはや、はるか、いつき！\n千秋楽おめでとう✨\n一緒にお芝居できて楽しかったよ✨\n\n#女王ステ\n#不滅部隊編 https://t.co/y2R47VkwNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075922227015585792"
+          ]
+        },
+        "author_id": "1577159828",
+        "conversation_id": "2075922242362556703",
+        "created_at": "2026-07-11T12:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075922242362556703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "女王ステ"
+            },
+            {
+              "end": 91,
+              "start": 85,
+              "tag": "不滅部隊編"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2R47VkwNA",
+              "end": 115,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2075922242362556703/photo/1",
+              "media_key": "3_2075922227015585792",
+              "start": 92,
+              "url": "https://t.co/y2R47VkwNA"
+            },
+            {
+              "display_url": "x.com/akanojohou/sta…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/akanojohou/status/2075905443390517253",
+              "start": 116,
+              "url": "https://t.co/8IY9UnX3DE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075922242362556703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2866,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075905443390517253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本日もご来場ありがとうございました🌹\n\nCoffinアドラー隊のみんな🦅✨\nちはや、はるか、いつき！\n千秋楽おめでとう✨\n一緒にお芝居できて楽しかったよ✨\n\n#女王ステ\n#不滅部隊編 https://t.co/y2R47VkwNA https://t.co/8IY9UnX3DE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 468,
+          "like_count": 12863,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優/愛犬ぽんず 🐾　　　　　　　　　　　　　　　↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "name": "生田 輝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057046583381041152/rZI06G1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81880,
+          "following_count": 853,
+          "like_count": 13648,
+          "listed_count": 2640,
+          "media_count": 5351,
+          "tweet_count": 24036
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2016676198265536585",
+    "created_at": "2026-01-29T00:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T01:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016676198265536585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "992551168944439296",
+          "start": 3,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016676198265536585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016627702107951161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pale_machine: ↖放假后就没踏出家门甚至房间门之人、昼夜颠倒者、一天睡二十小时之物、一天只吃一顿者、作息混乱者、无法离开被窝者、忘记洗澡者、除了玩手机什么也没干之人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2016676198265536585",
+        "created_at": "2026-01-29T00:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T01:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016676198265536585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "992551168944439296",
+              "start": 3,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016676198265536585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016627702107951161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pale_machine: ↖放假后就没踏出家门甚至房间门之人、昼夜颠倒者、一天睡二十小时之物、一天只吃一顿者、作息混乱者、无法离开被窝者、忘记洗澡者、除了玩手机什么也没干之人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "2016627702107951161",
+        "created_at": "2026-01-28T21:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016627702107951161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016627702107951161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "↖放假后就没踏出家门甚至房间门之人、昼夜颠倒者、一天睡二十小时之物、一天只吃一顿者、作息混乱者、无法离开被窝者、忘记洗澡者、除了玩手机什么也没干之人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 472,
+          "like_count": 7771,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlChHi2"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "苍绿之经",
+        "name": "⏻",
+        "pinned_tweet_id": "1980886254154911905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003279650320269313/4ggu3EUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 869,
+          "like_count": 11547,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/KhELlChHi2",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

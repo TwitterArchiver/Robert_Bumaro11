@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1972813194310942735",
+    "created_at": "2025-09-29T23:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T00:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972813194310942735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OPPOFANS114514…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/OPPOFANS114514/status/1972135600284487815",
+          "start": 61,
+          "url": "https://t.co/RvDiqnX3cF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972813194310942735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972135600284487815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉污染时间线，我迟早锁推清空粉丝关注防止污染别人时间线（）\n笑话一则:用户曾在续费微博会员的第二天决定销号遂痛失巨额资金 https://t.co/RvDiqnX3cF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972135593196113928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G15u34lb0Agt9fO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1972813194310942735",
+        "created_at": "2025-09-29T23:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972813194310942735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OPPOFANS114514…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/OPPOFANS114514/status/1972135600284487815",
+              "start": 61,
+              "url": "https://t.co/RvDiqnX3cF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972813194310942735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972135600284487815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉污染时间线，我迟早锁推清空粉丝关注防止污染别人时间线（）\n笑话一则:用户曾在续费微博会员的第二天决定销号遂痛失巨额资金 https://t.co/RvDiqnX3cF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972135593196113928"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "1972135600284487815",
+        "created_at": "2025-09-28T03:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T04:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972135600284487815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2IyM3OnBu",
+              "end": 47,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/1972135600284487815/photo/1",
+              "media_key": "3_1972135593196113928",
+              "start": 24,
+              "url": "https://t.co/h2IyM3OnBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972135600284487815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 26923,
+          "like_count": 301,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢求你刷走\n也请别污染我的时间线谢谢😇😇😇 https://t.co/h2IyM3OnBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 442,
+          "like_count": 3986,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "粉OPPO的推特账号,发些日常,不会安慰人(｡í _ ì｡)丨偶尔会emo,请忽略,我也有情绪(；ω；)丨如果哪天突然消失了,就是VPN炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我粉OPPO,FANSOPPO,OPPO酱,粉猫猫,小粉,饭饭丨成分就是天天开心(*๓´╰╯`๓)♡丨INFP丨颜文字万岁(／ω＼)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "FANSOPPO",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949868551441195008/00dhN88I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1489,
+          "like_count": 10736,
+          "listed_count": 7,
+          "media_count": 326,
+          "tweet_count": 11731
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

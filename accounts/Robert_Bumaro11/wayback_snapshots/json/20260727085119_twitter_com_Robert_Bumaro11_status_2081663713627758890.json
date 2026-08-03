@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081223355467010048",
+        "3_2081223355441799168",
+        "3_2081223355437559808"
+      ],
+      "media_source_tweet_id": [
+        "2081223388866199768",
+        "2081223388866199768",
+        "2081223388866199768"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2081663713627758890",
+    "created_at": "2026-07-27T08:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081663713627758890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1262587553162489856",
+          "start": 3,
+          "username": "caijingshujuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MK2uVf53K7",
+          "end": 105,
+          "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+          "media_key": "13_2081223355467010048",
+          "start": 82,
+          "url": "https://t.co/MK2uVf53K7"
+        },
+        {
+          "display_url": "pic.x.com/MK2uVf53K7",
+          "end": 105,
+          "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+          "media_key": "3_2081223355441799168",
+          "start": 82,
+          "url": "https://t.co/MK2uVf53K7"
+        },
+        {
+          "display_url": "pic.x.com/MK2uVf53K7",
+          "end": 105,
+          "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+          "media_key": "3_2081223355437559808",
+          "start": 82,
+          "url": "https://t.co/MK2uVf53K7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081663713627758890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 314
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081223388866199768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caijingshujuku: 北大数学学院删掉了邓煜接受采访时说建议学生出国留学的段落，怕学生出国，韮菜少了。\n也删除了部分王虹谈到北大时不太愉快的部分 https://t.co/MK2uVf53K7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55169,
+        "height": 376,
+        "media_key": "13_2081223355467010048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081223355467010048/img/JmtlFTWRigOskR28.jpg",
+        "public_metrics": {
+          "view_count": 392140
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081223355467010048/vid/avc1/458x270/mbc6ByewqNNPzk26.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081223355467010048/vid/avc1/640x376/1VoJb-kVqjgt3FAM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081223355467010048/pl/PQyzFqB7nE0hukuM.m3u8"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081223355441799168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH9nW9a4AAghZ4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081223355437559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH9nW8aMAAfu9P.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081223355467010048",
+            "3_2081223355441799168",
+            "3_2081223355437559808"
+          ]
+        },
+        "author_id": "1262587553162489856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2081223388866199768",
+        "created_at": "2026-07-26T03:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081223388866199768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MK2uVf53K7",
+              "end": 85,
+              "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+              "media_key": "13_2081223355467010048",
+              "start": 62,
+              "url": "https://t.co/MK2uVf53K7"
+            },
+            {
+              "display_url": "pic.x.com/MK2uVf53K7",
+              "end": 85,
+              "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+              "media_key": "3_2081223355441799168",
+              "start": 62,
+              "url": "https://t.co/MK2uVf53K7"
+            },
+            {
+              "display_url": "pic.x.com/MK2uVf53K7",
+              "end": 85,
+              "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+              "media_key": "3_2081223355437559808",
+              "start": 62,
+              "url": "https://t.co/MK2uVf53K7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081223388866199768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 893,
+          "impression_count": 640623,
+          "like_count": 2982,
+          "quote_count": 11,
+          "reply_count": 252,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "北大数学学院删掉了邓煜接受采访时说建议学生出国留学的段落，怕学生出国，韮菜少了。\n也删除了部分王虹谈到北大时不太愉快的部分 https://t.co/MK2uVf53K7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081223355467010048",
+            "3_2081223355441799168",
+            "3_2081223355437559808"
+          ],
+          "media_source_tweet_id": [
+            "2081223388866199768",
+            "2081223388866199768",
+            "2081223388866199768"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2081663713627758890",
+        "created_at": "2026-07-27T08:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081663713627758890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1262587553162489856",
+              "start": 3,
+              "username": "caijingshujuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MK2uVf53K7",
+              "end": 105,
+              "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+              "media_key": "13_2081223355467010048",
+              "start": 82,
+              "url": "https://t.co/MK2uVf53K7"
+            },
+            {
+              "display_url": "pic.x.com/MK2uVf53K7",
+              "end": 105,
+              "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+              "media_key": "3_2081223355441799168",
+              "start": 82,
+              "url": "https://t.co/MK2uVf53K7"
+            },
+            {
+              "display_url": "pic.x.com/MK2uVf53K7",
+              "end": 105,
+              "expanded_url": "https://x.com/caijingshujuku/status/2081223388866199768/video/1",
+              "media_key": "3_2081223355437559808",
+              "start": 82,
+              "url": "https://t.co/MK2uVf53K7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081663713627758890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 314
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081223388866199768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caijingshujuku: 北大数学学院删掉了邓煜接受采访时说建议学生出国留学的段落，怕学生出国，韮菜少了。\n也删除了部分王虹谈到北大时不太愉快的部分 https://t.co/MK2uVf53K7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 485,
+          "like_count": 14000,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-19T03:35:14.000Z",
+        "description": "防止墙内封号，海内外财经数据和思想的保存和收集者！海内外最新财经观点碰撞的平台",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/Nlh6PxIuyO"
+              }
+            ]
+          }
+        },
+        "id": "1262587553162489856",
+        "name": "财经数据库",
+        "pinned_tweet_id": "2050202905899380769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645446590541463552/r6f6qEtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372814,
+          "following_count": 86,
+          "like_count": 580,
+          "listed_count": 1667,
+          "media_count": 10085,
+          "tweet_count": 22461
+        },
+        "url": "https://t.co/Nlh6PxIuyO",
+        "username": "caijingshujuku",
+        "verified": true
+      }
+    ]
+  }
+}

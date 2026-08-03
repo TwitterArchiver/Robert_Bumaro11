@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077014386976436224"
+      ],
+      "media_source_tweet_id": [
+        "2077014581243965920"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077016117663662118",
+    "created_at": "2026-07-14T13:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077016117663662118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800918944548880385",
+          "start": 3,
+          "username": "renkonn_umum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWxG9Z5D9K",
+          "end": 61,
+          "expanded_url": "https://x.com/renkonn_umum/status/2077014581243965920/photo/1",
+          "media_key": "3_2077014386976436224",
+          "start": 38,
+          "url": "https://t.co/iWxG9Z5D9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077016117663662118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077014581243965920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renkonn_umum: 脱稿～～～隠岐奈ちゃんの本が多分出ます https://t.co/iWxG9Z5D9K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2900,
+        "media_key": "3_2077014386976436224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMJlJkbMAALGID.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077014386976436224"
+          ],
+          "media_source_tweet_id": [
+            "2077014581243965920"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077016117663662118",
+        "created_at": "2026-07-14T13:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077016117663662118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800918944548880385",
+              "start": 3,
+              "username": "renkonn_umum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWxG9Z5D9K",
+              "end": 61,
+              "expanded_url": "https://x.com/renkonn_umum/status/2077014581243965920/photo/1",
+              "media_key": "3_2077014386976436224",
+              "start": 38,
+              "url": "https://t.co/iWxG9Z5D9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077016117663662118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077014581243965920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renkonn_umum: 脱稿～～～隠岐奈ちゃんの本が多分出ます https://t.co/iWxG9Z5D9K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077014386976436224"
+          ]
+        },
+        "author_id": "1800918944548880385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077014581243965920",
+        "created_at": "2026-07-14T12:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077014581243965920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWxG9Z5D9K",
+              "end": 43,
+              "expanded_url": "https://x.com/renkonn_umum/status/2077014581243965920/photo/1",
+              "media_key": "3_2077014386976436224",
+              "start": 20,
+              "url": "https://t.co/iWxG9Z5D9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014581243965920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "脱稿～～～隠岐奈ちゃんの本が多分出ます https://t.co/iWxG9Z5D9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 477,
+          "like_count": 13177,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T15:52:07.000Z",
+        "description": "🧡🧡🧡摩多羅隠岐奈ちゃんが大大大大大好き🧡🧡🧡/20↑",
+        "id": "1800918944548880385",
+        "location": "またまたおきなちゃん",
+        "name": "れんこん畑",
+        "pinned_tweet_id": "2014783690317222305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847889938429423616/nLvuRLOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 109,
+          "like_count": 6077,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 4553
+        },
+        "url": "",
+        "username": "renkonn_umum",
+        "verified": false
+      }
+    ]
+  }
+}

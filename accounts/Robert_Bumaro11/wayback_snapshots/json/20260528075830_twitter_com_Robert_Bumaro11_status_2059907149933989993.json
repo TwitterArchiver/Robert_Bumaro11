@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059900220738289818",
+    "created_at": "2026-05-28T07:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059907149933989993"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059907149933989993",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059906457953550723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "さざれ石の 巌となりて 苔のむすまで"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 84,
+        "media_key": "3_2059906445513285632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZB_5NbYAA7cxz.png",
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059900220738289818",
+        "created_at": "2026-05-28T07:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059907149933989993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059907149933989993",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059906457953550723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "さざれ石の 巌となりて 苔のむすまで"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059906445513285632"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059900220738289818",
+        "created_at": "2026-05-28T07:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059906457953550723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBV5spAszO",
+              "end": 23,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2059906457953550723/photo/1",
+              "media_key": "3_2059906445513285632",
+              "start": 0,
+              "url": "https://t.co/uBV5spAszO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059906457953550723",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059900220738289818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/uBV5spAszO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 437,
+          "like_count": 10885,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

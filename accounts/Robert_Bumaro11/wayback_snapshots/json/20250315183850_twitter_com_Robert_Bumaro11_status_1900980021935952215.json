@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1900922174107775354",
+    "created_at": "2025-03-15T18:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T19:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900980021935952215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855988077128482816",
+          "start": 0,
+          "username": "EarlofFidonisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900980021935952215",
+    "in_reply_to_user_id": "1855988077128482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900922174107775354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EarlofFidonisi “人到我这里来，若不恨自己的父母，子女，兄弟，姐妹和自己的性命，就不能作我的门徒”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_1900922164301451264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFuowza0AA_Waz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1900922174107775354",
+        "created_at": "2025-03-15T18:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T19:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900980021935952215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855988077128482816",
+              "start": 0,
+              "username": "EarlofFidonisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900980021935952215",
+        "in_reply_to_user_id": "1855988077128482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900922174107775354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EarlofFidonisi “人到我这里来，若不恨自己的父母，子女，兄弟，姐妹和自己的性命，就不能作我的门徒”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900922164301451264"
+          ]
+        },
+        "author_id": "1855988077128482816",
+        "conversation_id": "1900922174107775354",
+        "created_at": "2025-03-15T14:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T15:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900922174107775354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAIdolewqQ",
+              "end": 37,
+              "expanded_url": "https://x.com/EarlofFidonisi/status/1900922174107775354/photo/1",
+              "media_key": "3_1900922164301451264",
+              "start": 14,
+              "url": "https://t.co/UAIdolewqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900922174107775354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我勒个中世纪地雷女啊😇✝️ https://t.co/UAIdolewqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 235,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T14:57:05.000Z",
+        "description": "第一代菲多尼西伯爵（自称）||虚拟国建构中||真の哲人王||#纹章学 研习中||伯爵夫人 @Tanyavon99999 ||首相大人 @NicoAliceOwO||守卫信仰，帮助苦难😇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "纹章学"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Tanyavon99999"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "NicoAliceOwO"
+              }
+            ]
+          }
+        },
+        "id": "1855988077128482816",
+        "location": "菲多尼西伯国",
+        "name": "约安尼斯•菲多尼西🏰⚜️",
+        "pinned_tweet_id": "1899290387145277518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872851413048643585/yBX6cW2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 455,
+          "like_count": 5912,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 2437
+        },
+        "username": "EarlofFidonisi",
+        "verified": true
+      }
+    ]
+  }
+}

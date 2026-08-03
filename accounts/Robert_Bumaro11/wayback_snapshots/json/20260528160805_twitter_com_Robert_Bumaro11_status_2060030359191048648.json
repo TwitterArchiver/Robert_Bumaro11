@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2060030359191048648",
+    "created_at": "2026-05-28T16:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060030359191048648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Diamond_Kokoro…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2060025177405018586",
+          "start": 29,
+          "url": "https://t.co/AuWgy8G77z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060030359191048648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060025177405018586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天赋党没有天赋就像精英成为精英仅仅是因为自己过去是精英。 https://t.co/AuWgy8G77z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060030359191048648",
+        "created_at": "2026-05-28T16:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060030359191048648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2060025177405018586",
+              "start": 29,
+              "url": "https://t.co/AuWgy8G77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060030359191048648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060025177405018586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天赋党没有天赋就像精英成为精英仅仅是因为自己过去是精英。 https://t.co/AuWgy8G77z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2060025177405018586",
+        "created_at": "2026-05-28T15:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060025177405018586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koalaengine/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/koalaengine/status/2059897289939022002",
+              "start": 68,
+              "url": "https://t.co/mMrQc2jydp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060025177405018586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我说实话这种帖子跟那种“鉴定天赋党”的帖子有啥区别，有没有可能什么性别认同就只能用什么方式/必须不能用什么方式自慰也是性别本质主义啊？\n\n每次这种帖子一发出来“方式奇特”的那部分跨妹就开始抱团取暖：“是啊是啊我们都夹腿蹭枕头看来我们命中注定就是跨妹啊！！”然后鹿过管子的跨妹就要开始性别焦虑了：“卧槽是不是我其实是男的啊不然我怎么会用“男人的方式”自慰呢？！”但前者也不会管前者给后者制造的焦虑，只会在那狂欢：“看来我们确实是纯血跨啊，我们都分享纯血跨妹的独特经验。”说难听点跟当庭自慰有什么区别，还是用别人自慰。\n\n我真纳闷了都特么是摩擦阴蒂谁比谁高级在哪啊？我真要说你们那不算“真正的女性自慰方式”你们能忍住不急眼吗？下次发个帖子说：“有没有发现，MtF小时候，都是蹲/坐着尿尿的。”然后把有“站着尿尿”这种“男性性”的跨女都除籍行不行？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059897289939022002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说实话这种帖子跟那种“鉴定天赋党”的帖子有啥区别，有没有可能什么性别认同就只能用什么方式/必须不能用什么方式自慰也是性别本质主义啊？ https://t.co/mMrQc2jydp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 439,
+          "like_count": 10936,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 和祢牽手走到 水平線的盡頭\n不介意被視為女性的無性別者。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2057594069967352086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059088486138068992/8HzinsZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 137,
+          "like_count": 7310,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 5096
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

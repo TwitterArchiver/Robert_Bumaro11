@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2059962946156138651",
+    "created_at": "2026-05-28T11:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059962946156138651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224033596249382912",
+          "start": 3,
+          "username": "Uturo_Bune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059962946156138651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059962321439715606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uturo_Bune: 瘾君子才会沉浸在兴奋剂和麻醉剂的快感里，我们哲批都是嗑致幻剂的（暴论）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059962946156138651",
+        "created_at": "2026-05-28T11:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059962946156138651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224033596249382912",
+              "start": 3,
+              "username": "Uturo_Bune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059962946156138651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059962321439715606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uturo_Bune: 瘾君子才会沉浸在兴奋剂和麻醉剂的快感里，我们哲批都是嗑致幻剂的（暴论）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "2059962321439715606",
+        "created_at": "2026-05-28T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059962321439715606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059962321439715606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "瘾君子才会沉浸在兴奋剂和麻醉剂的快感里，我们哲批都是嗑致幻剂的（暴论）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 438,
+          "like_count": 10894,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "So wird die Zeit kommen, wo auch ihnen die Schuppen von den Augen fallen werden.",
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "2037890637861917010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051215790318448640/FvMvNz-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 392,
+          "like_count": 36229,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 8690
+        },
+        "username": "Uturo_Bune",
+        "verified": true
+      }
+    ]
+  }
+}

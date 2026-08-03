@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1974522805690716305",
+    "created_at": "2025-10-04T17:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974522805690716305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1546458302623596544",
+          "start": 3,
+          "username": "OlDESTING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974522805690716305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974125476852740302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OlDESTING: 怎么又在生闷气呀，是不是又把自己当成什么特别的人了？^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1974522805690716305",
+        "created_at": "2025-10-04T17:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974522805690716305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1546458302623596544",
+              "start": 3,
+              "username": "OlDESTING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974522805690716305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974125476852740302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OlDESTING: 怎么又在生闷气呀，是不是又把自己当成什么特别的人了？^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546458302623596544",
+        "conversation_id": "1974125476852740302",
+        "created_at": "2025-10-03T14:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974125476852740302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974125476852740302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38701,
+          "like_count": 573,
+          "quote_count": 29,
+          "reply_count": 79,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又在生闷气呀，是不是又把自己当成什么特别的人了？^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 444,
+          "like_count": 4386,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T11:36:21.000Z",
+        "description": "去他妈的世界 https://t.co/C5hwfkPq65",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oldesting",
+                "end": 30,
+                "expanded_url": "https://ngl.link/oldesting",
+                "start": 7,
+                "url": "https://t.co/C5hwfkPq65"
+              }
+            ]
+          }
+        },
+        "id": "1546458302623596544",
+        "location": "精神病院中心园",
+        "name": "阿迪克斯",
+        "pinned_tweet_id": "1968483000858915001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885317951546679301/m17XslbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 318,
+          "like_count": 119889,
+          "listed_count": 3,
+          "media_count": 1355,
+          "tweet_count": 15315
+        },
+        "username": "OlDESTING",
+        "verified": false
+      }
+    ]
+  }
+}

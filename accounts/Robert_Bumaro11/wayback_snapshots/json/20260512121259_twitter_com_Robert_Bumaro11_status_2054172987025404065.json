@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2054172987025404065",
+    "created_at": "2026-05-12T12:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054172987025404065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1407670091588669444",
+          "start": 3,
+          "username": "LimbusCompany_B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054172987025404065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6816
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053770461700575433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LimbusCompany_B: 2026.05.14 (KST) 신규 인격 정보 안내 / 新規人格情報のご案内 / New Identity Preview\n\n[000] 거미집의 검 료슈 / 蜘蛛の巣の刀 良秀 / Blade of the House of…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2343,
+        "media_key": "3_2053770351583399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB1QOBbkAAsU3F.jpg",
+        "width": 2419
+      },
+      {
+        "height": 2305,
+        "media_key": "3_2053770362140385280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB1Q1WaYAA0UJW.jpg",
+        "width": 2419
+      },
+      {
+        "height": 2329,
+        "media_key": "3_2053770389663473665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB1Sb4bYAEXTbc.jpg",
+        "width": 2419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2054172987025404065",
+        "created_at": "2026-05-12T12:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054172987025404065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1407670091588669444",
+              "start": 3,
+              "username": "LimbusCompany_B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054172987025404065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6816
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053770461700575433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LimbusCompany_B: 2026.05.14 (KST) 신규 인격 정보 안내 / 新規人格情報のご案内 / New Identity Preview\n\n[000] 거미집의 검 료슈 / 蜘蛛の巣の刀 良秀 / Blade of the House of…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053770351583399936",
+            "3_2053770362140385280",
+            "3_2053770389663473665"
+          ]
+        },
+        "author_id": "1407670091588669444",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053770461700575433",
+        "created_at": "2026-05-11T09:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053770461700575433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 159,
+              "tag": "LCB"
+            },
+            {
+              "end": 168,
+              "start": 164,
+              "tag": "림버스"
+            },
+            {
+              "end": 183,
+              "start": 169,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 189,
+              "start": 184,
+              "tag": "リンバス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "store.steampowered.com/news/app/19735…",
+              "end": 157,
+              "expanded_url": "https://store.steampowered.com/news/app/1973530/view/704393607367362224",
+              "start": 134,
+              "status": 200,
+              "title": "Limbus Company - 2026.05.14 (KST) New Identity Preview - Steam News",
+              "unwound_url": "https://store.steampowered.com/news/app/1973530/view/704393607367362224",
+              "url": "https://t.co/cEATAPDn84"
+            },
+            {
+              "display_url": "pic.x.com/PCo9Hm76hf",
+              "end": 213,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/2053770461700575433/photo/1",
+              "media_key": "3_2053770351583399936",
+              "start": 190,
+              "url": "https://t.co/PCo9Hm76hf"
+            },
+            {
+              "display_url": "pic.x.com/PCo9Hm76hf",
+              "end": 213,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/2053770461700575433/photo/1",
+              "media_key": "3_2053770362140385280",
+              "start": 190,
+              "url": "https://t.co/PCo9Hm76hf"
+            },
+            {
+              "display_url": "pic.x.com/PCo9Hm76hf",
+              "end": 213,
+              "expanded_url": "https://x.com/LimbusCompany_B/status/2053770461700575433/photo/1",
+              "media_key": "3_2053770389663473665",
+              "start": 190,
+              "url": "https://t.co/PCo9Hm76hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053770461700575433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1946,
+          "impression_count": 2254513,
+          "like_count": 22167,
+          "quote_count": 1265,
+          "reply_count": 330,
+          "retweet_count": 6816
+        },
+        "reply_settings": "everyone",
+        "text": "2026.05.14 (KST) 신규 인격 정보 안내 / 新規人格情報のご案内 / New Identity Preview\n\n[000] 거미집의 검 료슈 / 蜘蛛の巣の刀 良秀 / Blade of the House of Spiders Ryōshū\n\nhttps://t.co/cEATAPDn84\n\n#LCB #림버스 #LimbusCompany #リンバス https://t.co/PCo9Hm76hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 506,
+          "like_count": 9572,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T12:01:57.000Z",
+        "description": "Lasciate ogni speranza, voi ch'entrate \n\n문의 / お問い合わせ / Support : https://t.co/MFEWp5SLHV\n\nMature 17+\n\n#LCB  #림버스\n#LimbusCompany \n#リンバス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "LCB"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "림버스"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "tag": "LimbusCompany"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "リンバス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "faq.limbuscompany.site",
+                "end": 88,
+                "expanded_url": "https://faq.limbuscompany.site/",
+                "start": 65,
+                "url": "https://t.co/MFEWp5SLHV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "limbuscompany.global",
+                "end": 23,
+                "expanded_url": "https://limbuscompany.global/",
+                "start": 0,
+                "url": "https://t.co/GJS3bxmThY"
+              }
+            ]
+          }
+        },
+        "id": "1407670091588669444",
+        "location": "City",
+        "name": "Limbus Company",
+        "pinned_tweet_id": "2027349545219469329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509485712550535168/q_SnRdGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411638,
+          "following_count": 2,
+          "like_count": 408,
+          "listed_count": 834,
+          "media_count": 1439,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/GJS3bxmThY",
+        "username": "LimbusCompany_B",
+        "verified": true
+      }
+    ]
+  }
+}

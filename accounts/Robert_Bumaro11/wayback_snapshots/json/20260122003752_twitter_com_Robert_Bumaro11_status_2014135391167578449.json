@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2013462886333460509",
+    "created_at": "2026-01-22T00:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T01:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014135391167578449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "aya_the_raven"
+        },
+        {
+          "end": 27,
+          "id": "1866403066872037376",
+          "start": 15,
+          "username": "luyao_100fo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014135391167578449",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013942008545493261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aya_the_raven @luyao_100fo 以前我不信，现在有点信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2013462886333460509",
+        "created_at": "2026-01-22T00:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T01:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014135391167578449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "aya_the_raven"
+            },
+            {
+              "end": 27,
+              "id": "1866403066872037376",
+              "start": 15,
+              "username": "luyao_100fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014135391167578449",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013942008545493261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aya_the_raven @luyao_100fo 以前我不信，现在有点信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680291377228259330",
+        "conversation_id": "2013462886333460509",
+        "created_at": "2026-01-21T11:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013942008545493261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866403066872037376",
+              "start": 0,
+              "username": "luyao_100fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013942008545493261",
+        "in_reply_to_user_id": "1866403066872037376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013462886333460509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luyao_100fo 支拿人一思考，世界就發笑😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 471,
+          "like_count": 7639,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "Domus mea domus orationis vocabitur",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Novasibirsk, Adaptatsiya Ini.",
+        "name": "La période cramoisie de Aya",
+        "pinned_tweet_id": "2000388459484397737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928284741125410816/sg2I6KMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4541,
+          "following_count": 3833,
+          "like_count": 50676,
+          "listed_count": 35,
+          "media_count": 1299,
+          "tweet_count": 15140
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "aya_the_raven",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T08:42:33.000Z",
+        "description": "食色，性也。仁，内也，非外也。义，外也，非内也。\n自干五，图片、视频自网络，如侵删及时联系本人，谢谢！\n防走失@mali_100fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mali_100fo"
+              }
+            ]
+          }
+        },
+        "id": "1866403066872037376",
+        "name": "尼古丁的依赖（💯fo）",
+        "pinned_tweet_id": "1926181189087293486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918551046470983680/liXNfqf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7944,
+          "following_count": 1952,
+          "like_count": 31756,
+          "listed_count": 36,
+          "media_count": 1563,
+          "tweet_count": 9293
+        },
+        "username": "luyao_100fo",
+        "verified": true
+      }
+    ]
+  }
+}

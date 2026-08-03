@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2076128029156479220",
+    "created_at": "2026-07-12T02:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076128029156479220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1146698499767119875",
+          "start": 3,
+          "username": "ancientsaltdepo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076128029156479220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075979683112370369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ancientsaltdepo: as a trans woman, you are expected to be a wandering sage, with the empathy of a saint and the patience of a paid prof…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2076128029156479220",
+        "created_at": "2026-07-12T02:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076128029156479220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1146698499767119875",
+              "start": 3,
+              "username": "ancientsaltdepo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076128029156479220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075979683112370369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ancientsaltdepo: as a trans woman, you are expected to be a wandering sage, with the empathy of a saint and the patience of a paid prof…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1146698499767119875",
+        "conversation_id": "2075979683112370369",
+        "created_at": "2026-07-11T16:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075979683112370369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075979683112370369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 24935,
+          "like_count": 2088,
+          "quote_count": 18,
+          "reply_count": 15,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "as a trans woman, you are expected to be a wandering sage, with the empathy of a saint and the patience of a paid professional, taking all the transphobia, transmisogyny and misogyny, and countering it with a deep educational session, at any moment you encounter it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 468,
+          "like_count": 12911,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T08:33:21.000Z",
+        "description": "🧂Ancient Salt Deposit🧂\n🟥⬛\n@ancientsaltdepo.bsky.social\n🥺wife: @moonmartenn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "ancientsaltdepo"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "moonmartenn"
+              }
+            ]
+          }
+        },
+        "id": "1146698499767119875",
+        "location": " 🇭🇺🏳️‍⚧️",
+        "name": "lizzie",
+        "pinned_tweet_id": "1655159375214804993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836403669899624448/17EgG8LK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 750,
+          "like_count": 148762,
+          "listed_count": 9,
+          "media_count": 2010,
+          "tweet_count": 14970
+        },
+        "url": "",
+        "username": "ancientsaltdepo",
+        "verified": false
+      }
+    ]
+  }
+}

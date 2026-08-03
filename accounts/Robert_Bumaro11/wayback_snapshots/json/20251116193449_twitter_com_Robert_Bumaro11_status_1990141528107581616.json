@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989927464848769024",
+        "3_1989927464853008384"
+      ],
+      "media_source_tweet_id": [
+        "1989927521325125699",
+        "1989927521325125699"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990141528107581616",
+    "created_at": "2025-11-16T19:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990141528107581616"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1083571241171091458",
+          "start": 3,
+          "username": "Sixgooooood"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOdWaWn1qv",
+          "end": 73,
+          "expanded_url": "https://x.com/Sixgooooood/status/1989927521325125699/photo/1",
+          "media_key": "3_1989927464848769024",
+          "start": 50,
+          "url": "https://t.co/GOdWaWn1qv"
+        },
+        {
+          "display_url": "pic.x.com/GOdWaWn1qv",
+          "end": 73,
+          "expanded_url": "https://x.com/Sixgooooood/status/1989927521325125699/photo/1",
+          "media_key": "3_1989927464853008384",
+          "start": 50,
+          "url": "https://t.co/GOdWaWn1qv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990141528107581616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 435
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989927521325125699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sixgooooood: #Limbus_Company \n去年这个图好像没发过大图发一下 https://t.co/GOdWaWn1qv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_1989927464848769024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52kfHcawAAS8pP.jpg",
+        "width": 1772
+      },
+      {
+        "height": 2622,
+        "media_key": "3_1989927464853008384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52kfHdbcAAf_09.jpg",
+        "width": 1772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989927464848769024",
+            "3_1989927464853008384"
+          ],
+          "media_source_tweet_id": [
+            "1989927521325125699",
+            "1989927521325125699"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990141528107581616",
+        "created_at": "2025-11-16T19:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990141528107581616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1083571241171091458",
+              "start": 3,
+              "username": "Sixgooooood"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOdWaWn1qv",
+              "end": 73,
+              "expanded_url": "https://x.com/Sixgooooood/status/1989927521325125699/photo/1",
+              "media_key": "3_1989927464848769024",
+              "start": 50,
+              "url": "https://t.co/GOdWaWn1qv"
+            },
+            {
+              "display_url": "pic.x.com/GOdWaWn1qv",
+              "end": 73,
+              "expanded_url": "https://x.com/Sixgooooood/status/1989927521325125699/photo/1",
+              "media_key": "3_1989927464853008384",
+              "start": 50,
+              "url": "https://t.co/GOdWaWn1qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990141528107581616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 435
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989927521325125699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sixgooooood: #Limbus_Company \n去年这个图好像没发过大图发一下 https://t.co/GOdWaWn1qv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989927464848769024",
+            "3_1989927464853008384"
+          ]
+        },
+        "author_id": "1083571241171091458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989927521325125699",
+        "created_at": "2025-11-16T05:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989927521325125699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOdWaWn1qv",
+              "end": 56,
+              "expanded_url": "https://x.com/Sixgooooood/status/1989927521325125699/photo/1",
+              "media_key": "3_1989927464848769024",
+              "start": 33,
+              "url": "https://t.co/GOdWaWn1qv"
+            },
+            {
+              "display_url": "pic.x.com/GOdWaWn1qv",
+              "end": 56,
+              "expanded_url": "https://x.com/Sixgooooood/status/1989927521325125699/photo/1",
+              "media_key": "3_1989927464853008384",
+              "start": 33,
+              "url": "https://t.co/GOdWaWn1qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989927521325125699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 16424,
+          "like_count": 1957,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 435
+        },
+        "reply_settings": "everyone",
+        "text": "#Limbus_Company \n去年这个图好像没发过大图发一下 https://t.co/GOdWaWn1qv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 459,
+          "like_count": 6283,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T03:48:10.000Z",
+        "description": "中国人  中文/English/日本語/18↑\n提问箱https://t.co/jMjv8QIgQ6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lthbhvlbjqwese…",
+                "end": 50,
+                "expanded_url": "https://marshmallow-qa.com/lthbhvlbjqwesex?t=W7AIfE&utm_medium=url_text&utm_source=promotion",
+                "start": 27,
+                "url": "https://t.co/jMjv8QIgQ6"
+              }
+            ]
+          }
+        },
+        "id": "1083571241171091458",
+        "name": "麦田六神",
+        "pinned_tweet_id": "1887883673569267918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797249496516362240/hY_l947E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11776,
+          "following_count": 1064,
+          "like_count": 4368,
+          "listed_count": 40,
+          "media_count": 757,
+          "tweet_count": 2854
+        },
+        "username": "Sixgooooood",
+        "verified": false
+      }
+    ]
+  }
+}

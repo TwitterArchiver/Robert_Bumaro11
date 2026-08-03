@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068928845248651264"
+      ],
+      "media_source_tweet_id": [
+        "2068928851196215350"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2069705285984498156",
+    "created_at": "2026-06-24T08:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069705285984498156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "897749985361444866",
+          "start": 3,
+          "username": "woaishuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xl99am2rbb",
+          "end": 78,
+          "expanded_url": "https://x.com/woaishuji/status/2068928851196215350/photo/1",
+          "media_key": "3_2068928845248651264",
+          "start": 55,
+          "url": "https://t.co/Xl99am2rbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069705285984498156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068928851196215350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woaishuji: 想不负责任的出门旅游与面人透人\n但我既没有钱 也没有颜 连基础的精力也都没多少 https://t.co/Xl99am2rbb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2068928845248651264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZP0raa4AACPU1.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068928845248651264"
+          ],
+          "media_source_tweet_id": [
+            "2068928851196215350"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2069705285984498156",
+        "created_at": "2026-06-24T08:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069705285984498156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "897749985361444866",
+              "start": 3,
+              "username": "woaishuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl99am2rbb",
+              "end": 78,
+              "expanded_url": "https://x.com/woaishuji/status/2068928851196215350/photo/1",
+              "media_key": "3_2068928845248651264",
+              "start": 55,
+              "url": "https://t.co/Xl99am2rbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069705285984498156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068928851196215350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woaishuji: 想不负责任的出门旅游与面人透人\n但我既没有钱 也没有颜 连基础的精力也都没多少 https://t.co/Xl99am2rbb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068928845248651264"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "2068928851196215350",
+        "created_at": "2026-06-22T05:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068928851196215350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl99am2rbb",
+              "end": 63,
+              "expanded_url": "https://x.com/woaishuji/status/2068928851196215350/photo/1",
+              "media_key": "3_2068928845248651264",
+              "start": 40,
+              "url": "https://t.co/Xl99am2rbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068928851196215350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 205,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想不负责任的出门旅游与面人透人\n但我既没有钱 也没有颜 连基础的精力也都没多少 https://t.co/Xl99am2rbb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 425,
+          "like_count": 11816,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 1927,
+          "like_count": 494701,
+          "listed_count": 9,
+          "media_count": 3011,
+          "tweet_count": 17347
+        },
+        "url": "",
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984261522240278528"
+      ],
+      "media_source_tweet_id": [
+        "1984262272039215578"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1984509302649082203",
+    "created_at": "2025-11-01T06:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984509302649082203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 14,
+          "tag": "東方Projectᅠᅠᅠᅠ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1544289358345187328",
+          "start": 3,
+          "username": "320Tbsyc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qxaezEUVpg",
+          "end": 52,
+          "expanded_url": "https://x.com/320Tbsyc/status/1984262272039215578/photo/1",
+          "media_key": "3_1984261522240278528",
+          "start": 29,
+          "url": "https://t.co/qxaezEUVpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984509302649082203",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984262272039215578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @320Tbsyc: #東方Projectᅠᅠᅠᅠ https://t.co/qxaezEUVpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984261522240278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mDV2abkAAHjyL.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984261522240278528"
+          ],
+          "media_source_tweet_id": [
+            "1984262272039215578"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1984509302649082203",
+        "created_at": "2025-11-01T06:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984509302649082203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "東方Projectᅠᅠᅠᅠ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544289358345187328",
+              "start": 3,
+              "username": "320Tbsyc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxaezEUVpg",
+              "end": 52,
+              "expanded_url": "https://x.com/320Tbsyc/status/1984262272039215578/photo/1",
+              "media_key": "3_1984261522240278528",
+              "start": 29,
+              "url": "https://t.co/qxaezEUVpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984509302649082203",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984262272039215578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @320Tbsyc: #東方Projectᅠᅠᅠᅠ https://t.co/qxaezEUVpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984261522240278528"
+          ]
+        },
+        "author_id": "1544289358345187328",
+        "conversation_id": "1984262272039215578",
+        "created_at": "2025-10-31T14:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984262272039215578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "東方Projectᅠᅠᅠᅠ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxaezEUVpg",
+              "end": 38,
+              "expanded_url": "https://x.com/320Tbsyc/status/1984262272039215578/photo/1",
+              "media_key": "3_1984261522240278528",
+              "start": 15,
+              "url": "https://t.co/qxaezEUVpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984262272039215578",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3924,
+          "like_count": 365,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Projectᅠᅠᅠᅠ https://t.co/qxaezEUVpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 453,
+          "like_count": 5773,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T11:57:44.000Z",
+        "description": "我的女儿我的妈妈我的姐姐我的奶。。",
+        "id": "1544289358345187328",
+        "location": "🚫AI🚫",
+        "name": "鬼原",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984328901079023616/Xzq4DTpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 283,
+          "like_count": 386,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 160
+        },
+        "username": "320Tbsyc",
+        "verified": false
+      }
+    ]
+  }
+}

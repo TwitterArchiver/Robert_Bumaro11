@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2058571354283401438",
+    "created_at": "2026-05-24T15:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058575764967317884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966745903055990786",
+          "start": 0,
+          "username": "eggtartqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058575764967317884",
+    "in_reply_to_user_id": "1966745903055990786",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058572918347739596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggtartqwq 🥺😰😭😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2058571354283401438",
+        "created_at": "2026-05-24T15:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058575764967317884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966745903055990786",
+              "start": 0,
+              "username": "eggtartqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058575764967317884",
+        "in_reply_to_user_id": "1966745903055990786",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058572918347739596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggtartqwq 🥺😰😭😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966745903055990786",
+        "conversation_id": "2058571354283401438",
+        "created_at": "2026-05-24T15:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058572918347739596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058572918347739596",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058571354283401438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 翻我的还被我发现了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 528,
+          "like_count": 10620,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T06:09:08.000Z",
+        "description": "老广未开智家里蹲，爱好音乐摄影。",
+        "id": "1966745903055990786",
+        "location": "茶楼",
+        "name": "樱川九十九",
+        "pinned_tweet_id": "2052789896168047003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045054851294638080/Gu0wbHMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 727,
+          "like_count": 9171,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 833
+        },
+        "username": "eggtartqwq",
+        "verified": true
+      }
+    ]
+  }
+}

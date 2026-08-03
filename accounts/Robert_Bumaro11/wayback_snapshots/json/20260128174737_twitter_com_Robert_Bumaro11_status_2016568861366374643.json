@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actor, singer and child actor",
+          "id": "1070727593907769344",
+          "name": "Maho Tomita"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actor, singer and child actor",
+          "id": "1070727593907769344",
+          "name": "Maho Tomita"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress",
+          "id": "1070719628005978113",
+          "name": "Moeka Koizumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actor, singer and child actor",
+          "id": "1070727593907769344",
+          "name": "Maho Tomita"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714559518150656",
+          "name": "Japanese actors"
+        }
+      }
+    ],
+    "conversation_id": "2016568861366374643",
+    "created_at": "2026-01-28T17:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016568861366374643"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "#富田麻帆 さん",
+          "probability": 0.4969,
+          "start": 47,
+          "type": "Person"
+        },
+        {
+          "end": 62,
+          "normalized_text": "#生田輝 さん",
+          "probability": 0.4938,
+          "start": 56,
+          "type": "Person"
+        },
+        {
+          "end": 109,
+          "normalized_text": "もえぴ",
+          "probability": 0.5751,
+          "start": 107,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "もえの〜と"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "富田麻帆"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "生田輝"
+        },
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "小泉萌香"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1349558923712364546",
+          "start": 3,
+          "username": "moe_note_ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016568861366374643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016523589869334629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moe_note_ch: #もえの〜と ご視聴ありがとうございました‼️\n\nゲストに #富田麻帆 さん、#生田輝 さんをお迎えして5周年お祝い放送をお送りしました！☺\n\nときめくセリフ盛り沢山でした？🤔\nもえぴのビリビリはアフトにて！\n#小泉萌香 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2016523577240223744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_whgm6agAAKl4O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actor, singer and child actor",
+              "id": "1070727593907769344",
+              "name": "Maho Tomita"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actor, singer and child actor",
+              "id": "1070727593907769344",
+              "name": "Maho Tomita"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actor, singer and child actor",
+              "id": "1070727593907769344",
+              "name": "Maho Tomita"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "2016568861366374643",
+        "created_at": "2026-01-28T17:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016568861366374643"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "#富田麻帆 さん",
+              "probability": 0.4969,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 62,
+              "normalized_text": "#生田輝 さん",
+              "probability": 0.4938,
+              "start": 56,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "もえぴ",
+              "probability": 0.5751,
+              "start": 107,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "もえの〜と"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "富田麻帆"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "生田輝"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "小泉萌香"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1349558923712364546",
+              "start": 3,
+              "username": "moe_note_ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016568861366374643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016523589869334629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moe_note_ch: #もえの〜と ご視聴ありがとうございました‼️\n\nゲストに #富田麻帆 さん、#生田輝 さんをお迎えして5周年お祝い放送をお送りしました！☺\n\nときめくセリフ盛り沢山でした？🤔\nもえぴのビリビリはアフトにて！\n#小泉萌香 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016523577240223744"
+          ]
+        },
+        "author_id": "1349558923712364546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actor, singer and child actor",
+              "id": "1070727593907769344",
+              "name": "Maho Tomita"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actor, singer and child actor",
+              "id": "1070727593907769344",
+              "name": "Maho Tomita"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress",
+              "id": "1070719628005978113",
+              "name": "Moeka Koizumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actor, singer and child actor",
+              "id": "1070727593907769344",
+              "name": "Maho Tomita"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "2016523589869334629",
+        "created_at": "2026-01-28T14:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016523589869334629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "#富田麻帆 さん",
+              "probability": 0.4532,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "#生田輝 さん",
+              "probability": 0.4475,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "もえぴ",
+              "probability": 0.6341,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "もえの〜と"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "富田麻帆"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "生田輝"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "小泉萌香"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3nhPTW3Kp",
+              "end": 134,
+              "expanded_url": "https://x.com/moe_note_ch/status/2016523589869334629/photo/1",
+              "media_key": "3_2016523577240223744",
+              "start": 111,
+              "url": "https://t.co/H3nhPTW3Kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016523589869334629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 34294,
+          "like_count": 478,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "#もえの〜と ご視聴ありがとうございました‼️\n\nゲストに #富田麻帆 さん、#生田輝 さんをお迎えして5周年お祝い放送をお送りしました！☺\n\nときめくセリフ盛り沢山でした？🤔\nもえぴのビリビリはアフトにて！\n#小泉萌香 https://t.co/H3nhPTW3Kp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 472,
+          "like_count": 7737,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-14T03:28:26.000Z",
+        "description": "小泉萌香の冠番組が遂に始動！ 彼女が奏でる様々な一面がこの番組では、『もえの～と』に記されていきます♪ 彼女の“音楽”と“日常”と“ビンゴ”をテーマにした、ここでしか見られない成長バラエティ番組！（トーク力向上が直近の目標らしい！） 小泉萌香が紡ぐ至極の”もえの～と”をとくとご堪能あれ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ch.nicovideo.jp/moe-note",
+                "end": 23,
+                "expanded_url": "https://ch.nicovideo.jp/moe-note",
+                "start": 0,
+                "url": "https://t.co/jWrOasTMCN"
+              }
+            ]
+          }
+        },
+        "id": "1349558923712364546",
+        "location": "🫨⚡",
+        "name": "小泉萌香のもえの～と~moe's note~　✨次回:2/25✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352508499209539585/XDU-S2gW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7946,
+          "following_count": 18,
+          "like_count": 842,
+          "listed_count": 133,
+          "media_count": 236,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/jWrOasTMCN",
+        "username": "moe_note_ch",
+        "verified": false
+      }
+    ]
+  }
+}

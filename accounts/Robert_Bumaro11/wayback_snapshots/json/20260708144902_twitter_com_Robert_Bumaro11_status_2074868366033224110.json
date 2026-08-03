@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074860604452732928"
+      ],
+      "media_source_tweet_id": [
+        "2074860628616069404"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2074868366033224110",
+    "created_at": "2026-07-08T14:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074868366033224110"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "女王ステ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pr95X1UbyJ",
+          "end": 121,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2074860628616069404/photo/1",
+          "media_key": "3_2074860604452732928",
+          "start": 98,
+          "url": "https://t.co/Pr95X1UbyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074868366033224110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074860628616069404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: #女王ステ 本日も\nご来場ありがとうございました！🥀\n\n外は暑いですが劇場内はめちゃさむなので、\nご来場の際はお気をつけくださいね❄︎\n\n明日もがんばアドラー🦅✨ https://t.co/Pr95X1UbyJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074860604452732928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtiugbbgAAk-N0.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074860604452732928"
+          ],
+          "media_source_tweet_id": [
+            "2074860628616069404"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2074868366033224110",
+        "created_at": "2026-07-08T14:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074868366033224110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "女王ステ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pr95X1UbyJ",
+              "end": 121,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2074860628616069404/photo/1",
+              "media_key": "3_2074860604452732928",
+              "start": 98,
+              "url": "https://t.co/Pr95X1UbyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074868366033224110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074860628616069404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: #女王ステ 本日も\nご来場ありがとうございました！🥀\n\n外は暑いですが劇場内はめちゃさむなので、\nご来場の際はお気をつけくださいね❄︎\n\n明日もがんばアドラー🦅✨ https://t.co/Pr95X1UbyJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074860604452732928"
+          ]
+        },
+        "author_id": "1577159828",
+        "conversation_id": "2074860628616069404",
+        "created_at": "2026-07-08T14:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074860628616069404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "女王ステ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pr95X1UbyJ",
+              "end": 105,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2074860628616069404/photo/1",
+              "media_key": "3_2074860604452732928",
+              "start": 82,
+              "url": "https://t.co/Pr95X1UbyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074860628616069404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3879,
+          "like_count": 210,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "#女王ステ 本日も\nご来場ありがとうございました！🥀\n\n外は暑いですが劇場内はめちゃさむなので、\nご来場の際はお気をつけくださいね❄︎\n\n明日もがんばアドラー🦅✨ https://t.co/Pr95X1UbyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 456,
+          "like_count": 12503,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優/愛犬ぽんず 🐾　　　　　　　　　　　　　　　↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "name": "生田 輝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057046583381041152/rZI06G1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81876,
+          "following_count": 853,
+          "like_count": 13630,
+          "listed_count": 2643,
+          "media_count": 5346,
+          "tweet_count": 24018
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false
+      }
+    ]
+  }
+}

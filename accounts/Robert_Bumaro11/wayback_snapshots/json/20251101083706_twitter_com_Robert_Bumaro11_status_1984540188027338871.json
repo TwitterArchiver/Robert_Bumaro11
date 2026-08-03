@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984207483091795968"
+      ],
+      "media_source_tweet_id": [
+        "1984208132948795400"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "1984540188027338871",
+    "created_at": "2025-11-01T08:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T09:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984540188027338871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 78,
+          "tag": "LimbusCompany"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929803027860578304",
+          "start": 3,
+          "username": "dust_1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iid8bOIO9B",
+          "end": 116,
+          "expanded_url": "https://x.com/dust_1123/status/1984208132948795400/photo/1",
+          "media_key": "3_1984207483091795968",
+          "start": 93,
+          "url": "https://t.co/iid8bOIO9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984540188027338871",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984208132948795400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dust_1123: ⚠️6.5章ネタバレ注意⚠️\n同じネタで描いてるけど、復刻したのでまた描いちゃった。やっぱり良いシーン…本当にありがとう…😌\n#LimbusCompany https://t.co/iid8bOIO9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984207483091795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lSMW5bwAAQUtN.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984207483091795968"
+          ],
+          "media_source_tweet_id": [
+            "1984208132948795400"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1984540188027338871",
+        "created_at": "2025-11-01T08:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984540188027338871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 78,
+              "tag": "LimbusCompany"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929803027860578304",
+              "start": 3,
+              "username": "dust_1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iid8bOIO9B",
+              "end": 116,
+              "expanded_url": "https://x.com/dust_1123/status/1984208132948795400/photo/1",
+              "media_key": "3_1984207483091795968",
+              "start": 93,
+              "url": "https://t.co/iid8bOIO9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984540188027338871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984208132948795400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dust_1123: ⚠️6.5章ネタバレ注意⚠️\n同じネタで描いてるけど、復刻したのでまた描いちゃった。やっぱり良いシーン…本当にありがとう…😌\n#LimbusCompany https://t.co/iid8bOIO9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984207483091795968"
+          ]
+        },
+        "author_id": "1929803027860578304",
+        "conversation_id": "1984208132948795400",
+        "created_at": "2025-10-31T10:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984208132948795400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 63,
+              "tag": "LimbusCompany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iid8bOIO9B",
+              "end": 101,
+              "expanded_url": "https://x.com/dust_1123/status/1984208132948795400/photo/1",
+              "media_key": "3_1984207483091795968",
+              "start": 78,
+              "url": "https://t.co/iid8bOIO9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984208132948795400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 7799,
+          "like_count": 829,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️6.5章ネタバレ注意⚠️\n同じネタで描いてるけど、復刻したのでまた描いちゃった。やっぱり良いシーン…本当にありがとう…😌\n#LimbusCompany https://t.co/iid8bOIO9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 454,
+          "like_count": 5780,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T07:31:25.000Z",
+        "description": "自分で描いたリンバスのファンアートをアップしてるアカウント　8.5章までのネタバレ有　妄想過多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dust11…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dust1123.bsky.social",
+                "start": 0,
+                "url": "https://t.co/d4URO6cp5Y"
+              }
+            ]
+          }
+        },
+        "id": "1929803027860578304",
+        "name": "dust.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930049099543523331/bZBb9ssN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 10,
+          "like_count": 307,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/d4URO6cp5Y",
+        "username": "dust_1123",
+        "verified": false
+      }
+    ]
+  }
+}

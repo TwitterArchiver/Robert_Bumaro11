@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2075225167593345427",
+    "created_at": "2026-07-09T14:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075226731531870308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798434424176226304",
+          "start": 0,
+          "username": "li8964you"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075226731531870308",
+    "in_reply_to_user_id": "1798434424176226304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075225167593345427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li8964you 专注猫"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075225167593345427].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075225167593345427",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075225167593345427"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2075225167593345427",
+        "created_at": "2026-07-09T14:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075226731531870308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798434424176226304",
+              "start": 0,
+              "username": "li8964you"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075226731531870308",
+        "in_reply_to_user_id": "1798434424176226304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075225167593345427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li8964you 专注猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 457,
+          "like_count": 12605,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:19:23.000Z",
+        "description": "碎碎念账号\n性别难说，代词是他（he/him）\n经常发布RAMCOA的回忆内容，涉及儿童性贩卖，酷刑，暴力等",
+        "id": "1798434424176226304",
+        "location": "睡眠",
+        "name": "離斿",
+        "pinned_tweet_id": "2013000596664521015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636124722065408/3kx6w4Ac_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 469,
+          "like_count": 48092,
+          "listed_count": 2,
+          "media_count": 802,
+          "tweet_count": 9137
+        },
+        "url": "",
+        "username": "li8964you",
+        "verified": false
+      }
+    ]
+  }
+}
