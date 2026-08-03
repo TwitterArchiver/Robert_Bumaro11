@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-03T13:27:51",
+  "last_updated": "2026-08-03T13:34:22",
   "html": {
     "https://web.archive.org/web/20250112080312if_/https://twitter.com/Robert_Bumaro11/status/1878352012804489545": {
       "status": "done",
@@ -8166,40 +8166,40 @@
       "last_updated": "2026-08-03T13:06:41"
     },
     "https://pbs.twimg.com/media/GoBwuFWbwAU1UuW.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250408203510_twitter_com_Robert_Bumaro11_status_1909706607728246880.json"
       ],
-      "last_updated": "2026-08-03T13:07:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408203510im_/https://pbs.twimg.com/media/GoBwuFWbwAU1UuW.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066be00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:26",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250408203510/https://pbs.twimg.com/media/GoBwuFWbwAU1UuW.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GoBwuF9boAATJHT.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250408203510_twitter_com_Robert_Bumaro11_status_1909706607728246880.json"
       ],
-      "last_updated": "2026-08-03T13:07:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408203510im_/https://pbs.twimg.com/media/GoBwuF9boAATJHT.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060af90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:31",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250408203510/https://pbs.twimg.com/media/GoBwuF9boAATJHT.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GoBwuOWa8AA9LbL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250408203510_twitter_com_Robert_Bumaro11_status_1909706607728246880.json"
       ],
-      "last_updated": "2026-08-03T13:07:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408203510im_/https://pbs.twimg.com/media/GoBwuOWa8AA9LbL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30608a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408203510/https://pbs.twimg.com/media/GoBwuOWa8AA9LbL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a47110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GoBwuGDaIAA82EY.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250408203510_twitter_com_Robert_Bumaro11_status_1909706607728246880.json"
       ],
-      "last_updated": "2026-08-03T13:07:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408203510im_/https://pbs.twimg.com/media/GoBwuGDaIAA82EY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066b0b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250408203510im_/https://pbs.twimg.com/media/GoBwuGDaIAA82EY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564e1e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GeBPqfSa0AAoskK.jpg": {
       "status": "done",
@@ -8220,9 +8220,9 @@
       "referenced_by": [
         "20250501020849_twitter_com_Robert_Bumaro11_status_1917763107113558396.json"
       ],
-      "last_updated": "2026-08-03T13:07:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250501020849im_/https://pbs.twimg.com/media/GpyVJVfakAESgkk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066b6b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250501020849im_/https://pbs.twimg.com/media/GpyVJVfakAESgkk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a941a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GtU7U7IbMAYuiV2.jpg": {
       "status": "failed",
@@ -8230,9 +8230,9 @@
         "20250613134608_twitter_com_Robert_Bumaro11_status_1933521270072922377.json",
         "20250613134619_twitter_com_Robert_Bumaro11_status_1933521317237830004.json"
       ],
-      "last_updated": "2026-08-03T13:07:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613134608im_/https://pbs.twimg.com/media/GtU7U7IbMAYuiV2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696cf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-03T13:28:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250613134608im_/https://pbs.twimg.com/media/GtU7U7IbMAYuiV2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564ed20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/Gte9dN5bQAAp8Mr.jpg": {
       "status": "done",
@@ -8260,63 +8260,63 @@
       "referenced_by": [
         "20250619215932_twitter_com_Robert_Bumaro11_status_1935819765135950008.json"
       ],
-      "last_updated": "2026-08-03T13:07:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEoLXoAAJ5Y8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696e70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEoLXoAAJ5Y8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6fad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GtzMEpIW4AAWULA.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250619215932_twitter_com_Robert_Bumaro11_status_1935819765135950008.json"
       ],
-      "last_updated": "2026-08-03T13:07:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEpIW4AAWULA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30694c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEpIW4AAWULA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a46090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GtzMEpKXkAAacI4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250619215932_twitter_com_Robert_Bumaro11_status_1935819765135950008.json"
       ],
-      "last_updated": "2026-08-03T13:07:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEpKXkAAacI4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:28:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEpKXkAAacI4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6cb30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GtzMEpFXUAA1sZI.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250619215932_twitter_com_Robert_Bumaro11_status_1935819765135950008.json"
       ],
-      "last_updated": "2026-08-03T13:07:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEpFXUAA1sZI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306693a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250619215932im_/https://pbs.twimg.com/media/GtzMEpFXUAA1sZI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a971d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GwDboBzWUAA_9SP.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250717124838_twitter_com_Robert_Bumaro11_status_1945827988219809855.json"
       ],
-      "last_updated": "2026-08-03T13:07:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717124838im_/https://pbs.twimg.com/media/GwDboBzWUAA_9SP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060a960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717124838im_/https://pbs.twimg.com/media/GwDboBzWUAA_9SP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6c860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GwDboBzWIAA2Exd.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250717124838_twitter_com_Robert_Bumaro11_status_1945827988219809855.json"
       ],
-      "last_updated": "2026-08-03T13:07:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717124838im_/https://pbs.twimg.com/media/GwDboBzWIAA2Exd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30697110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717124838im_/https://pbs.twimg.com/media/GwDboBzWIAA2Exd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6fc80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GwDboBMbQAACA8-.jpg": {
       "status": "failed",
       "referenced_by": [
         "20250717124838_twitter_com_Robert_Bumaro11_status_1945827988219809855.json"
       ],
-      "last_updated": "2026-08-03T13:07:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717124838im_/https://pbs.twimg.com/media/GwDboBMbQAACA8-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066ab70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250717124838im_/https://pbs.twimg.com/media/GwDboBMbQAACA8-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5ab8f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GwGTi-wa8AAMz7b.jpg": {
       "status": "done",
@@ -8392,9 +8392,9 @@
       "referenced_by": [
         "20250809101220_twitter_com_Robert_Bumaro11_status_1954123573188038934.json"
       ],
-      "last_updated": "2026-08-03T13:08:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809101220im_/https://pbs.twimg.com/media/Gx4QAR5aAAAjh3v.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30609520>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809101220im_/https://pbs.twimg.com/media/Gx4QAR5aAAAjh3v.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564cad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/GyAKSi2b0AA6Dkd.jpg": {
       "status": "done",
@@ -8429,9 +8429,9 @@
       "referenced_by": [
         "20250811041834_twitter_com_Robert_Bumaro11_status_1954759323143561464.json"
       ],
-      "last_updated": "2026-08-03T13:08:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250811041834im_/https://pbs.twimg.com/media/GyCyhjVasAAD5z1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696f30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250811041834im_/https://pbs.twimg.com/media/GyCyhjVasAAD5z1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a95c70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/Gydk1ycbMAA9_u0.jpg": {
       "status": "done",
@@ -8524,9 +8524,9 @@
       "referenced_by": [
         "20250914223945_twitter_com_Robert_Bumaro11_status_1967357632278311160.json"
       ],
-      "last_updated": "2026-08-03T13:08:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250914223945im_/https://pbs.twimg.com/media/G01TWilboAAvwnQ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066a870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250914223945im_/https://pbs.twimg.com/media/G01TWilboAAvwnQ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6eab0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G1GIkhQaoAA8F4W.png": {
       "status": "done",
@@ -8744,9 +8744,9 @@
       "referenced_by": [
         "20251001210152_twitter_com_Robert_Bumaro11_status_1973493590866403473.json"
       ],
-      "last_updated": "2026-08-03T13:08:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251001210152im_/https://pbs.twimg.com/media/G2Mh_V1a8AAcOpq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251001210152im_/https://pbs.twimg.com/media/G2Mh_V1a8AAcOpq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a96c90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2PTRlJaIAAPrcK.jpg": {
       "status": "done",
@@ -8812,36 +8812,36 @@
       "referenced_by": [
         "20251004095419_twitter_com_Robert_Bumaro11_status_1974412761242492955.json"
       ],
-      "last_updated": "2026-08-03T13:08:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004095419im_/https://pbs.twimg.com/media/G2Y3wOebMAU_IZS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066b200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004095419im_/https://pbs.twimg.com/media/G2Y3wOebMAU_IZS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6e180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2UrtypaAAA06y8.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251004104251_twitter_com_Robert_Bumaro11_status_1974424975462564188.json"
       ],
-      "last_updated": "2026-08-03T13:08:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004104251im_/https://pbs.twimg.com/media/G2UrtypaAAA06y8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306ba3c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004104251im_/https://pbs.twimg.com/media/G2UrtypaAAA06y8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6eae0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2Urtxqa0AA13Nm.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251004104251_twitter_com_Robert_Bumaro11_status_1974424975462564188.json"
       ],
-      "last_updated": "2026-08-03T13:08:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004104251im_/https://pbs.twimg.com/media/G2Urtxqa0AA13Nm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b9b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004104251im_/https://pbs.twimg.com/media/G2Urtxqa0AA13Nm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a97b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2UrtxsbEAAf1dG.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251004104251_twitter_com_Robert_Bumaro11_status_1974424975462564188.json"
       ],
-      "last_updated": "2026-08-03T13:08:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004104251im_/https://pbs.twimg.com/media/G2UrtxsbEAAf1dG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30669550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004104251im_/https://pbs.twimg.com/media/G2UrtxsbEAAf1dG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6c350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2a2-NhbsAABzWp.jpg": {
       "status": "done",
@@ -8855,9 +8855,9 @@
       "referenced_by": [
         "20251004143607_twitter_com_Robert_Bumaro11_status_1974483677112590348.json"
       ],
-      "last_updated": "2026-08-03T13:08:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004143607im_/https://pbs.twimg.com/media/G2bGcKTaAAAPuYR.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004143607im_/https://pbs.twimg.com/media/G2bGcKTaAAAPuYR.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a47a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2bZ7S7b0AA74vs.jpg": {
       "status": "done",
@@ -8892,9 +8892,9 @@
       "referenced_by": [
         "20251005101129_twitter_com_Robert_Bumaro11_status_1974779470231003352.json"
       ],
-      "last_updated": "2026-08-03T13:08:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251005101129im_/https://pbs.twimg.com/media/G2Z_S9qaYAAyKC4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306ba870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:29:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251005101129im_/https://pbs.twimg.com/media/G2Z_S9qaYAAyKC4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564fe30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2hDANVbUAAeAgO.jpg": {
       "status": "done",
@@ -8936,9 +8936,9 @@
       "referenced_by": [
         "20251007205241_twitter_com_Robert_Bumaro11_status_1975665607766122631.json"
       ],
-      "last_updated": "2026-08-03T13:08:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251007205241im_/https://pbs.twimg.com/media/G2qs5HvbIAA8Y34.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696390>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251007205241im_/https://pbs.twimg.com/media/G2qs5HvbIAA8Y34.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a971d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G2sNw_eWAAAJbTT.png": {
       "status": "done",
@@ -8981,45 +8981,45 @@
       "referenced_by": [
         "20251012065127_twitter_com_Robert_Bumaro11_status_1977265845119357437.json"
       ],
-      "last_updated": "2026-08-03T13:08:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065127im_/https://pbs.twimg.com/media/G2-wCCfbwAYGmtL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30695c10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065127im_/https://pbs.twimg.com/media/G2-wCCfbwAYGmtL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6ca70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3CosDtbEAAsKhH.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251012065205_twitter_com_Robert_Bumaro11_status_1977266001340514776.json"
       ],
-      "last_updated": "2026-08-03T13:08:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205if_/https://pbs.twimg.com/media/G3CosDtbEAAsKhH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060bbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205im_/https://pbs.twimg.com/media/G3CosDtbEAAsKhH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564cec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3CosC0bwAcnttR.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251012065205_twitter_com_Robert_Bumaro11_status_1977266001340514776.json"
       ],
-      "last_updated": "2026-08-03T13:08:58",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251012065205/https://pbs.twimg.com/media/G3CosC0bwAcnttR.jpg",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205im_/https://pbs.twimg.com/media/G3CosC0bwAcnttR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a97e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3CosEzbcAAfuxc.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251012065205_twitter_com_Robert_Bumaro11_status_1977266001340514776.json"
       ],
-      "last_updated": "2026-08-03T13:09:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205im_/https://pbs.twimg.com/media/G3CosEzbcAAfuxc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30697b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205im_/https://pbs.twimg.com/media/G3CosEzbcAAfuxc.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564cf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3CosCxa4AAk94j.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251012065205_twitter_com_Robert_Bumaro11_status_1977266001340514776.json"
       ],
-      "last_updated": "2026-08-03T13:09:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205im_/https://pbs.twimg.com/media/G3CosCxa4AAk94j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306ba390>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251012065205im_/https://pbs.twimg.com/media/G3CosCxa4AAk94j.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a46630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3EFHJXbQAAYSKl.jpg": {
       "status": "done",
@@ -9061,9 +9061,9 @@
       "referenced_by": [
         "20251013001547_twitter_com_Robert_Bumaro11_status_1977528659138506950.json"
       ],
-      "last_updated": "2026-08-03T13:09:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013001547im_/https://pbs.twimg.com/media/G3GXdX7bQAAuHdw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306da240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013001547im_/https://pbs.twimg.com/media/G3GXdX7bQAAuHdw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a96420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3GX9nHb0AABuYd.jpg": {
       "status": "done",
@@ -9103,9 +9103,9 @@
       "referenced_by": [
         "20251013033303_twitter_com_Robert_Bumaro11_status_1977578300655706173.json"
       ],
-      "last_updated": "2026-08-03T13:09:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013033303im_/https://pbs.twimg.com/media/G3E_XykW0AAvLP9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306bbce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013033303im_/https://pbs.twimg.com/media/G3E_XykW0AAvLP9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6cfb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3HOBaXakAAcBGL.jpg": {
       "status": "done",
@@ -9168,9 +9168,9 @@
       "referenced_by": [
         "20251018134714_twitter_com_Robert_Bumaro11_status_1979544807640097048.json"
       ],
-      "last_updated": "2026-08-03T13:09:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251018134714im_/https://pbs.twimg.com/media/G3i1crKWUAANgDz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066a6c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251018134714im_/https://pbs.twimg.com/media/G3i1crKWUAANgDz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564fb60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3jB7qLXIAAlQ3s.jpg": {
       "status": "done",
@@ -9220,9 +9220,9 @@
       "referenced_by": [
         "20251022000743_twitter_com_Robert_Bumaro11_status_1980788118732304759.json"
       ],
-      "last_updated": "2026-08-03T13:09:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251022000743im_/https://pbs.twimg.com/media/G3zOvlXXkAAKvGO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306d8620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251022000743im_/https://pbs.twimg.com/media/G3zOvlXXkAAKvGO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a95a30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G33i2DcWYAAVHnH.jpg": {
       "status": "done",
@@ -9320,18 +9320,18 @@
       "referenced_by": [
         "20251025062919_twitter_com_Robert_Bumaro11_status_1981971316296294501.json"
       ],
-      "last_updated": "2026-08-03T13:09:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025062919im_/https://pbs.twimg.com/media/G4C-_kNXMAA_a72.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b9ca0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025062919im_/https://pbs.twimg.com/media/G4C-_kNXMAA_a72.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564c650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4AtQLvW8AAn3_n.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251025063023_twitter_com_Robert_Bumaro11_status_1981971584907948066.json"
       ],
-      "last_updated": "2026-08-03T13:09:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025063023im_/https://pbs.twimg.com/media/G4AtQLvW8AAn3_n.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060a030>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025063023im_/https://pbs.twimg.com/media/G4AtQLvW8AAn3_n.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564ed50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G3ysj8oWQAE9-X-.jpg": {
       "status": "done",
@@ -9359,9 +9359,9 @@
       "referenced_by": [
         "20251025074005_twitter_com_Robert_Bumaro11_status_1981989123343929473.json"
       ],
-      "last_updated": "2026-08-03T13:09:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025074005im_/https://pbs.twimg.com/media/G4An-A8X0AAT6ru.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306bb320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025074005im_/https://pbs.twimg.com/media/G4An-A8X0AAT6ru.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a95370>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4MTamaXEAADx5g.jpg": {
       "status": "done",
@@ -9389,9 +9389,9 @@
       "referenced_by": [
         "20251029135940_twitter_com_Robert_Bumaro11_status_1983534201321517194.json"
       ],
-      "last_updated": "2026-08-03T13:09:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029135940im_/https://pbs.twimg.com/media/G4Yp3SOasAIZ8pC.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30609f40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:30:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029135940im_/https://pbs.twimg.com/media/G4Yp3SOasAIZ8pC.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564dac0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4b77KhagAA75V_.jpg": {
       "status": "done",
@@ -9419,9 +9419,9 @@
       "referenced_by": [
         "20251029161958_twitter_com_Robert_Bumaro11_status_1983569508297326947.json"
       ],
-      "last_updated": "2026-08-03T13:09:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029161958im_/https://pbs.twimg.com/media/G4Zu_Ksa0AAgF_t.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b87a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029161958im_/https://pbs.twimg.com/media/G4Zu_Ksa0AAgF_t.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564e240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4XaKdSXMAAQDpv.jpg": {
       "status": "done",
@@ -9435,27 +9435,27 @@
       "referenced_by": [
         "20251030070357_twitter_com_Robert_Bumaro11_status_1983791971857789349.json"
       ],
-      "last_updated": "2026-08-03T13:09:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251030070357im_/https://pbs.twimg.com/media/G4XUSoTa8AAaacl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251030070357im_/https://pbs.twimg.com/media/G4XUSoTa8AAaacl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6ffb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4cFWfZbUAAbeeU.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251030090704_twitter_com_Robert_Bumaro11_status_1983822954812338371.json"
       ],
-      "last_updated": "2026-08-03T13:09:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251030090704im_/https://pbs.twimg.com/media/G4cFWfZbUAAbeeU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696120>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251030090704im_/https://pbs.twimg.com/media/G4cFWfZbUAAbeeU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564e180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4gPXmjbEAA7a8D.png": {
       "status": "failed",
       "referenced_by": [
         "20251030110438_twitter_com_Robert_Bumaro11_status_1983852542225416220.json"
       ],
-      "last_updated": "2026-08-03T13:10:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251030110438im_/https://pbs.twimg.com/media/G4gPXmjbEAA7a8D.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251030110438im_/https://pbs.twimg.com/media/G4gPXmjbEAA7a8D.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a951f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4bdIyqaMAAOfs2.jpg": {
       "status": "done",
@@ -9511,9 +9511,9 @@
       "referenced_by": [
         "20251031111747_twitter_com_Robert_Bumaro11_status_1984218238784553024.json"
       ],
-      "last_updated": "2026-08-03T13:10:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031111747im_/https://pbs.twimg.com/media/G4k3TN_aEAArUvx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b9d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031111747im_/https://pbs.twimg.com/media/G4k3TN_aEAArUvx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a46960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4jaG_na0AA0h5t.jpg": {
       "status": "done",
@@ -9527,18 +9527,18 @@
       "referenced_by": [
         "20251101063235_twitter_com_Robert_Bumaro11_status_1984508851077726690.json"
       ],
-      "last_updated": "2026-08-03T13:10:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251101063235im_/https://pbs.twimg.com/media/G4k2kn7bUAAFVcf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066b230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251101063235im_/https://pbs.twimg.com/media/G4k2kn7bUAAFVcf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564eba0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4mDV2abkAAHjyL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251101063422_twitter_com_Robert_Bumaro11_status_1984509302649082203.json"
       ],
-      "last_updated": "2026-08-03T13:10:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251101063422im_/https://pbs.twimg.com/media/G4mDV2abkAAHjyL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251101063422im_/https://pbs.twimg.com/media/G4mDV2abkAAHjyL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a95b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4pldJqbQAIBw8N.jpg": {
       "status": "done",
@@ -9629,9 +9629,9 @@
       "referenced_by": [
         "20251105152625_twitter_com_Robert_Bumaro11_status_1986092746990551079.json"
       ],
-      "last_updated": "2026-08-03T13:10:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251105152625im_/https://pbs.twimg.com/media/G49KPxAbQAISJv2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30694440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251105152625im_/https://pbs.twimg.com/media/G49KPxAbQAISJv2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a45400>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5AKN1FXYAArAXP.jpg": {
       "status": "done",
@@ -9652,27 +9652,27 @@
       "referenced_by": [
         "20251105225155_twitter_com_Robert_Bumaro11_status_1986204860082212999.json"
       ],
-      "last_updated": "2026-08-03T13:10:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251105225155im_/https://pbs.twimg.com/media/G49D5SAaMAAh20z.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306da960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251105225155im_/https://pbs.twimg.com/media/G49D5SAaMAAh20z.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564d400>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5AOlXjXsAA2Emk.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251106140836_twitter_com_Robert_Bumaro11_status_1986435550803599668.json"
       ],
-      "last_updated": "2026-08-03T13:10:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251106140836im_/https://pbs.twimg.com/media/G5AOlXjXsAA2Emk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306bbc20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251106140836im_/https://pbs.twimg.com/media/G5AOlXjXsAA2Emk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a96d80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5FJyZNXsAMoWYm.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251106154942_twitter_com_Robert_Bumaro11_status_1986460996450549815.json"
       ],
-      "last_updated": "2026-08-03T13:10:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251106154942im_/https://pbs.twimg.com/media/G5FJyZNXsAMoWYm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066af30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251106154942im_/https://pbs.twimg.com/media/G5FJyZNXsAMoWYm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a950d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G4_m-NLbAAADA2V.jpg": {
       "status": "done",
@@ -9693,18 +9693,18 @@
       "referenced_by": [
         "20251108084710_twitter_com_Robert_Bumaro11_status_1987079435154243881.json"
       ],
-      "last_updated": "2026-08-03T13:10:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108084710im_/https://pbs.twimg.com/media/G5M5UCobIAELgey.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060a870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108084710im_/https://pbs.twimg.com/media/G5M5UCobIAELgey.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5adc920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5PkU5ga4AA2saM.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251108155330_twitter_com_Robert_Bumaro11_status_1987186728076296439.json"
       ],
-      "last_updated": "2026-08-03T13:10:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108155330im_/https://pbs.twimg.com/media/G5PkU5ga4AA2saM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b8b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108155330im_/https://pbs.twimg.com/media/G5PkU5ga4AA2saM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6e720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5PGGLlagAAXDUu.jpg": {
       "status": "done",
@@ -9725,9 +9725,9 @@
       "referenced_by": [
         "20251111135417_twitter_com_Robert_Bumaro11_status_1988243888109432956.json"
       ],
-      "last_updated": "2026-08-03T13:10:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111135417im_/https://pbs.twimg.com/media/G5VmNJpaMAAatXK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060aa80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111135417im_/https://pbs.twimg.com/media/G5VmNJpaMAAatXK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6deb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5aipQNboAAU3vT.jpg": {
       "status": "done",
@@ -9741,9 +9741,9 @@
       "referenced_by": [
         "20251112154333_twitter_com_Robert_Bumaro11_status_1988633773634654518.json"
       ],
-      "last_updated": "2026-08-03T13:10:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112154333im_/https://pbs.twimg.com/media/G5kEw4jaUAA048R.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306da8a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:31:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112154333im_/https://pbs.twimg.com/media/G5kEw4jaUAA048R.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5abb020>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5gHwfrbcAEV7JY.jpg": {
       "status": "done",
@@ -9806,9 +9806,9 @@
       "referenced_by": [
         "20251115101305_twitter_com_Robert_Bumaro11_status_1989637772983120369.json"
       ],
-      "last_updated": "2026-08-03T13:10:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251115101305if_/https://pbs.twimg.com/media/G5veskTbkAQHOHn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060aa20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251115101305if_/https://pbs.twimg.com/media/G5veskTbkAQHOHn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6d040>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5095lqWIAAKAtH.png": {
       "status": "done",
@@ -9895,13 +9895,13 @@
       "last_updated": "2026-08-03T07:50:41"
     },
     "https://pbs.twimg.com/media/G67kazfbkAURXxa.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251202144944_twitter_com_Robert_Bumaro11_status_1995867986788552869.json"
       ],
-      "last_updated": "2026-08-03T13:11:03",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251202144944/https://pbs.twimg.com/media/G67kazfbkAURXxa.jpg",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251202144944im_/https://pbs.twimg.com/media/G67kazfbkAURXxa.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5ab8e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G7LeIF4W0AAylF2.jpg": {
       "status": "done",
@@ -10020,9 +10020,9 @@
       "referenced_by": [
         "20260129005233_twitter_com_Robert_Bumaro11_status_2016675800951693473.json"
       ],
-      "last_updated": "2026-08-03T13:11:07",
+      "last_updated": "2026-08-03T13:32:09",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260129005233/https://pbs.twimg.com/media/G_vSb7uacAAi7eG.jpg",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HAXk94eXIAADz-J.jpg": {
       "status": "done",
@@ -10036,9 +10036,9 @@
       "referenced_by": [
         "20260208200043_twitter_com_Robert_Bumaro11_status_2020588624451076317.json"
       ],
-      "last_updated": "2026-08-03T13:11:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208200043im_/https://pbs.twimg.com/media/HApr3TIa4AAd1IG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30608830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208200043im_/https://pbs.twimg.com/media/HApr3TIa4AAd1IG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5ab86e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCcoiP6bYAE-RVV.jpg": {
       "status": "done",
@@ -10059,9 +10059,9 @@
       "referenced_by": [
         "20260307232656_twitter_com_Robert_Bumaro11_status_2030424995260977594.json"
       ],
-      "last_updated": "2026-08-03T13:11:16",
+      "last_updated": "2026-08-03T13:32:16",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260307232656/https://pbs.twimg.com/media/HC0JPyGaMAAm3T1.jpg",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HERCOUmbsAAVGME.png": {
       "status": "done",
@@ -10075,9 +10075,9 @@
       "referenced_by": [
         "20260325152156_twitter_com_Robert_Bumaro11_status_2036825919856537963.json"
       ],
-      "last_updated": "2026-08-03T13:11:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325152156im_/https://pbs.twimg.com/media/HEPjz8QbIAAdGj0.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306da330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325152156im_/https://pbs.twimg.com/media/HEPjz8QbIAAdGj0.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6fbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFO_vYAa4AA1l3K.jpg": {
       "status": "done",
@@ -10171,22 +10171,22 @@
       "last_updated": "2026-08-03T07:50:42"
     },
     "https://pbs.twimg.com/media/HH8IyWabkAAnSqu.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260510093113_twitter_com_Robert_Bumaro11_status_2053407502025502962.json"
       ],
-      "last_updated": "2026-08-03T13:11:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510093113im_/https://pbs.twimg.com/media/HH8IyWabkAAnSqu.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b9f10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:25",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260510093113/https://pbs.twimg.com/media/HH8IyWabkAAnSqu.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIGm2uSb0AAd6Po.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512094958_twitter_com_Robert_Bumaro11_status_2054136995447001187.json"
       ],
-      "last_updated": "2026-08-03T13:11:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512094958im_/https://pbs.twimg.com/media/HIGm2uSb0AAd6Po.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306bb9b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512094958im_/https://pbs.twimg.com/media/HIGm2uSb0AAd6Po.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a96450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIB1QOBbkAAsU3F.jpg": {
       "status": "done",
@@ -10228,18 +10228,18 @@
       "referenced_by": [
         "20260512202424_twitter_com_Robert_Bumaro11_status_2054296654862545231.json"
       ],
-      "last_updated": "2026-08-03T13:11:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512202424im_/https://pbs.twimg.com/media/HFi_7IXakAEYcqe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306942c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512202424im_/https://pbs.twimg.com/media/HFi_7IXakAEYcqe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a46870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HFi_8KqakAIxCsM.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260512202424_twitter_com_Robert_Bumaro11_status_2054296654862545231.json"
       ],
-      "last_updated": "2026-08-03T13:11:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512202424im_/https://pbs.twimg.com/media/HFi_8KqakAIxCsM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066b6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512202424im_/https://pbs.twimg.com/media/HFi_8KqakAIxCsM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a94170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIH22WKbcAAMKbH.jpg": {
       "status": "done",
@@ -10338,18 +10338,18 @@
       "referenced_by": [
         "20260515145640_twitter_com_Robert_Bumaro11_status_2055301342621745614.json"
       ],
-      "last_updated": "2026-08-03T13:11:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515145640im_/https://pbs.twimg.com/media/HIXlXWPa8AE24G_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306d8fb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515145640im_/https://pbs.twimg.com/media/HIXlXWPa8AE24G_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6d610>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIbhJT4asAATD-l.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260516091525_twitter_com_Robert_Bumaro11_status_2055577850867282017.json"
       ],
-      "last_updated": "2026-08-03T13:11:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516091525im_/https://pbs.twimg.com/media/HIbhJT4asAATD-l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696d20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516091525im_/https://pbs.twimg.com/media/HIbhJT4asAATD-l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564d5b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIWeciSbsAAgpT4.jpg": {
       "status": "done",
@@ -10400,9 +10400,9 @@
       "referenced_by": [
         "20260516172941_twitter_com_Robert_Bumaro11_status_2055702239914963050.json"
       ],
-      "last_updated": "2026-08-03T13:11:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516172941im_/https://pbs.twimg.com/media/HIdSRqmbcAAO3XX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30668380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516172941im_/https://pbs.twimg.com/media/HIdSRqmbcAAO3XX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5abbce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIdTrotbMAAxIt-.jpg": {
       "status": "done",
@@ -10486,9 +10486,9 @@
       "referenced_by": [
         "20260519063133_twitter_com_Robert_Bumaro11_status_2056623778147573829.json"
       ],
-      "last_updated": "2026-08-03T13:11:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519063133im_/https://pbs.twimg.com/media/HIlZ3TNbQAAFov9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306db380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:32:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519063133im_/https://pbs.twimg.com/media/HIlZ3TNbQAAFov9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564e900>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HIqnJwfbUAAmuHW.jpg": {
       "status": "done",
@@ -10652,9 +10652,9 @@
         "20260528070954_twitter_com_Robert_Bumaro11_status_2059894919494513081.json",
         "20260528071028_twitter_com_Robert_Bumaro11_status_2059895064030290151.json"
       ],
-      "last_updated": "2026-08-03T13:12:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528070954im_/https://pbs.twimg.com/media/HJVM9O6acAAdF3R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30608d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-03T13:33:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528070954im_/https://pbs.twimg.com/media/HJVM9O6acAAdF3R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5ab8110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJTixJwakAAZtjf.jpg": {
       "status": "done",
@@ -10690,18 +10690,18 @@
       "referenced_by": [
         "20260528102335_twitter_com_Robert_Bumaro11_status_2059943662839333039.json"
       ],
-      "last_updated": "2026-08-03T13:12:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528102335im_/https://pbs.twimg.com/media/HJTNZhWbsAACC9v.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30668f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528102335im_/https://pbs.twimg.com/media/HJTNZhWbsAACC9v.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564cce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJTNZhVaIAAsM5O.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528102335_twitter_com_Robert_Bumaro11_status_2059943662839333039.json"
       ],
-      "last_updated": "2026-08-03T13:12:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528102335im_/https://pbs.twimg.com/media/HJTNZhVaIAAsM5O.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30696960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528102335im_/https://pbs.twimg.com/media/HJTNZhVaIAAsM5O.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5abbc20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJaKOyHa8AElG4Q.jpg": {
       "status": "done",
@@ -10715,9 +10715,9 @@
       "referenced_by": [
         "20260528132825_twitter_com_Robert_Bumaro11_status_2059990176387264621.json"
       ],
-      "last_updated": "2026-08-03T13:12:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528132825im_/https://pbs.twimg.com/media/HJaOCTabMAAIiXU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066a420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528132825im_/https://pbs.twimg.com/media/HJaOCTabMAAIiXU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5aba4e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJaPGo2agAA9JXV.jpg": {
       "status": "done",
@@ -10766,18 +10766,18 @@
       "referenced_by": [
         "20260529020317_twitter_com_Robert_Bumaro11_status_2060180145764454455.json"
       ],
-      "last_updated": "2026-08-03T13:12:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529020317im_/https://pbs.twimg.com/media/HJb4XHBaMAANbOK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306ba6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529020317im_/https://pbs.twimg.com/media/HJb4XHBaMAANbOK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564db20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJbS0lSbIAEEXjB.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260529033223_twitter_com_Robert_Bumaro11_status_2060202569272897582.json"
       ],
-      "last_updated": "2026-08-03T13:12:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529033223im_/https://pbs.twimg.com/media/HJbS0lSbIAEEXjB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306699d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529033223im_/https://pbs.twimg.com/media/HJbS0lSbIAEEXjB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a95220>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJe_Ww0XEAEZ-v_.png": {
       "status": "done",
@@ -10792,9 +10792,9 @@
         "20260530054438_twitter_com_Robert_Bumaro11_status_2060598238156316941.json",
         "20260530054527_twitter_com_Robert_Bumaro11_status_2060598444113436739.json"
       ],
-      "last_updated": "2026-08-03T13:12:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530054438im_/https://pbs.twimg.com/media/HJieWhSbkAAx7Ft.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306baba0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-03T13:33:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530054438im_/https://pbs.twimg.com/media/HJieWhSbkAAx7Ft.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a97e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HJkDqC-a8AANiy0.png": {
       "status": "done",
@@ -10850,27 +10850,27 @@
       "referenced_by": [
         "20260531102418_twitter_com_Robert_Bumaro11_status_2061031004647850374.json"
       ],
-      "last_updated": "2026-08-03T13:12:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531102418im_/https://pbs.twimg.com/media/HJkirizakAAiE2V.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306dbbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531102418im_/https://pbs.twimg.com/media/HJkirizakAAiE2V.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6d2e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJrylODaMAAHm1i.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260601022654_twitter_com_Robert_Bumaro11_status_2061273249905017337.json"
       ],
-      "last_updated": "2026-08-03T13:12:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601022654im_/https://pbs.twimg.com/media/HJrylODaMAAHm1i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066a960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601022654if_/https://pbs.twimg.com/media/HJrylODaMAAHm1i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a94b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJrylMxbcAA2bhn.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260601022654_twitter_com_Robert_Bumaro11_status_2061273249905017337.json"
       ],
-      "last_updated": "2026-08-03T13:12:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601022654im_/https://pbs.twimg.com/media/HJrylMxbcAA2bhn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306b9490>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601022654im_/https://pbs.twimg.com/media/HJrylMxbcAA2bhn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6d4f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJz5aqgb0AAB5oY.png": {
       "status": "done",
@@ -10947,9 +10947,9 @@
       "referenced_by": [
         "20260606082147_twitter_com_Robert_Bumaro11_status_2063174500745949331.json"
       ],
-      "last_updated": "2026-08-03T13:12:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606082147im_/https://pbs.twimg.com/media/HKGg4cLbsAAwY4f.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30609850>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606082147im_/https://pbs.twimg.com/media/HKGg4cLbsAAwY4f.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564e9c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKIPQXxbMAA6wZs.jpg": {
       "status": "done",
@@ -11005,9 +11005,9 @@
       "referenced_by": [
         "20260610180739_twitter_com_Robert_Bumaro11_status_2064771490638438551.json"
       ],
-      "last_updated": "2026-08-03T13:12:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610180739im_/https://pbs.twimg.com/media/HKeJbJybQAEOimg.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30fe89e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610180739im_/https://pbs.twimg.com/media/HKeJbJybQAEOimg.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5d8c1a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKeL2B7a0AAlQ00.jpg": {
       "status": "done",
@@ -11070,9 +11070,9 @@
       "referenced_by": [
         "20260616063211_twitter_com_Robert_Bumaro11_status_2066770798237614355.json"
       ],
-      "last_updated": "2026-08-03T13:12:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616063211im_/https://pbs.twimg.com/media/HK6gKPrbsAEyMiH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306d8050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616063211im_/https://pbs.twimg.com/media/HK6gKPrbsAEyMiH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a6d880>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK65KyyacAAtFBg.jpg": {
       "status": "done",
@@ -11093,18 +11093,18 @@
       "referenced_by": [
         "20260616142948_twitter_com_Robert_Bumaro11_status_2066890994629718231.json"
       ],
-      "last_updated": "2026-08-03T13:12:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616142948im_/https://pbs.twimg.com/media/HK3VTD4WEAAv1ZJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3060b4a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:33:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616142948im_/https://pbs.twimg.com/media/HK3VTD4WEAAv1ZJ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564d550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK3VTD-XEAEuwSM.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260616142948_twitter_com_Robert_Bumaro11_status_2066890994629718231.json"
       ],
-      "last_updated": "2026-08-03T13:13:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616142948im_/https://pbs.twimg.com/media/HK3VTD-XEAEuwSM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf3066b440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616142948im_/https://pbs.twimg.com/media/HK3VTD-XEAEuwSM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5ab8740>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HK85RM6aMAAPzqo.jpg": {
       "status": "done",
@@ -11147,9 +11147,9 @@
       "referenced_by": [
         "20260617090531_twitter_com_Robert_Bumaro11_status_2067171772349428037.json"
       ],
-      "last_updated": "2026-08-03T13:13:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617090531im_/https://pbs.twimg.com/media/HLARXsWa0AAiEK5.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306d84d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617090531im_/https://pbs.twimg.com/media/HLARXsWa0AAiEK5.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e564f380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLASLdMa8AA9qKW.png": {
       "status": "done",
@@ -11241,18 +11241,18 @@
       "referenced_by": [
         "20260706004755_twitter_com_Robert_Bumaro11_status_2073931916139806821.json"
       ],
-      "last_updated": "2026-08-03T13:13:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260706004755im_/https://pbs.twimg.com/media/HMgUueea8AApst-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf30697b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260706004755im_/https://pbs.twimg.com/media/HMgUueea8AApst-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a44ec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HMiauSWaEAAVNMt.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260706102731_twitter_com_Robert_Bumaro11_status_2074077776416846200.json"
       ],
-      "last_updated": "2026-08-03T13:13:19",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260706102731/https://pbs.twimg.com/media/HMiauSWaEAAVNMt.jpg",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260706102731im_/https://pbs.twimg.com/media/HMiauSWaEAAVNMt.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5ab8dd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HMimYSubEAE0rT1.jpg": {
       "status": "done",
@@ -11465,9 +11465,9 @@
       "referenced_by": [
         "20260710233851_twitter_com_Robert_Bumaro11_status_2075726473214980179.json"
       ],
-      "last_updated": "2026-08-03T13:13:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260710233851if_/https://pbs.twimg.com/media/HM5VOAiWcAAoLNm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcf306f9df0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260710233851im_/https://pbs.twimg.com/media/HM5VOAiWcAAoLNm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e5a45010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HM2fQUvbYAALfdg.jpg": {
       "status": "done",
@@ -11505,13 +11505,13 @@
       "last_updated": "2026-08-03T07:50:51"
     },
     "https://pbs.twimg.com/media/HM7_46UaoAAnlTm.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260711094424_twitter_com_Robert_Bumaro11_status_2075878864916770955.json"
       ],
-      "last_updated": "2026-08-03T13:13:27",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260711094424/https://pbs.twimg.com/media/HM7_46UaoAAnlTm.jpg",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711094424im_/https://pbs.twimg.com/media/HM7_46UaoAAnlTm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f79e698be00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HM8oREqaEAAjfIN.jpg": {
       "status": "done",
@@ -29377,7 +29377,7 @@
       "miss_count": 2
     },
     "20251202144944_twitter_com_Robert_Bumaro11_status_1995867986788552869.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G67kazfbkAURXxa.jpg"
@@ -29388,7 +29388,7 @@
           "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-03T13:14:42",
+      "last_updated": "2026-08-03T13:32:07",
       "miss_count": 2
     },
     "20251202150609_twitter_com_Robert_Bumaro11_status_1995872120753254568.json": {
@@ -30477,7 +30477,7 @@
       "last_updated": "2026-08-03T07:58:58"
     },
     "20260510093113_twitter_com_Robert_Bumaro11_status_2053407502025502962.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HH8IyWabkAAnSqu.jpg"
@@ -30488,7 +30488,7 @@
           "https://pbs.twimg.com/profile_images/2049359937705525248/XeXgXKY5_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-03T13:13:48",
+      "last_updated": "2026-08-03T13:32:25",
       "miss_count": 2
     },
     "20260510093145_twitter_com_Robert_Bumaro11_status_2053407636880756795.json": {
@@ -40440,7 +40440,7 @@
       "last_updated": "2026-08-03T07:59:05"
     },
     "20260706102731_twitter_com_Robert_Bumaro11_status_2074077776416846200.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMiauSWaEAAVNMt.jpg"
@@ -40450,7 +40450,7 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-03T13:13:19",
+      "last_updated": "2026-08-03T13:34:14",
       "miss_count": 1
     },
     "20260706110833_twitter_com_Robert_Bumaro11_status_2074088106220048505.json": {
@@ -42254,7 +42254,7 @@
       "last_updated": "2026-08-03T07:58:24"
     },
     "20260711094424_twitter_com_Robert_Bumaro11_status_2075878864916770955.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HM7_46UaoAAnlTm.jpg"
@@ -42265,7 +42265,7 @@
           "https://pbs.twimg.com/profile_images/1564710107107053569/vsidR1i__normal.jpg"
         ]
       },
-      "last_updated": "2026-08-03T13:13:27",
+      "last_updated": "2026-08-03T13:34:22",
       "miss_count": 1
     },
     "20260711103738_twitter_com_Robert_Bumaro11_status_2075892261662167357.json": {
