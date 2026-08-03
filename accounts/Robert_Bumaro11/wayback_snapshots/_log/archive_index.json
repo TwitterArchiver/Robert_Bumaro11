@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-03T13:34:22",
+  "last_updated": "2026-08-03T13:34:51",
   "html": {
     "https://web.archive.org/web/20250112080312if_/https://twitter.com/Robert_Bumaro11/status/1878352012804489545": {
       "status": "done",
@@ -11826,9 +11826,9 @@
       "referenced_by": [
         "20251013123100_twitter_com_Robert_Bumaro11_status_1977713683322003485.json"
       ],
-      "last_updated": "2026-08-03T13:13:51",
+      "last_updated": "2026-08-03T13:34:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251013123100/https://video.twimg.com/tweet_video/G3HQvXvbAAA8du-.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2032715048481886209/vid/avc1/720x1280/ZmJU6bvUyaMUvp2O.mp4": {
       "status": "done",
@@ -11874,13 +11874,13 @@
       "last_updated": "2026-08-03T07:55:45"
     },
     "https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/576x1024/mV60aDbKbStw2lba.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260610172655_twitter_com_Robert_Bumaro11_status_2064761240518549949.json"
       ],
-      "last_updated": "2026-08-03T13:14:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610172655im_/https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/576x1024/mV60aDbKbStw2lba.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6aaa6692b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-03T13:34:51",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610172655/https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/576x1024/mV60aDbKbStw2lba.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2074748097251495936/vid/avc1/1920x1080/u6BC-eu8fzpTxffX.mp4": {
       "status": "done",
