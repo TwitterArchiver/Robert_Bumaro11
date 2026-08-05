@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084144703570841916",
+    "created_at": "2026-08-03T05:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084144703570841916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084144703570841916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084075277177544938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: 字节跳动这个公司的主要收入来源就是骗老太太的钱。美其名曰广告，电商，直播带货，全是给到情绪价值然后骗钱，跟卖保健品的一回事，而豆包很好地满足了这龌龊的业务需求。\n就这种垃圾企业还有一堆所谓“热爱技术”的人吹捧，简直是给这化粪池又加入了一些奇特…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084144703570841916",
+        "created_at": "2026-08-03T05:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084144703570841916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084144703570841916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084075277177544938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: 字节跳动这个公司的主要收入来源就是骗老太太的钱。美其名曰广告，电商，直播带货，全是给到情绪价值然后骗钱，跟卖保健品的一回事，而豆包很好地满足了这龌龊的业务需求。\n就这种垃圾企业还有一堆所谓“热爱技术”的人吹捧，简直是给这化粪池又加入了一些奇特…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "2084075277177544938",
+        "created_at": "2026-08-03T00:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084075277177544938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkasakaRentsuk…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/AkasakaRentsuki/status/2083769655894901126",
+              "start": 140,
+              "url": "https://t.co/wCW7JTHwyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084075277177544938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083769655894901126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "字节跳动这个公司的主要收入来源就是骗老太太的钱。美其名曰广告，电商，直播带货，全是给到情绪价值然后骗钱，跟卖保健品的一回事，而豆包很好地满足了这龌龊的业务需求。\n就这种垃圾企业还有一堆所谓“热爱技术”的人吹捧，简直是给这化粪池又加入了一些奇特的韵味，我就是啐口痰都嫌脏了我的痰。 https://t.co/wCW7JTHwyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 489,
+          "like_count": 14793,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n圣神请降临，充信尔众心，以厥仁爱火，燃灼诸黎民🇻🇦\n电报：https://t.co/2c1TVVkK15\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://telegram.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/2c1TVVkK15"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 136,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 113,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.xyz",
+                "end": 23,
+                "expanded_url": "https://clemensdsh.xyz/",
+                "start": 0,
+                "url": "https://t.co/7H8hmco3uJ"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2077812485499867590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 3989,
+          "like_count": 91145,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 4866
+        },
+        "url": "https://t.co/7H8hmco3uJ",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

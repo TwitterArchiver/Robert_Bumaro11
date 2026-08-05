@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084285154470805772",
+    "created_at": "2026-08-03T14:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084285154470805772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "9212982",
+          "start": 4,
+          "username": "GRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084285154470805772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好 \n@gro\n 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084285154470805772",
+        "created_at": "2026-08-03T14:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084285154470805772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "9212982",
+              "start": 4,
+              "username": "GRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084285154470805772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好 \n@gro\n 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 491,
+          "like_count": 14873,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2007-10-02T20:20:37.000Z",
+        "description": "",
+        "id": "9212982",
+        "name": "-",
+        "pinned_tweet_id": "690400866881409024",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 0,
+          "like_count": 3162,
+          "listed_count": 234,
+          "media_count": 16,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "GRO",
+        "verified": false
+      }
+    ]
+  }
+}
