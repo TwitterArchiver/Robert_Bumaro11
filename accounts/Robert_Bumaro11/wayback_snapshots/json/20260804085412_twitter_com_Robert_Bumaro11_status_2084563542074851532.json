@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084563542074851532",
+    "created_at": "2026-08-04T08:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084563542074851532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032247657947947008",
+          "start": 3,
+          "username": "14mxxy37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084563542074851532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084395242808303760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14mxxy37: 哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084563542074851532",
+        "created_at": "2026-08-04T08:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084563542074851532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032247657947947008",
+              "start": 3,
+              "username": "14mxxy37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084563542074851532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084395242808303760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14mxxy37: 哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032247657947947008",
+        "conversation_id": "2084395242808303760",
+        "created_at": "2026-08-03T21:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084395242808303760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084395242808303760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 598,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 490,
+          "like_count": 14930,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T00:09:48.000Z",
+        "description": "无人在意的路边野狗",
+        "id": "2032247657947947008",
+        "name": "没什么用的无能",
+        "pinned_tweet_id": "2084013986300006516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059504344018595840/PVoZBko__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "14mxxy37",
+        "verified": false
+      }
+    ]
+  }
+}

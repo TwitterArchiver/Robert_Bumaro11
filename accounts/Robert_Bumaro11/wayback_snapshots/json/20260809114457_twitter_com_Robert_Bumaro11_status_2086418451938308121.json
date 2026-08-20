@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086406631529783296"
+      ],
+      "media_source_tweet_id": [
+        "2086406667349192783"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2086418451938308121",
+    "created_at": "2026-08-09T11:44:57.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086418451938308121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776162571709796352",
+          "start": 3,
+          "username": "Fooogfox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CyqAUVshA8",
+          "end": 46,
+          "expanded_url": "https://x.com/Fooogfox/status/2086406667349192783/photo/1",
+          "media_key": "3_2086406631529783296",
+          "start": 23,
+          "url": "https://t.co/CyqAUVshA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086418451938308121",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086406631529783296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086406667349192783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fooogfox: 愿我们的黄昏永在 https://t.co/CyqAUVshA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086406631529783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRnxvFaIAAvs-R.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086406631529783296"
+          ]
+        },
+        "author_id": "1776162571709796352",
+        "conversation_id": "2086406667349192783",
+        "created_at": "2026-08-09T10:58:07.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086406667349192783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyqAUVshA8",
+              "end": 32,
+              "expanded_url": "https://x.com/Fooogfox/status/2086406667349192783/photo/1",
+              "media_key": "3_2086406631529783296",
+              "start": 9,
+              "url": "https://t.co/CyqAUVshA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086406667349192783",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086406631529783296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "愿我们的黄昏永在 https://t.co/CyqAUVshA8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086406631529783296"
+          ],
+          "media_source_tweet_id": [
+            "2086406667349192783"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2086418451938308121",
+        "created_at": "2026-08-09T11:44:57.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086418451938308121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776162571709796352",
+              "start": 3,
+              "username": "Fooogfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyqAUVshA8",
+              "end": 46,
+              "expanded_url": "https://x.com/Fooogfox/status/2086406667349192783/photo/1",
+              "media_key": "3_2086406631529783296",
+              "start": 23,
+              "url": "https://t.co/CyqAUVshA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086418451938308121",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086406631529783296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086406667349192783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fooogfox: 愿我们的黄昏永在 https://t.co/CyqAUVshA8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2086418451938308121",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 494,
+          "like_count": 15316,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 40,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 17,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2086407474861814141",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 410,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

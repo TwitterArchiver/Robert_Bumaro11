@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085433190068760609",
+    "created_at": "2026-08-06T18:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085433190068760609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Robert_Bumaro1…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2085414345547317673",
+          "start": 141,
+          "url": "https://t.co/EzhHhxrBT5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085433190068760609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085414345547317673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次在学校被毫无缘由地肢体攻击后，正如那一日我亲眼目睹了罪恶，自己也被霉菌般的莫名的恶传染、纠缠抑或追赶，身边没有人相信在那平平无奇的暴力里我感受到的莫大的恐惧。\n我的世界因此被蒙上某种阴霾，自身的无可救药自身的罪恶无比真实地降临并触碰到了我的心灵，它抹除了我自洽地生存的信念 https://t.co/EzhHhxrBT5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085433190068760609",
+        "created_at": "2026-08-06T18:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085433190068760609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2085414345547317673",
+              "start": 141,
+              "url": "https://t.co/EzhHhxrBT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085433190068760609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085414345547317673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次在学校被毫无缘由地肢体攻击后，正如那一日我亲眼目睹了罪恶，自己也被霉菌般的莫名的恶传染、纠缠抑或追赶，身边没有人相信在那平平无奇的暴力里我感受到的莫大的恐惧。\n我的世界因此被蒙上某种阴霾，自身的无可救药自身的罪恶无比真实地降临并触碰到了我的心灵，它抹除了我自洽地生存的信念 https://t.co/EzhHhxrBT5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085414345547317673",
+        "created_at": "2026-08-06T17:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085414345547317673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085414345547317673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉过去发生的很多事都记不清了或者不愿想起来了，我所会说的过往肯定是被简略缩减到极度都合主义的版本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 494,
+          "like_count": 15111,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2076
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

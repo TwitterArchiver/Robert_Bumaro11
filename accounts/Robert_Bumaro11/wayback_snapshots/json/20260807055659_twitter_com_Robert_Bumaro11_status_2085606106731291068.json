@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085606106731291068",
+    "created_at": "2026-08-07T05:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085606106731291068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2075153569247064064",
+          "start": 3,
+          "username": "tinydancer535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085606106731291068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085601528031871362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tinydancer535: 健全幻觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085606106731291068",
+        "created_at": "2026-08-07T05:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085606106731291068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2075153569247064064",
+              "start": 3,
+              "username": "tinydancer535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085606106731291068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085601528031871362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tinydancer535: 健全幻觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075153569247064064",
+        "conversation_id": "2085601528031871362",
+        "created_at": "2026-08-07T05:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085601528031871362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085601528031871362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "健全幻觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 494,
+          "like_count": 15124,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T10:06:01.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ally｜精神疾患｜popipapapipopa!｜发言仅代表我自己",
+        "id": "2075153569247064064",
+        "location": "直fo=喜欢你",
+        "name": "惑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075159740360073216/rXF84SKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 105,
+          "like_count": 3098,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "tinydancer535",
+        "verified": true
+      }
+    ]
+  }
+}

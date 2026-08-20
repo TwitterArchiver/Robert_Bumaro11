@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2085620200708391108",
+    "created_at": "2026-08-07T06:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085620200708391108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1226707681437569024",
+          "start": 3,
+          "username": "Liuzhuanzhao_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085620200708391108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085616072871297326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liuzhuanzhao_CN: 实际上这种事情不是孤例。都七八年过去了，我还是记得一件事：初上大学，不可避免的有那种入门的导论课，导论课老师一开始给人一种很儒雅开明的感觉，但直到某一天，他为了讲相关研究方法而谈到福柯，就那么极为自然的蹦出一句「这世道，人妖也有人权了」…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2085620200708391108",
+        "created_at": "2026-08-07T06:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085620200708391108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1226707681437569024",
+              "start": 3,
+              "username": "Liuzhuanzhao_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085620200708391108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085616072871297326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liuzhuanzhao_CN: 实际上这种事情不是孤例。都七八年过去了，我还是记得一件事：初上大学，不可避免的有那种入门的导论课，导论课老师一开始给人一种很儒雅开明的感觉，但直到某一天，他为了讲相关研究方法而谈到福柯，就那么极为自然的蹦出一句「这世道，人妖也有人权了」…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226707681437569024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2085616072871297326",
+        "created_at": "2026-08-07T06:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085616072871297326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liuzhuanzhao_C…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Liuzhuanzhao_CN/status/2085349777953464584",
+              "start": 141,
+              "url": "https://t.co/rRg0wOoHDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085616072871297326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085349777953464584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上这种事情不是孤例。都七八年过去了，我还是记得一件事：初上大学，不可避免的有那种入门的导论课，导论课老师一开始给人一种很儒雅开明的感觉，但直到某一天，他为了讲相关研究方法而谈到福柯，就那么极为自然的蹦出一句「这世道，人妖也有人权了」。当时真是被这短短一句话恶心的倒胃口好几天。 https://t.co/rRg0wOoHDe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 494,
+          "like_count": 15135,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T03:21:37.000Z",
+        "description": "*有左翼观念的普通人\n*Mao Nostalgia\n*反对美国主导、中国参与的资本主义秩序现状\n*支持平权主义，支持 🏳️‍🌈WITH🏳️‍⚧️\n\n*当代流行文化消费者\n*非男性代词\n*无孩爱猫狗\n\n*一切观点仅首先代表自己\n*𝐃𝐍𝐈（直接拉黑）: 一切我看得不爽的人，TERF、皇汉、粉红、男权人、保守自由派等",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/ZhuanZhao.cn/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/ZhuanZhao.cn/",
+                "start": 0,
+                "url": "https://t.co/0tKH3oJHH5"
+              }
+            ]
+          }
+        },
+        "id": "1226707681437569024",
+        "location": "中华人民共和国（P.R.China 🇨🇳 ）黑龙江省",
+        "name": "竱肇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078076273184960512/aaPMQMtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 234,
+          "like_count": 16025,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/0tKH3oJHH5",
+        "username": "Liuzhuanzhao_CN",
+        "verified": false
+      }
+    ]
+  }
+}

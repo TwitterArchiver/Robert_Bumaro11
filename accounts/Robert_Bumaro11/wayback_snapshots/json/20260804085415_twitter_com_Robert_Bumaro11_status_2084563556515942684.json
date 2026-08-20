@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084563556515942684",
+    "created_at": "2026-08-04T08:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084563556515942684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1375814237365407746",
+          "start": 3,
+          "username": "xtsygirll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084563556515942684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084404088159060127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xtsygirll: i knew from a young age i was weird and unfixable"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084563556515942684",
+        "created_at": "2026-08-04T08:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084563556515942684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1375814237365407746",
+              "start": 3,
+              "username": "xtsygirll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084563556515942684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084404088159060127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xtsygirll: i knew from a young age i was weird and unfixable"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375814237365407746",
+        "conversation_id": "2084404088159060127",
+        "created_at": "2026-08-03T22:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084404088159060127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084404088159060127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 11566,
+          "like_count": 1001,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "i knew from a young age i was weird and unfixable"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 490,
+          "like_count": 14930,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-27T14:17:37.000Z",
+        "description": "20",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/overly",
+                "end": 23,
+                "expanded_url": "http://discord.gg/overly",
+                "start": 0,
+                "url": "https://t.co/TYcEqpIIZM"
+              }
+            ]
+          }
+        },
+        "id": "1375814237365407746",
+        "name": "👼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083326145102020608/5trJvZ1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 357,
+          "like_count": 80872,
+          "listed_count": 2,
+          "media_count": 875,
+          "tweet_count": 14678
+        },
+        "url": "https://t.co/TYcEqpIIZM",
+        "username": "xtsygirll",
+        "verified": false
+      }
+    ]
+  }
+}

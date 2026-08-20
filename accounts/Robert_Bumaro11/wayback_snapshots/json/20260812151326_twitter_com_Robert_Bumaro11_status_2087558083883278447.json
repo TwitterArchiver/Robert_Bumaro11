@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2087558083883278447",
+    "created_at": "2026-08-12T15:13:26.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087558083883278447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1695553771961729024",
+          "start": 3,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087558083883278447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087548492705128676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiraishiwatari: 我被医生排除asd的理由是“我在他们笑的时候一起跟着笑了”，我心说masking这么多年我要是笑都笑不出来还轮得到你来看我吗😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2087558083883278447",
+        "created_at": "2026-08-12T15:13:26.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087558083883278447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1695553771961729024",
+              "start": 3,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087558083883278447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087548492705128676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiraishiwatari: 我被医生排除asd的理由是“我在他们笑的时候一起跟着笑了”，我心说masking这么多年我要是笑都笑不出来还轮得到你来看我吗😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2087548492705128676",
+        "created_at": "2026-08-12T14:35:20.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087548492705128676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087548492705128676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我被医生排除asd的理由是“我在他们笑的时候一起跟着笑了”，我心说masking这么多年我要是笑都笑不出来还轮得到你来看我吗😃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2087558083883278447",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 493,
+          "like_count": 15518,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2150
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "是一只蟑螂，会无限复活。\n被脚踩过被喷呋虫胺吃过蟑螂药吃过加硼砂的土豆泥，但是仍然好好活着。",
+        "id": "1695553771961729024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087548492705128676",
+        "name": "白石渡",
+        "pinned_tweet_id": "2085352415524442519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695553771961729024/1735211506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 61,
+          "like_count": 8560,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 3051
+        },
+        "url": "",
+        "username": "Shiraishiwatari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084553118822568115",
+    "created_at": "2026-08-04T08:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084553118822568115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678809286854443020",
+          "start": 3,
+          "username": "ozcozes"
+        },
+        {
+          "end": 25,
+          "id": "877334331504513025",
+          "start": 13,
+          "username": "HalfwayPost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084553118822568115",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084425609233768631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ozcozes: @HalfwayPost Happens every time you try to get rid of women instead of getting  rid of your lust"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084553118822568115",
+        "created_at": "2026-08-04T08:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084553118822568115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678809286854443020",
+              "start": 3,
+              "username": "ozcozes"
+            },
+            {
+              "end": 25,
+              "id": "877334331504513025",
+              "start": 13,
+              "username": "HalfwayPost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084553118822568115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084425609233768631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ozcozes: @HalfwayPost Happens every time you try to get rid of women instead of getting  rid of your lust"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678809286854443020",
+        "conversation_id": "2084374253613584615",
+        "created_at": "2026-08-03T23:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084425609233768631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "877334331504513025",
+              "start": 0,
+              "username": "HalfwayPost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084425609233768631",
+        "in_reply_to_user_id": "877334331504513025",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 38370,
+          "like_count": 892,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084374253613584615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HalfwayPost Happens every time you try to get rid of women instead of getting  rid of your lust"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 490,
+          "like_count": 14924,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T16:52:14.000Z",
+        "description": "",
+        "id": "1678809286854443020",
+        "name": "Ozcoz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006937678840045568/cg5O3rxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 38,
+          "like_count": 18651,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 7602
+        },
+        "url": "",
+        "username": "ozcozes",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T01:16:19.000Z",
+        "description": "Dadaist graffiti news. Halfway true comedy and satire for your doomscrolling by @DashMacIntyre. I don't report the facts, I improve them.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "DashMacIntyre"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dashmacintyre",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dashmacintyre",
+                "start": 0,
+                "url": "https://t.co/SC4ssDGewN"
+              }
+            ]
+          }
+        },
+        "id": "877334331504513025",
+        "location": "Subscribe to my Substack ➡️",
+        "name": "The Halfway Post",
+        "pinned_tweet_id": "2054624122618200242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381662214034239490/8m2YER9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127291,
+          "following_count": 44422,
+          "like_count": 54497,
+          "listed_count": 361,
+          "media_count": 70,
+          "tweet_count": 22736
+        },
+        "url": "https://t.co/SC4ssDGewN",
+        "username": "HalfwayPost",
+        "verified": true
+      }
+    ]
+  }
+}

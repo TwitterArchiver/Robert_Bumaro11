@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086289187700133888"
+      ],
+      "media_source_tweet_id": [
+        "2086289193312125360"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2086356131535024283",
+    "created_at": "2026-08-09T07:37:19.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086356131535024283"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 74,
+          "tag": "生田輝FC"
+        },
+        {
+          "end": 92,
+          "start": 81,
+          "tag": "テルーノ・ファミリー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sdY9aWozeA",
+          "end": 116,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2086289193312125360/photo/1",
+          "media_key": "3_2086289187700133888",
+          "start": 93,
+          "url": "https://t.co/sdY9aWozeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086356131535024283",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086289187700133888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086289193312125360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: おはようございます☀\n\n9月のイベントのFC先行抽選申し込みは\n本日23時59分までです！✨\n\nお忘れなく〜っ！\n\n#生田輝FC\n#テルーノ・ファミリー https://t.co/sdY9aWozeA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086289187700133888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPP89mua0AAQIWS.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086289187700133888"
+          ]
+        },
+        "author_id": "1577159828",
+        "conversation_id": "2086289193312125360",
+        "created_at": "2026-08-09T03:11:19.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086289193312125360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "生田輝FC"
+            },
+            {
+              "end": 76,
+              "start": 65,
+              "tag": "テルーノ・ファミリー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdY9aWozeA",
+              "end": 100,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2086289193312125360/photo/1",
+              "media_key": "3_2086289187700133888",
+              "start": 77,
+              "url": "https://t.co/sdY9aWozeA"
+            },
+            {
+              "display_url": "x.com/ikutateru_staf…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/ikutateru_staff/status/2086256144159248520",
+              "start": 101,
+              "url": "https://t.co/u5e6THI6Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086289193312125360",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086289187700133888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9259,
+          "like_count": 252,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086256144159248520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おはようございます☀\n\n9月のイベントのFC先行抽選申し込みは\n本日23時59分までです！✨\n\nお忘れなく〜っ！\n\n#生田輝FC\n#テルーノ・ファミリー https://t.co/sdY9aWozeA https://t.co/u5e6THI6Gn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086289187700133888"
+          ],
+          "media_source_tweet_id": [
+            "2086289193312125360"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2086356131535024283",
+        "created_at": "2026-08-09T07:37:19.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086356131535024283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "生田輝FC"
+            },
+            {
+              "end": 92,
+              "start": 81,
+              "tag": "テルーノ・ファミリー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdY9aWozeA",
+              "end": 116,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2086289193312125360/photo/1",
+              "media_key": "3_2086289187700133888",
+              "start": 93,
+              "url": "https://t.co/sdY9aWozeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086356131535024283",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086289187700133888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086289193312125360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: おはようございます☀\n\n9月のイベントのFC先行抽選申し込みは\n本日23時59分までです！✨\n\nお忘れなく〜っ！\n\n#生田輝FC\n#テルーノ・ファミリー https://t.co/sdY9aWozeA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2086356131535024283",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 492,
+          "like_count": 15288,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優/愛犬ぽんず 🐾　　　　　　　　　　　　　　　↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086291592533737746",
+        "name": "生田 輝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577159828/1756694908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057046583381041152/rZI06G1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81823,
+          "following_count": 878,
+          "like_count": 13738,
+          "listed_count": 2634,
+          "media_count": 5385,
+          "tweet_count": 24122
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088967226917601280",
+        "3_2088967226909171712"
+      ],
+      "media_source_tweet_id": [
+        "2088967233078988828",
+        "2088967233078988828"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2088967981967749383",
+    "created_at": "2026-08-16T12:35:52.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088967981967749383"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "リクレシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577159828",
+          "start": 3,
+          "username": "Teru_Ikuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtgnTEyjQY",
+          "end": 50,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2088967233078988828/photo/1",
+          "media_key": "3_2088967226917601280",
+          "start": 27,
+          "url": "https://t.co/TtgnTEyjQY"
+        },
+        {
+          "display_url": "pic.x.com/TtgnTEyjQY",
+          "end": 50,
+          "expanded_url": "https://x.com/Teru_Ikuta/status/2088967233078988828/photo/1",
+          "media_key": "3_2088967226909171712",
+          "start": 27,
+          "url": "https://t.co/TtgnTEyjQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088967981967749383",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088967226917601280"
+      },
+      {
+        "media_key": "3_2088967226909171712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088967233078988828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teru_Ikuta: 🐏🍊✨\n\n#リクレシ https://t.co/TtgnTEyjQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088967226917601280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2AoAPbQAAvWoV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088967226909171712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2AoANaoAAXEjs.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088967226917601280",
+            "3_2088967226909171712"
+          ],
+          "media_source_tweet_id": [
+            "2088967233078988828",
+            "2088967233078988828"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2088967981967749383",
+        "created_at": "2026-08-16T12:35:52.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088967981967749383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "リクレシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577159828",
+              "start": 3,
+              "username": "Teru_Ikuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtgnTEyjQY",
+              "end": 50,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2088967233078988828/photo/1",
+              "media_key": "3_2088967226917601280",
+              "start": 27,
+              "url": "https://t.co/TtgnTEyjQY"
+            },
+            {
+              "display_url": "pic.x.com/TtgnTEyjQY",
+              "end": 50,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2088967233078988828/photo/1",
+              "media_key": "3_2088967226909171712",
+              "start": 27,
+              "url": "https://t.co/TtgnTEyjQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088967981967749383",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088967226917601280"
+          },
+          {
+            "media_key": "3_2088967226909171712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088967233078988828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teru_Ikuta: 🐏🍊✨\n\n#リクレシ https://t.co/TtgnTEyjQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088967226917601280",
+            "3_2088967226909171712"
+          ]
+        },
+        "author_id": "1577159828",
+        "conversation_id": "2088967233078988828",
+        "created_at": "2026-08-16T12:32:54.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088967233078988828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "リクレシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtgnTEyjQY",
+              "end": 34,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2088967233078988828/photo/1",
+              "media_key": "3_2088967226917601280",
+              "start": 11,
+              "url": "https://t.co/TtgnTEyjQY"
+            },
+            {
+              "display_url": "pic.x.com/TtgnTEyjQY",
+              "end": 34,
+              "expanded_url": "https://x.com/Teru_Ikuta/status/2088967233078988828/photo/1",
+              "media_key": "3_2088967226909171712",
+              "start": 11,
+              "url": "https://t.co/TtgnTEyjQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088967233078988828",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088967226917601280"
+          },
+          {
+            "media_key": "3_2088967226909171712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 932,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "🐏🍊✨\n\n#リクレシ https://t.co/TtgnTEyjQY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2088967981967749383",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 494,
+          "like_count": 15855,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-08T08:54:16.000Z",
+        "description": "Teru Ikuta ＊＊女優・声優/愛犬ぽんず 🐾　　　　　　　　　　　　　　　↓Official Fan club『POLARIS』 ✴︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "teru-ikuta.bitfan.id",
+                "end": 23,
+                "expanded_url": "https://teru-ikuta.bitfan.id/",
+                "start": 0,
+                "url": "https://t.co/p6RWh2QmZW"
+              }
+            ]
+          }
+        },
+        "id": "1577159828",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088967233078988828",
+        "name": "生田 輝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577159828/1756694908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057046583381041152/rZI06G1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81872,
+          "following_count": 878,
+          "like_count": 13760,
+          "listed_count": 2632,
+          "media_count": 5393,
+          "tweet_count": 24147
+        },
+        "url": "https://t.co/p6RWh2QmZW",
+        "username": "Teru_Ikuta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

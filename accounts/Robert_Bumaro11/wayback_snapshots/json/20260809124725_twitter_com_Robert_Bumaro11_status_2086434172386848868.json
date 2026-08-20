@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086433540326199296"
+      ],
+      "media_source_tweet_id": [
+        "2086433546131140816"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2086434172386848868",
+    "created_at": "2026-08-09T12:47:25.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086434172386848868"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 18,
+          "tag": "LuckyFes"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "リサココ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "930439312209952768",
+          "start": 3,
+          "username": "risa_tsumugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eg08tko4FD",
+          "end": 61,
+          "expanded_url": "https://x.com/risa_tsumugi/status/2086433546131140816/photo/1",
+          "media_key": "3_2086433540326199296",
+          "start": 38,
+          "url": "https://t.co/Eg08tko4FD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086434172386848868",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2086433540326199296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086433546131140816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @risa_tsumugi: #LuckyFes ＃リサココ 🤜🤛💕 https://t.co/Eg08tko4FD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2086433540326199296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSAQCKakAAtNbk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086433540326199296"
+          ]
+        },
+        "author_id": "930439312209952768",
+        "conversation_id": "2086433546131140816",
+        "created_at": "2026-08-09T12:44:56.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086433546131140816"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "LuckyFes"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "リサココ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eg08tko4FD",
+              "end": 43,
+              "expanded_url": "https://x.com/risa_tsumugi/status/2086433546131140816/photo/1",
+              "media_key": "3_2086433540326199296",
+              "start": 20,
+              "url": "https://t.co/Eg08tko4FD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086433546131140816",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086433540326199296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2050,
+          "like_count": 199,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "#LuckyFes ＃リサココ 🤜🤛💕 https://t.co/Eg08tko4FD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086433540326199296"
+          ],
+          "media_source_tweet_id": [
+            "2086433546131140816"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2086434172386848868",
+        "created_at": "2026-08-09T12:47:25.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086434172386848868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "LuckyFes"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "リサココ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "930439312209952768",
+              "start": 3,
+              "username": "risa_tsumugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eg08tko4FD",
+              "end": 61,
+              "expanded_url": "https://x.com/risa_tsumugi/status/2086433546131140816/photo/1",
+              "media_key": "3_2086433540326199296",
+              "start": 38,
+              "url": "https://t.co/Eg08tko4FD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086434172386848868",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086433540326199296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086433546131140816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @risa_tsumugi: #LuckyFes ＃リサココ 🤜🤛💕 https://t.co/Eg08tko4FD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2086434172386848868",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 495,
+          "like_count": 15322,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-11-14T14:16:33.000Z",
+        "description": "声優です𖤐˒˒ / #バンドリ RAISE A SUILEN DJ チュチュ / #D4DJ 出雲咲姫 / #アサルトリリィ 安藤鶴紗 / #FGO ロクスタ / #NIKKE モリー / #ゼンゼロ スージー etc... / 💎FC https://t.co/UmKVqUatV1 #紡木の保護者会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "アサルトリリィ"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "FGO"
+              },
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 151,
+                "start": 143,
+                "tag": "紡木の保護者会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "risatsumugi.bitfan.id",
+                "end": 142,
+                "expanded_url": "https://risatsumugi.bitfan.id/",
+                "start": 119,
+                "url": "https://t.co/UmKVqUatV1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/risa.tsumugi/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/risa.tsumugi/",
+                "start": 0,
+                "url": "https://t.co/2FGRo7SnFh"
+              }
+            ]
+          }
+        },
+        "id": "930439312209952768",
+        "is_identity_verified": false,
+        "location": "amitty所属",
+        "most_recent_tweet_id": "2086433546131140816",
+        "name": "紡木 吏佐",
+        "pinned_tweet_id": "2073421710007976214",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/930439312209952768/1749910358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884551322617401344/Ojc9lZAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222656,
+          "following_count": 470,
+          "like_count": 4364,
+          "listed_count": 2597,
+          "media_count": 696,
+          "tweet_count": 5153
+        },
+        "url": "https://t.co/2FGRo7SnFh",
+        "username": "risa_tsumugi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

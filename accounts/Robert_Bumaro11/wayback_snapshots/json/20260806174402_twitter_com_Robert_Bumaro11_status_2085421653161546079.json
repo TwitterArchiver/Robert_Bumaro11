@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085421653161546079",
+    "created_at": "2026-08-06T17:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085421653161546079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085421653161546079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "思忖我在社交上有过什么挫折。对我而言大抵从来没有将社交作为需要持续运营和改良的主动意识过，比起以目的为导向更倾向机缘巧合的被动回应。在不同时节我靠近他人亦或者他人靠近我后疏远，只是像春夏秋冬更替般的自然规律，因而对他人也从未怀有期待或怨恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085421653161546079",
+        "created_at": "2026-08-06T17:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085421653161546079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085421653161546079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思忖我在社交上有过什么挫折。对我而言大抵从来没有将社交作为需要持续运营和改良的主动意识过，比起以目的为导向更倾向机缘巧合的被动回应。在不同时节我靠近他人亦或者他人靠近我后疏远，只是像春夏秋冬更替般的自然规律，因而对他人也从未怀有期待或怨恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 494,
+          "like_count": 15108,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

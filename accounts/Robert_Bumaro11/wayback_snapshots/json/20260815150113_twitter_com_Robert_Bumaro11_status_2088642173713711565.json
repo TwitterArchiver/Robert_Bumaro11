@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2088642173713711565",
+    "created_at": "2026-08-15T15:01:13.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088642173713711565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2068325636767416320",
+          "start": 3,
+          "username": "Amegwenforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088642173713711565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088585333676089806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Amegwenforever: 唉，感觉无论是现生还是网络我都是一个很容易莫名其妙的焦虑然后自己一个人在那loop到崩溃的人。时常觉得全世界只有我过的最差…，因此无法建立现实联系也无法融入网络社群/圈子，看到别人好幸福就控制不住的嫉妒然后痛恨自己为何什么都没有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2088642173713711565",
+        "created_at": "2026-08-15T15:01:13.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088642173713711565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2068325636767416320",
+              "start": 3,
+              "username": "Amegwenforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088642173713711565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088585333676089806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Amegwenforever: 唉，感觉无论是现生还是网络我都是一个很容易莫名其妙的焦虑然后自己一个人在那loop到崩溃的人。时常觉得全世界只有我过的最差…，因此无法建立现实联系也无法融入网络社群/圈子，看到别人好幸福就控制不住的嫉妒然后痛恨自己为何什么都没有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068325636767416320",
+        "conversation_id": "2088585333676089806",
+        "created_at": "2026-08-15T11:15:22.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088585333676089806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088585333676089806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "唉，感觉无论是现生还是网络我都是一个很容易莫名其妙的焦虑然后自己一个人在那loop到崩溃的人。时常觉得全世界只有我过的最差…，因此无法建立现实联系也无法融入网络社群/圈子，看到别人好幸福就控制不住的嫉妒然后痛恨自己为何什么都没有。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2088642173713711565",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 493,
+          "like_count": 15822,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-20T13:31:44.000Z",
+        "description": "Amelia, but call me Ame.\n本号现在是Gwen在使用 @Mandykwko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "Mandykwko"
+              }
+            ]
+          }
+        },
+        "id": "2068325636767416320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088633001576128948",
+        "name": "也愿与你畅游战地",
+        "pinned_tweet_id": "2087914211590746523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068325636767416320/1781963726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079911385849532416/rzY6EsKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 33,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "Amegwenforever",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

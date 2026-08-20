@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085688272974651787",
+    "created_at": "2026-08-07T11:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085688272974651787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1824119613162139648",
+          "start": 3,
+          "username": "void__empress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085688272974651787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085687989108453742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @void__empress: 自从看过各种牛鬼蛇神了之后，现在看意识形态的崇高客体，反而觉得哇，太通俗了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085688272974651787",
+        "created_at": "2026-08-07T11:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085688272974651787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1824119613162139648",
+              "start": 3,
+              "username": "void__empress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085688272974651787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085687989108453742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @void__empress: 自从看过各种牛鬼蛇神了之后，现在看意识形态的崇高客体，反而觉得哇，太通俗了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824119613162139648",
+        "conversation_id": "2085686437618528577",
+        "created_at": "2026-08-07T11:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085687989108453742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085687989108453742",
+        "in_reply_to_user_id": "1824119613162139648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085686437618528577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自从看过各种牛鬼蛇神了之后，现在看意识形态的崇高客体，反而觉得哇，太通俗了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 494,
+          "like_count": 15156,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:23:09.000Z",
+        "description": "2006/sdu/cs相关专业/备战考研中/半个哲b/自我定位左人/思想混乱/fiche-hegel/",
+        "id": "1824119613162139648",
+        "location": "第七星界",
+        "name": "资本家（恩师罗龙飞，白柳元）",
+        "pinned_tweet_id": "2067293416694923490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042842369440272384/PHRXjLTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 714,
+          "like_count": 10321,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 4481
+        },
+        "url": "",
+        "username": "void__empress",
+        "verified": false
+      }
+    ]
+  }
+}

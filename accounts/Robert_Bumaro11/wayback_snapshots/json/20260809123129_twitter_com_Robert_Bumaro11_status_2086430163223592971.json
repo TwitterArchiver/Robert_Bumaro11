@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2086430163223592971",
+    "created_at": "2026-08-09T12:31:29.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086430163223592971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1667792526445780992",
+          "start": 3,
+          "username": "Midnight_Pigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086430163223592971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086427592840884439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Midnight_Pigeon: 心情不好的时候就会喝酒，虽然不能帮我遗忘但缓冲一下也好。\n为什么这世间有那么多苦难，又为什么要降临到朋友的身上……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2086430163223592971",
+        "created_at": "2026-08-09T12:31:29.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086430163223592971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1667792526445780992",
+              "start": 3,
+              "username": "Midnight_Pigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086430163223592971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086427592840884439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Midnight_Pigeon: 心情不好的时候就会喝酒，虽然不能帮我遗忘但缓冲一下也好。\n为什么这世间有那么多苦难，又为什么要降临到朋友的身上……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667792526445780992",
+        "conversation_id": "2086427592840884439",
+        "created_at": "2026-08-09T12:21:16.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086427592840884439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086427592840884439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心情不好的时候就会喝酒，虽然不能帮我遗忘但缓冲一下也好。\n为什么这世间有那么多苦难，又为什么要降临到朋友的身上……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2086430163223592971",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 494,
+          "like_count": 15321,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-11T07:15:05.000Z",
+        "description": "小提琴手，开发者，创作者，调查员 | 犹格索托斯的浅信徒 | 中文&EN, (РЯ&日本語) \n在新加坡上学。有很多猫。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "midnightpigeon.github.io",
+                "end": 23,
+                "expanded_url": "https://midnightpigeon.github.io/",
+                "start": 0,
+                "url": "https://t.co/ga64pDPLh2"
+              }
+            ]
+          }
+        },
+        "id": "1667792526445780992",
+        "is_identity_verified": false,
+        "location": "天空の城ラピュタ",
+        "most_recent_tweet_id": "2086427592840884439",
+        "name": "深夜",
+        "pinned_tweet_id": "2030174121557135695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667792526445780992/1755613262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726467606180474880/5d-QHXIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 129,
+          "like_count": 11324,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/ga64pDPLh2",
+        "username": "Midnight_Pigeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

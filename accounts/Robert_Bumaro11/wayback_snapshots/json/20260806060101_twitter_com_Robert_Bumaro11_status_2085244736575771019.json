@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085244736575771019",
+    "created_at": "2026-08-06T06:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085244736575771019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2085214308754239488",
+          "start": 3,
+          "username": "yonakimnw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085244736575771019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085234639866916987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yonakimnw: 上一世三百多互fo 全沒了马斯克我恨你。。求推油帮寻回，转的每位5.2r感谢🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085244736575771019",
+        "created_at": "2026-08-06T06:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085244736575771019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2085214308754239488",
+              "start": 3,
+              "username": "yonakimnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085244736575771019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085234639866916987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yonakimnw: 上一世三百多互fo 全沒了马斯克我恨你。。求推油帮寻回，转的每位5.2r感谢🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085214308754239488",
+        "conversation_id": "2085234639866916987",
+        "created_at": "2026-08-06T05:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085234639866916987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085234639866916987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "上一世三百多互fo 全沒了马斯克我恨你。。求推油帮寻回，转的每位5.2r感谢🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 494,
+          "like_count": 15036,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-06T04:06:12.000Z",
+        "description": "mnweeper 3.0 寻回互关中\nINFP 4w5 enby/agender 06已成年 \n抑焦cptsd asd 自傷 LGBTQIA+全友好🏳️‍🌈 \n一些自言自語。",
+        "id": "2085214308754239488",
+        "location": "死亡就是天堂",
+        "name": "mnw3eper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085215985997660160/RbPnwnWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "yonakimnw",
+        "verified": false
+      }
+    ]
+  }
+}

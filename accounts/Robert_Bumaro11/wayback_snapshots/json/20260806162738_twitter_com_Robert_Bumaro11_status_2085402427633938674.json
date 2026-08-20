@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085402427633938674",
+    "created_at": "2026-08-06T16:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085402427633938674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455723910574575622",
+          "start": 3,
+          "username": "xerecralina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085402427633938674",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11018
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084854476968460345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xerecralina: nao queria ter gênero nem sexualidade meu sonho ser uma agua viva na beira de praia dando choque nas perna de quem passa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085402427633938674",
+        "created_at": "2026-08-06T16:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085402427633938674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455723910574575622",
+              "start": 3,
+              "username": "xerecralina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085402427633938674",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11018
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084854476968460345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xerecralina: nao queria ter gênero nem sexualidade meu sonho ser uma agua viva na beira de praia dando choque nas perna de quem passa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455723910574575622",
+        "conversation_id": "2084854476968460345",
+        "created_at": "2026-08-05T04:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084854476968460345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084854476968460345",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 933,
+          "impression_count": 349426,
+          "like_count": 31580,
+          "quote_count": 413,
+          "reply_count": 81,
+          "retweet_count": 11018
+        },
+        "reply_settings": "everyone",
+        "text": "nao queria ter gênero nem sexualidade meu sonho ser uma agua viva na beira de praia dando choque nas perna de quem passa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 494,
+          "like_count": 15099,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T02:30:13.000Z",
+        "description": "she/her |  nerd only into music because academically dumber than a door|",
+        "id": "1455723910574575622",
+        "location": "itapesiririca da serra,brasil",
+        "name": "nini 🐍",
+        "pinned_tweet_id": "2022340444450173153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079706896466935808/SbzekqVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 849,
+          "like_count": 36170,
+          "listed_count": 1,
+          "media_count": 1327,
+          "tweet_count": 17042
+        },
+        "url": "",
+        "username": "xerecralina",
+        "verified": false
+      }
+    ]
+  }
+}

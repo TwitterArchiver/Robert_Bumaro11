@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088212108509134848"
+      ],
+      "media_source_tweet_id": [
+        "2088212113949069561"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2088245344958316845",
+    "created_at": "2026-08-14T12:44:22.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088245344958316845"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 19,
+          "tag": "リプ来たキャラに自分の私服を着せる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1240121585232687105",
+          "start": 3,
+          "username": "Mimino_Courou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mju3MsQ4xc",
+          "end": 69,
+          "expanded_url": "https://x.com/Mimino_Courou/status/2088212113949069561/photo/1",
+          "media_key": "3_2088212108509134848",
+          "start": 46,
+          "url": "https://t.co/mju3MsQ4xc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088245344958316845",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088212108509134848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088212113949069561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mimino_Courou: #リプ来たキャラに自分の私服を着せる \n摩多羅隠岐奈 https://t.co/mju3MsQ4xc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088212108509134848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrR2U9bQAAVyCF.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088212108509134848"
+          ]
+        },
+        "author_id": "1240121585232687105",
+        "conversation_id": "2088212113949069561",
+        "created_at": "2026-08-14T10:32:19.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088212113949069561"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "リプ来たキャラに自分の私服を着せる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mju3MsQ4xc",
+              "end": 50,
+              "expanded_url": "https://x.com/Mimino_Courou/status/2088212113949069561/photo/1",
+              "media_key": "3_2088212108509134848",
+              "start": 27,
+              "url": "https://t.co/mju3MsQ4xc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088212113949069561",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088212108509134848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1575,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#リプ来たキャラに自分の私服を着せる \n摩多羅隠岐奈 https://t.co/mju3MsQ4xc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088212108509134848"
+          ],
+          "media_source_tweet_id": [
+            "2088212113949069561"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2088245344958316845",
+        "created_at": "2026-08-14T12:44:22.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088245344958316845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 19,
+              "tag": "リプ来たキャラに自分の私服を着せる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1240121585232687105",
+              "start": 3,
+              "username": "Mimino_Courou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mju3MsQ4xc",
+              "end": 69,
+              "expanded_url": "https://x.com/Mimino_Courou/status/2088212113949069561/photo/1",
+              "media_key": "3_2088212108509134848",
+              "start": 46,
+              "url": "https://t.co/mju3MsQ4xc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088245344958316845",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088212108509134848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088212113949069561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mimino_Courou: #リプ来たキャラに自分の私服を着せる \n摩多羅隠岐奈 https://t.co/mju3MsQ4xc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2088245344958316845",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 494,
+          "like_count": 15688,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-18T03:50:02.000Z",
+        "description": "みみしぇん/好きなものを描く！ みことじふと せいよし レミ咲 蓬莱人形 秘封",
+        "id": "1240121585232687105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088213313692078177",
+        "name": "魅々しぇん",
+        "pinned_tweet_id": "2072276098013155594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240121585232687105/1786419458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072277077886464000/qb2D81Zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 126,
+          "like_count": 14896,
+          "listed_count": 14,
+          "media_count": 155,
+          "tweet_count": 3797
+        },
+        "url": "",
+        "username": "Mimino_Courou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

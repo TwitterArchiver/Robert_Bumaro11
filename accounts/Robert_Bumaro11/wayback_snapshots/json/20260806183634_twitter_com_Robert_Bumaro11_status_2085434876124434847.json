@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2085433190068760609",
+    "created_at": "2026-08-06T18:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085434876124434847"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085434876124434847",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085433190068760609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那种体验类似“被看见了”“被盯上了”。我每次看到形若无事生活着的他人都感觉自己在边缘之外，不再能与常识共融，*世界上一切言辞绕过了你*"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085433190068760609",
+        "created_at": "2026-08-06T18:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085434876124434847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085434876124434847",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085433190068760609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那种体验类似“被看见了”“被盯上了”。我每次看到形若无事生活着的他人都感觉自己在边缘之外，不再能与常识共融，*世界上一切言辞绕过了你*"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2085433190068760609",
+        "created_at": "2026-08-06T18:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085433190068760609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2085414345547317673",
+              "start": 141,
+              "url": "https://t.co/EzhHhxrBT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085433190068760609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085414345547317673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次在学校被毫无缘由地肢体攻击后，正如那一日我亲眼目睹了罪恶，自己也被霉菌般的莫名的恶传染、纠缠抑或追赶，身边没有人相信在那平平无奇的暴力里我感受到的莫大的恐惧。\n我的世界因此被蒙上某种阴霾，自身的无可救药自身的罪恶无比真实地降临并触碰到了我的心灵，它抹除了我自洽地生存的信念 https://t.co/EzhHhxrBT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 494,
+          "like_count": 15111,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

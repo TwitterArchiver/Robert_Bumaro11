@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2089640430543798420",
+    "created_at": "2026-08-18T09:07:56.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089640430543798420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078492443889094656",
+          "start": 3,
+          "username": "7nxyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089640430543798420",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089334896674152715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7nxyan: nobody cares about your mental health until it turns into anger and then everyone sees you as a bad person"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2089640430543798420",
+        "created_at": "2026-08-18T09:07:56.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089640430543798420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078492443889094656",
+              "start": 3,
+              "username": "7nxyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089640430543798420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089334896674152715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7nxyan: nobody cares about your mental health until it turns into anger and then everyone sees you as a bad person"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078492443889094656",
+        "conversation_id": "2089334896674152715",
+        "created_at": "2026-08-17T12:53:51.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089334896674152715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089334896674152715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5305,
+          "impression_count": 1148525,
+          "like_count": 96870,
+          "quote_count": 1109,
+          "reply_count": 230,
+          "retweet_count": 26159
+        },
+        "reply_settings": "everyone",
+        "text": "nobody cares about your mental health until it turns into anger and then everyone sees you as a bad person"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2089640430543798420",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 495,
+          "like_count": 15991,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T14:55:11.000Z",
+        "description": "priv acc : @77nxyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "77nxyan"
+              }
+            ]
+          }
+        },
+        "id": "2078492443889094656",
+        "is_identity_verified": false,
+        "location": "bmi 18",
+        "most_recent_tweet_id": "2089639460585509102",
+        "name": "𓏵",
+        "pinned_tweet_id": "2087525394882695437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078492443889094656/1786960867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089291376882036738/pgmDtGkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 827,
+          "like_count": 1322,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "7nxyan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

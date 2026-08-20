@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2089746435105571177",
+    "created_at": "2026-08-18T16:09:10.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089746435105571177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 3,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089746435105571177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089036830880784713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @200x0x1x: 我的心态就和圣特蕾莎一样。我认为我的身体就是为了被神圣者碾碎而诞生的。不是被恩典拯救、充盈。而是直接的献祭，碾压，四分五裂。之所以永恒回归会让我感觉到战栗，其实是因为我想被神圣者刺穿、碾碎。这也是一种阿里阿德涅式的处境。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2089746435105571177",
+        "created_at": "2026-08-18T16:09:10.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089746435105571177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089746435105571177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089036830880784713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @200x0x1x: 我的心态就和圣特蕾莎一样。我认为我的身体就是为了被神圣者碾碎而诞生的。不是被恩典拯救、充盈。而是直接的献祭，碾压，四分五裂。之所以永恒回归会让我感觉到战栗，其实是因为我想被神圣者刺穿、碾碎。这也是一种阿里阿德涅式的处境。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2089036830880784713",
+        "created_at": "2026-08-16T17:09:27.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:06:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089036160102461923",
+          "2089036830880784713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089036830880784713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2359,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的心态就和圣特蕾莎一样。我认为我的身体就是为了被神圣者碾碎而诞生的。不是被恩典拯救、充盈。而是直接的献祭，碾压，四分五裂。之所以永恒回归会让我感觉到战栗，其实是因为我想被神圣者刺穿、碾碎。这也是一种阿里阿德涅式的处境。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2089746435105571177",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 493,
+          "like_count": 16036,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUPL07"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "is_identity_verified": false,
+        "location": "UChicago",
+        "most_recent_tweet_id": "2089745706026471607",
+        "name": "你们毁了一个萌系的女孩",
+        "pinned_tweet_id": "2088605362836647952",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438420916518539267/1781583624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089742435543142400/aMFxE1hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 682,
+          "like_count": 29271,
+          "listed_count": 10,
+          "media_count": 2573,
+          "tweet_count": 28419
+        },
+        "url": "https://t.co/OblpvUPL07",
+        "username": "200x0x1x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

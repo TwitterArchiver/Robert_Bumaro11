@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2088507910943051969",
+    "created_at": "2026-08-15T06:07:43.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088507910943051969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2075153569247064064",
+          "start": 3,
+          "username": "tinydancer535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088507910943051969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088506092783538618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tinydancer535: 我一点都不在意用药安全的原因是如果杀死百分之百的自己对我来说有点不容易 但是如果把灵魂从身体里一点点杀死的话最后只要轻松地结尾就好了 我会用最后一点醒着的意识去commit的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2088507910943051969",
+        "created_at": "2026-08-15T06:07:43.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088507910943051969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2075153569247064064",
+              "start": 3,
+              "username": "tinydancer535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088507910943051969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088506092783538618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tinydancer535: 我一点都不在意用药安全的原因是如果杀死百分之百的自己对我来说有点不容易 但是如果把灵魂从身体里一点点杀死的话最后只要轻松地结尾就好了 我会用最后一点醒着的意识去commit的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075153569247064064",
+        "conversation_id": "2088506092783538618",
+        "created_at": "2026-08-15T06:00:29.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088506092783538618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088506092783538618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一点都不在意用药安全的原因是如果杀死百分之百的自己对我来说有点不容易 但是如果把灵魂从身体里一点点杀死的话最后只要轻松地结尾就好了 我会用最后一点醒着的意识去commit的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2088507910943051969",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 495,
+          "like_count": 15762,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T10:06:01.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ally｜精神疾患｜popipapapipopa!｜发言仅代表我自己",
+        "id": "2075153569247064064",
+        "is_identity_verified": false,
+        "location": "直fo=喜欢你",
+        "most_recent_tweet_id": "2088506579045998660",
+        "name": "惑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075153569247064064/1785589909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075159740360073216/rXF84SKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 128,
+          "like_count": 4582,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "tinydancer535",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

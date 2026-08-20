@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2086806948268343781",
+    "created_at": "2026-08-10T13:28:42.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086806948268343781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1123385386363969536",
+          "start": 3,
+          "username": "yozuha15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086806948268343781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086492269360869862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yozuha15: 你好，我已经前额叶受损了，可以不要这么欺负我吗？我赚钱的目的就是为了治疗我的前额叶。可以，以后不要再说这么难懂的东西吗？我看不懂，我不知道你在说什么，完全听不懂。希望我可以凑够钱治疗我的前额叶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2086806948268343781",
+        "created_at": "2026-08-10T13:28:42.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086806948268343781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1123385386363969536",
+              "start": 3,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086806948268343781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086492269360869862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yozuha15: 你好，我已经前额叶受损了，可以不要这么欺负我吗？我赚钱的目的就是为了治疗我的前额叶。可以，以后不要再说这么难懂的东西吗？我看不懂，我不知道你在说什么，完全听不懂。希望我可以凑够钱治疗我的前额叶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1123385386363969536",
+        "conversation_id": "2086492269360869862",
+        "created_at": "2026-08-09T16:38:16.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086492269360869862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086492269360869862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 667,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我已经前额叶受损了，可以不要这么欺负我吗？我赚钱的目的就是为了治疗我的前额叶。可以，以后不要再说这么难懂的东西吗？我看不懂，我不知道你在说什么，完全听不懂。希望我可以凑够钱治疗我的前额叶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2086806948268343781",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 495,
+          "like_count": 15389,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-01T00:35:22.000Z",
+        "description": "=鱼子酱   水豚转发bot，本体是水豚‖虎鲸性恋月性恋三文鱼性恋‖真的不会写代码‖不懂二次元的美妙的人永别了",
+        "id": "1123385386363969536",
+        "is_identity_verified": false,
+        "location": "外太空✨",
+        "most_recent_tweet_id": "2086785309266804855",
+        "name": "讴歌终结之物",
+        "pinned_tweet_id": "2063606076680110262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123385386363969536/1657708112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083467574768230401/BSWutOQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 1614,
+          "like_count": 10337,
+          "listed_count": 10,
+          "media_count": 1631,
+          "tweet_count": 16452
+        },
+        "url": "",
+        "username": "yozuha15",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084321666969284608"
+      ],
+      "media_source_tweet_id": [
+        "2084321673155911928"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084635301893517573",
+    "created_at": "2026-08-04T13:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084635301893517573"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 17,
+          "tag": "limbuscompany"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "림버스"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2079170673935847424",
+          "start": 3,
+          "username": "yut303"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j12DFiuaSl",
+          "end": 60,
+          "expanded_url": "https://x.com/yut303/status/2084321673155911928/photo/1",
+          "media_key": "3_2084321666969284608",
+          "start": 37,
+          "url": "https://t.co/j12DFiuaSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084635301893517573",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084321673155911928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yut303: 돈아가 \n#limbuscompany #림버스 https://t.co/j12DFiuaSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3124,
+        "media_key": "3_2084321666969284608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz_g01asAAoFe1.jpg",
+        "width": 3006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084321666969284608"
+          ]
+        },
+        "author_id": "2079170673935847424",
+        "conversation_id": "2084321673155911928",
+        "created_at": "2026-08-03T16:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084321673155911928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 5,
+              "tag": "limbuscompany"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "림버스"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j12DFiuaSl",
+              "end": 48,
+              "expanded_url": "https://x.com/yut303/status/2084321673155911928/photo/1",
+              "media_key": "3_2084321666969284608",
+              "start": 25,
+              "url": "https://t.co/j12DFiuaSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084321673155911928",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 5579,
+          "like_count": 1090,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "돈아가 \n#limbuscompany #림버스 https://t.co/j12DFiuaSl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084321666969284608"
+          ],
+          "media_source_tweet_id": [
+            "2084321673155911928"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084635301893517573",
+        "created_at": "2026-08-04T13:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084635301893517573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "limbuscompany"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "림버스"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2079170673935847424",
+              "start": 3,
+              "username": "yut303"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j12DFiuaSl",
+              "end": 60,
+              "expanded_url": "https://x.com/yut303/status/2084321673155911928/photo/1",
+              "media_key": "3_2084321666969284608",
+              "start": 37,
+              "url": "https://t.co/j12DFiuaSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084635301893517573",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084321673155911928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yut303: 돈아가 \n#limbuscompany #림버스 https://t.co/j12DFiuaSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 491,
+          "like_count": 14955,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T11:52:23.000Z",
+        "description": "",
+        "id": "2079170673935847424",
+        "name": "윺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079172908107390976/F0k7_RVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "yut303",
+        "verified": false
+      }
+    ]
+  }
+}

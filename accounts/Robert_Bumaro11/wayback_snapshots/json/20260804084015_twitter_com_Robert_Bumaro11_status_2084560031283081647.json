@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084560031283081647",
+    "created_at": "2026-08-04T08:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084560031283081647"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084560031283081647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该关心我自己。但是关心我的眼胜于关心耳，关心舌胜于关心鼻？无论如何总有一部分的身体被忽视，而我的心灵生成的最炽烈的恨意将会加冕在我最忽视的一部分。我相信听惯了关心的谎言的它宁愿将整个生命拉下水以报复自己承受的一切。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084560031283081647",
+        "created_at": "2026-08-04T08:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084560031283081647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084560031283081647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该关心我自己。但是关心我的眼胜于关心耳，关心舌胜于关心鼻？无论如何总有一部分的身体被忽视，而我的心灵生成的最炽烈的恨意将会加冕在我最忽视的一部分。我相信听惯了关心的谎言的它宁愿将整个生命拉下水以报复自己承受的一切。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 490,
+          "like_count": 14930,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

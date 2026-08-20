@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2086445077896053048",
+    "created_at": "2026-08-09T13:30:45.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086445077896053048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938700030539399168",
+          "start": 3,
+          "username": "leo_osn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086445077896053048",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086199673337901188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leo_osn5: me meto a twitter, hablo solo, me voy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086445077896053048",
+        "created_at": "2026-08-09T13:30:45.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086445077896053048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938700030539399168",
+              "start": 3,
+              "username": "leo_osn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086445077896053048",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086199673337901188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leo_osn5: me meto a twitter, hablo solo, me voy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938700030539399168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086199673337901188",
+        "created_at": "2026-08-08T21:15:36.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T22:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086199673337901188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086199673337901188",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 239622,
+          "like_count": 11735,
+          "quote_count": 336,
+          "reply_count": 48,
+          "retweet_count": 6183
+        },
+        "reply_settings": "everyone",
+        "text": "me meto a twitter, hablo solo, me voy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2086445077896053048",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 495,
+          "like_count": 15326,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T20:52:02.000Z",
+        "description": "Dentist\n\n🇸🇾🇦🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/leo_omn5/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/leo_omn5/",
+                "start": 0,
+                "url": "https://t.co/2uH70JYjVp"
+              }
+            ]
+          }
+        },
+        "id": "1938700030539399168",
+        "is_identity_verified": false,
+        "location": "B.S",
+        "most_recent_tweet_id": "2086287592719302711",
+        "name": "Leo",
+        "pinned_tweet_id": "2082634337065767366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938700030539399168/1768104775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086289024898027520/ZXRUphuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8960,
+          "following_count": 2443,
+          "like_count": 32451,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 2793
+        },
+        "url": "https://t.co/2uH70JYjVp",
+        "username": "leo_osn5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

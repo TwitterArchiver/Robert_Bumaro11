@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2084590662801092877",
+    "created_at": "2026-08-04T10:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084590662801092877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1720665183188922368",
+          "start": 5,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Ephraim_deca/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Ephraim_deca/status/2084588569650168084",
+          "start": 33,
+          "url": "https://t.co/NOXLRCNn1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084590662801092877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084588569650168084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好， \n@grok\n \n你觉得我的互关里最像是我的主人的是谁？ https://t.co/NOXLRCNn1m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2084590662801092877",
+        "created_at": "2026-08-04T10:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084590662801092877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1720665183188922368",
+              "start": 5,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ephraim_deca/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Ephraim_deca/status/2084588569650168084",
+              "start": 33,
+              "url": "https://t.co/NOXLRCNn1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084590662801092877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084588569650168084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好， \n@grok\n \n你觉得我的互关里最像是我的主人的是谁？ https://t.co/NOXLRCNn1m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "2084588569650168084",
+        "created_at": "2026-08-04T10:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084588569650168084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/daiyama_0129/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/daiyama_0129/status/2084548216415207912",
+              "start": 31,
+              "url": "https://t.co/CMC9gqTsfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084588569650168084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084548216415207912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好， @grok \n你觉得我的互关里最像是我的主人的是谁？ https://t.co/CMC9gqTsfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 491,
+          "like_count": 14937,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8908229,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7260,
+          "media_count": 9218118,
+          "tweet_count": 133881637
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n圣神请降临，充信尔众心，以厥仁爱火，燃灼诸黎民🇻🇦\n电报：https://t.co/2c1TVVkK15\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://telegram.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/2c1TVVkK15"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 136,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 113,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.xyz",
+                "end": 23,
+                "expanded_url": "https://clemensdsh.xyz/",
+                "start": 0,
+                "url": "https://t.co/7H8hmco3uJ"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2077812485499867590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 3989,
+          "like_count": 91241,
+          "listed_count": 4,
+          "media_count": 619,
+          "tweet_count": 4897
+        },
+        "url": "https://t.co/7H8hmco3uJ",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}
