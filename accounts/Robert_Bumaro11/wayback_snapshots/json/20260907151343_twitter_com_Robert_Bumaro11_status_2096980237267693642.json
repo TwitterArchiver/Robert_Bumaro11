@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2096973281731723333",
+    "created_at": "2026-09-07T15:13:43.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096980237267693642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417446435700625414",
+          "start": 0,
+          "username": "Aasuka_kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096980237267693642",
+    "in_reply_to_user_id": "1417446435700625414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096978455061819410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aasuka_kkk 我吃了三颗容量可疑的装了普瑞原粉的胶囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2096973281731723333",
+        "created_at": "2026-09-07T15:13:43.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096980237267693642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417446435700625414",
+              "start": 0,
+              "username": "Aasuka_kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096980237267693642",
+        "in_reply_to_user_id": "1417446435700625414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096978455061819410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aasuka_kkk 我吃了三颗容量可疑的装了普瑞原粉的胶囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417446435700625414",
+        "conversation_id": "2096973281731723333",
+        "created_at": "2026-09-07T15:06:38.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096978455061819410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096978455061819410",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096973281731723333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 药效跑到我身上来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2096980237267693642",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 501,
+          "like_count": 17469,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-20T11:29:09.000Z",
+        "description": "现在立刻死掉就不会再感受到痛苦了对吧",
+        "id": "1417446435700625414",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096978455061819410",
+        "name": "AASuKa",
+        "pinned_tweet_id": "2047544704691265555",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417446435700625414/1780517574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057641568421720064/G6VSqD4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 30,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "Aasuka_kkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

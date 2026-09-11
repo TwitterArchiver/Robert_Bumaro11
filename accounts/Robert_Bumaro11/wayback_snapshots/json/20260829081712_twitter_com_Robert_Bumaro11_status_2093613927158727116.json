@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2093613927158727116",
+    "created_at": "2026-08-29T08:17:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093613927158727116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "313885927",
+          "start": 3,
+          "username": "CardRavasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093613927158727116",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093264071306920168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CardRavasi: Mi ha sempre colpito una frase che lessi tempo fa nei “Diari” dello scrittore francese André Gide: «Il numero di stupidaggi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2093613927158727116",
+        "created_at": "2026-08-29T08:17:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093613927158727116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "313885927",
+              "start": 3,
+              "username": "CardRavasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093613927158727116",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093264071306920168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CardRavasi: Mi ha sempre colpito una frase che lessi tempo fa nei “Diari” dello scrittore francese André Gide: «Il numero di stupidaggi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "313885927",
+        "conversation_id": "2093264071306920168",
+        "created_at": "2026-08-28T09:07:00.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093264071306920168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093264071306920168",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5649,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Mi ha sempre colpito una frase che lessi tempo fa nei “Diari” dello scrittore francese André Gide: «Il numero di stupidaggini che una persona intelligente può dire in un giorno è incredibile. E senza dubbio ne direi anch'io tante come gli altri, se non tacessi più spesso»."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2093613927158727116",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 496,
+          "like_count": 16885,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-06-09T11:19:10.000Z",
+        "description": "Presidente emerito del Pontificio Consiglio della Cultura; Fondatore del @cortiledeigenti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "cortiledeigenti"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cortiledeigentili.com",
+                "end": 23,
+                "expanded_url": "http://www.cortiledeigentili.com",
+                "start": 0,
+                "url": "https://t.co/KqZt1PL6Gh"
+              }
+            ]
+          }
+        },
+        "id": "313885927",
+        "is_identity_verified": false,
+        "location": "Vaticano",
+        "most_recent_tweet_id": "2093264071306920168",
+        "name": "Card. Gianfranco Ravasi",
+        "pinned_tweet_id": "2027334685378924576",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659126324034772992/ktCrkPxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121673,
+          "following_count": 184,
+          "like_count": 118,
+          "listed_count": 874,
+          "media_count": 369,
+          "tweet_count": 6361
+        },
+        "url": "https://t.co/KqZt1PL6Gh",
+        "username": "CardRavasi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

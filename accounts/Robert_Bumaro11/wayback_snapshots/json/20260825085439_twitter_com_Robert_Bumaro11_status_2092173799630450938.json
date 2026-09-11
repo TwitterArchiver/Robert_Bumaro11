@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2092173799630450938",
+    "created_at": "2026-08-25T08:54:39.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092173799630450938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1545206212559503365",
+          "start": 3,
+          "username": "bourdonfromage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092173799630450938",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092003773749047796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bourdonfromage: À partir de cb de personnes dans le polycule on peut faire un syndicat ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2092173799630450938",
+        "created_at": "2026-08-25T08:54:39.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092173799630450938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1545206212559503365",
+              "start": 3,
+              "username": "bourdonfromage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092173799630450938",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092003773749047796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bourdonfromage: À partir de cb de personnes dans le polycule on peut faire un syndicat ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545206212559503365",
+        "conversation_id": "2092003773749047796",
+        "created_at": "2026-08-24T21:39:01.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092003773749047796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amibe2cerveau/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/amibe2cerveau/status/2091885201815207953",
+              "start": 73,
+              "url": "https://t.co/ar8f0218Mp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092003773749047796",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15086,
+          "like_count": 854,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091885201815207953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "À partir de cb de personnes dans le polycule on peut faire un syndicat ? https://t.co/ar8f0218Mp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2092173799630450938",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 500,
+          "like_count": 16633,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T00:41:03.000Z",
+        "description": "clopi-clopa",
+        "id": "1545206212559503365",
+        "is_identity_verified": false,
+        "location": "⚣🇲🇬☭",
+        "most_recent_tweet_id": "2092171760032473461",
+        "name": "Axelito 👹",
+        "pinned_tweet_id": "2065449709804691490",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545206212559503365/1689701548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049535536285786112/VZUIna-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 454,
+          "like_count": 19138,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 5236
+        },
+        "url": "",
+        "username": "bourdonfromage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

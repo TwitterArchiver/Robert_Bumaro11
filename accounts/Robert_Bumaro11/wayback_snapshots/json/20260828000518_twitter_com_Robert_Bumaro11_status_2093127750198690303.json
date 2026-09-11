@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2093127750198690303",
+    "created_at": "2026-08-28T00:05:18.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093127750198690303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "760845942618591232",
+          "start": 3,
+          "username": "CarrierVessels9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093127750198690303",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093125058592170421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarrierVessels9: 救救孩子，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2093127750198690303",
+        "created_at": "2026-08-28T00:05:18.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093127750198690303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "760845942618591232",
+              "start": 3,
+              "username": "CarrierVessels9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093127750198690303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093125058592170421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CarrierVessels9: 救救孩子，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760845942618591232",
+        "conversation_id": "2093125058592170421",
+        "created_at": "2026-08-27T23:54:37.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T00:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093125058592170421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093125058592170421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "救救孩子，，，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2093127750198690303",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 495,
+          "like_count": 16788,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-03T14:33:03.000Z",
+        "description": "衰退",
+        "id": "760845942618591232",
+        "is_identity_verified": false,
+        "location": "sol III",
+        "most_recent_tweet_id": "2093125058592170421",
+        "name": "饺子",
+        "pinned_tweet_id": "1842245729529872536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760845942618591232/1553608622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888596968584462336/_VAhum-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1492,
+          "like_count": 386002,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 24932
+        },
+        "url": "",
+        "username": "CarrierVessels9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

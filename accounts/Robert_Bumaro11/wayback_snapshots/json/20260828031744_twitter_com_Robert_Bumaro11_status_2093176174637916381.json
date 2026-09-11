@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092958462632484864"
+      ],
+      "media_source_tweet_id": [
+        "2092958471054672332"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2093176174637916381",
+    "created_at": "2026-08-28T03:17:44.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093176174637916381"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 19,
+          "tag": "toho_vote22"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "摩多羅隠岐奈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1402265133716496394",
+          "start": 3,
+          "username": "NinthOriginal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cUGSEHGyuw",
+          "end": 63,
+          "expanded_url": "https://x.com/NinthOriginal/status/2092958471054672332/photo/1",
+          "media_key": "3_2092958462632484864",
+          "start": 40,
+          "url": "https://t.co/cUGSEHGyuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093176174637916381",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2092958462632484864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092958471054672332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NinthOriginal: #toho_vote22 #摩多羅隠岐奈 https://t.co/cUGSEHGyuw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2092958462632484864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuuof7bYAAbj1U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092958462632484864"
+          ],
+          "media_source_tweet_id": [
+            "2092958471054672332"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2093176174637916381",
+        "created_at": "2026-08-28T03:17:44.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093176174637916381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "toho_vote22"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "摩多羅隠岐奈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1402265133716496394",
+              "start": 3,
+              "username": "NinthOriginal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUGSEHGyuw",
+              "end": 63,
+              "expanded_url": "https://x.com/NinthOriginal/status/2092958471054672332/photo/1",
+              "media_key": "3_2092958462632484864",
+              "start": 40,
+              "url": "https://t.co/cUGSEHGyuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093176174637916381",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092958462632484864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092958471054672332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NinthOriginal: #toho_vote22 #摩多羅隠岐奈 https://t.co/cUGSEHGyuw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092958462632484864"
+          ]
+        },
+        "author_id": "1402265133716496394",
+        "conversation_id": "2092958471054672332",
+        "created_at": "2026-08-27T12:52:39.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092958471054672332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "toho_vote22"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "摩多羅隠岐奈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUGSEHGyuw",
+              "end": 44,
+              "expanded_url": "https://x.com/NinthOriginal/status/2092958471054672332/photo/1",
+              "media_key": "3_2092958462632484864",
+              "start": 21,
+              "url": "https://t.co/cUGSEHGyuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092958471054672332",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092958462632484864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 5686,
+          "like_count": 641,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "#toho_vote22 #摩多羅隠岐奈 https://t.co/cUGSEHGyuw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2093176174637916381",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 495,
+          "like_count": 16796,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-08T14:04:03.000Z",
+        "description": "絵を描くのが大好き \nCommissions: https://t.co/LYRV8vItAK\ndeviantart ：https://t.co/bHojfBsDNO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "VGen.co/NinthOriginal",
+                "end": 47,
+                "expanded_url": "http://VGen.co/NinthOriginal",
+                "start": 24,
+                "url": "https://t.co/LYRV8vItAK"
+              },
+              {
+                "display_url": "deviantart.com/sukiyaki9origi…",
+                "end": 83,
+                "expanded_url": "https://www.deviantart.com/sukiyaki9original",
+                "start": 60,
+                "url": "https://t.co/bHojfBsDNO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/60929511",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/60929511",
+                "start": 0,
+                "url": "https://t.co/MSKFFWLOeD"
+              }
+            ]
+          }
+        },
+        "id": "1402265133716496394",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092958471054672332",
+        "name": "寿喜烧九原",
+        "pinned_tweet_id": "2011769654814130373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402265133716496394/1718338239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684353759391150086/pnfKXKOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7440,
+          "following_count": 1030,
+          "like_count": 3503,
+          "listed_count": 60,
+          "media_count": 398,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/MSKFFWLOeD",
+        "username": "NinthOriginal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

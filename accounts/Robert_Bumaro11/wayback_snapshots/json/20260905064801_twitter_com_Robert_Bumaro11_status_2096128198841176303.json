@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2096128198841176303",
+    "created_at": "2026-09-05T06:48:01.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096128198841176303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sadsadcatc/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/sadsadcatc/status/2096124343818616966",
+          "start": 7,
+          "url": "https://t.co/9swll0Uea4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096128198841176303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096124343818616966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "摩多罗是对的 https://t.co/9swll0Uea4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2096128198841176303",
+        "created_at": "2026-09-05T06:48:01.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096128198841176303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sadsadcatc/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/sadsadcatc/status/2096124343818616966",
+              "start": 7,
+              "url": "https://t.co/9swll0Uea4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096128198841176303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096124343818616966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摩多罗是对的 https://t.co/9swll0Uea4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "2096124343818616966",
+        "created_at": "2026-09-05T06:32:42.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096124343818616966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520yinhuanye/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/520yinhuanye/status/2095862573107417379",
+              "start": 7,
+              "url": "https://t.co/igPF2E9gAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096124343818616966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095862573107417379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麦当劳是对的 https://t.co/igPF2E9gAo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2096128198841176303",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 497,
+          "like_count": 17271,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2325
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n被变态缠上了，如果有人找你帮忙问关于我的事不要回，我和他没有任何关系\n2004 mtf 持证含糖 长居武汉 \n我是重度精神病，接受不了直接划走，讨厌健全b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cnvkA"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2096127793683910963",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2094688396220432716",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 1489,
+          "like_count": 23372,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 7733
+        },
+        "url": "https://t.co/xH3r8cnvkA",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

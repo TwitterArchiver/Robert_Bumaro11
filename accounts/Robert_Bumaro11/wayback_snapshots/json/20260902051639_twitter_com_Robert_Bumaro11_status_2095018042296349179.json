@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2095018042296349179",
+    "created_at": "2026-09-02T05:16:39.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095018042296349179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1695553771961729024",
+          "start": 3,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095018042296349179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094875116597309546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiraishiwatari: 之前面对精神科医生时我说我哪怕是第一次使用某个特定型号的自动贩卖机都会有非常深切的恐惧，害怕自己出错。他问我为什么，我很震惊我反问难道出错不就是让人非常恐惧非常难以接受的事情吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2095018042296349179",
+        "created_at": "2026-09-02T05:16:39.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095018042296349179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1695553771961729024",
+              "start": 3,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095018042296349179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094875116597309546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiraishiwatari: 之前面对精神科医生时我说我哪怕是第一次使用某个特定型号的自动贩卖机都会有非常深切的恐惧，害怕自己出错。他问我为什么，我很震惊我反问难道出错不就是让人非常恐惧非常难以接受的事情吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2094872662317170730",
+        "created_at": "2026-09-01T19:48:43.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094875116597309546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094875116597309546",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1064,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094874614165831782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前面对精神科医生时我说我哪怕是第一次使用某个特定型号的自动贩卖机都会有非常深切的恐惧，害怕自己出错。他问我为什么，我很震惊我反问难道出错不就是让人非常恐惧非常难以接受的事情吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2095018042296349179",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 499,
+          "like_count": 17208,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "是一只蟑螂，会无限复活。\n被脚踩过被喷呋虫胺吃过蟑螂药吃过加硼砂的土豆泥，但是仍然好好活着。",
+        "id": "1695553771961729024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094919704347394497",
+        "name": "白石渡",
+        "pinned_tweet_id": "2085352415524442519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695553771961729024/1735211506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 75,
+          "like_count": 9847,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 4058
+        },
+        "url": "",
+        "username": "Shiraishiwatari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

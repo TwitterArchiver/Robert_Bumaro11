@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2095742592302657701",
+    "created_at": "2026-09-04T05:15:45.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095742592302657701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904235555795189760",
+          "start": 3,
+          "username": "yukkiiverse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095742592302657701",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 686
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095569119462539658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukkiiverse: em homenagem ao mês de prevenção ao suicídio, eu vou me matar todos os dias de setembro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2095742592302657701",
+        "created_at": "2026-09-04T05:15:45.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095742592302657701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904235555795189760",
+              "start": 3,
+              "username": "yukkiiverse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095742592302657701",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 686
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095569119462539658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukkiiverse: em homenagem ao mês de prevenção ao suicídio, eu vou me matar todos os dias de setembro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904235555795189760",
+        "conversation_id": "2095569119462539658",
+        "created_at": "2026-09-03T17:46:26.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095569119462539658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095569119462539658",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12486,
+          "like_count": 1689,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 686
+        },
+        "reply_settings": "everyone",
+        "text": "em homenagem ao mês de prevenção ao suicídio, eu vou me matar todos os dias de setembro"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2095742592302657701",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 496,
+          "like_count": 17265,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-24T18:15:37.000Z",
+        "description": "",
+        "id": "1904235555795189760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095717964871852319",
+        "name": "yuki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904235555795189760/1786154795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094053849120038913/ZPOf8kHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 28,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "yukkiiverse",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

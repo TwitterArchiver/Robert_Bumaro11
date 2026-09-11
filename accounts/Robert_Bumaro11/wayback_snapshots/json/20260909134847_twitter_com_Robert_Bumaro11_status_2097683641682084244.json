@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097675423681507328"
+      ],
+      "media_source_tweet_id": [
+        "2097675429754945727"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080787",
+          "name": "少女☆歌劇 レヴュースタァライト"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2097683641682084244",
+    "created_at": "2026-09-09T13:48:47.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097683641682084244"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "生田輝"
+        },
+        {
+          "end": 84,
+          "start": 77,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 96,
+          "start": 86,
+          "tag": "九九組の日2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2959518438",
+          "start": 3,
+          "username": "queens__avenue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a2yeba8xz9",
+          "end": 120,
+          "expanded_url": "https://x.com/queens__avenue/status/2097675429754945727/photo/1",
+          "media_key": "3_2097675423681507328",
+          "start": 97,
+          "url": "https://t.co/a2yeba8xz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097683641682084244",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097675423681507328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097675429754945727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @queens__avenue: 「九九組の日2026」に #生田輝 が出演いたしました！\nご来場・ご視聴いただいた皆様ありがとうございました！\n\n#スタァライト \n#九九組の日2026 https://t.co/a2yeba8xz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097675423681507328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxwrxKacAAuajC.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097675423681507328"
+          ],
+          "media_source_tweet_id": [
+            "2097675429754945727"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080787",
+              "name": "少女☆歌劇 レヴュースタァライト"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2097683641682084244",
+        "created_at": "2026-09-09T13:48:47.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097683641682084244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "生田輝"
+            },
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 96,
+              "start": 86,
+              "tag": "九九組の日2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2959518438",
+              "start": 3,
+              "username": "queens__avenue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2yeba8xz9",
+              "end": 120,
+              "expanded_url": "https://x.com/queens__avenue/status/2097675429754945727/photo/1",
+              "media_key": "3_2097675423681507328",
+              "start": 97,
+              "url": "https://t.co/a2yeba8xz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097683641682084244",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097675423681507328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097675429754945727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @queens__avenue: 「九九組の日2026」に #生田輝 が出演いたしました！\nご来場・ご視聴いただいた皆様ありがとうございました！\n\n#スタァライト \n#九九組の日2026 https://t.co/a2yeba8xz9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097675423681507328"
+          ]
+        },
+        "author_id": "2959518438",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080787",
+              "name": "少女☆歌劇 レヴュースタァライト"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2097675429754945727",
+        "created_at": "2026-09-09T13:16:10.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097675429754945727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "生田輝"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "九九組の日2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2yeba8xz9",
+              "end": 100,
+              "expanded_url": "https://x.com/queens__avenue/status/2097675429754945727/photo/1",
+              "media_key": "3_2097675423681507328",
+              "start": 77,
+              "url": "https://t.co/a2yeba8xz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097675429754945727",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097675423681507328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "「九九組の日2026」に #生田輝 が出演いたしました！\nご来場・ご視聴いただいた皆様ありがとうございました！\n\n#スタァライト \n#九九組の日2026 https://t.co/a2yeba8xz9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2097683641682084244",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 504,
+          "like_count": 17588,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2367
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-05T11:13:11.000Z",
+        "description": "株式会社クィーンズアベニュー公式アカウント 所属タレントの出演情報等を発信していきます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "queens-ave.com",
+                "end": 23,
+                "expanded_url": "https://queens-ave.com",
+                "start": 0,
+                "url": "https://t.co/jXzw3Lj6Z7"
+              }
+            ]
+          }
+        },
+        "id": "2959518438",
+        "is_identity_verified": false,
+        "location": "東京都港区南青山3-8-40 青山センタービル 2F-212",
+        "most_recent_tweet_id": "2097675429754945727",
+        "name": "クィーンズアベニュー【公式】",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581950716725592065/-acbHzYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 43,
+          "like_count": 280,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/jXzw3Lj6Z7",
+        "username": "queens__avenue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

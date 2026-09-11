@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2097730550614413611",
+    "created_at": "2026-09-09T16:55:11.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097730550614413611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Robert_Bumaro1…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2097723961434148878",
+          "start": 128,
+          "url": "https://t.co/5kCcvHuiWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097730550614413611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097723961434148878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从某个时间开始不再开口，深信所有的终点是噤声、封禁或者某种取消。我看到一些人在谈论边界感，行动，人际关系以及资质云云他们寻求改变，好像在这吃喝之下有什么重要的东西。但我做不到，我想象不出来，或许这不是很妥当。为什么在最初感到迷惑时没有人向我宣讲虚假的信念 https://t.co/5kCcvHuiWL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2097730550614413611",
+        "created_at": "2026-09-09T16:55:11.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097730550614413611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Robert_Bumaro1…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Robert_Bumaro11/status/2097723961434148878",
+              "start": 128,
+              "url": "https://t.co/5kCcvHuiWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097730550614413611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097723961434148878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从某个时间开始不再开口，深信所有的终点是噤声、封禁或者某种取消。我看到一些人在谈论边界感，行动，人际关系以及资质云云他们寻求改变，好像在这吃喝之下有什么重要的东西。但我做不到，我想象不出来，或许这不是很妥当。为什么在最初感到迷惑时没有人向我宣讲虚假的信念 https://t.co/5kCcvHuiWL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2097723961434148878",
+        "created_at": "2026-09-09T16:29:00.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097723961434148878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097723961434148878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉，我不能扮演家庭成员，他们有点太可爱了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2097730550614413611",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 504,
+          "like_count": 17602,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

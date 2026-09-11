@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Horror",
+          "id": "856976955819794432",
+          "name": "Horror films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horror",
+          "id": "856976955819794432",
+          "name": "Horror films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "2091178625827823872",
+    "created_at": "2026-08-22T15:00:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091178625827823872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1399574572836569090",
+          "start": 3,
+          "username": "barbie_context"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091178625827823872",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 753
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090876589856752083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @barbie_context: Una planta creció alrededor de un poste de electricidad y terminó creando una escena de película de terror. https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2090314535890468864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJJ_tSWQAApvlC.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2090314556866183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJKA7bWQAAYSZY.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Horror",
+              "id": "856976955819794432",
+              "name": "Horror films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horror",
+              "id": "856976955819794432",
+              "name": "Horror films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2091178625827823872",
+        "created_at": "2026-08-22T15:00:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091178625827823872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1399574572836569090",
+              "start": 3,
+              "username": "barbie_context"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091178625827823872",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 753
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090876589856752083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @barbie_context: Una planta creció alrededor de un poste de electricidad y terminó creando una escena de película de terror. https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090314535890468864",
+            "3_2090314556866183168"
+          ]
+        },
+        "author_id": "1399574572836569090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Horror",
+              "id": "856976955819794432",
+              "name": "Horror films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horror",
+              "id": "856976955819794432",
+              "name": "Horror films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2090876589856752083",
+        "created_at": "2026-08-21T19:00:00.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090876589856752083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqyhnZv6rN",
+              "end": 131,
+              "expanded_url": "https://x.com/barbie_context/status/2090876589856752083/photo/1",
+              "media_key": "3_2090314535890468864",
+              "start": 108,
+              "url": "https://t.co/NqyhnZv6rN"
+            },
+            {
+              "display_url": "pic.x.com/NqyhnZv6rN",
+              "end": 131,
+              "expanded_url": "https://x.com/barbie_context/status/2090876589856752083/photo/1",
+              "media_key": "3_2090314556866183168",
+              "start": 108,
+              "url": "https://t.co/NqyhnZv6rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090876589856752083",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2090314535890468864"
+          },
+          {
+            "media_key": "3_2090314556866183168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 614,
+          "impression_count": 289419,
+          "like_count": 20582,
+          "quote_count": 21,
+          "reply_count": 12,
+          "retweet_count": 755
+        },
+        "reply_settings": "everyone",
+        "text": "Una planta creció alrededor de un poste de electricidad y terminó creando una escena de película de terror. https://t.co/NqyhnZv6rN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2091178625827823872",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 495,
+          "like_count": 16441,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-01T03:52:46.000Z",
+        "description": "Memes, curiosities, news & funny videos every day / Parody / Ads DM 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/barbie_outcont…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/barbie_outcontext",
+                "start": 0,
+                "url": "https://t.co/a7KzR7zpk7"
+              }
+            ]
+          }
+        },
+        "id": "1399574572836569090",
+        "is_identity_verified": false,
+        "location": "España",
+        "most_recent_tweet_id": "2091178580856410485",
+        "name": "Frases Barbie",
+        "pinned_tweet_id": "2089019357963628708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399574572836569090/1637790410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445246636813393920/24GoCqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972676,
+          "following_count": 71,
+          "like_count": 7423,
+          "listed_count": 432,
+          "media_count": 21532,
+          "tweet_count": 26391
+        },
+        "url": "https://t.co/a7KzR7zpk7",
+        "username": "barbie_context",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

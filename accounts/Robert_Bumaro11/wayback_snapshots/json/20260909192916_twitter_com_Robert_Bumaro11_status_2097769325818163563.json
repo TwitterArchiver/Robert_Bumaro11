@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2097769325818163563",
+    "created_at": "2026-09-09T19:29:16.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097769325818163563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091138343652466688",
+          "start": 3,
+          "username": "bxbyi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097769325818163563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097456743249019155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bxbyi8: 我以为你喜欢我，我才敢喜欢你的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2097769325818163563",
+        "created_at": "2026-09-09T19:29:16.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097769325818163563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091138343652466688",
+              "start": 3,
+              "username": "bxbyi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097769325818163563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097456743249019155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bxbyi8: 我以为你喜欢我，我才敢喜欢你的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091138343652466688",
+        "conversation_id": "2097456743249019155",
+        "created_at": "2026-09-08T22:47:11.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T23:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097456743249019155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097456743249019155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3194,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我以为你喜欢我，我才敢喜欢你的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2097769325818163563",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 506,
+          "like_count": 17617,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2379
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T12:21:46.000Z",
+        "description": "=晴丨♀🇨🇳 \n正在学习日语…★\n感谢生命和你 带我走到这里\n=晴丨♀ 中国から来ました\n日本語を勉強しています",
+        "id": "2091138343652466688",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2097753512050561496",
+        "name": "晴",
+        "pinned_tweet_id": "2091532208628777270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091138343652466688/1787485213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097454769891860480/UjrY-Too_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 37,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "bxbyi8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

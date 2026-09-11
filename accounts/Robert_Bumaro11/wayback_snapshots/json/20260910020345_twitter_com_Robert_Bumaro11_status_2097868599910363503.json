@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2097651312636960783",
+    "created_at": "2026-09-10T02:03:45.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097868599910363503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096847118581551104",
+          "start": 0,
+          "username": "3YeEzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097868599910363503",
+    "in_reply_to_user_id": "2096847118581551104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097651312636960783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3YeEzzZ 我也喜欢你的推文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2097651312636960783",
+        "created_at": "2026-09-10T02:03:45.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097868599910363503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096847118581551104",
+              "start": 0,
+              "username": "3YeEzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097868599910363503",
+        "in_reply_to_user_id": "2096847118581551104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097651312636960783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3YeEzzZ 我也喜欢你的推文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096847118581551104",
+        "conversation_id": "2097651312636960783",
+        "created_at": "2026-09-09T11:40:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097651312636960783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097651312636960783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我只是毁掉自己的一切...要取关我的尽快吧。我也要把我的关注列清了只留下互关。\n我的账号可能变得非常混乱非常私人。无所谓了。本来就应该这样做的。\n我只是毁掉自己的一切。全部都弄坏掉。\n米兰昆德拉的不朽里面，我还记得写过一个疯女人哦，她只是盯着自己手中的罗兰花。她是一个幸福的人吗？\n如果你能救救我的话...如果你能消除我的痛苦。\n我的头痛到要死掉了，现在就想把头弄烂掉。受不了了，感觉眼球要掉下来。\n如果我将获得幸福，如果我将能消除自己的痛苦。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是毁掉自己的一切...要取关我的尽快吧。我也要把我的关注列清了只留下互关。\n我的账号可能变得非常混乱非常私人。无所谓了。本来就应该这样做的。\n我只是毁掉自己的一切。全部都弄坏掉。\n米兰昆德拉的不朽里面，我还记得写过一个疯女人哦，她只是盯着自己手中的罗兰花。她是一个幸福的人吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2097868599910363503",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 506,
+          "like_count": 17655,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:25:56.000Z",
+        "description": "愛，愛，愛",
+        "id": "2096847118581551104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097864991907180994",
+        "name": "1dLe_0iy3af7Ye",
+        "pinned_tweet_id": "2097118095290904850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096847118581551104/1788762411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096847486854082560/BvWdGIBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 161,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "3YeEzzZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

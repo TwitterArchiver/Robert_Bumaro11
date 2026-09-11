@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092263999467327488"
+      ],
+      "media_source_tweet_id": [
+        "2092264153272422824"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092675976446800145",
+    "created_at": "2026-08-26T18:10:07.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092675976446800145"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 80,
+          "tag": "好きなアニメのOPを上げる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654805761334165510",
+          "start": 3,
+          "username": "itslucasluel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B2o0pv6c9c",
+          "end": 118,
+          "expanded_url": "https://x.com/itslucasluel/status/2092264153272422824/video/1",
+          "media_key": "13_2092263999467327488",
+          "start": 95,
+          "url": "https://t.co/B2o0pv6c9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092675976446800145",
+    "lang": "nl",
+    "media_metadata": [
+      {
+        "media_key": "13_2092263999467327488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092264153272422824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itslucasluel: Zan Sayonara Zetsubou Sensei OP 2 is one of my fav op frfr ~\n\n#好きなアニメのOPを上げる https://t.co/B2o0pv6c9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 179746,
+        "height": 720,
+        "media_key": "13_2092263999467327488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092263999467327488/img/XIdZfy-3sJLKacdC.jpg",
+        "public_metrics": {
+          "view_count": 51805
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263999467327488/vid/avc1/480x270/X_pb4RPdfpmd6g1d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263999467327488/vid/avc1/640x360/rIUzp-6EmrzCx-Bt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263999467327488/vid/avc1/1280x720/sAg1TEbh3iiQ9ua4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092263999467327488/pl/UkVMeD_in7MCJLUf.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092263999467327488"
+          ],
+          "media_source_tweet_id": [
+            "2092264153272422824"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092675976446800145",
+        "created_at": "2026-08-26T18:10:07.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092675976446800145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 80,
+              "tag": "好きなアニメのOPを上げる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654805761334165510",
+              "start": 3,
+              "username": "itslucasluel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2o0pv6c9c",
+              "end": 118,
+              "expanded_url": "https://x.com/itslucasluel/status/2092264153272422824/video/1",
+              "media_key": "13_2092263999467327488",
+              "start": 95,
+              "url": "https://t.co/B2o0pv6c9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092675976446800145",
+        "lang": "nl",
+        "media_metadata": [
+          {
+            "media_key": "13_2092263999467327488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092264153272422824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itslucasluel: Zan Sayonara Zetsubou Sensei OP 2 is one of my fav op frfr ~\n\n#好きなアニメのOPを上げる https://t.co/B2o0pv6c9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092263999467327488"
+          ]
+        },
+        "author_id": "1654805761334165510",
+        "conversation_id": "2092264153272422824",
+        "created_at": "2026-08-25T14:53:41.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092264153272422824"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 62,
+              "tag": "好きなアニメのOPを上げる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2o0pv6c9c",
+              "end": 100,
+              "expanded_url": "https://x.com/itslucasluel/status/2092264153272422824/video/1",
+              "media_key": "13_2092263999467327488",
+              "start": 77,
+              "url": "https://t.co/B2o0pv6c9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092264153272422824",
+        "lang": "nl",
+        "media_metadata": [
+          {
+            "media_key": "13_2092263999467327488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 92482,
+          "like_count": 1855,
+          "quote_count": 45,
+          "reply_count": 8,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "Zan Sayonara Zetsubou Sensei OP 2 is one of my fav op frfr ~\n\n#好きなアニメのOPを上げる https://t.co/B2o0pv6c9c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2092675976446800145",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 495,
+          "like_count": 16682,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2248
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-06T11:10:22.000Z",
+        "description": "Any Pronoun 💛🤍💜🖤✨\n2D Illustrator & Pixel Artist\nTryin to learn 日本語\n❌NO AI❌\n\nI make art, and i like green color;\nvkei, ico, touhou, ff, yn, & old rpg stuff",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lucasluelart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lucasluelart",
+                "start": 0,
+                "url": "https://t.co/MYrOHoZfpF"
+              }
+            ]
+          }
+        },
+        "id": "1654805761334165510",
+        "is_identity_verified": false,
+        "location": "somewhere",
+        "most_recent_tweet_id": "2092514148919779707",
+        "name": "Luel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654805761334165510/1784699285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086440433249382401/UZNL4Jsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 2032,
+          "like_count": 39704,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/MYrOHoZfpF",
+        "username": "itslucasluel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

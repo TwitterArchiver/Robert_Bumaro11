@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2090505973060497410",
+    "created_at": "2026-08-20T18:27:18.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090505973060497410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2070445421202452480",
+          "start": 3,
+          "username": "n0ne_existence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090505973060497410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090287897585090785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n0ne_existence: 不魔怔就无法生存！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2090505973060497410",
+        "created_at": "2026-08-20T18:27:18.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090505973060497410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2070445421202452480",
+              "start": 3,
+              "username": "n0ne_existence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090505973060497410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090287897585090785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n0ne_existence: 不魔怔就无法生存！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070445421202452480",
+        "conversation_id": "2090287897585090785",
+        "created_at": "2026-08-20T04:00:45.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090287897585090785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090287897585090785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不魔怔就无法生存！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2090505973060497410",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 497,
+          "like_count": 16300,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T09:54:20.000Z",
+        "description": "没有固定的形态",
+        "id": "2070445421202452480",
+        "is_identity_verified": false,
+        "location": "该用户不存在",
+        "most_recent_tweet_id": "2090394146918052061",
+        "name": "不存在",
+        "pinned_tweet_id": "2075292904067928178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070445421202452480/1786717262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070763825641697280/ro06S5Ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 255,
+          "like_count": 1776,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "n0ne_existence",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

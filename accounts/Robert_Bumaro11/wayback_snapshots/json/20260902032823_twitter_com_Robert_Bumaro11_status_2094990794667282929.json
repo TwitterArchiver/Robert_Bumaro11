@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094734795091873792"
+      ],
+      "media_source_tweet_id": [
+        "2094734812405977541"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2094990794667282929",
+    "created_at": "2026-09-02T03:28:23.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094990794667282929"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1740692139204608000",
+          "start": 3,
+          "username": "xiaorourose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEgibq3iur",
+          "end": 61,
+          "expanded_url": "https://x.com/xiaorourose/status/2094734812405977541/photo/1",
+          "media_key": "3_2094734795091873792",
+          "start": 38,
+          "url": "https://t.co/HEgibq3iur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094990794667282929",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094734795091873792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 238
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094734812405977541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaorourose: #Limbus_Company \nアラヤ https://t.co/HEgibq3iur"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094734795091873792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRH-MqAaEAAZwL2.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094734795091873792"
+          ],
+          "media_source_tweet_id": [
+            "2094734812405977541"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2094990794667282929",
+        "created_at": "2026-09-02T03:28:23.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094990794667282929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1740692139204608000",
+              "start": 3,
+              "username": "xiaorourose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEgibq3iur",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaorourose/status/2094734812405977541/photo/1",
+              "media_key": "3_2094734795091873792",
+              "start": 38,
+              "url": "https://t.co/HEgibq3iur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094990794667282929",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094734795091873792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094734812405977541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaorourose: #Limbus_Company \nアラヤ https://t.co/HEgibq3iur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094734795091873792"
+          ]
+        },
+        "author_id": "1740692139204608000",
+        "conversation_id": "2094734812405977541",
+        "created_at": "2026-09-01T10:31:12.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094734812405977541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEgibq3iur",
+              "end": 44,
+              "expanded_url": "https://x.com/xiaorourose/status/2094734812405977541/photo/1",
+              "media_key": "3_2094734795091873792",
+              "start": 21,
+              "url": "https://t.co/HEgibq3iur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094734812405977541",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094734795091873792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 13512,
+          "like_count": 1693,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "#Limbus_Company \nアラヤ https://t.co/HEgibq3iur"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2094990794667282929",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 499,
+          "like_count": 17194,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2308
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-29T11:12:11.000Z",
+        "description": "🟰肉/rose ｜20⬆️｜ペルソナ☕️🥞｜リンバス🔮🪶｜日本語勉強中|中文|ENGLISH is OK 🚫NO AI",
+        "id": "1740692139204608000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094738851806036353",
+        "name": "肉🥩🌹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740692139204608000/1736784793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832467869877014529/tRdPD-_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12920,
+          "following_count": 420,
+          "like_count": 2404,
+          "listed_count": 34,
+          "media_count": 235,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "xiaorourose",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

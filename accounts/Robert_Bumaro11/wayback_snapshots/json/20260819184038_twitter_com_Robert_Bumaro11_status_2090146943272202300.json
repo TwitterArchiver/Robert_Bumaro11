@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2090146943272202300",
+    "created_at": "2026-08-19T18:40:38.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090146943272202300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1048022597823164416",
+          "start": 3,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090146943272202300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089969757810532623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiallouL: 对父母出柜所能得到的最糟糕的反应不是鸡飞狗跳砸东西\n而是他们以一种怜悯加绝望的神情故作关心地发问 是不是我们在你小时候做了什么错事才让你变成这样？\n一句话攘死了孩子的童年和作为一个人的主体性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2090146943272202300",
+        "created_at": "2026-08-19T18:40:38.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090146943272202300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1048022597823164416",
+              "start": 3,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090146943272202300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089969757810532623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiallouL: 对父母出柜所能得到的最糟糕的反应不是鸡飞狗跳砸东西\n而是他们以一种怜悯加绝望的神情故作关心地发问 是不是我们在你小时候做了什么错事才让你变成这样？\n一句话攘死了孩子的童年和作为一个人的主体性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "2089969757810532623",
+        "created_at": "2026-08-19T06:56:34.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089969757810532623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089969757810532623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2782,
+          "like_count": 78,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "对父母出柜所能得到的最糟糕的反应不是鸡飞狗跳砸东西\n而是他们以一种怜悯加绝望的神情故作关心地发问 是不是我们在你小时候做了什么错事才让你变成这样？\n一句话攘死了孩子的童年和作为一个人的主体性"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2090146943272202300",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 495,
+          "like_count": 16187,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "is_identity_verified": false,
+        "location": "把不息的生机种在每一个旅人心里",
+        "most_recent_tweet_id": "2090139581991760173",
+        "name": "Hallo",
+        "pinned_tweet_id": "2089619255642018094",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048022597823164416/1695955797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1405,
+          "like_count": 23338,
+          "listed_count": 5,
+          "media_count": 1068,
+          "tweet_count": 6900
+        },
+        "url": "",
+        "username": "HiallouL",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2090380631020863634",
+    "created_at": "2026-08-20T10:09:14.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090380631020863634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Gelm01/status/…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/Gelm01/status/2090373615216898551",
+          "start": 105,
+          "url": "https://t.co/u81Ksz3U5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090380631020863634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090373615216898551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：×\n有过男朋友：×\n有过女朋友：×\n嗑过药：✓\n喝过酒： ✓\n挂过科： ✓\n去过夜店：× \n抽过烟/用过电子烟：✓\n吻过别人：✓ \n被留堂：× \n被课堂赶出去：×\n考试作弊：✓ \n偷偷溜出家门:✓ https://t.co/u81Ksz3U5z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2090380631020863634",
+        "created_at": "2026-08-20T10:09:14.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090380631020863634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Gelm01/status/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Gelm01/status/2090373615216898551",
+              "start": 105,
+              "url": "https://t.co/u81Ksz3U5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090380631020863634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090373615216898551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：×\n有过男朋友：×\n有过女朋友：×\n嗑过药：✓\n喝过酒： ✓\n挂过科： ✓\n去过夜店：× \n抽过烟/用过电子烟：✓\n吻过别人：✓ \n被留堂：× \n被课堂赶出去：×\n考试作弊：✓ \n偷偷溜出家门:✓ https://t.co/u81Ksz3U5z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "471019735",
+        "conversation_id": "2090373615216898551",
+        "created_at": "2026-08-20T09:41:21.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090373615216898551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu_huacs/statu…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/yu_huacs/status/2090363312496398791",
+              "start": 110,
+              "url": "https://t.co/14Wzhr9VQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090373615216898551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090363312496398791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✓ \n有过男朋友：✓ \n有过女朋友：✓ \n嗑过药：×\n喝过酒：✓ \n挂过科： ✓\n去过夜店：× \n抽过烟/用过电子烟：× \n吻过别人：✓ \n被留堂：× \n被课堂赶出去：✓ \n考试作弊：✓ \n偷偷溜出家门:✓ https://t.co/14Wzhr9VQu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2090380631020863634",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 497,
+          "like_count": 16221,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2202
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "天への祈りの報いは慈悲ではなく炎のみ",
+        "id": "471019735",
+        "is_identity_verified": false,
+        "location": "境外势力-月球",
+        "most_recent_tweet_id": "2090373615216898551",
+        "name": "少年期の終り🏵✝️",
+        "pinned_tweet_id": "2084963932670988327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/471019735/1778048908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088268978234003456/to7O6EJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 556,
+          "like_count": 5719,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 4225
+        },
+        "url": "",
+        "username": "Gelm01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

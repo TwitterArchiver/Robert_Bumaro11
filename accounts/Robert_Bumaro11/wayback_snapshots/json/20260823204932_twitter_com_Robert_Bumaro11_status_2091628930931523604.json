@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2091628930931523604",
+    "created_at": "2026-08-23T20:49:32.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T21:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091628930931523604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550266362672857088",
+          "start": 3,
+          "username": "h0rnyjiafei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091628930931523604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091489867717025970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h0rnyjiafei: 我精二都不咋开得到到底是谁在用艾司氯胺酮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2091628930931523604",
+        "created_at": "2026-08-23T20:49:32.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T21:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091628930931523604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550266362672857088",
+              "start": 3,
+              "username": "h0rnyjiafei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091628930931523604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091489867717025970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h0rnyjiafei: 我精二都不咋开得到到底是谁在用艾司氯胺酮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550266362672857088",
+        "conversation_id": "2091489867717025970",
+        "created_at": "2026-08-23T11:36:57.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091489867717025970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091489867717025970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我精二都不咋开得到到底是谁在用艾司氯胺酮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2091628930931523604",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 496,
+          "like_count": 16527,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-21T23:48:05.000Z",
+        "description": "im dying anyways/LGBTQ+友好",
+        "id": "1550266362672857088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091489867717025970",
+        "name": "💉",
+        "pinned_tweet_id": "2074734665513177350",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550266362672857088/1771871506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026003275506655233/cUnYdl3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2752,
+          "like_count": 240387,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "h0rnyjiafei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

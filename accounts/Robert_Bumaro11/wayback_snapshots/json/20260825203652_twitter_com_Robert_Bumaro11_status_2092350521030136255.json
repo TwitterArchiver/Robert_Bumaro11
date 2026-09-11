@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2092350521030136255",
+    "created_at": "2026-08-25T20:36:52.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T21:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092350521030136255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BerialJOE/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/BerialJOE/status/2091778901853004027",
+          "start": 13,
+          "url": "https://t.co/JjCUqVZfsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092350521030136255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091778901853004027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会浪费到什么时候为止呢 https://t.co/JjCUqVZfsz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2092350521030136255",
+        "created_at": "2026-08-25T20:36:52.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092350521030136255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BerialJOE/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/BerialJOE/status/2091778901853004027",
+              "start": 13,
+              "url": "https://t.co/JjCUqVZfsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092350521030136255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091778901853004027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会浪费到什么时候为止呢 https://t.co/JjCUqVZfsz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491770776839544832",
+        "conversation_id": "2091778901853004027",
+        "created_at": "2026-08-24T06:45:28.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091778901853004027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091778901853004027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恨我自己，浪费了三年时间"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2092350521030136255",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 497,
+          "like_count": 16656,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T13:47:31.000Z",
+        "description": "And leaves the world to darkness and to me",
+        "id": "1491770776839544832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091778901853004027",
+        "name": "Berial",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491770776839544832/1652580279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492893383278227457/TIBBtwzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 132,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "BerialJOE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

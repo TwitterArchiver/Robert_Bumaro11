@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2094049480916312261",
+    "created_at": "2026-08-30T13:07:56.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094049480916312261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024708440564912131",
+          "start": 3,
+          "username": "xian229224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094049480916312261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093953016638668996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xian229224: 不要轻易相信网蛆的惨文化，他们背地可能是高材生， 九分女 ，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2094049480916312261",
+        "created_at": "2026-08-30T13:07:56.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094049480916312261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024708440564912131",
+              "start": 3,
+              "username": "xian229224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094049480916312261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093953016638668996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xian229224: 不要轻易相信网蛆的惨文化，他们背地可能是高材生， 九分女 ，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024708440564912131",
+        "conversation_id": "2093953016638668996",
+        "created_at": "2026-08-30T06:44:37.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093953016638668996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093953016638668996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1992,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "不要轻易相信网蛆的惨文化，他们背地可能是高材生， 九分女 ，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2094049480916312261",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 495,
+          "like_count": 17004,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2288
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T04:51:40.000Z",
+        "description": "网蛆而已\n@Chuchu_229",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chuchu_229"
+              }
+            ]
+          }
+        },
+        "id": "2024708440564912131",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094032810298483105",
+        "name": "藓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024708440564912131/1775994100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 113,
+          "like_count": 11292,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 880
+        },
+        "url": "",
+        "username": "xian229224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

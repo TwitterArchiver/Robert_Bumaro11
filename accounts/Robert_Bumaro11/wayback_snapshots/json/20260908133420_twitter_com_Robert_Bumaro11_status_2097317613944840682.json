@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2096908014448259175",
+    "created_at": "2026-09-08T13:34:20.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T14:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097317613944840682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097317613944840682",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097304361374462337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2096908014448259175",
+        "created_at": "2026-09-08T13:34:20.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097317613944840682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097317613944840682",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097304361374462337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967257406129504256",
+        "conversation_id": "2096908014448259175",
+        "created_at": "2026-09-08T12:41:40.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097304361374462337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097304361374462337",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096908014448259175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 我已经严肃退学"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2097317613944840682",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 502,
+          "like_count": 17544,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "🚪52/125/256 萌妹子免费｜自残｜泛性恋｜sub m｜互fo私信｜低精力可能不回消息｜打钱你是例外\n纯绿/半绿线下私信\n匿名https://t.co/MR7i9ztSvu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alivio55256",
+                "end": 89,
+                "expanded_url": "https://ngl.link/alivio55256",
+                "start": 66,
+                "url": "https://t.co/MR7i9ztSvu"
+              }
+            ]
+          }
+        },
+        "id": "1967257406129504256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097304361374462337",
+        "name": "iukio",
+        "pinned_tweet_id": "2075956408781275634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967257406129504256/1771406908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095547903058247680/_LtelUb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 55,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "Zdu1279757",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2090294033499443309",
+    "created_at": "2026-08-20T04:25:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090294033499443309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "22996742",
+          "start": 3,
+          "username": "deathpigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090294033499443309",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089890979981717667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deathpigeon: you should never get officially diagnosed for anything mental unless there's a specific thing you need to get from the dia…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2090294033499443309",
+        "created_at": "2026-08-20T04:25:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090294033499443309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "22996742",
+              "start": 3,
+              "username": "deathpigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090294033499443309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089890979981717667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deathpigeon: you should never get officially diagnosed for anything mental unless there's a specific thing you need to get from the dia…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "22996742",
+        "conversation_id": "2089890189145690195",
+        "created_at": "2026-08-19T01:43:32.000Z",
+        "display_text_range": [
+          0,
+          210
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089890979981717667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089890979981717667",
+        "in_reply_to_user_id": "22996742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 427634,
+          "like_count": 1737,
+          "quote_count": 113,
+          "reply_count": 7,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089890189145690195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "you should never get officially diagnosed for anything mental unless there's a specific thing you need to get from the diagnosis, like specific drugs or specific accommodations. otherwise, do not get diagnosed."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2090294033499443309",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 497,
+          "like_count": 16216,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-05T23:22:10.000Z",
+        "description": "⸢Fairies⸣. (it/its {en},ono/njega {sh})\n\nCourt Unseemly. Oracle of the Foothills. City of Stone. Excerpt of the Divine Wanderer. Owned by Devi Princess of Hell.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deathpigeon.github.io/zara-rw-storm/…",
+                "end": 23,
+                "expanded_url": "https://deathpigeon.github.io/zara-rw-storm/ghost-crimes/",
+                "start": 0,
+                "url": "https://t.co/i0m6U3znB7"
+              }
+            ]
+          }
+        },
+        "id": "22996742",
+        "is_identity_verified": false,
+        "location": "Princess Devi's Bedchambers.",
+        "most_recent_tweet_id": "2090291824242110534",
+        "name": "(IT/ITS)👻✨Arkhiereú Зара🫶A CREATURE NOT A PERSON",
+        "pinned_tweet_id": "1977788402151067815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22996742/1772653663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007994789258743808/1sv7QIS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 2945,
+          "like_count": 983679,
+          "listed_count": 37,
+          "media_count": 4488,
+          "tweet_count": 375020
+        },
+        "url": "https://t.co/i0m6U3znB7",
+        "username": "deathpigeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

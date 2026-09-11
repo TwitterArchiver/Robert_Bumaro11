@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093026778441015296"
+      ],
+      "media_source_tweet_id": [
+        "2093026790101094751"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2093064463457177924",
+    "created_at": "2026-08-27T19:53:50.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093064463457177924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609503807834296320",
+          "start": 3,
+          "username": "Koine2l23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CzS1x3Ntts",
+          "end": 47,
+          "expanded_url": "https://x.com/Koine2l23/status/2093026790101094751/photo/1",
+          "media_key": "3_2093026778441015296",
+          "start": 24,
+          "url": "https://t.co/CzS1x3Ntts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093064463457177924",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093026778441015296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093026790101094751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koine2l23: さよなら絶望先生 https://t.co/CzS1x3Ntts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2438,
+        "media_key": "3_2093026778441015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvsxAJbYAAGODP.jpg",
+        "width": 1925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093026778441015296"
+          ],
+          "media_source_tweet_id": [
+            "2093026790101094751"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2093064463457177924",
+        "created_at": "2026-08-27T19:53:50.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093064463457177924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609503807834296320",
+              "start": 3,
+              "username": "Koine2l23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzS1x3Ntts",
+              "end": 47,
+              "expanded_url": "https://x.com/Koine2l23/status/2093026790101094751/photo/1",
+              "media_key": "3_2093026778441015296",
+              "start": 24,
+              "url": "https://t.co/CzS1x3Ntts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093064463457177924",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093026778441015296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093026790101094751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koine2l23: さよなら絶望先生 https://t.co/CzS1x3Ntts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093026778441015296"
+          ]
+        },
+        "author_id": "1609503807834296320",
+        "conversation_id": "2093026790101094751",
+        "created_at": "2026-08-27T17:24:07.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093026790101094751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzS1x3Ntts",
+              "end": 32,
+              "expanded_url": "https://x.com/Koine2l23/status/2093026790101094751/photo/1",
+              "media_key": "3_2093026778441015296",
+              "start": 9,
+              "url": "https://t.co/CzS1x3Ntts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093026790101094751",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093026778441015296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3749,
+          "like_count": 432,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "さよなら絶望先生 https://t.co/CzS1x3Ntts"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2093064463457177924",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 496,
+          "like_count": 16760,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2253
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-01T10:56:56.000Z",
+        "description": "＝Koine/稻  3000↓/雑多/中文·日本語勉強中                 我使用翻译器，并且只画自己想画的",
+        "id": "1609503807834296320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093059012732576108",
+        "name": "电子老鼠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609503807834296320/1787825166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020435558212968448/MxugjVBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 208,
+          "like_count": 5426,
+          "listed_count": 20,
+          "media_count": 123,
+          "tweet_count": 2922
+        },
+        "url": "",
+        "username": "Koine2l23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2093098450116325528",
+    "created_at": "2026-08-27T22:08:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T23:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093098450116325528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "848037494977421312",
+          "start": 3,
+          "username": "rpgmaker2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093098450116325528",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093011168109445258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rpgmaker2000: homuras situation is kind of like if you personally fell in love with jesus and sacrificed everything for him but jesus w…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2093098450116325528",
+        "created_at": "2026-08-27T22:08:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T23:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093098450116325528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "848037494977421312",
+              "start": 3,
+              "username": "rpgmaker2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093098450116325528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093011168109445258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rpgmaker2000: homuras situation is kind of like if you personally fell in love with jesus and sacrificed everything for him but jesus w…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848037494977421312",
+        "conversation_id": "2093011168109445258",
+        "created_at": "2026-08-27T16:22:03.000Z",
+        "display_text_range": [
+          0,
+          208
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093011168109445258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093011168109445258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 14396,
+          "like_count": 1643,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "homuras situation is kind of like if you personally fell in love with jesus and sacrificed everything for him but jesus will always sacrifice himself anyway because he loves everyone. would not want to be her"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2093098450116325528",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 495,
+          "like_count": 16765,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-01T05:01:09.000Z",
+        "description": "that's him! that's the loser who only likes linear stories! kill him girls!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cybernewtype.straw.page",
+                "end": 23,
+                "expanded_url": "https://cybernewtype.straw.page/",
+                "start": 0,
+                "url": "https://t.co/6uZDBMBmMB"
+              }
+            ]
+          }
+        },
+        "id": "848037494977421312",
+        "is_identity_verified": false,
+        "location": "Torture Labyrinth ",
+        "most_recent_tweet_id": "2093075378461970623",
+        "name": "himedanshi david lynch",
+        "pinned_tweet_id": "2007870010572906847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/848037494977421312/1713562128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062373527890616320/pHf4xQ59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 605,
+          "like_count": 161534,
+          "listed_count": 7,
+          "media_count": 11141,
+          "tweet_count": 82916
+        },
+        "url": "https://t.co/6uZDBMBmMB",
+        "username": "rpgmaker2000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093215130582659072"
+      ],
+      "media_source_tweet_id": [
+        "2093215174560010631"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2093613887086297120",
+    "created_at": "2026-08-29T08:17:02.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093613887086297120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2091468513810755584",
+          "start": 3,
+          "username": "merry_G0round"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fL6fBjrHMv",
+          "end": 48,
+          "expanded_url": "https://x.com/merry_G0round/status/2093215174560010631/photo/1",
+          "media_key": "3_2093215130582659072",
+          "start": 25,
+          "url": "https://t.co/fL6fBjrHMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093613887086297120",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2093215130582659072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093215174560010631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @merry_G0round: 찐돈그렸어 https://t.co/fL6fBjrHMv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2093215130582659072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyYEijaMAAm-nG.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093215130582659072"
+          ],
+          "media_source_tweet_id": [
+            "2093215174560010631"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2093613887086297120",
+        "created_at": "2026-08-29T08:17:02.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093613887086297120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2091468513810755584",
+              "start": 3,
+              "username": "merry_G0round"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fL6fBjrHMv",
+              "end": 48,
+              "expanded_url": "https://x.com/merry_G0round/status/2093215174560010631/photo/1",
+              "media_key": "3_2093215130582659072",
+              "start": 25,
+              "url": "https://t.co/fL6fBjrHMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093613887086297120",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2093215130582659072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093215174560010631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @merry_G0round: 찐돈그렸어 https://t.co/fL6fBjrHMv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093215130582659072"
+          ]
+        },
+        "author_id": "2091468513810755584",
+        "conversation_id": "2093215174560010631",
+        "created_at": "2026-08-28T05:52:42.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093215174560010631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fL6fBjrHMv",
+              "end": 29,
+              "expanded_url": "https://x.com/merry_G0round/status/2093215174560010631/photo/1",
+              "media_key": "3_2093215130582659072",
+              "start": 6,
+              "url": "https://t.co/fL6fBjrHMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093215174560010631",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2093215130582659072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 19583,
+          "like_count": 2444,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "찐돈그렸어 https://t.co/fL6fBjrHMv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2093613887086297120",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 496,
+          "like_count": 16884,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T10:14:36.000Z",
+        "description": "성인",
+        "id": "2091468513810755584",
+        "is_identity_verified": false,
+        "location": "AI🚫",
+        "most_recent_tweet_id": "2093263707765915972",
+        "name": "쿄테",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091468513810755584/1787481966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091469355850883072/6rTORNYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 4,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "merry_G0round",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

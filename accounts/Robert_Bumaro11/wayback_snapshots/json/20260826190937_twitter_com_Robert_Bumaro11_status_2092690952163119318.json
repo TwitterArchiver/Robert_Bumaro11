@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2092690952163119318",
+    "created_at": "2026-08-26T19:09:37.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092690952163119318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817361351494467584",
+          "start": 3,
+          "username": "resa87125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092690952163119318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092447618983133493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @resa87125: 伪人入侵世界，为什么正常人类都不讨论这件事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2092690952163119318",
+        "created_at": "2026-08-26T19:09:37.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092690952163119318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817361351494467584",
+              "start": 3,
+              "username": "resa87125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092690952163119318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092447618983133493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @resa87125: 伪人入侵世界，为什么正常人类都不讨论这件事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817361351494467584",
+        "conversation_id": "2092447618983133493",
+        "created_at": "2026-08-26T03:02:42.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092447618983133493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092447618983133493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "伪人入侵世界，为什么正常人类都不讨论这件事？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2092690952163119318",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 495,
+          "like_count": 16698,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-28T00:49:29.000Z",
+        "description": "可以直接称呼id/或者称呼S/无性恋/生理性别女/心理无性别/随时可以找我唠除了顺性别相关的一切话题/可提供有困难的人资金援助//雷点：骨科为首的乱伦相关话题；黄图；聊骚；梦女/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/void87214",
+                "end": 23,
+                "expanded_url": "http://ngl.link/void87214",
+                "start": 0,
+                "url": "https://t.co/tEfgMsLBzF"
+              }
+            ]
+          }
+        },
+        "id": "1817361351494467584",
+        "is_identity_verified": false,
+        "location": "HELL",
+        "most_recent_tweet_id": "2092652765596221682",
+        "name": "Sare🖤🩶🤍💜",
+        "pinned_tweet_id": "2077225086109770044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817361351494467584/1779746214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055743557710004224/K-DCgKBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 113,
+          "like_count": 2048,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/tEfgMsLBzF",
+        "username": "resa87125",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

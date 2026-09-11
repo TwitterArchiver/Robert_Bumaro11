@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2090004499775857049",
+    "created_at": "2026-08-19T09:14:37.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090004499775857049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994724283176947712",
+          "start": 3,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090004499775857049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090003464856428767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lvovl3: 我也有性别焦虑😭😭\n我的性别焦虑是为什么我搞不懂这些😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2090004499775857049",
+        "created_at": "2026-08-19T09:14:37.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090004499775857049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994724283176947712",
+              "start": 3,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090004499775857049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090003464856428767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lvovl3: 我也有性别焦虑😭😭\n我的性别焦虑是为什么我搞不懂这些😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2090003464856428767",
+        "created_at": "2026-08-19T09:10:31.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090003464856428767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090003464856428767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也有性别焦虑😭😭\n我的性别焦虑是为什么我搞不懂这些😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2090004499775857049",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 492,
+          "like_count": 16088,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 滥用止痛药 同类回fo\n模仿人类失败者/全世界最恨homework之人/not alien\n人生是被恐惧追赶着逃跑 身体对我太刻薄我要逃跑\n请祝福我快些死掉吧！@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zabuu.site/user/detail/19…",
+                "end": 23,
+                "expanded_url": "https://zabuu.site/user/detail/1994724283176947712",
+                "start": 0,
+                "url": "https://t.co/y3THJjpTGV"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号  链接是提问箱",
+        "most_recent_tweet_id": "2090003464856428767",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 526,
+          "like_count": 5002,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 5495
+        },
+        "url": "https://t.co/y3THJjpTGV",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

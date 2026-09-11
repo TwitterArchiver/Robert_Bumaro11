@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097296280787763200"
+      ],
+      "media_source_tweet_id": [
+        "2097296289230709229"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2097652116282347788",
+    "created_at": "2026-09-09T11:43:31.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097652116282347788"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 37,
+          "tag": "Limbus_Company"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1563283677551153153",
+          "start": 3,
+          "username": "novalovesoutis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x6OwrZhw8q",
+          "end": 76,
+          "expanded_url": "https://x.com/novalovesoutis/status/2097296289230709229/photo/1",
+          "media_key": "3_2097296280787763200",
+          "start": 53,
+          "url": "https://t.co/x6OwrZhw8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097652116282347788",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097296280787763200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 313
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097296289230709229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @novalovesoutis: Rien art study 🫶 #Limbus_Company https://t.co/x6OwrZhw8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097296280787763200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsX2v0aQAAH0xt.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097296280787763200"
+          ],
+          "media_source_tweet_id": [
+            "2097296289230709229"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2097652116282347788",
+        "created_at": "2026-09-09T11:43:31.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097652116282347788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 37,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1563283677551153153",
+              "start": 3,
+              "username": "novalovesoutis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6OwrZhw8q",
+              "end": 76,
+              "expanded_url": "https://x.com/novalovesoutis/status/2097296289230709229/photo/1",
+              "media_key": "3_2097296280787763200",
+              "start": 53,
+              "url": "https://t.co/x6OwrZhw8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097652116282347788",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097296280787763200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097296289230709229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @novalovesoutis: Rien art study 🫶 #Limbus_Company https://t.co/x6OwrZhw8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097296280787763200"
+          ]
+        },
+        "author_id": "1563283677551153153",
+        "conversation_id": "2097296289230709229",
+        "created_at": "2026-09-08T12:09:35.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097296289230709229"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "Limbus_Company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6OwrZhw8q",
+              "end": 56,
+              "expanded_url": "https://x.com/novalovesoutis/status/2097296289230709229/photo/1",
+              "media_key": "3_2097296280787763200",
+              "start": 33,
+              "url": "https://t.co/x6OwrZhw8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097296289230709229",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097296280787763200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 12100,
+          "like_count": 1860,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "Rien art study 🫶 #Limbus_Company https://t.co/x6OwrZhw8q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2097652116282347788",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 503,
+          "like_count": 17569,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-26T21:54:28.000Z",
+        "description": "🪲,👁️,⏰,🪶,🎠 x 👢 ONLY (🔄🚫) | I make art with graphic disturbing topics, NO romanticization\n{Design/Concept use for fanart OK with credit}\n🚫 AI, RACISM, HOMOPHOBIA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beforefollowing.straw.page",
+                "end": 23,
+                "expanded_url": "https://beforefollowing.straw.page",
+                "start": 0,
+                "url": "https://t.co/5xiRmlDfmW"
+              }
+            ]
+          }
+        },
+        "id": "1563283677551153153",
+        "is_identity_verified": false,
+        "location": "16yr any prns ♡ annoy=block",
+        "most_recent_tweet_id": "2097311382844678608",
+        "name": "nova eve",
+        "pinned_tweet_id": "2041553618587820354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563283677551153153/1788746477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097013508231835648/kBzJfumw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 113,
+          "like_count": 21741,
+          "listed_count": 11,
+          "media_count": 451,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/5xiRmlDfmW",
+        "username": "novalovesoutis",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2090923945386242247",
+    "created_at": "2026-08-21T22:08:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T23:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090923945386242247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1906170707329069057",
+          "start": 3,
+          "username": "Insomniacangel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090923945386242247",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 397
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090498532348477782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Insomniacangel_: No merezco vivir, no valgo nada, soy inservible, no soy buena persona, no soy admirable, no soy inteligente, soy una d…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2090923945386242247",
+        "created_at": "2026-08-21T22:08:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090923945386242247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1906170707329069057",
+              "start": 3,
+              "username": "Insomniacangel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090923945386242247",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090498532348477782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Insomniacangel_: No merezco vivir, no valgo nada, soy inservible, no soy buena persona, no soy admirable, no soy inteligente, soy una d…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906170707329069057",
+        "conversation_id": "2090498532348477782",
+        "created_at": "2026-08-20T17:57:44.000Z",
+        "display_text_range": [
+          0,
+          263
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090498532348477782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090498532348477782",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 13431,
+          "like_count": 990,
+          "quote_count": 16,
+          "reply_count": 16,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "No merezco vivir, no valgo nada, soy inservible, no soy buena persona, no soy admirable, no soy inteligente, soy una decepción, soy un error, soy lento, no sé hacer absolutamente nada, no tengo ningún talento, no soy lindo, no soy cool, no tengo porqué estar vivo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2090923945386242247",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 498,
+          "like_count": 16389,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T02:24:55.000Z",
+        "description": "𖦹 𝘎𝘦𝘯𝘥𝘦𝘳 𝘍𝘭𝘶𝘪𝘥⭑.ᐟ #subtwt #edtw #animetwt #shtwt #suicidetwt #yaoitwt  i'm autistic  𖦹 INFP-T⭑.ᐟ \n Vent acc 🧷 He/him 𖦹 asexual ♱\nm/w: @Sr_Friki0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "subtwt"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "edtw"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "animetwt"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "yaoitwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Sr_Friki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/insomniacangel…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/insomniacangel_?igsh=YXAzNnZ0Mmt4eHJr",
+                "start": 0,
+                "url": "https://t.co/0OtUzcKYGs"
+              }
+            ]
+          }
+        },
+        "id": "1906170707329069057",
+        "is_identity_verified": false,
+        "location": "18y a guy with mental issues ",
+        "most_recent_tweet_id": "2090912977838907869",
+        "name": "𝑴𝒂𝒓𝒖𝒌𝒊 🪽",
+        "pinned_tweet_id": "2089739733765112298",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906170707329069057/1786916345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070942276700839936/Cs3VUJyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5046,
+          "following_count": 3517,
+          "like_count": 69856,
+          "listed_count": 27,
+          "media_count": 1976,
+          "tweet_count": 32328
+        },
+        "url": "https://t.co/0OtUzcKYGs",
+        "username": "Insomniacangel_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

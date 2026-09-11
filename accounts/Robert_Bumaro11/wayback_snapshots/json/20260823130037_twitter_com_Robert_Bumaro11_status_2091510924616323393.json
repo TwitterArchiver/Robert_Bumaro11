@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2091510924616323393",
+    "created_at": "2026-08-23T13:00:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091510924616323393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880073458022842368",
+          "start": 3,
+          "username": "belovedbpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091510924616323393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091223880064979135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @belovedbpd: go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go awa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2091510924616323393",
+        "created_at": "2026-08-23T13:00:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091510924616323393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880073458022842368",
+              "start": 3,
+              "username": "belovedbpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091510924616323393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091223880064979135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @belovedbpd: go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go awa…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880073458022842368",
+        "conversation_id": "2091223880064979135",
+        "created_at": "2026-08-22T18:00:00.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091223880064979135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091223880064979135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2934,
+          "like_count": 119,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. go away. nevermind please don't go away."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2091510924616323393",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 496,
+          "like_count": 16482,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-17T02:03:48.000Z",
+        "description": "you cannot kill me in anyway that matters. every 2 hours.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/belovedbpd",
+                "end": 23,
+                "expanded_url": "https://rentry.co/belovedbpd",
+                "start": 0,
+                "url": "https://t.co/H63XPdqCLm"
+              }
+            ]
+          }
+        },
+        "id": "1880073458022842368",
+        "is_identity_verified": false,
+        "location": "admin uses he/they",
+        "most_recent_tweet_id": "2091495671308103701",
+        "name": "♡ beloved .",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880073458022842368/1737080059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880076146139652096/Kfh-Xhpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 33,
+          "media_count": 480,
+          "tweet_count": 6344
+        },
+        "url": "https://t.co/H63XPdqCLm",
+        "username": "belovedbpd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
