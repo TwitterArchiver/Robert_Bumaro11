@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-02T19:19:23",
+  "last_updated": "2026-10-02T19:21:02",
   "html": {
     "https://web.archive.org/web/20250112080312if_/https://twitter.com/Robert_Bumaro11/status/1878352012804489545": {
       "status": "done",
@@ -16204,9 +16204,9 @@
       "referenced_by": [
         "20260610172655_twitter_com_Robert_Bumaro11_status_2064761240518549949.json"
       ],
-      "last_updated": "2026-09-11T17:48:11",
+      "last_updated": "2026-10-02T19:21:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610172655/https://video.twimg.com/amplify_video/2064472819363086337/vid/avc1/576x1024/mV60aDbKbStw2lba.mp4",
-      "miss_count": 7
+      "miss_count": 8
     },
     "https://video.twimg.com/amplify_video/2074748097251495936/vid/avc1/1920x1080/u6BC-eu8fzpTxffX.mp4": {
       "status": "done",
@@ -16241,25 +16241,28 @@
       "referenced_by": [
         "20260826181007_twitter_com_Robert_Bumaro11_status_2092675976446800145.json"
       ],
-      "last_updated": "2026-09-11T17:48:10"
+      "last_updated": "2026-10-02T19:21:00"
     },
     "https://video.twimg.com/amplify_video/2099548265637400576/vid/avc1/1920x1088/ybAErfrD04RIu_XN.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915134624_twitter_com_Robert_Bumaro11_status_2099857366246359252.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T19:21:02"
     },
     "https://video.twimg.com/amplify_video/2101169655251607552/vid/avc1/720x1280/VJ1l2HCL_0yorBAU.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919074752_twitter_com_Robert_Bumaro11_status_2101216690407342482.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T19:21:00"
     },
     "https://video.twimg.com/ext_tw_video/2040054625810644993/pu/vid/avc1/480x320/5v6xM1UG5v3ntjiO.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928033531_twitter_com_Robert_Bumaro11_status_2104414675186405708.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T19:21:00"
     }
   },
   "avatars": {
@@ -27293,8 +27296,8 @@
           "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250113133450_twitter_com_Robert_Bumaro11_status_1878797859371565113.json": {
       "status": "done",
@@ -27368,8 +27371,8 @@
           "https://pbs.twimg.com/profile_images/1874873812182827008/_LDnbPfQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250117143654_twitter_com_Robert_Bumaro11_status_1880263030359093533.json": {
       "status": "failed",
@@ -27381,8 +27384,8 @@
           "https://pbs.twimg.com/profile_images/1874873812182827008/_LDnbPfQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250121163547_twitter_com_Robert_Bumaro11_status_1881742500995756086.json": {
       "status": "done",
@@ -27420,8 +27423,8 @@
           "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250124192116_twitter_com_Robert_Bumaro11_status_1882871308985483463.json": {
       "status": "failed",
@@ -27434,8 +27437,8 @@
           "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250125192807_twitter_com_Robert_Bumaro11_status_1883235420571587009.json": {
       "status": "done",
@@ -27471,8 +27474,8 @@
           "https://pbs.twimg.com/profile_images/1821904883886194688/YAAuw0EE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250129155959_twitter_com_Robert_Bumaro11_status_1884632591229497478.json": {
       "status": "failed",
@@ -27484,8 +27487,8 @@
           "https://pbs.twimg.com/profile_images/1877243994922692609/uTjqYn2M_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250131070719_twitter_com_Robert_Bumaro11_status_1885223317139054986.json": {
       "status": "done",
@@ -27521,8 +27524,8 @@
           "https://pbs.twimg.com/profile_images/1880983131173662720/05_lpEVm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250202042927_twitter_com_Robert_Bumaro11_status_1885908366482162039.json": {
       "status": "failed",
@@ -27534,8 +27537,8 @@
           "https://pbs.twimg.com/profile_images/1875792193795088384/0kEOTGgO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250202190544_twitter_com_Robert_Bumaro11_status_1886128890483204135.json": {
       "status": "failed",
@@ -27547,8 +27550,8 @@
           "https://pbs.twimg.com/profile_images/1813552487238160384/xnMWSYo0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250202191021_twitter_com_Robert_Bumaro11_status_1886130050707431499.json": {
       "status": "failed",
@@ -27560,8 +27563,8 @@
           "https://pbs.twimg.com/profile_images/1813552487238160384/xnMWSYo0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250210051011_twitter_com_Robert_Bumaro11_status_1888817721351258226.json": {
       "status": "failed",
@@ -27573,8 +27576,8 @@
           "https://pbs.twimg.com/profile_images/1867512981070000133/vV8gpQoU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250210155019_twitter_com_Robert_Bumaro11_status_1888978814749008069.json": {
       "status": "done",
@@ -27623,8 +27626,8 @@
           "https://pbs.twimg.com/profile_images/1829501306236461056/kazP7pTz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250221204639_twitter_com_Robert_Bumaro11_status_1893039654817144900.json": {
       "status": "failed",
@@ -27636,8 +27639,8 @@
           "https://pbs.twimg.com/profile_images/1872851413048643585/yBX6cW2H_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250223164602_twitter_com_Robert_Bumaro11_status_1893703877586788591.json": {
       "status": "done",
@@ -27688,8 +27691,8 @@
           "https://pbs.twimg.com/profile_images/1821013028751749120/iRBPrtYJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250308014321_twitter_com_Robert_Bumaro11_status_1898187750886851041.json": {
       "status": "done",
@@ -27745,8 +27748,8 @@
           "https://pbs.twimg.com/profile_images/1872851413048643585/yBX6cW2H_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250408203510_twitter_com_Robert_Bumaro11_status_1909706607728246880.json": {
       "status": "failed",
@@ -27763,8 +27766,8 @@
           "https://pbs.twimg.com/profile_images/1904774494323171330/3gYQy-FK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250418160909_twitter_com_Robert_Bumaro11_status_1913263540468961292.json": {
       "status": "failed",
@@ -27778,8 +27781,8 @@
           "https://pbs.twimg.com/profile_images/1807287643358777344/rsoBWlwX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250421083455_twitter_com_Robert_Bumaro11_status_1914236394295431426.json": {
       "status": "done",
@@ -27807,8 +27810,8 @@
           "https://pbs.twimg.com/profile_images/1904774494323171330/3gYQy-FK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250501021203_twitter_com_Robert_Bumaro11_status_1917763918619107647.json": {
       "status": "done",
@@ -27832,8 +27835,8 @@
           "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250531095643_twitter_com_Robert_Bumaro11_status_1928752492751499730.json": {
       "status": "failed",
@@ -27845,8 +27848,8 @@
           "https://pbs.twimg.com/profile_images/1924792444924919815/G-Hf4VYL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250604041757_twitter_com_Robert_Bumaro11_status_1930116790689870312.json": {
       "status": "done",
@@ -27909,8 +27912,8 @@
           "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250613134619_twitter_com_Robert_Bumaro11_status_1933521317237830004.json": {
       "status": "failed",
@@ -27925,8 +27928,8 @@
           "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250614133747_twitter_com_Robert_Bumaro11_status_1933881557716181179.json": {
       "status": "done",
@@ -27965,8 +27968,8 @@
           "https://pbs.twimg.com/profile_images/1933502211507826693/b_QOLEsl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250615234701_twitter_com_Robert_Bumaro11_status_1934397261141917931.json": {
       "status": "done",
@@ -28011,8 +28014,8 @@
           "https://pbs.twimg.com/profile_images/1935647345233825793/b9mMlA05_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250620141336_twitter_com_Robert_Bumaro11_status_1936064898624282717.json": {
       "status": "done",
@@ -28036,8 +28039,8 @@
           "https://pbs.twimg.com/profile_images/1918973778018848768/_IiO1I0F_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250620230118_twitter_com_Robert_Bumaro11_status_1936197696312033504.json": {
       "status": "failed",
@@ -28049,8 +28052,8 @@
           "https://pbs.twimg.com/profile_images/1735392372333088768/MH6mtkO9_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250620230608_twitter_com_Robert_Bumaro11_status_1936198912068698239.json": {
       "status": "done",
@@ -28098,8 +28101,8 @@
           "https://pbs.twimg.com/profile_images/1936108314246414336/tefVqHnb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250706191956_twitter_com_Robert_Bumaro11_status_1941940194439299189.json": {
       "status": "failed",
@@ -28111,8 +28114,8 @@
           "https://pbs.twimg.com/profile_images/1937076267335000065/VO343_fo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250707021349_twitter_com_Robert_Bumaro11_status_1942044350307029438.json": {
       "status": "done",
@@ -28136,8 +28139,8 @@
           "https://pbs.twimg.com/profile_images/1944304106195017728/PRwc-Cmv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250717114739_twitter_com_Robert_Bumaro11_status_1945812639252406396.json": {
       "status": "failed",
@@ -28149,8 +28152,8 @@
           "https://pbs.twimg.com/profile_images/1934262283548717056/iAoiIn6H_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250717124838_twitter_com_Robert_Bumaro11_status_1945827988219809855.json": {
       "status": "failed",
@@ -28167,8 +28170,8 @@
           "https://pbs.twimg.com/profile_images/1910728593099153408/anHTFYzh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250718001122_twitter_com_Robert_Bumaro11_status_1945999801201619069.json": {
       "status": "done",
@@ -28222,8 +28225,8 @@
           "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250722190553_twitter_com_Robert_Bumaro11_status_1947734864805171611.json": {
       "status": "done",
@@ -28286,8 +28289,8 @@
           "https://pbs.twimg.com/profile_images/1777895574970462208/7vcO3K0H_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250726121107_twitter_com_Robert_Bumaro11_status_1949080036172242976.json": {
       "status": "done",
@@ -28326,8 +28329,8 @@
           "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250729220155_twitter_com_Robert_Bumaro11_status_1950315879037882496.json": {
       "status": "failed",
@@ -28339,8 +28342,8 @@
           "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250730010538_twitter_com_Robert_Bumaro11_status_1950362111584194694.json": {
       "status": "failed",
@@ -28352,8 +28355,8 @@
           "https://pbs.twimg.com/profile_images/1946731588592492544/DFat1Ndh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250730174813_twitter_com_Robert_Bumaro11_status_1950614423699329149.json": {
       "status": "done",
@@ -28392,8 +28395,8 @@
           "https://pbs.twimg.com/profile_images/1950074867635666944/v2lfK78G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250731153244_twitter_com_Robert_Bumaro11_status_1950942716113858728.json": {
       "status": "done",
@@ -28440,8 +28443,8 @@
           "https://pbs.twimg.com/profile_images/1931720290784120832/-2l63nRO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250801173557_twitter_com_Robert_Bumaro11_status_1951336110875091050.json": {
       "status": "done",
@@ -28479,8 +28482,8 @@
           "https://pbs.twimg.com/profile_images/1949019958287237125/BckoVlFX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250802114605_twitter_com_Robert_Bumaro11_status_1951610453320425580.json": {
       "status": "done",
@@ -28541,8 +28544,8 @@
           "https://pbs.twimg.com/profile_images/1953055031869214720/T1jSUDGh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250806175548_twitter_com_Robert_Bumaro11_status_1953153046390939909.json": {
       "status": "done",
@@ -28578,8 +28581,8 @@
           "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250807181226_twitter_com_Robert_Bumaro11_status_1953519618389410134.json": {
       "status": "failed",
@@ -28591,8 +28594,8 @@
           "https://pbs.twimg.com/profile_images/1953355960610897920/1g82qJhD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250807181726_twitter_com_Robert_Bumaro11_status_1953520877204910562.json": {
       "status": "done",
@@ -28641,8 +28644,8 @@
           "https://pbs.twimg.com/profile_images/1910353754169409536/9y20G2A3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250808202629_twitter_com_Robert_Bumaro11_status_1953915740182168004.json": {
       "status": "done",
@@ -28670,8 +28673,8 @@
           "https://pbs.twimg.com/profile_images/1953678507017400320/GcUpsxkV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250809203243_twitter_com_Robert_Bumaro11_status_1954279698416259553.json": {
       "status": "done",
@@ -28768,8 +28771,8 @@
           "https://pbs.twimg.com/profile_images/1933771158266261505/DRj4q9e0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250810235253_twitter_com_Robert_Bumaro11_status_1954692459533062412.json": {
       "status": "failed",
@@ -28783,8 +28786,8 @@
           "https://pbs.twimg.com/profile_images/1933771158266261505/DRj4q9e0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250811000237_twitter_com_Robert_Bumaro11_status_1954694911170916610.json": {
       "status": "done",
@@ -28809,8 +28812,8 @@
           "https://pbs.twimg.com/profile_images/1933771158266261505/DRj4q9e0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250811002050_twitter_com_Robert_Bumaro11_status_1954699493569593510.json": {
       "status": "failed",
@@ -28822,8 +28825,8 @@
           "https://pbs.twimg.com/profile_images/1933771158266261505/DRj4q9e0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250811003311_twitter_com_Robert_Bumaro11_status_1954702600739426581.json": {
       "status": "failed",
@@ -28835,8 +28838,8 @@
           "https://pbs.twimg.com/profile_images/1949019958287237125/BckoVlFX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250811011858_twitter_com_Robert_Bumaro11_status_1954714123662733387.json": {
       "status": "done",
@@ -28886,8 +28889,8 @@
           "https://pbs.twimg.com/profile_images/1950436123228205056/4gqnxz2W_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250811155855_twitter_com_Robert_Bumaro11_status_1954935570041556994.json": {
       "status": "failed",
@@ -28899,8 +28902,8 @@
           "https://pbs.twimg.com/profile_images/1937802250342322176/YVx9onB8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250813082134_twitter_com_Robert_Bumaro11_status_1955545248471584944.json": {
       "status": "done",
@@ -28947,8 +28950,8 @@
           "https://pbs.twimg.com/profile_images/1941145792586084352/Jd8lQnWY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250814222936_twitter_com_Robert_Bumaro11_status_1956121050842095850.json": {
       "status": "failed",
@@ -28960,8 +28963,8 @@
           "https://pbs.twimg.com/profile_images/1866142697205235712/V8vykQOi_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250815095231_twitter_com_Robert_Bumaro11_status_1956292915006730358.json": {
       "status": "done",
@@ -29072,8 +29075,8 @@
           "https://pbs.twimg.com/profile_images/1955720501579669508/6NFbxH7y_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250820142816_twitter_com_Robert_Bumaro11_status_1958174249018933528.json": {
       "status": "failed",
@@ -29085,8 +29088,8 @@
           "https://pbs.twimg.com/profile_images/1825454841118003200/bJNPE15W_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250820144630_twitter_com_Robert_Bumaro11_status_1958178835167666609.json": {
       "status": "done",
@@ -29135,8 +29138,8 @@
           "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250820183852_twitter_com_Robert_Bumaro11_status_1958237311822602473.json": {
       "status": "done",
@@ -29192,8 +29195,8 @@
           "https://pbs.twimg.com/profile_images/1948535983693332484/uaxJESyb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250821150324_twitter_com_Robert_Bumaro11_status_1958545477479112813.json": {
       "status": "done",
@@ -29219,8 +29222,8 @@
           "https://pbs.twimg.com/profile_images/1957372337566945280/qtIdzEf0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250829172410_twitter_com_Robert_Bumaro11_status_1961480006259126556.json": {
       "status": "done",
@@ -29243,8 +29246,8 @@
           "https://pbs.twimg.com/profile_images/1954373324617973760/641osLuv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250831192637_twitter_com_Robert_Bumaro11_status_1962235596031893975.json": {
       "status": "done",
@@ -29368,8 +29371,8 @@
           "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250911130601_twitter_com_Robert_Bumaro11_status_1966126083121754274.json": {
       "status": "done",
@@ -29498,8 +29501,8 @@
           "https://pbs.twimg.com/profile_images/1961477771198423040/79za1FSK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250912113939_twitter_com_Robert_Bumaro11_status_1966466735818813851.json": {
       "status": "done",
@@ -29886,8 +29889,8 @@
           "https://pbs.twimg.com/profile_images/1948551460234690563/M8dzOUrb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250913184144_twitter_com_Robert_Bumaro11_status_1966935344152236061.json": {
       "status": "done",
@@ -30041,8 +30044,8 @@
           "https://pbs.twimg.com/profile_images/1948551460234690563/M8dzOUrb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250915122313_twitter_com_Robert_Bumaro11_status_1967564862835605542.json": {
       "status": "done",
@@ -30066,8 +30069,8 @@
           "https://pbs.twimg.com/profile_images/1966976201135738880/bC-SxMou_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250916131231_twitter_com_Robert_Bumaro11_status_1967939655258738993.json": {
       "status": "done",
@@ -30114,8 +30117,8 @@
           "https://pbs.twimg.com/profile_images/1968417894641102848/cxOoqLwl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250917234816_twitter_com_Robert_Bumaro11_status_1968462038046491048.json": {
       "status": "done",
@@ -30198,8 +30201,8 @@
           "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250918103705_twitter_com_Robert_Bumaro11_status_1968625316617953314.json": {
       "status": "done",
@@ -30262,8 +30265,8 @@
           "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250918185212_twitter_com_Robert_Bumaro11_status_1968749918706655671.json": {
       "status": "done",
@@ -30314,8 +30317,8 @@
           "https://pbs.twimg.com/profile_images/1967652925108523010/wbWoooP5_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250918192548_twitter_com_Robert_Bumaro11_status_1968758372448006250.json": {
       "status": "done",
@@ -30349,8 +30352,8 @@
           "https://pbs.twimg.com/profile_images/1968522674298363904/2HIoVBuF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250918231119_twitter_com_Robert_Bumaro11_status_1968815124229034321.json": {
       "status": "done",
@@ -30422,8 +30425,8 @@
           "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250919101343_twitter_com_Robert_Bumaro11_status_1968981822559171046.json": {
       "status": "done",
@@ -30446,8 +30449,8 @@
           "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250919223309_twitter_com_Robert_Bumaro11_status_1969167909403480174.json": {
       "status": "done",
@@ -30475,8 +30478,8 @@
           "https://pbs.twimg.com/profile_images/1969233695350669313/-vxxfiaE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250920060506_twitter_com_Robert_Bumaro11_status_1969281645715829160.json": {
       "status": "done",
@@ -30663,8 +30666,8 @@
           "https://pbs.twimg.com/profile_images/1968677271625236480/YAGKzjf6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250921091242_twitter_com_Robert_Bumaro11_status_1969691246206841283.json": {
       "status": "done",
@@ -30857,8 +30860,8 @@
           "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250924080436_twitter_com_Robert_Bumaro11_status_1970761269444780472.json": {
       "status": "done",
@@ -30893,8 +30896,8 @@
           "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250924082142_twitter_com_Robert_Bumaro11_status_1970765573475967190.json": {
       "status": "done",
@@ -30917,8 +30920,8 @@
           "https://pbs.twimg.com/profile_images/1968715141848973326/UEcebN83_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250924112737_twitter_com_Robert_Bumaro11_status_1970812359364256233.json": {
       "status": "failed",
@@ -30930,8 +30933,8 @@
           "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250924114247_twitter_com_Robert_Bumaro11_status_1970816178181546461.json": {
       "status": "done",
@@ -31075,8 +31078,8 @@
           "https://pbs.twimg.com/profile_images/1965339883196874753/s5_3X6IM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250926121933_twitter_com_Robert_Bumaro11_status_1971550208460034162.json": {
       "status": "done",
@@ -31197,8 +31200,8 @@
           "https://pbs.twimg.com/profile_images/1968677271625236480/YAGKzjf6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927123043_twitter_com_Robert_Bumaro11_status_1971915406081511898.json": {
       "status": "failed",
@@ -31210,8 +31213,8 @@
           "https://pbs.twimg.com/profile_images/1959842564041035776/TVNgfGsS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927124036_twitter_com_Robert_Bumaro11_status_1971917892989161815.json": {
       "status": "failed",
@@ -31223,8 +31226,8 @@
           "https://pbs.twimg.com/profile_images/1961954897773182976/_GaRHs6k_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927124258_twitter_com_Robert_Bumaro11_status_1971918488014086229.json": {
       "status": "failed",
@@ -31236,8 +31239,8 @@
           "https://pbs.twimg.com/profile_images/1971884077956657152/T4jiqYTZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927124439_twitter_com_Robert_Bumaro11_status_1971918908958691770.json": {
       "status": "done",
@@ -31261,8 +31264,8 @@
           "https://pbs.twimg.com/profile_images/1970792134333616128/nkA2SZPH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927124748_twitter_com_Robert_Bumaro11_status_1971919705557643390.json": {
       "status": "failed",
@@ -31274,8 +31277,8 @@
           "https://pbs.twimg.com/profile_images/1970792134333616128/nkA2SZPH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927125610_twitter_com_Robert_Bumaro11_status_1971921810938790304.json": {
       "status": "done",
@@ -31298,8 +31301,8 @@
           "https://pbs.twimg.com/profile_images/1970792134333616128/nkA2SZPH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927130013_twitter_com_Robert_Bumaro11_status_1971922826367316006.json": {
       "status": "failed",
@@ -31311,8 +31314,8 @@
           "https://pbs.twimg.com/profile_images/1970792134333616128/nkA2SZPH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927155311_twitter_com_Robert_Bumaro11_status_1971966355395293409.json": {
       "status": "done",
@@ -31337,8 +31340,8 @@
           "https://pbs.twimg.com/profile_images/1965339883196874753/s5_3X6IM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250927171001_twitter_com_Robert_Bumaro11_status_1971985693493932440.json": {
       "status": "failed",
@@ -31350,8 +31353,8 @@
           "https://pbs.twimg.com/profile_images/1967652925108523010/wbWoooP5_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250928122854_twitter_com_Robert_Bumaro11_status_1972277336449089564.json": {
       "status": "done",
@@ -31453,8 +31456,8 @@
           "https://pbs.twimg.com/profile_images/1966833884114685952/ybVdaSOB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250928173204_twitter_com_Robert_Bumaro11_status_1972353627500302416.json": {
       "status": "done",
@@ -31549,8 +31552,8 @@
           "https://pbs.twimg.com/profile_images/1955513105603235840/1ac8vJzZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250929164636_twitter_com_Robert_Bumaro11_status_1972704576102101121.json": {
       "status": "done",
@@ -31609,8 +31612,8 @@
           "https://pbs.twimg.com/profile_images/1949868551441195008/00dhN88I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250930000139_twitter_com_Robert_Bumaro11_status_1972814058178125960.json": {
       "status": "failed",
@@ -31622,8 +31625,8 @@
           "https://pbs.twimg.com/profile_images/1955918875037667328/X9fBWWmq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250930000519_twitter_com_Robert_Bumaro11_status_1972814980086182178.json": {
       "status": "done",
@@ -31692,8 +31695,8 @@
           "https://pbs.twimg.com/profile_images/1949868551441195008/00dhN88I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250930092037_twitter_com_Robert_Bumaro11_status_1972954728029171896.json": {
       "status": "done",
@@ -31727,8 +31730,8 @@
           "https://pbs.twimg.com/profile_images/1965332985126981632/prjfJjOJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20250930110724_twitter_com_Robert_Bumaro11_status_1972981599030702293.json": {
       "status": "done",
@@ -31827,8 +31830,8 @@
           "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251001053132_twitter_com_Robert_Bumaro11_status_1973259464305418375.json": {
       "status": "done",
@@ -31853,8 +31856,8 @@
           "https://pbs.twimg.com/profile_images/1951445525925863424/zOv7gm1n_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251001075404_twitter_com_Robert_Bumaro11_status_1973295335930994897.json": {
       "status": "done",
@@ -31929,8 +31932,8 @@
           "https://pbs.twimg.com/profile_images/1960359102070362112/OogCw3Io_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251001163151_twitter_com_Robert_Bumaro11_status_1973425639794548946.json": {
       "status": "done",
@@ -32121,8 +32124,8 @@
           "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251002102929_twitter_com_Robert_Bumaro11_status_1973696834129506386.json": {
       "status": "done",
@@ -32163,8 +32166,8 @@
           "https://pbs.twimg.com/profile_images/1967027770581831680/vuGKDXnS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251002134921_twitter_com_Robert_Bumaro11_status_1973747130746679355.json": {
       "status": "done",
@@ -32219,8 +32222,8 @@
           "https://pbs.twimg.com/profile_images/1946792577014865920/lNIx0XX3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251002154108_twitter_com_Robert_Bumaro11_status_1973775262769906087.json": {
       "status": "done",
@@ -32283,8 +32286,8 @@
           "https://pbs.twimg.com/profile_images/1968677271625236480/YAGKzjf6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251002194527_twitter_com_Robert_Bumaro11_status_1973836748166971716.json": {
       "status": "done",
@@ -32336,8 +32339,8 @@
           "https://pbs.twimg.com/profile_images/1969501366285713412/D4SKPSvl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251003082555_twitter_com_Robert_Bumaro11_status_1974028127191121956.json": {
       "status": "done",
@@ -32393,8 +32396,8 @@
           "https://pbs.twimg.com/profile_images/1221372624506220544/2Vqb8uv4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251004095537_twitter_com_Robert_Bumaro11_status_1974413087102193684.json": {
       "status": "done",
@@ -32507,8 +32510,8 @@
           "https://pbs.twimg.com/profile_images/1974304894208389122/UXgCbXCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251004124829_twitter_com_Robert_Bumaro11_status_1974456592470028776.json": {
       "status": "done",
@@ -32531,8 +32534,8 @@
           "https://pbs.twimg.com/profile_images/1974412381888610304/I1HSvErS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251004134733_twitter_com_Robert_Bumaro11_status_1974471456278143300.json": {
       "status": "done",
@@ -32559,8 +32562,8 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251004144946_twitter_com_Robert_Bumaro11_status_1974487111203201382.json": {
       "status": "done",
@@ -32627,8 +32630,8 @@
           "https://pbs.twimg.com/profile_images/1885317951546679301/m17XslbZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251004173045_twitter_com_Robert_Bumaro11_status_1974527624396579207.json": {
       "status": "done",
@@ -32652,8 +32655,8 @@
           "https://pbs.twimg.com/profile_images/1967641855916408832/jQaKZyad_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251004175134_twitter_com_Robert_Bumaro11_status_1974532862746722488.json": {
       "status": "done",
@@ -32703,8 +32706,8 @@
           "https://pbs.twimg.com/profile_images/1887491431230799872/ycq9KVCH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251005123005_twitter_com_Robert_Bumaro11_status_1974814348598992944.json": {
       "status": "done",
@@ -32729,8 +32732,8 @@
           "https://pbs.twimg.com/profile_images/1974304894208389122/UXgCbXCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251005163557_twitter_com_Robert_Bumaro11_status_1974876220547571715.json": {
       "status": "done",
@@ -32863,8 +32866,8 @@
           "https://pbs.twimg.com/profile_images/1974304894208389122/UXgCbXCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251006121524_twitter_com_Robert_Bumaro11_status_1975173038682657120.json": {
       "status": "done",
@@ -33028,8 +33031,8 @@
           "https://pbs.twimg.com/profile_images/1974304894208389122/UXgCbXCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251006223449_twitter_com_Robert_Bumaro11_status_1975328920460530095.json": {
       "status": "done",
@@ -33220,8 +33223,8 @@
           "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251007223905_twitter_com_Robert_Bumaro11_status_1975692383154245845.json": {
       "status": "done",
@@ -33259,8 +33262,8 @@
           "https://pbs.twimg.com/profile_images/1974304894208389122/UXgCbXCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251008144700_twitter_com_Robert_Bumaro11_status_1975935966499295336.json": {
       "status": "done",
@@ -33538,8 +33541,8 @@
           "https://pbs.twimg.com/profile_images/1833477013648379905/QLijoobI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251012065205_twitter_com_Robert_Bumaro11_status_1977266001340514776.json": {
       "status": "failed",
@@ -33556,8 +33559,8 @@
           "https://pbs.twimg.com/profile_images/1969361407830552576/mOGhNXs1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:55",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251012100819_twitter_com_Robert_Bumaro11_status_1977315384438214839.json": {
       "status": "done",
@@ -33591,8 +33594,8 @@
           "https://pbs.twimg.com/profile_images/1975842551317069824/nqziIras_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251012134129_twitter_com_Robert_Bumaro11_status_1977369030533996593.json": {
       "status": "failed",
@@ -33607,8 +33610,8 @@
           "https://pbs.twimg.com/profile_images/1974304894208389122/UXgCbXCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251012141037_twitter_com_Robert_Bumaro11_status_1977376363142087047.json": {
       "status": "done",
@@ -33636,8 +33639,8 @@
           "https://pbs.twimg.com/profile_images/1976643720981139456/JZm2dNw-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251013001547_twitter_com_Robert_Bumaro11_status_1977528659138506950.json": {
       "status": "failed",
@@ -33650,8 +33653,8 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251013001732_twitter_com_Robert_Bumaro11_status_1977529099649433892.json": {
       "status": "done",
@@ -33733,8 +33736,8 @@
           "https://pbs.twimg.com/profile_images/1976643720981139456/JZm2dNw-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251013054844_twitter_com_Robert_Bumaro11_status_1977612447336030414.json": {
       "status": "done",
@@ -33775,8 +33778,8 @@
           "https://pbs.twimg.com/profile_images/1976703554758098945/2sn3KBuD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251013161419_twitter_com_Robert_Bumaro11_status_1977769881891487931.json": {
       "status": "done",
@@ -33829,8 +33832,8 @@
           "https://pbs.twimg.com/profile_images/1977363061255352320/EyaZTMCK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251014023828_twitter_com_Robert_Bumaro11_status_1977926953039782393.json": {
       "status": "done",
@@ -33869,8 +33872,8 @@
           "https://pbs.twimg.com/profile_images/1976545137112367104/FcDJPG_a_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251015125658_twitter_com_Robert_Bumaro11_status_1978444993707552809.json": {
       "status": "done",
@@ -33921,8 +33924,8 @@
           "https://pbs.twimg.com/profile_images/1978361291220664320/j1ISyV_g_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251016124908_twitter_com_Robert_Bumaro11_status_1978805409797304505.json": {
       "status": "done",
@@ -33948,8 +33951,8 @@
           "https://pbs.twimg.com/profile_images/1934546666427916288/WzGE0zLt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251016142941_twitter_com_Robert_Bumaro11_status_1978830710896046529.json": {
       "status": "failed",
@@ -33961,8 +33964,8 @@
           "https://pbs.twimg.com/profile_images/1975504476657360901/7dcg4XjZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251017194528_twitter_com_Robert_Bumaro11_status_1979272569489617034.json": {
       "status": "failed",
@@ -33974,8 +33977,8 @@
           "https://pbs.twimg.com/profile_images/1885317951546679301/m17XslbZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251018004021_twitter_com_Robert_Bumaro11_status_1979346780023394420.json": {
       "status": "done",
@@ -34027,8 +34030,8 @@
           "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251018140739_twitter_com_Robert_Bumaro11_status_1979549941690421376.json": {
       "status": "failed",
@@ -34041,8 +34044,8 @@
           "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251018150207_twitter_com_Robert_Bumaro11_status_1979563649850327063.json": {
       "status": "done",
@@ -34103,8 +34106,8 @@
           "https://pbs.twimg.com/profile_images/1978269997169610752/xZMocpo5_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251018225403_twitter_com_Robert_Bumaro11_status_1979682416584450208.json": {
       "status": "done",
@@ -34237,8 +34240,8 @@
           "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251020224421_twitter_com_Robert_Bumaro11_status_1980404749565599748.json": {
       "status": "done",
@@ -34281,8 +34284,8 @@
           "https://pbs.twimg.com/profile_images/1918065950659887108/C0ZiwUXr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251020235925_twitter_com_Robert_Bumaro11_status_1980423642837315602.json": {
       "status": "done",
@@ -34364,8 +34367,8 @@
           "https://pbs.twimg.com/profile_images/1967070319178293248/dpcldNoc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251023122727_twitter_com_Robert_Bumaro11_status_1981336667090014414.json": {
       "status": "failed",
@@ -34377,8 +34380,8 @@
           "https://pbs.twimg.com/profile_images/1980462620441284608/9ovreZD7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251023122826_twitter_com_Robert_Bumaro11_status_1981336913757024273.json": {
       "status": "done",
@@ -34403,8 +34406,8 @@
           "https://pbs.twimg.com/profile_images/1978312732442279936/q9QmFj6S_normal.png"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251023224642_twitter_com_Robert_Bumaro11_status_1981492506731958665.json": {
       "status": "failed",
@@ -34419,8 +34422,8 @@
           "https://pbs.twimg.com/profile_images/1962911732923555840/Lk_O75xB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251024081449_twitter_com_Robert_Bumaro11_status_1981635477427122552.json": {
       "status": "failed",
@@ -34432,8 +34435,8 @@
           "https://pbs.twimg.com/profile_images/1979564121575092225/ZE2HDvj0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251024100030_twitter_com_Robert_Bumaro11_status_1981662075610091788.json": {
       "status": "done",
@@ -34459,8 +34462,8 @@
           "https://pbs.twimg.com/profile_images/1980837719421894657/h7f0lmEU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251024195637_twitter_com_Robert_Bumaro11_status_1981812091666543024.json": {
       "status": "failed",
@@ -34472,8 +34475,8 @@
           "https://pbs.twimg.com/profile_images/1980888923917139968/kYDo39iM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251024212658_twitter_com_Robert_Bumaro11_status_1981834827465974022.json": {
       "status": "done",
@@ -34528,8 +34531,8 @@
           "https://pbs.twimg.com/profile_images/1980888923917139968/kYDo39iM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251025002809_twitter_com_Robert_Bumaro11_status_1981880424319385710.json": {
       "status": "done",
@@ -34607,8 +34610,8 @@
           "https://pbs.twimg.com/profile_images/1920833964660740096/sDROzwXR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251025062919_twitter_com_Robert_Bumaro11_status_1981971316296294501.json": {
       "status": "failed",
@@ -34622,8 +34625,8 @@
           "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251025063023_twitter_com_Robert_Bumaro11_status_1981971584907948066.json": {
       "status": "failed",
@@ -34637,8 +34640,8 @@
           "https://pbs.twimg.com/profile_images/1981314533676257280/6W3qD4Zi_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251025063054_twitter_com_Robert_Bumaro11_status_1981971712679063920.json": {
       "status": "done",
@@ -34666,8 +34669,8 @@
           "https://pbs.twimg.com/profile_images/1978063772720812032/W7Ncsc-b_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251025064527_twitter_com_Robert_Bumaro11_status_1981975374671343695.json": {
       "status": "done",
@@ -34741,8 +34744,8 @@
           "https://pbs.twimg.com/profile_images/1950052766757330944/TJn-lean_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251025120745_twitter_com_Robert_Bumaro11_status_1982056484356968531.json": {
       "status": "done",
@@ -34780,8 +34783,8 @@
           "https://pbs.twimg.com/profile_images/1912342756732608512/cvhJMkew_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251026091111_twitter_com_Robert_Bumaro11_status_1982374438827118623.json": {
       "status": "failed",
@@ -34794,8 +34797,8 @@
           "https://pbs.twimg.com/profile_images/1912342756732608512/cvhJMkew_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251026105125_twitter_com_Robert_Bumaro11_status_1982399663887278410.json": {
       "status": "done",
@@ -34901,8 +34904,8 @@
           "https://pbs.twimg.com/profile_images/1981180746581569536/DsNl2mhE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251029135940_twitter_com_Robert_Bumaro11_status_1983534201321517194.json": {
       "status": "done",
@@ -34959,8 +34962,8 @@
           "https://pbs.twimg.com/profile_images/1950052766757330944/TJn-lean_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251029155453_twitter_com_Robert_Bumaro11_status_1983563194674167848.json": {
       "status": "done",
@@ -34985,8 +34988,8 @@
           "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251029161958_twitter_com_Robert_Bumaro11_status_1983569508297326947.json": {
       "status": "failed",
@@ -35001,8 +35004,8 @@
           "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251029170036_twitter_com_Robert_Bumaro11_status_1983579734849241517.json": {
       "status": "done",
@@ -35026,8 +35029,8 @@
           "https://pbs.twimg.com/profile_images/1934546666427916288/WzGE0zLt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251030025408_twitter_com_Robert_Bumaro11_status_1983729102273290578.json": {
       "status": "done",
@@ -35065,8 +35068,8 @@
           "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251030070357_twitter_com_Robert_Bumaro11_status_1983791971857789349.json": {
       "status": "failed",
@@ -35080,8 +35083,8 @@
           "https://pbs.twimg.com/profile_images/1976359236864204800/peAP4Xwb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251030074839_twitter_com_Robert_Bumaro11_status_1983803218988822680.json": {
       "status": "done",
@@ -35119,8 +35122,8 @@
           "https://pbs.twimg.com/profile_images/1969820717794656256/KlkA69Xv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251030095002_twitter_com_Robert_Bumaro11_status_1983833766452982175.json": {
       "status": "done",
@@ -35156,8 +35159,8 @@
           "https://pbs.twimg.com/profile_images/1983744506085466112/Ry13XrTf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:43",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251030103758_twitter_com_Robert_Bumaro11_status_1983845827887165790.json": {
       "status": "done",
@@ -35306,8 +35309,8 @@
           "https://pbs.twimg.com/profile_images/1983825359213883394/LeE83CSK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:44",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251031111747_twitter_com_Robert_Bumaro11_status_1984218238784553024.json": {
       "status": "failed",
@@ -35321,8 +35324,8 @@
           "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251031133306_twitter_com_Robert_Bumaro11_status_1984252292439400730.json": {
       "status": "failed",
@@ -35334,8 +35337,8 @@
           "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251031140451_twitter_com_Robert_Bumaro11_status_1984260279342137845.json": {
       "status": "done",
@@ -35399,8 +35402,8 @@
           "https://pbs.twimg.com/profile_images/1968202148120027136/WEXVsj_Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101063011_twitter_com_Robert_Bumaro11_status_1984508250491089135.json": {
       "status": "failed",
@@ -35412,8 +35415,8 @@
           "https://pbs.twimg.com/profile_images/1983202533972815872/4qPXaN4r_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101063235_twitter_com_Robert_Bumaro11_status_1984508851077726690.json": {
       "status": "failed",
@@ -35427,8 +35430,8 @@
           "https://pbs.twimg.com/profile_images/1981314533676257280/6W3qD4Zi_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101063422_twitter_com_Robert_Bumaro11_status_1984509302649082203.json": {
       "status": "failed",
@@ -35442,8 +35445,8 @@
           "https://pbs.twimg.com/profile_images/1984328901079023616/Xzq4DTpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101063807_twitter_com_Robert_Bumaro11_status_1984510244224188447.json": {
       "status": "done",
@@ -35468,8 +35471,8 @@
           "https://pbs.twimg.com/profile_images/1983670924306968576/x2Ix6sc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101075218_twitter_com_Robert_Bumaro11_status_1984528915659190779.json": {
       "status": "done",
@@ -35493,8 +35496,8 @@
           "https://pbs.twimg.com/profile_images/1896408732801933313/uCuDLR7K_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101082944_twitter_com_Robert_Bumaro11_status_1984538336342704359.json": {
       "status": "failed",
@@ -35508,8 +35511,8 @@
           "https://pbs.twimg.com/profile_images/1978253399457193984/qoYLOnKr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101083706_twitter_com_Robert_Bumaro11_status_1984540188027338871.json": {
       "status": "failed",
@@ -35523,8 +35526,8 @@
           "https://pbs.twimg.com/profile_images/1930049099543523331/bZBb9ssN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251101094954_twitter_com_Robert_Bumaro11_status_1984558510546567446.json": {
       "status": "done",
@@ -35701,8 +35704,8 @@
           "https://pbs.twimg.com/profile_images/1811843884693037056/v8vgdG6N_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251105164620_twitter_com_Robert_Bumaro11_status_1986112861014532248.json": {
       "status": "done",
@@ -35743,8 +35746,8 @@
           "https://pbs.twimg.com/profile_images/1949737039471226880/b-HXaM26_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251105225155_twitter_com_Robert_Bumaro11_status_1986204860082212999.json": {
       "status": "failed",
@@ -35758,8 +35761,8 @@
           "https://pbs.twimg.com/profile_images/1950514695414464512/cAe6rQo6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251106140836_twitter_com_Robert_Bumaro11_status_1986435550803599668.json": {
       "status": "failed",
@@ -35773,8 +35776,8 @@
           "https://pbs.twimg.com/profile_images/1832948383855636480/Q3Kt2N9R_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251106154942_twitter_com_Robert_Bumaro11_status_1986460996450549815.json": {
       "status": "failed",
@@ -35788,8 +35791,8 @@
           "https://pbs.twimg.com/profile_images/1980888923917139968/kYDo39iM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251106171005_twitter_com_Robert_Bumaro11_status_1986481225788526985.json": {
       "status": "failed",
@@ -35801,8 +35804,8 @@
           "https://pbs.twimg.com/profile_images/1866142697205235712/V8vykQOi_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:45",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251107082654_twitter_com_Robert_Bumaro11_status_1986711946511671310.json": {
       "status": "done",
@@ -35856,8 +35859,8 @@
           "https://pbs.twimg.com/profile_images/1979067030939590656/kkTmy7qX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251108094034_twitter_com_Robert_Bumaro11_status_1987092873876283578.json": {
       "status": "failed",
@@ -35869,8 +35872,8 @@
           "https://pbs.twimg.com/profile_images/1984958179407446016/wWP4Bnu2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251108114514_twitter_com_Robert_Bumaro11_status_1987124247068918173.json": {
       "status": "done",
@@ -35896,8 +35899,8 @@
           "https://pbs.twimg.com/profile_images/1635316116502499329/Sypp2500_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251108183517_twitter_com_Robert_Bumaro11_status_1987227439169413195.json": {
       "status": "done",
@@ -35923,8 +35926,8 @@
           "https://pbs.twimg.com/profile_images/1983670924306968576/x2Ix6sc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251109120357_twitter_com_Robert_Bumaro11_status_1987491348061241410.json": {
       "status": "failed",
@@ -35938,8 +35941,8 @@
           "https://pbs.twimg.com/profile_images/1844712130836398080/gbYa_-hk_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251109171605_twitter_com_Robert_Bumaro11_status_1987569899183722513.json": {
       "status": "done",
@@ -35979,8 +35982,8 @@
           "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251111230438_twitter_com_Robert_Bumaro11_status_1988382387085209741.json": {
       "status": "done",
@@ -36004,8 +36007,8 @@
           "https://pbs.twimg.com/profile_images/1985912421480087552/NfCliotc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251111230812_twitter_com_Robert_Bumaro11_status_1988383285689627006.json": {
       "status": "failed",
@@ -36017,8 +36020,8 @@
           "https://pbs.twimg.com/profile_images/1967641855916408832/jQaKZyad_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251111234408_twitter_com_Robert_Bumaro11_status_1988392327589794048.json": {
       "status": "done",
@@ -36046,8 +36049,8 @@
           "https://pbs.twimg.com/profile_images/1987330753332715524/O1OJzvcm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251112172248_twitter_com_Robert_Bumaro11_status_1988658750614544598.json": {
       "status": "done",
@@ -36088,8 +36091,8 @@
           "https://pbs.twimg.com/profile_images/1969631923669766144/CppNBLXd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251112205246_twitter_com_Robert_Bumaro11_status_1988711589860765830.json": {
       "status": "done",
@@ -36165,8 +36168,8 @@
           "https://pbs.twimg.com/profile_images/1890542493189668864/RaZYjyQm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251115013107_twitter_com_Robert_Bumaro11_status_1989506416491847702.json": {
       "status": "done",
@@ -36209,8 +36212,8 @@
           "https://pbs.twimg.com/profile_images/1978253399457193984/qoYLOnKr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251115050831_twitter_com_Robert_Bumaro11_status_1989561128503128306.json": {
       "status": "done",
@@ -36251,8 +36254,8 @@
           "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251115101305_twitter_com_Robert_Bumaro11_status_1989637772983120369.json": {
       "status": "failed",
@@ -36266,8 +36269,8 @@
           "https://pbs.twimg.com/profile_images/1980059791176114177/YgCYbw6K_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251115172916_twitter_com_Robert_Bumaro11_status_1989747543367192616.json": {
       "status": "failed",
@@ -36279,8 +36282,8 @@
           "https://pbs.twimg.com/profile_images/1985310668367572992/yuHcsvVj_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251115193039_twitter_com_Robert_Bumaro11_status_1989778090806104242.json": {
       "status": "failed",
@@ -36292,8 +36295,8 @@
           "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251115193043_twitter_com_Robert_Bumaro11_status_1989778105498804420.json": {
       "status": "failed",
@@ -36305,8 +36308,8 @@
           "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251116044529_twitter_com_Robert_Bumaro11_status_1989917719106654658.json": {
       "status": "done",
@@ -36376,8 +36379,8 @@
           "https://pbs.twimg.com/profile_images/1979067030939590656/kkTmy7qX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251116205014_twitter_com_Robert_Bumaro11_status_1990160505949028726.json": {
       "status": "done",
@@ -36404,8 +36407,8 @@
           "https://pbs.twimg.com/profile_images/1990155074752950272/gRVAL6Do_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251117220039_twitter_com_Robert_Bumaro11_status_1990540612920328643.json": {
       "status": "done",
@@ -36445,8 +36448,8 @@
           "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251118112901_twitter_com_Robert_Bumaro11_status_1990744045317210421.json": {
       "status": "done",
@@ -36578,8 +36581,8 @@
           "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251202150609_twitter_com_Robert_Bumaro11_status_1995872120753254568.json": {
       "status": "failed",
@@ -36591,8 +36594,8 @@
           "https://pbs.twimg.com/profile_images/1992086510888521728/8k7NNsRt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251202223414_twitter_com_Robert_Bumaro11_status_1995984884494688342.json": {
       "status": "done",
@@ -36630,8 +36633,8 @@
           "https://pbs.twimg.com/profile_images/1996546298242109440/EBPf-Ibm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251205093312_twitter_com_Robert_Bumaro11_status_1996875493736698283.json": {
       "status": "failed",
@@ -36645,8 +36648,8 @@
           "https://pbs.twimg.com/profile_images/1973712363502374912/xCCg9ARN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251205141055_twitter_com_Robert_Bumaro11_status_1996945382660841802.json": {
       "status": "done",
@@ -36673,8 +36676,8 @@
           "https://pbs.twimg.com/profile_images/1952067246282461184/44hO7_gO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251208180708_twitter_com_Robert_Bumaro11_status_1998091994028294411.json": {
       "status": "failed",
@@ -36688,8 +36691,8 @@
           "https://pbs.twimg.com/profile_images/1965656354003238912/3-MENrGh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251210132125_twitter_com_Robert_Bumaro11_status_1998744863760855399.json": {
       "status": "done",
@@ -36733,8 +36736,8 @@
           "https://pbs.twimg.com/profile_images/1990349546636124160/aBirLLR9_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251213204947_twitter_com_Robert_Bumaro11_status_1999944864168038515.json": {
       "status": "failed",
@@ -36748,8 +36751,8 @@
           "https://pbs.twimg.com/profile_images/1999695232212889600/jIprMIje_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251216144013_twitter_com_Robert_Bumaro11_status_2000939022794023382.json": {
       "status": "failed",
@@ -36761,8 +36764,8 @@
           "https://pbs.twimg.com/profile_images/1949788677586190338/g4C0_tpR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20251218130809_twitter_com_Robert_Bumaro11_status_2001640627940004232.json": {
       "status": "done",
@@ -36787,8 +36790,8 @@
           "https://pbs.twimg.com/profile_images/1999509268941135873/wiFo0zU0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260103094542_twitter_com_Robert_Bumaro11_status_2007387888875696291.json": {
       "status": "failed",
@@ -36802,8 +36805,8 @@
           "https://pbs.twimg.com/profile_images/2006423903644631040/CepfFMoU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260107143610_twitter_com_Robert_Bumaro11_status_2008910538882097210.json": {
       "status": "failed",
@@ -36815,8 +36818,8 @@
           "https://pbs.twimg.com/profile_images/2008136862133542912/JlGHeI32_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260108031526_twitter_com_Robert_Bumaro11_status_2009101614402146625.json": {
       "status": "done",
@@ -37041,8 +37044,8 @@
           "https://pbs.twimg.com/profile_images/2010972815319842820/HwG0etu__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260210182338_twitter_com_Robert_Bumaro11_status_2021288967556227518.json": {
       "status": "done",
@@ -37242,8 +37245,8 @@
           "https://pbs.twimg.com/profile_images/1874125474407776256/4NpDjtAm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260305192620_twitter_com_Robert_Bumaro11_status_2029639670167130522.json": {
       "status": "done",
@@ -37294,8 +37297,8 @@
           "https://pbs.twimg.com/profile_images/2013953203147038721/Mqcu7-fa_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260315132304_twitter_com_Robert_Bumaro11_status_2033172129383055539.json": {
       "status": "done",
@@ -37373,8 +37376,8 @@
           "https://pbs.twimg.com/profile_images/2036039753032945664/2G9RYITl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260406165020_twitter_com_Robert_Bumaro11_status_2041196822245642402.json": {
       "status": "done",
@@ -37519,8 +37522,8 @@
           "https://pbs.twimg.com/profile_images/2027315371431313408/ivXrxtcm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260501133435_twitter_com_Robert_Bumaro11_status_2050207256550293954.json": {
       "status": "done",
@@ -37558,8 +37561,8 @@
           "https://pbs.twimg.com/profile_images/2050082717703016448/79pYZO0B_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260507161005_twitter_com_Robert_Bumaro11_status_2052420716868542549.json": {
       "status": "failed",
@@ -37573,8 +37576,8 @@
           "https://pbs.twimg.com/profile_images/2049416692649111552/xeSxJH1w_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260507224137_twitter_com_Robert_Bumaro11_status_2052519248224981380.json": {
       "status": "done",
@@ -37918,8 +37921,8 @@
           "https://pbs.twimg.com/profile_images/2054022831483068416/h3_pEcBO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:46",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260512093924_twitter_com_Robert_Bumaro11_status_2054134336304382242.json": {
       "status": "done",
@@ -37957,8 +37960,8 @@
           "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260512104005_twitter_com_Robert_Bumaro11_status_2054149609581343157.json": {
       "status": "done",
@@ -38064,8 +38067,8 @@
           "https://pbs.twimg.com/profile_images/2053658138226876416/15ER7LAC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260512111523_twitter_com_Robert_Bumaro11_status_2054158489782718636.json": {
       "status": "done",
@@ -38314,8 +38317,8 @@
           "https://pbs.twimg.com/profile_images/2036039753032945664/2G9RYITl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260512202558_twitter_com_Robert_Bumaro11_status_2054297050255433817.json": {
       "status": "done",
@@ -38437,8 +38440,8 @@
           "https://pbs.twimg.com/profile_images/2026534500768034816/NcamyYdR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260512233744_twitter_com_Robert_Bumaro11_status_2054345311838228845.json": {
       "status": "done",
@@ -38465,8 +38468,8 @@
           "https://pbs.twimg.com/profile_images/2053192866441142274/pF-CjF8B_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260514000937_twitter_com_Robert_Bumaro11_status_2054715721880601012.json": {
       "status": "done",
@@ -38608,8 +38611,8 @@
           "https://pbs.twimg.com/profile_images/2050749289694175232/6MGLsohQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260514120844_twitter_com_Robert_Bumaro11_status_2054896695281066097.json": {
       "status": "done",
@@ -38633,8 +38636,8 @@
           "https://pbs.twimg.com/profile_images/2054015867923398656/fUtRqF1V_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260514124106_twitter_com_Robert_Bumaro11_status_2054904838253879322.json": {
       "status": "done",
@@ -39121,8 +39124,8 @@
           "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260515150335_twitter_com_Robert_Bumaro11_status_2055303085749412068.json": {
       "status": "done",
@@ -39283,8 +39286,8 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260516092701_twitter_com_Robert_Bumaro11_status_2055580772313313381.json": {
       "status": "done",
@@ -39512,8 +39515,8 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260516173549_twitter_com_Robert_Bumaro11_status_2055703782441537746.json": {
       "status": "done",
@@ -40810,8 +40813,8 @@
           "https://pbs.twimg.com/profile_images/2042616683718938624/khHI9Aeg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260520072623_twitter_com_Robert_Bumaro11_status_2056999966913200444.json": {
       "status": "done",
@@ -41256,8 +41259,8 @@
           "https://pbs.twimg.com/profile_images/2042616683718938624/khHI9Aeg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260521120641_twitter_com_Robert_Bumaro11_status_2057432894281588822.json": {
       "status": "done",
@@ -41483,8 +41486,8 @@
           "https://pbs.twimg.com/profile_images/2053658138226876416/15ER7LAC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260522115450_twitter_com_Robert_Bumaro11_status_2057792298260557935.json": {
       "status": "done",
@@ -41649,8 +41652,8 @@
           "https://pbs.twimg.com/profile_images/2045054851294638080/Gu0wbHMT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260524154824_twitter_com_Robert_Bumaro11_status_2058575853899161919.json": {
       "status": "done",
@@ -42195,8 +42198,8 @@
           "https://pbs.twimg.com/profile_images/1921107058893426688/Kf3SgIDh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260528062815_twitter_com_Robert_Bumaro11_status_2059884439023554875.json": {
       "status": "done",
@@ -42986,8 +42989,8 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260528133243_twitter_com_Robert_Bumaro11_status_2059991257641013491.json": {
       "status": "done",
@@ -43276,8 +43279,8 @@
           "https://pbs.twimg.com/profile_images/2055073299588435968/EWQ1tcPP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260528220001_twitter_com_Robert_Bumaro11_status_2060118923270562136.json": {
       "status": "done",
@@ -43337,8 +43340,8 @@
           "https://pbs.twimg.com/profile_images/2055073299588435968/EWQ1tcPP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260528223734_twitter_com_Robert_Bumaro11_status_2060128375923204432.json": {
       "status": "done",
@@ -43426,8 +43429,8 @@
           "https://pbs.twimg.com/profile_images/2023306073369903104/xf9t1WEv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:47",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260528230001_twitter_com_Robert_Bumaro11_status_2060134022978875899.json": {
       "status": "done",
@@ -43536,8 +43539,8 @@
           "https://pbs.twimg.com/profile_images/2049537048395366400/QLpYzsuI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260529022811_twitter_com_Robert_Bumaro11_status_2060186410578309189.json": {
       "status": "done",
@@ -43584,8 +43587,8 @@
           "https://pbs.twimg.com/profile_images/1860971782217605120/WY3KaNM9_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260529033111_twitter_com_Robert_Bumaro11_status_2060202263713628570.json": {
       "status": "done",
@@ -43611,8 +43614,8 @@
           "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260529033240_twitter_com_Robert_Bumaro11_status_2060202637493145980.json": {
       "status": "done",
@@ -43672,8 +43675,8 @@
           "https://pbs.twimg.com/profile_images/2055920137442672641/60kt4oGB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260529040508_twitter_com_Robert_Bumaro11_status_2060210808307761287.json": {
       "status": "done",
@@ -43988,8 +43991,8 @@
           "https://pbs.twimg.com/profile_images/2060419726753554432/7E7LD1-t_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530054527_twitter_com_Robert_Bumaro11_status_2060598444113436739.json": {
       "status": "failed",
@@ -44003,8 +44006,8 @@
           "https://pbs.twimg.com/profile_images/2060419726753554432/7E7LD1-t_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530062842_twitter_com_Robert_Bumaro11_status_2060609328407773231.json": {
       "status": "done",
@@ -44027,8 +44030,8 @@
           "https://pbs.twimg.com/profile_images/2060278761707409408/L5e59Nqf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530093540_twitter_com_Robert_Bumaro11_status_2060656379879424121.json": {
       "status": "done",
@@ -44126,8 +44129,8 @@
           "https://pbs.twimg.com/profile_images/2058792914592100352/yJpJN5Gt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530115858_twitter_com_Robert_Bumaro11_status_2060692442299679143.json": {
       "status": "failed",
@@ -44139,8 +44142,8 @@
           "https://pbs.twimg.com/profile_images/2060278761707409408/L5e59Nqf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530120313_twitter_com_Robert_Bumaro11_status_2060693512971280725.json": {
       "status": "done",
@@ -44166,8 +44169,8 @@
           "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530142436_twitter_com_Robert_Bumaro11_status_2060729092530655611.json": {
       "status": "done",
@@ -44236,8 +44239,8 @@
           "https://pbs.twimg.com/profile_images/2055073299588435968/EWQ1tcPP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:48",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260530172805_twitter_com_Robert_Bumaro11_status_2060775267891814669.json": {
       "status": "done",
@@ -44287,8 +44290,8 @@
           "https://pbs.twimg.com/profile_images/2047524227696537600/1MtqRhIE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260531062210_twitter_com_Robert_Bumaro11_status_2060970072538313018.json": {
       "status": "failed",
@@ -44302,8 +44305,8 @@
           "https://pbs.twimg.com/profile_images/2056849375058366464/Z1B07mKt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260531102418_twitter_com_Robert_Bumaro11_status_2061031004647850374.json": {
       "status": "failed",
@@ -44317,8 +44320,8 @@
           "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260531105328_twitter_com_Robert_Bumaro11_status_2061038346005328069.json": {
       "status": "done",
@@ -44341,8 +44344,8 @@
           "https://pbs.twimg.com/profile_images/2053903478959869952/LhOlD42p_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260531114716_twitter_com_Robert_Bumaro11_status_2061051883784175934.json": {
       "status": "done",
@@ -44671,8 +44674,8 @@
           "https://pbs.twimg.com/profile_images/2053894194998157312/cJkRL6ix_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260606094333_twitter_com_Robert_Bumaro11_status_2063195077317656789.json": {
       "status": "done",
@@ -44720,8 +44723,8 @@
           "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260606153928_twitter_com_Robert_Bumaro11_status_2063284645987573916.json": {
       "status": "done",
@@ -44916,8 +44919,8 @@
           "https://pbs.twimg.com/profile_images/2059670321956012032/cA67yQ_3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260608024053_twitter_com_Robert_Bumaro11_status_2063813483880501576.json": {
       "status": "done",
@@ -44969,8 +44972,8 @@
           "https://pbs.twimg.com/profile_images/2060278761707409408/L5e59Nqf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260608043205_twitter_com_Robert_Bumaro11_status_2063841468440273346.json": {
       "status": "done",
@@ -45187,8 +45190,8 @@
           "https://pbs.twimg.com/profile_images/2059575434497712129/BD6YPeuh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260610144049_twitter_com_Robert_Bumaro11_status_2064719440508555529.json": {
       "status": "done",
@@ -45261,8 +45264,8 @@
           "https://pbs.twimg.com/profile_images/2062356935265931264/vhHldjSq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:21:01",
+      "miss_count": 10
     },
     "20260610180739_twitter_com_Robert_Bumaro11_status_2064771490638438551.json": {
       "status": "done",
@@ -45415,8 +45418,8 @@
           "https://pbs.twimg.com/profile_images/2060278761707409408/L5e59Nqf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260614082514_twitter_com_Robert_Bumaro11_status_2066074471186956718.json": {
       "status": "done",
@@ -45875,8 +45878,8 @@
           "https://pbs.twimg.com/profile_images/2053894194998157312/cJkRL6ix_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260616094224_twitter_com_Robert_Bumaro11_status_2066818665673273809.json": {
       "status": "done",
@@ -46023,8 +46026,8 @@
           "https://pbs.twimg.com/profile_images/2064918049438740480/j3z50Bjn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:54",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260616183204_twitter_com_Robert_Bumaro11_status_2066951959882715157.json": {
       "status": "done",
@@ -46222,8 +46225,8 @@
           "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260617090740_twitter_com_Robert_Bumaro11_status_2067172312517107938.json": {
       "status": "done",
@@ -48971,8 +48974,8 @@
           "https://pbs.twimg.com/profile_images/2075359239284117504/FUSiyyKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260710115521_twitter_com_Robert_Bumaro11_status_2075549432771473853.json": {
       "status": "done",
@@ -49007,8 +49010,8 @@
           "https://pbs.twimg.com/profile_images/2072776581836144641/H5x4E517_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260710124217_twitter_com_Robert_Bumaro11_status_2075561243759509688.json": {
       "status": "done",
@@ -49296,8 +49299,8 @@
           "https://pbs.twimg.com/profile_images/2072354457463996416/kuiWt_Hg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260711053138_twitter_com_Robert_Bumaro11_status_2075815256224636965.json": {
       "status": "done",
@@ -49455,8 +49458,8 @@
           "https://pbs.twimg.com/profile_images/1564710107107053569/vsidR1i__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52",
-      "miss_count": 8
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 9
     },
     "20260711103738_twitter_com_Robert_Bumaro11_status_2075892261662167357.json": {
       "status": "done",
@@ -49493,8 +49496,8 @@
           "https://pbs.twimg.com/profile_images/2072313130898640896/NNvdi5cW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260711114357_twitter_com_Robert_Bumaro11_status_2075908952517427339.json": {
       "status": "done",
@@ -49871,8 +49874,8 @@
           "https://pbs.twimg.com/profile_images/2003378912697487360/Mnnn9Q7i_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260712125546_twitter_com_Robert_Bumaro11_status_2076289413328613388.json": {
       "status": "done",
@@ -50058,8 +50061,8 @@
           "https://pbs.twimg.com/profile_images/2075608408515129344/4ruGZs4W_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:49",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260714031501_twitter_com_Robert_Bumaro11_status_2076868040214589779.json": {
       "status": "done",
@@ -50836,8 +50839,8 @@
           "https://pbs.twimg.com/profile_images/2077857653372461056/4ENtpEYP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260717104954_twitter_com_Robert_Bumaro11_status_2078069676354273488.json": {
       "status": "done",
@@ -51496,8 +51499,8 @@
           "https://pbs.twimg.com/profile_images/2081042375590518784/7_-8qJJS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 9
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 10
     },
     "20260727131947_twitter_com_Robert_Bumaro11_status_2081731277179568194.json": {
       "status": "done",
@@ -52697,8 +52700,8 @@
           "https://pbs.twimg.com/profile_images/2056230830465540096/UMWC5-8L_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:56",
-      "miss_count": 5
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 6
     },
     "20260804094727_twitter_com_Robert_Bumaro11_status_2084576941714366485.json": {
       "status": "done",
@@ -52833,8 +52836,8 @@
           "https://pbs.twimg.com/profile_images/2079172908107390976/F0k7_RVW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 3
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 4
     },
     "20260804142626_twitter_com_Robert_Bumaro11_status_2084647150483620017.json": {
       "status": "done",
@@ -53131,8 +53134,8 @@
           "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52",
-      "miss_count": 5
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 6
     },
     "20260806162738_twitter_com_Robert_Bumaro11_status_2085402427633938674.json": {
       "status": "done",
@@ -53585,8 +53588,8 @@
           "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 3
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 4
     },
     "20260808140159_twitter_com_Robert_Bumaro11_status_2086090549061353676.json": {
       "status": "done",
@@ -53635,8 +53638,8 @@
           "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 3
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 4
     },
     "20260809073719_twitter_com_Robert_Bumaro11_status_2086356131535024283.json": {
       "status": "done",
@@ -53664,8 +53667,8 @@
           "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 3
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 4
     },
     "20260809115958_twitter_com_Robert_Bumaro11_status_2086422231023071455.json": {
       "status": "done",
@@ -53772,8 +53775,8 @@
           "https://pbs.twimg.com/profile_images/2086289024898027520/ZXRUphuh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 3
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 4
     },
     "20260810094610_twitter_com_Robert_Bumaro11_status_2086750949209723164.json": {
       "status": "done",
@@ -54464,8 +54467,8 @@
           "https://pbs.twimg.com/profile_images/2090100623803113473/72w90nR8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260819161037_twitter_com_Robert_Bumaro11_status_2090109189410672918.json": {
       "status": "done",
@@ -55152,8 +55155,8 @@
           "https://pbs.twimg.com/profile_images/2086440433249382401/UZNL4Jsz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:21:00",
+      "miss_count": 2
     },
     "20260826183755_twitter_com_Robert_Bumaro11_status_2092682971119788350.json": {
       "status": "done",
@@ -55293,8 +55296,8 @@
           "https://pbs.twimg.com/profile_images/2091469355850883072/6rTORNYv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260829081712_twitter_com_Robert_Bumaro11_status_2093613927158727116.json": {
       "status": "done",
@@ -55720,8 +55723,8 @@
           "https://pbs.twimg.com/profile_images/2093395507393728512/uQGl3JV__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260901162733_twitter_com_Robert_Bumaro11_status_2094824490069020725.json": {
       "status": "done",
@@ -55829,8 +55832,8 @@
           "https://pbs.twimg.com/profile_images/2095287135397974019/rTcsEoij_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260904032523_twitter_com_Robert_Bumaro11_status_2095714817793478729.json": {
       "status": "done",
@@ -56893,7 +56896,7 @@
           "https://pbs.twimg.com/profile_images/1864839185183707138/YKZB7LAf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20250112110919_twitter_com_Robert_Bumaro11_status_1878398851079606311.json": {
       "status": "done",
@@ -56917,8 +56920,8 @@
           "https://pbs.twimg.com/profile_images/1874873812182827008/_LDnbPfQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:42",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260910133306_twitter_com_Robert_Bumaro11_status_2098042079930876220.json": {
       "status": "done",
@@ -57008,7 +57011,7 @@
           "https://pbs.twimg.com/profile_images/2051512472591630336/MRiA-JlZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260910212126_twitter_com_Robert_Bumaro11_status_2098159940355702824.json": {
       "status": "done",
@@ -57031,7 +57034,7 @@
           "https://pbs.twimg.com/profile_images/2051512472591630336/MRiA-JlZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260911103107_twitter_com_Robert_Bumaro11_status_2098358672212795722.json": {
       "status": "done",
@@ -57100,7 +57103,7 @@
           "https://pbs.twimg.com/profile_images/1434793340923428871/w3ft6s08_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260912071712_twitter_com_Robert_Bumaro11_status_2098672258369896814.json": {
       "status": "done",
@@ -57123,7 +57126,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260912083427_twitter_com_Robert_Bumaro11_status_2098691697475768813.json": {
       "status": "done",
@@ -57181,7 +57184,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913093702_twitter_com_Robert_Bumaro11_status_2099069837805080812.json": {
       "status": "done",
@@ -57204,7 +57207,7 @@
           "https://pbs.twimg.com/profile_images/2042836703153655808/hX8ulYch_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913132418_twitter_com_Robert_Bumaro11_status_2099127029845360815.json": {
       "status": "done",
@@ -57447,7 +57450,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913184218_twitter_com_Robert_Bumaro11_status_2099207057761341723.json": {
       "status": "unknown",
@@ -57459,7 +57462,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913184247_twitter_com_Robert_Bumaro11_status_2099207178666283513.json": {
       "status": "unknown",
@@ -57471,7 +57474,7 @@
           "https://pbs.twimg.com/profile_images/2051512472591630336/MRiA-JlZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913185404_twitter_com_Robert_Bumaro11_status_2099210020407869589.json": {
       "status": "done",
@@ -57516,7 +57519,7 @@
           "https://pbs.twimg.com/profile_images/2051512472591630336/MRiA-JlZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913193256_twitter_com_Robert_Bumaro11_status_2099219800631456044.json": {
       "status": "unknown",
@@ -57529,7 +57532,7 @@
           "https://pbs.twimg.com/profile_images/2092929237204508672/Ux3TfVWx_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913193459_twitter_com_Robert_Bumaro11_status_2099220313510920666.json": {
       "status": "done",
@@ -57701,7 +57704,7 @@
           "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913204529_twitter_com_Robert_Bumaro11_status_2099238057623073261.json": {
       "status": "unknown",
@@ -57713,7 +57716,7 @@
           "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260913204633_twitter_com_Robert_Bumaro11_status_2099238325194551380.json": {
       "status": "done",
@@ -57772,7 +57775,7 @@
           "https://pbs.twimg.com/profile_images/2098808667311423488/oQw-pvw__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914124203_twitter_com_Robert_Bumaro11_status_2099478785209069914.json": {
       "status": "unknown",
@@ -57785,7 +57788,7 @@
           "https://pbs.twimg.com/profile_images/2065381673014038528/QldNKi59_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914124220_twitter_com_Robert_Bumaro11_status_2099478857162400112.json": {
       "status": "done",
@@ -57811,7 +57814,7 @@
           "https://pbs.twimg.com/profile_images/1847860130571853824/AKORHpOe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914124818_twitter_com_Robert_Bumaro11_status_2099480357724901403.json": {
       "status": "done",
@@ -57835,7 +57838,7 @@
           "https://pbs.twimg.com/profile_images/2080737309482274816/PM6nZ7cv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:50"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914125011_twitter_com_Robert_Bumaro11_status_2099480833291891086.json": {
       "status": "done",
@@ -57885,7 +57888,7 @@
           "https://pbs.twimg.com/profile_images/2027753570280628224/WgaQfV1A_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914133517_twitter_com_Robert_Bumaro11_status_2099492180406743194.json": {
       "status": "unknown",
@@ -57897,7 +57900,7 @@
           "https://pbs.twimg.com/profile_images/1978148348390518784/QyjskgmT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914135133_twitter_com_Robert_Bumaro11_status_2099496277079924776.json": {
       "status": "unknown",
@@ -57911,7 +57914,7 @@
           "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914141457_twitter_com_Robert_Bumaro11_status_2099502164507005364.json": {
       "status": "done",
@@ -57937,8 +57940,8 @@
           "https://pbs.twimg.com/profile_images/2006255535910445059/M_kdyH0c_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260914151726_twitter_com_Robert_Bumaro11_status_2099517887048532242.json": {
       "status": "unknown",
@@ -57950,7 +57953,7 @@
           "https://pbs.twimg.com/profile_images/2060771474903076864/gOlIla94_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914153115_twitter_com_Robert_Bumaro11_status_2099521364063556017.json": {
       "status": "done",
@@ -57973,7 +57976,7 @@
           "https://pbs.twimg.com/profile_images/2084628127964377088/Bms90rmR_normal.png"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260914160013_twitter_com_Robert_Bumaro11_status_2099528654573429156.json": {
       "status": "done",
@@ -58041,7 +58044,7 @@
           "https://pbs.twimg.com/profile_images/2092555375119941632/i7JViKFp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260915124526_twitter_com_Robert_Bumaro11_status_2099842024371556646.json": {
       "status": "done",
@@ -58066,7 +58069,7 @@
           "https://pbs.twimg.com/profile_images/2073592101603082240/BDYc_I36_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:21:02"
     },
     "20260915135333_twitter_com_Robert_Bumaro11_status_2099859165015679123.json": {
       "status": "unknown",
@@ -58080,7 +58083,7 @@
           "https://pbs.twimg.com/profile_images/2080091592661372929/EPYWoOad_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260915142232_twitter_com_Robert_Bumaro11_status_2099866461523333375.json": {
       "status": "done",
@@ -58103,7 +58106,7 @@
           "https://pbs.twimg.com/profile_images/2092543677159940096/JlI8BiUQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260915153059_twitter_com_Robert_Bumaro11_status_2099883684551905445.json": {
       "status": "done",
@@ -58126,7 +58129,7 @@
           "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260915154610_twitter_com_Robert_Bumaro11_status_2099887509539016774.json": {
       "status": "done",
@@ -58194,7 +58197,7 @@
           "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260915162046_twitter_com_Robert_Bumaro11_status_2099896216813514827.json": {
       "status": "done",
@@ -58228,7 +58231,7 @@
           "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260916131605_twitter_com_Robert_Bumaro11_status_2100212126334021672.json": {
       "status": "done",
@@ -58252,7 +58255,7 @@
           "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260916145315_twitter_com_Robert_Bumaro11_status_2100236577691816387.json": {
       "status": "done",
@@ -58290,7 +58293,7 @@
           "https://pbs.twimg.com/profile_images/2082536544901238784/kefHHXFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260916180414_twitter_com_Robert_Bumaro11_status_2100284640468819982.json": {
       "status": "done",
@@ -58335,7 +58338,7 @@
           "https://pbs.twimg.com/profile_images/2098243235630231552/E3ca4XJ3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260917100254_twitter_com_Robert_Bumaro11_status_2100525896130326743.json": {
       "status": "done",
@@ -58381,7 +58384,7 @@
           "https://pbs.twimg.com/profile_images/2099723323450310656/LrXf5MIy_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260917152324_twitter_com_Robert_Bumaro11_status_2100606553242144903.json": {
       "status": "unknown",
@@ -58393,7 +58396,7 @@
           "https://pbs.twimg.com/profile_images/2098207302235176961/zeakZmjv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260917154503_twitter_com_Robert_Bumaro11_status_2100612002364441008.json": {
       "status": "done",
@@ -58462,7 +58465,7 @@
           "https://pbs.twimg.com/profile_images/2004937803507945473/MegQtu2T_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260917203811_twitter_com_Robert_Bumaro11_status_2100685772768862512.json": {
       "status": "done",
@@ -58641,7 +58644,7 @@
           "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260918124935_twitter_com_Robert_Bumaro11_status_2100930231293104619.json": {
       "status": "unknown",
@@ -58653,7 +58656,7 @@
           "https://pbs.twimg.com/profile_images/2095091022959394817/kup8bJ7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260918132250_twitter_com_Robert_Bumaro11_status_2100938600192119037.json": {
       "status": "done",
@@ -58826,7 +58829,7 @@
           "https://pbs.twimg.com/profile_images/2092260207426772992/ksF77xFd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260918173100_twitter_com_Robert_Bumaro11_status_2101001055333241319.json": {
       "status": "unknown",
@@ -58838,7 +58841,7 @@
           "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260918173122_twitter_com_Robert_Bumaro11_status_2101001146001473986.json": {
       "status": "done",
@@ -58944,7 +58947,7 @@
           "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919070237_twitter_com_Robert_Bumaro11_status_2101205304784633924.json": {
       "status": "done",
@@ -58989,7 +58992,7 @@
           "https://pbs.twimg.com/profile_images/2100601519473381377/TVnRNHdJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919071122_twitter_com_Robert_Bumaro11_status_2101207506156687427.json": {
       "status": "unknown",
@@ -59001,7 +59004,7 @@
           "https://pbs.twimg.com/profile_images/1332566804405764096/RtrftSY6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919071346_twitter_com_Robert_Bumaro11_status_2101208107405975979.json": {
       "status": "unknown",
@@ -59013,7 +59016,7 @@
           "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919071404_twitter_com_Robert_Bumaro11_status_2101208186166636806.json": {
       "status": "unknown",
@@ -59027,7 +59030,7 @@
           "https://pbs.twimg.com/profile_images/2039045270240120832/5307J-pn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919071604_twitter_com_Robert_Bumaro11_status_2101208687516045609.json": {
       "status": "done",
@@ -59064,7 +59067,7 @@
           "https://pbs.twimg.com/profile_images/1888115246390480896/_LodQ96Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919072108_twitter_com_Robert_Bumaro11_status_2101209961401635168.json": {
       "status": "unknown",
@@ -59079,7 +59082,7 @@
           "https://pbs.twimg.com/profile_images/2099521324117016577/8OIz4CpF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919072942_twitter_com_Robert_Bumaro11_status_2101212120411168792.json": {
       "status": "done",
@@ -59115,7 +59118,7 @@
           "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919073933_twitter_com_Robert_Bumaro11_status_2101214596833198500.json": {
       "status": "done",
@@ -59139,7 +59142,7 @@
           "https://pbs.twimg.com/profile_images/2067145341057785856/I054kjHy_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919074445_twitter_com_Robert_Bumaro11_status_2101215904826851831.json": {
       "status": "unknown",
@@ -59151,10 +59154,10 @@
           "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919074752_twitter_com_Robert_Bumaro11_status_2101216690407342482.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -59165,7 +59168,7 @@
           "https://pbs.twimg.com/profile_images/2009676556046929920/BNeNz2_z_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:21:00"
     },
     "20260919074901_twitter_com_Robert_Bumaro11_status_2101216980716143086.json": {
       "status": "unknown",
@@ -59177,7 +59180,7 @@
           "https://pbs.twimg.com/profile_images/2013291557567242240/AyAgUxps_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919075049_twitter_com_Robert_Bumaro11_status_2101217435160601078.json": {
       "status": "unknown",
@@ -59189,7 +59192,7 @@
           "https://pbs.twimg.com/profile_images/1825314562960433152/gPzJtwqt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919075313_twitter_com_Robert_Bumaro11_status_2101218037345214553.json": {
       "status": "done",
@@ -59235,7 +59238,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919080548_twitter_com_Robert_Bumaro11_status_2101221203881202171.json": {
       "status": "unknown",
@@ -59247,7 +59250,7 @@
           "https://pbs.twimg.com/profile_images/2088825244102606848/09qqEs9N_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919080956_twitter_com_Robert_Bumaro11_status_2101222242709577757.json": {
       "status": "unknown",
@@ -59259,7 +59262,7 @@
           "https://pbs.twimg.com/profile_images/2096085007106514944/uThsr2TY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919081038_twitter_com_Robert_Bumaro11_status_2101222421143691421.json": {
       "status": "unknown",
@@ -59276,7 +59279,7 @@
           "https://pbs.twimg.com/profile_images/1917631118142316544/1E0osr1__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919081048_twitter_com_Robert_Bumaro11_status_2101222462495367354.json": {
       "status": "unknown",
@@ -59288,7 +59291,7 @@
           "https://pbs.twimg.com/profile_images/2082961049221808128/JmTUHFYb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919081135_twitter_com_Robert_Bumaro11_status_2101222657790541824.json": {
       "status": "unknown",
@@ -59300,7 +59303,7 @@
           "https://pbs.twimg.com/profile_images/2097848768402219009/Ll-1OGSW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919082356_twitter_com_Robert_Bumaro11_status_2101225766587683257.json": {
       "status": "unknown",
@@ -59312,7 +59315,7 @@
           "https://pbs.twimg.com/profile_images/2099458727757967360/sRixKkzn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919082619_twitter_com_Robert_Bumaro11_status_2101226369254654026.json": {
       "status": "done",
@@ -59335,7 +59338,7 @@
           "https://pbs.twimg.com/profile_images/2099458727757967360/sRixKkzn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919091012_twitter_com_Robert_Bumaro11_status_2101237412555080170.json": {
       "status": "done",
@@ -59382,7 +59385,7 @@
           "https://pbs.twimg.com/profile_images/1958866214605770752/Ly2zjgkY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919112740_twitter_com_Robert_Bumaro11_status_2101272005526114377.json": {
       "status": "done",
@@ -59407,7 +59410,7 @@
           "https://pbs.twimg.com/profile_images/2072109459820994560/570tzqCo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919133341_twitter_com_Robert_Bumaro11_status_2101303719040352483.json": {
       "status": "done",
@@ -59434,7 +59437,7 @@
           "https://pbs.twimg.com/profile_images/2006255535910445059/M_kdyH0c_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919134812_twitter_com_Robert_Bumaro11_status_2101307372115529951.json": {
       "status": "unknown",
@@ -59446,7 +59449,7 @@
           "https://pbs.twimg.com/profile_images/2062789350874890240/plgLA5bj_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919141415_twitter_com_Robert_Bumaro11_status_2101313929280720934.json": {
       "status": "unknown",
@@ -59458,7 +59461,7 @@
           "https://pbs.twimg.com/profile_images/2087451503644778496/9wapZlZl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919175319_twitter_com_Robert_Bumaro11_status_2101369055634694435.json": {
       "status": "unknown",
@@ -59473,7 +59476,7 @@
           "https://pbs.twimg.com/profile_images/2092132630611329025/1FNIQBA5_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919180107_twitter_com_Robert_Bumaro11_status_2101371021630808300.json": {
       "status": "done",
@@ -59554,7 +59557,7 @@
           "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:51"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260919203804_twitter_com_Robert_Bumaro11_status_2101410519962013941.json": {
       "status": "done",
@@ -59612,7 +59615,7 @@
           "https://pbs.twimg.com/profile_images/2085956876806881280/udOtuX4A_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260920175227_twitter_com_Robert_Bumaro11_status_2101731227795636408.json": {
       "status": "done",
@@ -59693,7 +59696,7 @@
           "https://pbs.twimg.com/profile_images/2087451503644778496/9wapZlZl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260921005230_twitter_com_Robert_Bumaro11_status_2101836934847078597.json": {
       "status": "done",
@@ -59730,7 +59733,7 @@
           "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922110319_twitter_com_Robert_Bumaro11_status_2102353043023069197.json": {
       "status": "done",
@@ -59768,7 +59771,7 @@
           "https://pbs.twimg.com/profile_images/2074725690361167872/0WuAnzTz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922114743_twitter_com_Robert_Bumaro11_status_2102364215474618619.json": {
       "status": "done",
@@ -59793,7 +59796,7 @@
           "https://pbs.twimg.com/profile_images/2062347303105843200/jvLhJhiS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922140850_twitter_com_Robert_Bumaro11_status_2102399726700417267.json": {
       "status": "done",
@@ -59828,7 +59831,7 @@
           "https://pbs.twimg.com/profile_images/2102406619284070400/9g3RVGFl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922144416_twitter_com_Robert_Bumaro11_status_2102408643320877114.json": {
       "status": "done",
@@ -59853,7 +59856,7 @@
           "https://pbs.twimg.com/profile_images/1433383218238025739/M3MsFoVr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922150033_twitter_com_Robert_Bumaro11_status_2102412743622139954.json": {
       "status": "done",
@@ -59948,7 +59951,7 @@
           "https://pbs.twimg.com/profile_images/2074072349318742016/85P-CWob_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:55"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922180010_twitter_com_Robert_Bumaro11_status_2102457946248712219.json": {
       "status": "unknown",
@@ -59962,7 +59965,7 @@
           "https://pbs.twimg.com/profile_images/1916828216117153792/Clm2P_Ut_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922180801_twitter_com_Robert_Bumaro11_status_2102459920633520509.json": {
       "status": "unknown",
@@ -59974,7 +59977,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922184318_twitter_com_Robert_Bumaro11_status_2102468801703088612.json": {
       "status": "done",
@@ -59998,7 +60001,7 @@
           "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922185451_twitter_com_Robert_Bumaro11_status_2102471707709878746.json": {
       "status": "done",
@@ -60067,7 +60070,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922203019_twitter_com_Robert_Bumaro11_status_2102495731001303191.json": {
       "status": "unknown",
@@ -60079,7 +60082,7 @@
           "https://pbs.twimg.com/profile_images/2097329350022684672/Ocn3AA29_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922203528_twitter_com_Robert_Bumaro11_status_2102497029469753689.json": {
       "status": "done",
@@ -60124,7 +60127,7 @@
           "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922204503_twitter_com_Robert_Bumaro11_status_2102499439323799942.json": {
       "status": "unknown",
@@ -60136,7 +60139,7 @@
           "https://pbs.twimg.com/profile_images/2042836703153655808/hX8ulYch_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922204544_twitter_com_Robert_Bumaro11_status_2102499609545474255.json": {
       "status": "unknown",
@@ -60148,7 +60151,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922211334_twitter_com_Robert_Bumaro11_status_2102506615807336484.json": {
       "status": "done",
@@ -60196,7 +60199,7 @@
           "https://pbs.twimg.com/profile_images/2101483925386477569/2cIden52_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922222531_twitter_com_Robert_Bumaro11_status_2102524721850097884.json": {
       "status": "unknown",
@@ -60208,7 +60211,7 @@
           "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260922234021_twitter_com_Robert_Bumaro11_status_2102543555172675884.json": {
       "status": "done",
@@ -60231,7 +60234,7 @@
           "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923114136_twitter_com_Robert_Bumaro11_status_2102725061706997900.json": {
       "status": "unknown",
@@ -60243,7 +60246,7 @@
           "https://pbs.twimg.com/profile_images/2102205066707156992/t_4XPOTa_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923115215_twitter_com_Robert_Bumaro11_status_2102727742144028797.json": {
       "status": "unknown",
@@ -60255,7 +60258,7 @@
           "https://pbs.twimg.com/profile_images/2099475100668174338/N87dkzVQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923120905_twitter_com_Robert_Bumaro11_status_2102731979376791704.json": {
       "status": "unknown",
@@ -60268,7 +60271,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923121023_twitter_com_Robert_Bumaro11_status_2102732307614552443.json": {
       "status": "unknown",
@@ -60280,7 +60283,7 @@
           "https://pbs.twimg.com/profile_images/1873311243852976128/T-qCTONh_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923165258_twitter_com_Robert_Bumaro11_status_2102803422399590873.json": {
       "status": "unknown",
@@ -60292,7 +60295,7 @@
           "https://pbs.twimg.com/profile_images/2101657834249441280/3Zot_08m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923213403_twitter_com_Robert_Bumaro11_status_2102874156870332563.json": {
       "status": "unknown",
@@ -60304,7 +60307,7 @@
           "https://pbs.twimg.com/profile_images/2097329350022684672/Ocn3AA29_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923214749_twitter_com_Robert_Bumaro11_status_2102877621608710267.json": {
       "status": "unknown",
@@ -60317,7 +60320,7 @@
           "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260923233257_twitter_com_Robert_Bumaro11_status_2102904081870385508.json": {
       "status": "done",
@@ -60355,8 +60358,8 @@
           "https://pbs.twimg.com/profile_images/2092984543242522625/z4HcTsq4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:55",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260924095643_twitter_com_Robert_Bumaro11_status_2103061056625222098.json": {
       "status": "unknown",
@@ -60368,7 +60371,7 @@
           "https://pbs.twimg.com/profile_images/2083921276868177920/UX4fY9va_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924100002_twitter_com_Robert_Bumaro11_status_2103061892717764832.json": {
       "status": "unknown",
@@ -60381,7 +60384,7 @@
           "https://pbs.twimg.com/profile_images/2034270215802892288/9P12_Ai6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924111354_twitter_com_Robert_Bumaro11_status_2103080482300916206.json": {
       "status": "unknown",
@@ -60393,7 +60396,7 @@
           "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924115738_twitter_com_Robert_Bumaro11_status_2103091485021528187.json": {
       "status": "done",
@@ -60433,7 +60436,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924142332_twitter_com_Robert_Bumaro11_status_2103128202726322393.json": {
       "status": "unknown",
@@ -60445,7 +60448,7 @@
           "https://pbs.twimg.com/profile_images/2090642457386237952/YzuiZHwD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924153050_twitter_com_Robert_Bumaro11_status_2103145137945878832.json": {
       "status": "unknown",
@@ -60457,7 +60460,7 @@
           "https://pbs.twimg.com/profile_images/2098689241358520320/lvyqyqax_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924154658_twitter_com_Robert_Bumaro11_status_2103149198996897906.json": {
       "status": "done",
@@ -60502,7 +60505,7 @@
           "https://pbs.twimg.com/profile_images/1838221166986596352/i4RJXN1M_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924161802_twitter_com_Robert_Bumaro11_status_2103157016663646447.json": {
       "status": "unknown",
@@ -60514,7 +60517,7 @@
           "https://pbs.twimg.com/profile_images/2099475100668174338/N87dkzVQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924163234_twitter_com_Robert_Bumaro11_status_2103160673438138721.json": {
       "status": "unknown",
@@ -60526,7 +60529,7 @@
           "https://pbs.twimg.com/profile_images/2060445291556589568/VlZiSfus_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924170650_twitter_com_Robert_Bumaro11_status_2103169297375977740.json": {
       "status": "done",
@@ -60572,7 +60575,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924213239_twitter_com_Robert_Bumaro11_status_2103236194620645695.json": {
       "status": "unknown",
@@ -60584,7 +60587,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260924225128_twitter_com_Robert_Bumaro11_status_2103256027936456989.json": {
       "status": "done",
@@ -60609,7 +60612,7 @@
           "https://pbs.twimg.com/profile_images/2062789350874890240/plgLA5bj_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925130008_twitter_com_Robert_Bumaro11_status_2103469602273730611.json": {
       "status": "unknown",
@@ -60621,7 +60624,7 @@
           "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925142325_twitter_com_Robert_Bumaro11_status_2103490561042944334.json": {
       "status": "unknown",
@@ -60633,7 +60636,7 @@
           "https://pbs.twimg.com/profile_images/2084323330220253184/0V21pyMp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925142353_twitter_com_Robert_Bumaro11_status_2103490677950828872.json": {
       "status": "unknown",
@@ -60645,7 +60648,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925142554_twitter_com_Robert_Bumaro11_status_2103491187730718818.json": {
       "status": "unknown",
@@ -60661,7 +60664,7 @@
           "https://pbs.twimg.com/profile_images/2102022876283174912/g-QS_Fgg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:54"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925143713_twitter_com_Robert_Bumaro11_status_2103494035600281916.json": {
       "status": "unknown",
@@ -60673,7 +60676,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925143921_twitter_com_Robert_Bumaro11_status_2103494569421848991.json": {
       "status": "unknown",
@@ -60685,7 +60688,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925150336_twitter_com_Robert_Bumaro11_status_2103500676131336436.json": {
       "status": "unknown",
@@ -60701,7 +60704,7 @@
           "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925153814_twitter_com_Robert_Bumaro11_status_2103509389273641354.json": {
       "status": "done",
@@ -60737,7 +60740,7 @@
           "https://pbs.twimg.com/profile_images/2031896538415337472/JIt23wo0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925160121_twitter_com_Robert_Bumaro11_status_2103515207092068396.json": {
       "status": "unknown",
@@ -60749,7 +60752,7 @@
           "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925162140_twitter_com_Robert_Bumaro11_status_2103520320615485463.json": {
       "status": "unknown",
@@ -60761,7 +60764,7 @@
           "https://pbs.twimg.com/profile_images/2064815531383754754/F-6lnJVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925163741_twitter_com_Robert_Bumaro11_status_2103524350037299656.json": {
       "status": "unknown",
@@ -60773,7 +60776,7 @@
           "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:52"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925163743_twitter_com_Robert_Bumaro11_status_2103524357683515723.json": {
       "status": "done",
@@ -60799,8 +60802,8 @@
           "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:55",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260925192418_twitter_com_Robert_Bumaro11_status_2103566281886863802.json": {
       "status": "done",
@@ -60826,7 +60829,7 @@
           "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925201317_twitter_com_Robert_Bumaro11_status_2103578610481459681.json": {
       "status": "done",
@@ -60851,7 +60854,7 @@
           "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925213025_twitter_com_Robert_Bumaro11_status_2103598017819652589.json": {
       "status": "unknown",
@@ -60863,7 +60866,7 @@
           "https://pbs.twimg.com/profile_images/2083033013152014336/d_1j_wjZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260925221318_twitter_com_Robert_Bumaro11_status_2103608813572243684.json": {
       "status": "done",
@@ -60898,7 +60901,7 @@
           "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926012506_twitter_com_Robert_Bumaro11_status_2103657081220051180.json": {
       "status": "unknown",
@@ -60910,7 +60913,7 @@
           "https://pbs.twimg.com/profile_images/2101998826689077248/ihed7DKK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926021655_twitter_com_Robert_Bumaro11_status_2103670120652681414.json": {
       "status": "done",
@@ -60934,7 +60937,7 @@
           "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926030442_twitter_com_Robert_Bumaro11_status_2103682146401694101.json": {
       "status": "unknown",
@@ -60946,7 +60949,7 @@
           "https://pbs.twimg.com/profile_images/1922601341576216576/JA1DF-Tv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926060819_twitter_com_Robert_Bumaro11_status_2103728352851079642.json": {
       "status": "done",
@@ -60994,7 +60997,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926061643_twitter_com_Robert_Bumaro11_status_2103730469145854392.json": {
       "status": "unknown",
@@ -61006,7 +61009,7 @@
           "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926062132_twitter_com_Robert_Bumaro11_status_2103731678132973918.json": {
       "status": "done",
@@ -61063,7 +61066,7 @@
           "https://pbs.twimg.com/profile_images/2097329350022684672/Ocn3AA29_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926113919_twitter_com_Robert_Bumaro11_status_2103811651569172655.json": {
       "status": "done",
@@ -61121,7 +61124,7 @@
           "https://pbs.twimg.com/profile_images/2103745352532971520/AxbRvfZu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926124444_twitter_com_Robert_Bumaro11_status_2103828114753360262.json": {
       "status": "unknown",
@@ -61133,7 +61136,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926124612_twitter_com_Robert_Bumaro11_status_2103828483059376142.json": {
       "status": "done",
@@ -61158,7 +61161,7 @@
           "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926125202_twitter_com_Robert_Bumaro11_status_2103829953485959549.json": {
       "status": "done",
@@ -61208,7 +61211,7 @@
           "https://pbs.twimg.com/profile_images/2100623651813097473/9QevBrMI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926153135_twitter_com_Robert_Bumaro11_status_2103870104467624096.json": {
       "status": "unknown",
@@ -61220,7 +61223,7 @@
           "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926153323_twitter_com_Robert_Bumaro11_status_2103870557683130444.json": {
       "status": "unknown",
@@ -61232,7 +61235,7 @@
           "https://pbs.twimg.com/profile_images/2102785411970199552/j6gsdx_u_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926153353_twitter_com_Robert_Bumaro11_status_2103870681066987684.json": {
       "status": "unknown",
@@ -61244,7 +61247,7 @@
           "https://pbs.twimg.com/profile_images/2102785411970199552/j6gsdx_u_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926160449_twitter_com_Robert_Bumaro11_status_2103878466177483103.json": {
       "status": "unknown",
@@ -61256,7 +61259,7 @@
           "https://pbs.twimg.com/profile_images/1922601341576216576/JA1DF-Tv_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926161051_twitter_com_Robert_Bumaro11_status_2103879985807454613.json": {
       "status": "done",
@@ -61279,7 +61282,7 @@
           "https://pbs.twimg.com/profile_images/2099157814178410497/CXf37MUP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926161724_twitter_com_Robert_Bumaro11_status_2103881635611705453.json": {
       "status": "unknown",
@@ -61291,7 +61294,7 @@
           "https://pbs.twimg.com/profile_images/1745959212579008512/U93V3KMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926162046_twitter_com_Robert_Bumaro11_status_2103882483116945732.json": {
       "status": "unknown",
@@ -61303,7 +61306,7 @@
           "https://pbs.twimg.com/profile_images/2049250793950507008/F_H_He2n_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926163421_twitter_com_Robert_Bumaro11_status_2103885901059482031.json": {
       "status": "done",
@@ -61328,7 +61331,7 @@
           "https://pbs.twimg.com/profile_images/2079564631685873664/Sd7dphq6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926164610_twitter_com_Robert_Bumaro11_status_2103888873944486007.json": {
       "status": "unknown",
@@ -61340,7 +61343,7 @@
           "https://pbs.twimg.com/profile_images/2102411695524065280/FSWiZVOy_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926165753_twitter_com_Robert_Bumaro11_status_2103891821466439702.json": {
       "status": "unknown",
@@ -61352,7 +61355,7 @@
           "https://pbs.twimg.com/profile_images/2100623651813097473/9QevBrMI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926172328_twitter_com_Robert_Bumaro11_status_2103898262176702859.json": {
       "status": "unknown",
@@ -61364,7 +61367,7 @@
           "https://pbs.twimg.com/profile_images/2099996167664766976/kHkwh_If_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926173903_twitter_com_Robert_Bumaro11_status_2103902180336103826.json": {
       "status": "failed",
@@ -61378,8 +61381,8 @@
           "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:55",
-      "miss_count": 1
+      "last_updated": "2026-10-02T19:20:59",
+      "miss_count": 2
     },
     "20260926182103_twitter_com_Robert_Bumaro11_status_2103912752830181406.json": {
       "status": "done",
@@ -61403,7 +61406,7 @@
           "https://pbs.twimg.com/profile_images/2099458727757967360/sRixKkzn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926191031_twitter_com_Robert_Bumaro11_status_2103925200744222810.json": {
       "status": "done",
@@ -61428,7 +61431,7 @@
           "https://pbs.twimg.com/profile_images/2103165792196173824/5TVHNwWj_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260926192210_twitter_com_Robert_Bumaro11_status_2103928134278185069.json": {
       "status": "done",
@@ -61476,7 +61479,7 @@
           "https://pbs.twimg.com/profile_images/1513359442850549760/Il3cwSUL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927002452_twitter_com_Robert_Bumaro11_status_2104004309126127753.json": {
       "status": "done",
@@ -61555,7 +61558,7 @@
           "https://pbs.twimg.com/profile_images/2099553714851688449/UlMSZ51J_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927230905_twitter_com_Robert_Bumaro11_status_2104347625046835454.json": {
       "status": "done",
@@ -61590,7 +61593,7 @@
           "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927231319_twitter_com_Robert_Bumaro11_status_2104348691440300329.json": {
       "status": "unknown",
@@ -61602,7 +61605,7 @@
           "https://pbs.twimg.com/profile_images/1889502364941557761/k2jZG_42_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927231355_twitter_com_Robert_Bumaro11_status_2104348841139134529.json": {
       "status": "unknown",
@@ -61617,7 +61620,7 @@
           "https://pbs.twimg.com/profile_images/1918365516143706113/kMTz9YRH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:54"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927231404_twitter_com_Robert_Bumaro11_status_2104348880041333129.json": {
       "status": "unknown",
@@ -61629,7 +61632,7 @@
           "https://pbs.twimg.com/profile_images/2101675924127444992/adPvqHpw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927231512_twitter_com_Robert_Bumaro11_status_2104349164301935088.json": {
       "status": "unknown",
@@ -61641,7 +61644,7 @@
           "https://pbs.twimg.com/profile_images/2085605828011450368/HcZy9LBj_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260927233630_twitter_com_Robert_Bumaro11_status_2104354523368292680.json": {
       "status": "done",
@@ -61679,7 +61682,7 @@
           "https://pbs.twimg.com/profile_images/2103165792196173824/5TVHNwWj_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928004910_twitter_com_Robert_Bumaro11_status_2104372814010830887.json": {
       "status": "unknown",
@@ -61691,7 +61694,7 @@
           "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928012318_twitter_com_Robert_Bumaro11_status_2104381401047150686.json": {
       "status": "done",
@@ -61727,7 +61730,7 @@
           "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928012919_twitter_com_Robert_Bumaro11_status_2104382917652910192.json": {
       "status": "unknown",
@@ -61739,7 +61742,7 @@
           "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928013055_twitter_com_Robert_Bumaro11_status_2104383318347456620.json": {
       "status": "unknown",
@@ -61753,7 +61756,7 @@
           "https://pbs.twimg.com/profile_images/2096117245806366720/qWJJMT67_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928014247_twitter_com_Robert_Bumaro11_status_2104386307334221875.json": {
       "status": "done",
@@ -61800,7 +61803,7 @@
           "https://pbs.twimg.com/profile_images/1984834476346601472/7FgK4s-W_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928032448_twitter_com_Robert_Bumaro11_status_2104411980924846571.json": {
       "status": "unknown",
@@ -61812,7 +61815,7 @@
           "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928033245_twitter_com_Robert_Bumaro11_status_2104413978898350326.json": {
       "status": "unknown",
@@ -61824,7 +61827,7 @@
           "https://pbs.twimg.com/profile_images/1552712582615764996/1S_Df7KJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928033531_twitter_com_Robert_Bumaro11_status_2104414675186405708.json": {
       "status": "unknown",
@@ -61838,7 +61841,7 @@
           "https://pbs.twimg.com/profile_images/2098201520441298947/NoXRLAGH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:21:00"
     },
     "20260928045640_twitter_com_Robert_Bumaro11_status_2104435097982345458.json": {
       "status": "unknown",
@@ -61850,7 +61853,7 @@
           "https://pbs.twimg.com/profile_images/2055704669184286720/N9G67p9b_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928045747_twitter_com_Robert_Bumaro11_status_2104435377176195321.json": {
       "status": "done",
@@ -61874,7 +61877,7 @@
           "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928062712_twitter_com_Robert_Bumaro11_status_2104457879952728131.json": {
       "status": "unknown",
@@ -61886,7 +61889,7 @@
           "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928064725_twitter_com_Robert_Bumaro11_status_2104462970650792378.json": {
       "status": "unknown",
@@ -61901,7 +61904,7 @@
           "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:54"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928064833_twitter_com_Robert_Bumaro11_status_2104463252893925419.json": {
       "status": "unknown",
@@ -61914,7 +61917,7 @@
           "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928064928_twitter_com_Robert_Bumaro11_status_2104463486835413266.json": {
       "status": "unknown",
@@ -61926,7 +61929,7 @@
           "https://pbs.twimg.com/profile_images/2101396301116026881/oSIFPDoG_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928064948_twitter_com_Robert_Bumaro11_status_2104463568183931284.json": {
       "status": "unknown",
@@ -61940,7 +61943,7 @@
           "https://pbs.twimg.com/profile_images/2087451503644778496/9wapZlZl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928084416_twitter_com_Robert_Bumaro11_status_2104492373388730751.json": {
       "status": "unknown",
@@ -61952,7 +61955,7 @@
           "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928104217_twitter_com_Robert_Bumaro11_status_2104522076715716619.json": {
       "status": "done",
@@ -61987,7 +61990,7 @@
           "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928135201_twitter_com_Robert_Bumaro11_status_2104569824081015192.json": {
       "status": "unknown",
@@ -62002,7 +62005,7 @@
           "https://pbs.twimg.com/profile_images/2018662815968735232/zGwlMpIk_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:54"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260928135220_twitter_com_Robert_Bumaro11_status_2104569903424709053.json": {
       "status": "done",
@@ -62042,7 +62045,7 @@
           "https://pbs.twimg.com/profile_images/2102476842783420416/A7-evL2H_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929013709_twitter_com_Robert_Bumaro11_status_2104747275520188843.json": {
       "status": "done",
@@ -62065,7 +62068,7 @@
           "https://pbs.twimg.com/profile_images/2092305952796008448/xUjD01yZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929025930_twitter_com_Robert_Bumaro11_status_2104767998766789019.json": {
       "status": "unknown",
@@ -62077,7 +62080,7 @@
           "https://pbs.twimg.com/profile_images/2052675312698449921/gs0QpPIg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929030036_twitter_com_Robert_Bumaro11_status_2104768275867705700.json": {
       "status": "unknown",
@@ -62089,7 +62092,7 @@
           "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929030048_twitter_com_Robert_Bumaro11_status_2104768324857118724.json": {
       "status": "unknown",
@@ -62101,7 +62104,7 @@
           "https://pbs.twimg.com/profile_images/1990114414662488064/sCF4yfYy_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929071334_twitter_com_Robert_Bumaro11_status_2104831935885476083.json": {
       "status": "done",
@@ -62128,7 +62131,7 @@
           "https://pbs.twimg.com/profile_images/2098867052148912128/EUcz3Fwa_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:54"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929084035_twitter_com_Robert_Bumaro11_status_2104853835827294260.json": {
       "status": "unknown",
@@ -62140,7 +62143,7 @@
           "https://pbs.twimg.com/profile_images/2092555375119941632/i7JViKFp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929104127_twitter_com_Robert_Bumaro11_status_2104884252009734278.json": {
       "status": "done",
@@ -62163,7 +62166,7 @@
           "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260929150607_twitter_com_Robert_Bumaro11_status_2104950859205579100.json": {
       "status": "done",
@@ -62187,7 +62190,7 @@
           "https://pbs.twimg.com/profile_images/2055716562485886976/xfka1xKH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260930041515_twitter_com_Robert_Bumaro11_status_2105149450423599401.json": {
       "status": "unknown",
@@ -62199,7 +62202,7 @@
           "https://pbs.twimg.com/profile_images/2072711237352443904/zy3Kb2jD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260930044650_twitter_com_Robert_Bumaro11_status_2105157398470250522.json": {
       "status": "unknown",
@@ -62211,7 +62214,7 @@
           "https://pbs.twimg.com/profile_images/2040788049085526016/ReIzJ7Wt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260930045238_twitter_com_Robert_Bumaro11_status_2105158858125815886.json": {
       "status": "unknown",
@@ -62223,7 +62226,7 @@
           "https://pbs.twimg.com/profile_images/2103388489597501440/Ysye8Jcq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     },
     "20260930074759_twitter_com_Robert_Bumaro11_status_2105202988633694376.json": {
       "status": "done",
@@ -62246,7 +62249,7 @@
           "https://pbs.twimg.com/profile_images/1913674392170582016/Cnicqlwb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T19:14:53"
+      "last_updated": "2026-10-02T19:20:59"
     }
   }
 }
