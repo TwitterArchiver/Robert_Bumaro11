@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101215904826851831",
+    "created_at": "2026-09-19T07:44:45.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101215904826851831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akenohotaru/st…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/akenohotaru/status/2101044661649641581",
+          "start": 76,
+          "url": "https://t.co/r9jCwtewAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101215904826851831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101044661649641581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗑药对我而言也是填补心中的空虚，比起药效那种“自毁中的快感”才是我od的动力，不过客观看我是没o过多少，可能我潜意识里以太过怠惰的形式保护着自己（什） https://t.co/r9jCwtewAo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101215904826851831",
+        "created_at": "2026-09-19T07:44:45.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101215904826851831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2101044661649641581",
+              "start": 76,
+              "url": "https://t.co/r9jCwtewAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101215904826851831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101044661649641581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗑药对我而言也是填补心中的空虚，比起药效那种“自毁中的快感”才是我od的动力，不过客观看我是没o过多少，可能我潜意识里以太过怠惰的形式保护着自己（什） https://t.co/r9jCwtewAo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2101044661649641581",
+        "created_at": "2026-09-18T20:24:17.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101044661649641581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2101042785831080404",
+              "start": 103,
+              "url": "https://t.co/x7755ioVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101044661649641581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101042785831080404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天都靠着某种药物才能填补心中的空虚，我真的能变回像个健全人一样吗？我光是能让自己开心地过好每一天就拼尽全力了，也许我知道自己嗑药肯定活不长，但也无可奈何。亲爱的陌生人，你能分享一些多余的爱给我吗，谢谢你 https://t.co/x7755ioVER"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101215904826851831",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 531,
+          "like_count": 18613,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "🇭🇰🇯🇵/中文、廣東話、日本語、Eng/坐标广州/ENTJ/友跨🤗/💊四年药圈老资历/免费提供药物咨询/在戒阿片/ASD/享受的体验：去抑制，焦虑解除，动力增强，解离，三高的幻/音游爱好者/超爱maimai/喜欢ボカロ/永远喜欢ACG/超绝超赞喜欢生物化学and药理/互fo\nいぬ酱.疑？:@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "NanoCatfish"
+              }
+            ]
+          }
+        },
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "location": "九龍城寨廟街叉燒檔閣樓地鋪",
+        "most_recent_tweet_id": "2101044661649641581",
+        "name": "蛍_ヨホタル",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786898085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 193,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

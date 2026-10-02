@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2100670130825081316",
+    "created_at": "2026-09-17T19:36:02.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100670130825081316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867303171271356416",
+          "start": 3,
+          "username": "ImAVeteran_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100670130825081316",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2969
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100320088524050786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ImAVeteran_: The first person to ever die must’ve been so confused"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2100670130825081316",
+        "created_at": "2026-09-17T19:36:02.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100670130825081316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867303171271356416",
+              "start": 3,
+              "username": "ImAVeteran_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100670130825081316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2969
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100320088524050786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ImAVeteran_: The first person to ever die must’ve been so confused"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867303171271356416",
+        "conversation_id": "2100320088524050786",
+        "created_at": "2026-09-16T20:25:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T21:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100320088524050786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100320088524050786",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1732,
+          "impression_count": 1542229,
+          "like_count": 60813,
+          "quote_count": 199,
+          "reply_count": 172,
+          "retweet_count": 2969
+        },
+        "reply_settings": "everyone",
+        "text": "The first person to ever die must’ve been so confused"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2100670130825081316",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 525,
+          "like_count": 18473,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-12T20:19:13.000Z",
+        "description": "",
+        "id": "1867303171271356416",
+        "is_identity_verified": false,
+        "location": " 🌱 ",
+        "most_recent_tweet_id": "2100641707645640971",
+        "name": "ً",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867303171271356416/1734037344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004937803507945473/MegQtu2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 1222,
+          "like_count": 59930,
+          "listed_count": 9,
+          "media_count": 260,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "ImAVeteran_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

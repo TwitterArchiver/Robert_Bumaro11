@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2102874156870332563",
+    "created_at": "2026-09-23T21:34:03.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T22:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102874156870332563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1654908701772496896",
+          "start": 3,
+          "username": "AmeBOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102874156870332563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102824625767850126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeBOT: 运气差又没有上进心就会像我这样过老鼠人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2102874156870332563",
+        "created_at": "2026-09-23T21:34:03.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102874156870332563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1654908701772496896",
+              "start": 3,
+              "username": "AmeBOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102874156870332563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102824625767850126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeBOT: 运气差又没有上进心就会像我这样过老鼠人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "2102824625767850126",
+        "created_at": "2026-09-23T18:17:14.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T19:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102824625767850126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102824625767850126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "运气差又没有上进心就会像我这样过老鼠人生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2102874156870332563",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 536,
+          "like_count": 19249,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "家产自动转发BOT 脑部肛裂症候群患者 我有社交媒体焦虑",
+        "id": "1654908701772496896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102824625767850126",
+        "name": "AmeSeek",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654908701772496896/1771617297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097329350022684672/Ocn3AA29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5061,
+          "following_count": 1063,
+          "like_count": 21616,
+          "listed_count": 8,
+          "media_count": 60,
+          "tweet_count": 3616
+        },
+        "url": "",
+        "username": "AmeBOT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

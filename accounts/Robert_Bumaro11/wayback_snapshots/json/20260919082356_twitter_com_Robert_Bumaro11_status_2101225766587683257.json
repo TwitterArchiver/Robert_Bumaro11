@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101224755928215568",
+    "created_at": "2026-09-19T08:23:56.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101225766587683257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567126711510204416",
+          "start": 0,
+          "username": "Kraehe_YukI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101225766587683257",
+    "in_reply_to_user_id": "1567126711510204416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101224755928215568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kraehe_YukI 大人您很好看哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101224755928215568",
+        "created_at": "2026-09-19T08:23:56.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101225766587683257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567126711510204416",
+              "start": 0,
+              "username": "Kraehe_YukI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101225766587683257",
+        "in_reply_to_user_id": "1567126711510204416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101224755928215568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kraehe_YukI 大人您很好看哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567126711510204416",
+        "conversation_id": "2101224755928215568",
+        "created_at": "2026-09-19T08:19:55.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101224755928215568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101224755928215568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起喜欢我的人还是嫌我丑的人更多的多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101225766587683257",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 530,
+          "like_count": 18651,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T12:25:07.000Z",
+        "description": "黒羽詩織/一只墓地里的乌鸦。 出壳于06/音游相关/社交苦手/废物鼓手/双相 阿p：@Uturo_Bune 喜欢的宝宝：@Jiangyineko 对象：@xiaogozz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Uturo_Bune"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "Jiangyineko"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "xiaogozz"
+              }
+            ]
+          }
+        },
+        "id": "1567126711510204416",
+        "is_identity_verified": false,
+        "location": "はかいし",
+        "most_recent_tweet_id": "2101224755928215568",
+        "name": "黑羽 诗织（咪美嘟面猫屋赞助🐾）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567126711510204416/1738492712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099458727757967360/sRixKkzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 257,
+          "like_count": 1625,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 2640
+        },
+        "url": "",
+        "username": "Kraehe_YukI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

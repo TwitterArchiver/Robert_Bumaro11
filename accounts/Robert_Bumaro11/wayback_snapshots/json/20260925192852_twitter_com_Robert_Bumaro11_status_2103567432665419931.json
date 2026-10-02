@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103162674460991891",
+    "created_at": "2026-09-25T19:28:52.000Z",
+    "display_text_range": [
+      28,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103567432665419931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915087790913810432",
+          "start": 0,
+          "username": "Jougasaki_Noa"
+        },
+        {
+          "end": 27,
+          "id": "1681902931564703744",
+          "start": 15,
+          "username": "aim20371231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103567432665419931",
+    "in_reply_to_user_id": "1915087790913810432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103524163726315560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jougasaki_Noa @aim20371231 中秋快乐喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103162674460991891",
+        "created_at": "2026-09-25T19:28:52.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103567432665419931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915087790913810432",
+              "start": 0,
+              "username": "Jougasaki_Noa"
+            },
+            {
+              "end": 27,
+              "id": "1681902931564703744",
+              "start": 15,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103567432665419931",
+        "in_reply_to_user_id": "1915087790913810432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103524163726315560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jougasaki_Noa @aim20371231 中秋快乐喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915087790913810432",
+        "conversation_id": "2103162674460991891",
+        "created_at": "2026-09-25T16:36:56.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103524163726315560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103524163726315560",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103162674460991891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 最近都没怎么上推没来得及和推u说中秋节快乐😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103567432665419931",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 537,
+          "like_count": 19475,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-23T16:58:29.000Z",
+        "description": "小号:@xinglinai8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "xinglinai8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/uqekvpgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/uqekvpgF",
+                "start": 0,
+                "url": "https://t.co/K1lTOIhsnd"
+              }
+            ]
+          }
+        },
+        "id": "1915087790913810432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103524163726315560",
+        "name": "城ケ崎 ノア",
+        "pinned_tweet_id": "1957072684271194469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915087790913810432/1765539470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049272880979202048/h9vyY4VT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 560,
+          "like_count": 53643,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/K1lTOIhsnd",
+        "username": "Jougasaki_Noa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103513642864091482",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681902931564703744/1693285763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 2597,
+          "like_count": 184389,
+          "listed_count": 18,
+          "media_count": 2773,
+          "tweet_count": 58816
+        },
+        "url": "",
+        "username": "aim20371231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

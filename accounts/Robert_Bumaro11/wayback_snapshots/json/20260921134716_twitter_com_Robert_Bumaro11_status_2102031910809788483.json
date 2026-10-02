@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2102031910809788483",
+    "created_at": "2026-09-21T13:47:16.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102031910809788483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeFvn/status/…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/seeFvn/status/2101655445807251816",
+          "start": 85,
+          "url": "https://t.co/76YjgybrXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102031910809788483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101655445807251816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你认为什么在道德上是可接受的\n🟩堕胎\n🟩安乐死\n🟩同性恋\n🟩性别转换\n🟩色情制品\n🟨离婚\n🟨结婚\n🟩避孕药\n🟩婚前性行为\n🟩多元恋爱\n🟩赌博\n🟥死刑\n🟩动物实验\n🟥克隆 https://t.co/76YjgybrXY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2102031910809788483",
+        "created_at": "2026-09-21T13:47:16.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102031910809788483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/seeFvn/status/2101655445807251816",
+              "start": 85,
+              "url": "https://t.co/76YjgybrXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102031910809788483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101655445807251816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你认为什么在道德上是可接受的\n🟩堕胎\n🟩安乐死\n🟩同性恋\n🟩性别转换\n🟩色情制品\n🟨离婚\n🟨结婚\n🟩避孕药\n🟩婚前性行为\n🟩多元恋爱\n🟩赌博\n🟥死刑\n🟩动物实验\n🟥克隆 https://t.co/76YjgybrXY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2101655445807251816",
+        "created_at": "2026-09-20T12:51:19.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101655445807251816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nande198900/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/nande198900/status/2101348693559443608",
+              "start": 97,
+              "url": "https://t.co/qTGnITSRch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101655445807251816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4164,
+          "like_count": 34,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101348693559443608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你认为什么在道德上是可接受的\n🟩堕胎\n🟩安乐死\n🟩同性恋\n🟩性别转换\n🟩色情制品\n🟩离婚\n🟩避孕药\n🟩婚前性行为\n🟩多元恋爱\n🟩赌博\n🟩死刑（我认为4比一辈子在牢里面轻松）\n🟩动物实验\n🟩克隆 https://t.co/qTGnITSRch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2102031910809788483",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 533,
+          "like_count": 18975,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 2641
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2102018593047376144",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 804,
+          "like_count": 11309,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2405
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

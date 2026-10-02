@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2100602374519930922",
+    "created_at": "2026-09-17T15:06:48.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100602374519930922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551716556857810944",
+          "start": 3,
+          "username": "PalomoLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100602374519930922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100573979614597427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PalomoLim: 我什么都不想做只想等死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2100602374519930922",
+        "created_at": "2026-09-17T15:06:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100602374519930922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551716556857810944",
+              "start": 3,
+              "username": "PalomoLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100602374519930922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100573979614597427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PalomoLim: 我什么都不想做只想等死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551716556857810944",
+        "conversation_id": "2100573979614597427",
+        "created_at": "2026-09-17T13:13:58.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100573979614597427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100573979614597427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我什么都不想做只想等死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2100602374519930922",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 523,
+          "like_count": 18429,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-25T23:50:42.000Z",
+        "description": "蛋糕与红茶，是今日的下午茶 ｜天才小猫咪@119calling_ 😼  | 公台，今日之事如何呀 @chengong777 | 一群超级远房亲戚铃姑姑  @paradoxrin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "119calling_"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "chengong777"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "paradoxrin"
+              }
+            ]
+          }
+        },
+        "id": "1551716556857810944",
+        "is_identity_verified": false,
+        "location": "Je pense,donc je suis",
+        "most_recent_tweet_id": "2100573979614597427",
+        "name": "房玄灵🍈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551716556857810944/1789271913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099723323450310656/LrXf5MIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 490,
+          "like_count": 53428,
+          "listed_count": 5,
+          "media_count": 1006,
+          "tweet_count": 8827
+        },
+        "url": "",
+        "username": "PalomoLim",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

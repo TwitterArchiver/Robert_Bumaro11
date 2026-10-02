@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104449488354197946",
+    "created_at": "2026-09-28T05:53:51.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104449488354197946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030021360785694720",
+          "start": 3,
+          "username": "iris0571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104449488354197946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104222081122697684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iris0571: 我拯救不了任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104449488354197946",
+        "created_at": "2026-09-28T05:53:51.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104449488354197946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030021360785694720",
+              "start": 3,
+              "username": "iris0571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104449488354197946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104222081122697684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iris0571: 我拯救不了任何人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030021360785694720",
+        "conversation_id": "2104222081122697684",
+        "created_at": "2026-09-27T14:50:13.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104222081122697684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104222081122697684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我拯救不了任何人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104449488354197946",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 547,
+          "like_count": 19936,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T20:44:15.000Z",
+        "description": "oder/🏳️‍🌈/bpd/偏执狂/🩸/🚬/tcc/安那其妈妈/长发男/许珀耳玻瑞亚游牧中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lamort21218",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lamort21218",
+                "start": 0,
+                "url": "https://t.co/bvnIp0SXJS"
+              }
+            ]
+          }
+        },
+        "id": "2030021360785694720",
+        "is_identity_verified": false,
+        "location": "千高原",
+        "most_recent_tweet_id": "2104439648995139688",
+        "name": "la mort✝️",
+        "pinned_tweet_id": "2103391828166992210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030021360785694720/1788745413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 171,
+          "like_count": 3327,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/bvnIp0SXJS",
+        "username": "iris0571",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

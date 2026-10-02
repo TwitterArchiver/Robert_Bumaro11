@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1878367409159245906",
+    "created_at": "2025-01-12T11:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T12:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878398851079606311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590620481002082311",
+          "start": 0,
+          "username": "_Alone15532"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878398851079606311",
+    "in_reply_to_user_id": "1590620481002082311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878398231614505363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Alone15532 抛弃跨性别叙事，拥抱一种为神明献身的性别超然主义罢（错乱）（胡言乱语）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1878367409159245906",
+        "created_at": "2025-01-12T11:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878398851079606311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590620481002082311",
+              "start": 0,
+              "username": "_Alone15532"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878398851079606311",
+        "in_reply_to_user_id": "1590620481002082311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878398231614505363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Alone15532 抛弃跨性别叙事，拥抱一种为神明献身的性别超然主义罢（错乱）（胡言乱语）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590620481002082311",
+        "conversation_id": "1878367409159245906",
+        "created_at": "2025-01-12T11:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T12:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878398231614505363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878398231614505363",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878396810349429142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 事实如此 只能说该死的是社会 悲哀的是自然人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟪",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 212,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T08:21:07.000Z",
+        "description": "信仰比知识更难动摇；热爱比尊重更难变易；仇恨比厌恶更加持久。",
+        "id": "1590620481002082311",
+        "location": "用肩膀扛起天空吧，朋友，再将那杯啤酒一饮而尽。",
+        "name": "輕砲",
+        "pinned_tweet_id": "1869245797600235750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877643587871227904/s2Uo34L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 575,
+          "like_count": 19018,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 615
+        },
+        "username": "_Alone15532",
+        "verified": false
+      }
+    ]
+  }
+}

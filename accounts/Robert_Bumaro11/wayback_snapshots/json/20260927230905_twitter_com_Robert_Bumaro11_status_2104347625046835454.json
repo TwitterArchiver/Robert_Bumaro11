@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104347625046835454",
+    "created_at": "2026-09-27T23:09:05.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104347625046835454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624277789754138624",
+          "start": 3,
+          "username": "denji_012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104347625046835454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104314416032616601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denji_012: 从没有哪一刻如此确信我就是爱与正义本身。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104347625046835454",
+        "created_at": "2026-09-27T23:09:05.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104347625046835454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624277789754138624",
+              "start": 3,
+              "username": "denji_012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104347625046835454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104314416032616601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denji_012: 从没有哪一刻如此确信我就是爱与正义本身。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624277789754138624",
+        "conversation_id": "2104314416032616601",
+        "created_at": "2026-09-27T20:57:07.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T21:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104314416032616601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104314416032616601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从没有哪一刻如此确信我就是爱与正义本身。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104347625046835454",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 547,
+          "like_count": 19843,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2785
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T05:23:33.000Z",
+        "description": "一介学生｜18岁｜N2证书持有｜爱好很杂，您能想到的内容基本都有所涉猎",
+        "id": "1624277789754138624",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2104335815824572805",
+        "name": "伊吕波",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624277789754138624/1787215589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092675676851888128/TgZaSnon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 767,
+          "like_count": 15898,
+          "listed_count": 3,
+          "media_count": 610,
+          "tweet_count": 5608
+        },
+        "url": "",
+        "username": "denji_012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

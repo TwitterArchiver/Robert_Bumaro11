@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104768324857118724",
+    "created_at": "2026-09-29T03:00:48.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T04:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104768324857118724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1768348618002423808",
+          "start": 3,
+          "username": "disruptedgirldl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104768324857118724",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104628187799933337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @disruptedgirldl: creo q me da un poco de vergüenza admitir q tengo 21 y no laburo ni estudio..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104768324857118724",
+        "created_at": "2026-09-29T03:00:48.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104768324857118724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1768348618002423808",
+              "start": 3,
+              "username": "disruptedgirldl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104768324857118724",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104628187799933337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @disruptedgirldl: creo q me da un poco de vergüenza admitir q tengo 21 y no laburo ni estudio..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768348618002423808",
+        "conversation_id": "2104628187799933337",
+        "created_at": "2026-09-28T17:43:56.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104628187799933337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104628187799933337",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 588,
+          "impression_count": 194790,
+          "like_count": 5646,
+          "quote_count": 53,
+          "reply_count": 116,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "creo q me da un poco de vergüenza admitir q tengo 21 y no laburo ni estudio..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104768324857118724",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 549,
+          "like_count": 20010,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2826
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-14T18:49:33.000Z",
+        "description": "broken doll con problemas de trasto odiandome ( ˘ω˘ )\n#desempleada#fracasada",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/m0kiok?igsi=MT…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/m0kiok?igsi=MTc5dDMxMWxzODgyNQ==",
+                "start": 0,
+                "url": "https://t.co/ug4IARp6nW"
+              }
+            ]
+          }
+        },
+        "id": "1768348618002423808",
+        "is_identity_verified": false,
+        "location": ":3",
+        "most_recent_tweet_id": "2104764726878130278",
+        "name": "bri",
+        "pinned_tweet_id": "2082929288869986775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768348618002423808/1789257506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990114414662488064/sCF4yfYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 879,
+          "like_count": 18391,
+          "listed_count": 4,
+          "media_count": 281,
+          "tweet_count": 5245
+        },
+        "url": "https://t.co/ug4IARp6nW",
+        "username": "disruptedgirldl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

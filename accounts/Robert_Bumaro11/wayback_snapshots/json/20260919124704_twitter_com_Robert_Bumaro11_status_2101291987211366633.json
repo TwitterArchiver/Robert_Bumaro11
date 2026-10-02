@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101187052998209536"
+      ],
+      "media_source_tweet_id": [
+        "2101187066793197942"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101291987211366633",
+    "created_at": "2026-09-19T12:47:04.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T13:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101291987211366633"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "SAKUコス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1809915200373669888",
+          "start": 3,
+          "username": "mashiro170617"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5CXdlcY3O",
+          "end": 63,
+          "expanded_url": "https://x.com/mashiro170617/status/2101187066793197942/photo/1",
+          "media_key": "3_2101187052998209536",
+          "start": 40,
+          "url": "https://t.co/e5CXdlcY3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101291987211366633",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101187052998209536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101187066793197942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mashiro170617: そくほー\nやくも(概念)\n#SAKUコス https://t.co/e5CXdlcY3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101187052998209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjqffybsAAlD58.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101187052998209536"
+          ],
+          "media_source_tweet_id": [
+            "2101187066793197942"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101291987211366633",
+        "created_at": "2026-09-19T12:47:04.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101291987211366633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "SAKUコス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1809915200373669888",
+              "start": 3,
+              "username": "mashiro170617"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5CXdlcY3O",
+              "end": 63,
+              "expanded_url": "https://x.com/mashiro170617/status/2101187066793197942/photo/1",
+              "media_key": "3_2101187052998209536",
+              "start": 40,
+              "url": "https://t.co/e5CXdlcY3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101291987211366633",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101187052998209536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101187066793197942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mashiro170617: そくほー\nやくも(概念)\n#SAKUコス https://t.co/e5CXdlcY3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101187052998209536"
+          ]
+        },
+        "author_id": "1809915200373669888",
+        "conversation_id": "2101187066793197942",
+        "created_at": "2026-09-19T05:50:09.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101187066793197942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "SAKUコス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5CXdlcY3O",
+              "end": 44,
+              "expanded_url": "https://x.com/mashiro170617/status/2101187066793197942/photo/1",
+              "media_key": "3_2101187052998209536",
+              "start": 21,
+              "url": "https://t.co/e5CXdlcY3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101187066793197942",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101187052998209536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3110,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "そくほー\nやくも(概念)\n#SAKUコス https://t.co/e5CXdlcY3O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101291987211366633",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 530,
+          "like_count": 18716,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2617
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T11:39:54.000Z",
+        "description": "とんちきコスプレ顔面重加工業者(建設業)/25↑↑↑ https://t.co/Q1A4WGm3xB ましゅまろhttps://t.co/Wg1W8TOVyt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mashiro170617",
+                "end": 50,
+                "expanded_url": "https://lit.link/mashiro170617",
+                "start": 27,
+                "url": "https://t.co/Q1A4WGm3xB"
+              },
+              {
+                "display_url": "marshmallow-qa.com/vmzrer19xtt1o8…",
+                "end": 79,
+                "expanded_url": "https://marshmallow-qa.com/vmzrer19xtt1o8?t=fNTr5C&utm_medium=url_text&utm_source=promotion",
+                "start": 56,
+                "url": "https://t.co/Wg1W8TOVyt"
+              }
+            ]
+          }
+        },
+        "id": "1809915200373669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101290493745471693",
+        "name": "㍿ましろ",
+        "pinned_tweet_id": "2077729612491366572",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072109459820994560/570tzqCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 188,
+          "like_count": 13452,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 4072
+        },
+        "url": "",
+        "username": "mashiro170617",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

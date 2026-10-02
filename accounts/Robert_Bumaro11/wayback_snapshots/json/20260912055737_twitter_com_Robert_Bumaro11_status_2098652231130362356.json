@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136224976141340672",
+          "name": "Leo Tolstoy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136224976141340672",
+          "name": "Leo Tolstoy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2098652231130362356",
+    "created_at": "2026-09-12T05:57:37.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098652231130362356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1434792652931751938",
+          "start": 3,
+          "username": "LeoTollstoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098652231130362356",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 594
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098381582906032517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeoTollstoy: “The wicked grow bold as they are tolerated.”\n\nTolstoy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136224976141340672",
+              "name": "Leo Tolstoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136224976141340672",
+              "name": "Leo Tolstoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2098652231130362356",
+        "created_at": "2026-09-12T05:57:37.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098652231130362356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1434792652931751938",
+              "start": 3,
+              "username": "LeoTollstoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098652231130362356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098381582906032517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeoTollstoy: “The wicked grow bold as they are tolerated.”\n\nTolstoy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434792652931751938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136224976141340672",
+              "name": "Leo Tolstoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136224976141340672",
+              "name": "Leo Tolstoy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2098381582906032517",
+        "created_at": "2026-09-11T12:02:10.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098381582906032517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098381582906032517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 364,
+          "impression_count": 43562,
+          "like_count": 3043,
+          "quote_count": 25,
+          "reply_count": 21,
+          "retweet_count": 594
+        },
+        "reply_settings": "everyone",
+        "text": "“The wicked grow bold as they are tolerated.”\n\nTolstoy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2098652231130362356",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 506,
+          "like_count": 17774,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-06T08:19:08.000Z",
+        "description": "Literature from the works of Leo Tolstoy. Novelist and philosopher of the human condition.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfrnc.org/donations",
+                "end": 23,
+                "expanded_url": "https://tfrnc.org/donations",
+                "start": 0,
+                "url": "https://t.co/UASQgfAEf9"
+              }
+            ]
+          }
+        },
+        "id": "1434792652931751938",
+        "is_identity_verified": false,
+        "location": "Support Tolstoy Foundation:",
+        "most_recent_tweet_id": "2098641789720600584",
+        "name": "Leo Tolstoy Literature",
+        "pinned_tweet_id": "2029098833108476255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434792652931751938/1630916653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434793340923428871/w3ft6s08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116074,
+          "following_count": 2,
+          "like_count": 150,
+          "listed_count": 460,
+          "media_count": 2599,
+          "tweet_count": 23453
+        },
+        "url": "https://t.co/UASQgfAEf9",
+        "username": "LeoTollstoy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101194361686155714",
+    "created_at": "2026-09-19T07:29:42.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101212120411168792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004525682949517313",
+          "start": 0,
+          "username": "sahanasaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101212120411168792",
+    "in_reply_to_user_id": "2004525682949517313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101194361686155714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sahanasaya 成为非典型男性或许有利于女性事业（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101194361686155714",
+        "created_at": "2026-09-19T07:29:42.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101212120411168792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004525682949517313",
+              "start": 0,
+              "username": "sahanasaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101212120411168792",
+        "in_reply_to_user_id": "2004525682949517313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101194361686155714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sahanasaya 成为非典型男性或许有利于女性事业（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004525682949517313",
+        "conversation_id": "2101194361686155714",
+        "created_at": "2026-09-19T06:19:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101194361686155714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101194361686155714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在我要做的就是暂时完全隔绝父权，没有女性的帮助自己面对父权太脆弱了，自己也没有保护自己和反击的工具，至于跨这件事，我是觉得自己不跨是在为女性提供帮助，但是我必须要把在女性化时彻底女性化视为前提，不让只不过是女性事业的障碍而已。总之减肥和伪音，还有化妆也要精进呢，有人帮忙就好了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101212120411168792",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 531,
+          "like_count": 18595,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T12:12:37.000Z",
+        "description": "前世@sesamesama\n索多玛的婊子/公教/新垃圾桶\n炼金术士系主人Sharon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "sesamesama"
+              }
+            ]
+          }
+        },
+        "id": "2004525682949517313",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2101198300917715398",
+        "name": "yona✝️♉️",
+        "pinned_tweet_id": "2099773398511714778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004525682949517313/1767232507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032324815445745664/9vW8FHKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 67,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "sahanasaya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

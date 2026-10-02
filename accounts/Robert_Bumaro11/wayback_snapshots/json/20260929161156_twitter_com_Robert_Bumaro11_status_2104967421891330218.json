@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104967421891330218",
+    "created_at": "2026-09-29T16:11:56.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T17:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104967421891330218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850374828764831744",
+          "start": 3,
+          "username": "yuyuysama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104967421891330218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 427
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104377685707469236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuysama: 我的未来居然是取决于我自己吗？会不会太不靠谱了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104967421891330218",
+        "created_at": "2026-09-29T16:11:56.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104967421891330218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850374828764831744",
+              "start": 3,
+              "username": "yuyuysama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104967421891330218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 427
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104377685707469236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuysama: 我的未来居然是取决于我自己吗？会不会太不靠谱了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850374828764831744",
+        "conversation_id": "2104377685707469236",
+        "created_at": "2026-09-28T01:08:32.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104377685707469236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104377685707469236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 91320,
+          "like_count": 4087,
+          "quote_count": 26,
+          "reply_count": 268,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "我的未来居然是取决于我自己吗？会不会太不靠谱了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104967421891330218",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 549,
+          "like_count": 20119,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2833
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T03:12:03.000Z",
+        "description": "可以叫我小游！ 不约不聊骚不kp 05 大三 我讨厌的能是什么好人！讨厌我的肯定也坏的不轻！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyusama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuyusama",
+                "start": 0,
+                "url": "https://t.co/776gW9kA2x"
+              }
+            ]
+          }
+        },
+        "id": "1850374828764831744",
+        "is_identity_verified": false,
+        "location": "喵喵喵",
+        "most_recent_tweet_id": "2104953407870247330",
+        "name": "梨花游",
+        "pinned_tweet_id": "2056706018604700064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850374828764831744/1779639072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055716562485886976/xfka1xKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 209,
+          "like_count": 29884,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 4009
+        },
+        "url": "https://t.co/776gW9kA2x",
+        "username": "yuyuysama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

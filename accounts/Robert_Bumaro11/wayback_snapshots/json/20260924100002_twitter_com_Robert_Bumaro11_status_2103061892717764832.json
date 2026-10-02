@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103061892717764832",
+    "created_at": "2026-09-24T10:00:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T11:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103061892717764832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "831019425906180096",
+          "start": 3,
+          "username": "TheCatLeap"
+        },
+        {
+          "end": 28,
+          "id": "2033044157304901632",
+          "start": 16,
+          "username": "Lammyisback"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103061892717764832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102809171104084096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCatLeap: @Lammyisback no you're not. the entire contract with neurotypicals is that you have no needs, but you must anticipate every…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103061892717764832",
+        "created_at": "2026-09-24T10:00:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103061892717764832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "831019425906180096",
+              "start": 3,
+              "username": "TheCatLeap"
+            },
+            {
+              "end": 28,
+              "id": "2033044157304901632",
+              "start": 16,
+              "username": "Lammyisback"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103061892717764832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102809171104084096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCatLeap: @Lammyisback no you're not. the entire contract with neurotypicals is that you have no needs, but you must anticipate every…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831019425906180096",
+        "conversation_id": "2102757956156575955",
+        "created_at": "2026-09-23T17:15:49.000Z",
+        "display_text_range": [
+          13,
+          216
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102809171104084096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033044157304901632",
+              "start": 0,
+              "username": "Lammyisback"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102809171104084096",
+        "in_reply_to_user_id": "2033044157304901632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4010,
+          "like_count": 313,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102757956156575955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lammyisback no you're not. the entire contract with neurotypicals is that you have no needs, but you must anticipate every single one of their needs without their needing to ask while solving all your problems alone"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103061892717764832",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 536,
+          "like_count": 19275,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-13T05:57:25.000Z",
+        "description": "Gymnastics, Survivor, Democratic politics",
+        "id": "831019425906180096",
+        "is_identity_verified": false,
+        "location": "Connecticut",
+        "most_recent_tweet_id": "2103037200392732937",
+        "name": "The Cat Leap",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/831019425906180096/1745254031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1093363171379826688/lcpDrSoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 350,
+          "like_count": 5470,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 1712
+        },
+        "url": "",
+        "username": "TheCatLeap",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T04:55:42.000Z",
+        "description": "",
+        "id": "2033044157304901632",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103060404633231755",
+        "name": "Lammy",
+        "pinned_tweet_id": "2102812037588165049",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034270215802892288/9P12_Ai6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 89,
+          "like_count": 16042,
+          "listed_count": 12,
+          "media_count": 372,
+          "tweet_count": 4771
+        },
+        "url": "",
+        "username": "Lammyisback",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

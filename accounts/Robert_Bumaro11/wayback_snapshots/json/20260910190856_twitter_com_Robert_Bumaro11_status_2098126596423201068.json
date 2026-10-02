@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2098126596423201068",
+    "created_at": "2026-09-10T19:08:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T20:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098126596423201068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1900394907459850240",
+          "start": 3,
+          "username": "TouhouSeigen_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098126596423201068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098124954822643836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TouhouSeigen_: 其实没人对我怎么样，我很幸福我很好，但我为何如此的愤恨如此痛苦如此悲伤，每时每刻我都在想被虐待致死或者杀人，不知何时起我变得麻木不仁，我的生活没理由的变成了一坨狗屎，我开始想要报复或者被报复，我莫名其妙变得扭曲我渴望拥有更悲惨的经历好让我卖…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2098126596423201068",
+        "created_at": "2026-09-10T19:08:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098126596423201068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1900394907459850240",
+              "start": 3,
+              "username": "TouhouSeigen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098126596423201068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098124954822643836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TouhouSeigen_: 其实没人对我怎么样，我很幸福我很好，但我为何如此的愤恨如此痛苦如此悲伤，每时每刻我都在想被虐待致死或者杀人，不知何时起我变得麻木不仁，我的生活没理由的变成了一坨狗屎，我开始想要报复或者被报复，我莫名其妙变得扭曲我渴望拥有更悲惨的经历好让我卖…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900394907459850240",
+        "conversation_id": "2098124954822643836",
+        "created_at": "2026-09-10T19:02:25.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098124954822643836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098124954822643836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实没人对我怎么样，我很幸福我很好，但我为何如此的愤恨如此痛苦如此悲伤，每时每刻我都在想被虐待致死或者杀人，不知何时起我变得麻木不仁，我的生活没理由的变成了一坨狗屎，我开始想要报复或者被报复，我莫名其妙变得扭曲我渴望拥有更悲惨的经历好让我卖惨卖的成功点不至于是惨都惨不过人的蛆虫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2098126596423201068",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 505,
+          "like_count": 17723,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T03:54:01.000Z",
+        "description": "海豹萬歲萬萬歲丨賽博八字ISTP-T丨2011.7.26丨一般路過ftm丨泛性恋丨hrt 2025.10.9丨可以叫我東方逝元或上條鷹介丨我衹是一隻海豹丨多意識體（混合系統）丨我老大：@wanxian5555丨備用賬號@Dong42620",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "wanxian5555"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "Dong42620"
+              }
+            ]
+          }
+        },
+        "id": "1900394907459850240",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2098124954822643836",
+        "name": "Seigen🦭🏳‍⚧",
+        "pinned_tweet_id": "2085831951492260147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900394907459850240/1753495333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032688213819797507/AhFJyVZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 294,
+          "like_count": 14692,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "TouhouSeigen_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

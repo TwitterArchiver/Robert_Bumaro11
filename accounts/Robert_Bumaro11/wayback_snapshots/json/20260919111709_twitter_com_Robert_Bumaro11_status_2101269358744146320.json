@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101269358744146320",
+    "created_at": "2026-09-19T11:17:09.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101269358744146320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sacrificeQAQ/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/sacrificeQAQ/status/2101268362248724954",
+          "start": 5,
+          "url": "https://t.co/UMd8KPeVzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101269358744146320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101268362248724954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呕吐很爽 https://t.co/UMd8KPeVzw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101269358744146320",
+        "created_at": "2026-09-19T11:17:09.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101269358744146320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sacrificeQAQ/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/sacrificeQAQ/status/2101268362248724954",
+              "start": 5,
+              "url": "https://t.co/UMd8KPeVzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101269358744146320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101268362248724954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呕吐很爽 https://t.co/UMd8KPeVzw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "conversation_id": "2101268362248724954",
+        "created_at": "2026-09-19T11:13:11.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101268362248724954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101268362248724954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又吃又吐真快乐🥺\n是不是躁狂了🤔\n但是我觉得好舒服"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101269358744146320",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 531,
+          "like_count": 18703,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2613
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "QT间期延长 室间隔缺损(已康复) 轻度肺阻塞 慢性肛裂 肝内胆管结石 肾结石 高度近视 散光 弱视 慢性扁桃体炎 髌骨软骨软化 慢性外耳道炎 感音神经性聋",
+        "id": "1077035952655163392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101268989775093790",
+        "name": "lastwidecat𓃠",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 1923,
+          "like_count": 225280,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 8177
+        },
+        "url": "",
+        "username": "sacrificeQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

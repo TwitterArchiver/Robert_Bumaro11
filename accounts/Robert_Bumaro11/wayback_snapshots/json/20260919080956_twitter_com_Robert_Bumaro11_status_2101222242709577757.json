@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101222242709577757",
+    "created_at": "2026-09-19T08:09:56.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101222242709577757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953488617151832064",
+          "start": 3,
+          "username": "Dxcksaus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101222242709577757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100910708754178423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dxcksaus: 我的愿望就是在X上发废话有人理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101222242709577757",
+        "created_at": "2026-09-19T08:09:56.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101222242709577757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953488617151832064",
+              "start": 3,
+              "username": "Dxcksaus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101222242709577757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100910708754178423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dxcksaus: 我的愿望就是在X上发废话有人理我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953488617151832064",
+        "conversation_id": "2100910708754178423",
+        "created_at": "2026-09-18T11:32:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100910708754178423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoQi_cpp/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/XiaoQi_cpp/status/2091806577074573535",
+              "start": 17,
+              "url": "https://t.co/CtZU5SqKFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100910708754178423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3136,
+          "like_count": 43,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091806577074573535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的愿望就是在X上发废话有人理我 https://t.co/CtZU5SqKFj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101222242709577757",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 530,
+          "like_count": 18644,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T16:09:32.000Z",
+        "description": "2010 | MtF🍥🏳️‍⚧️ | DIY | 重度社恐 |hrt: 26•9•12 | 不割不o | 主观唯心主义 | \n开学不常在线，消息可能不能及时查看\n生活乐观积极(真的吗) 只想好好活着\n冲500fo中, 100%互fo,想找同类玩",
+        "id": "1953488617151832064",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2101142016675778644",
+        "name": "Yuta醬🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953488617151832064/1788580583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096085007106514944/uThsr2TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 346,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Dxcksaus",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2099867752764993890",
+    "created_at": "2026-09-15T14:27:40.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099867752764993890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004554262756651009",
+          "start": 3,
+          "username": "M2uriceRave1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099867752764993890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099842562823754213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M2uriceRave1: 我已急哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2099867752764993890",
+        "created_at": "2026-09-15T14:27:40.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099867752764993890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004554262756651009",
+              "start": 3,
+              "username": "M2uriceRave1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099867752764993890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099842562823754213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M2uriceRave1: 我已急哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004554262756651009",
+        "conversation_id": "2099842562823754213",
+        "created_at": "2026-09-15T12:47:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099842562823754213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099842562823754213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已急哭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2099867752764993890",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 520,
+          "like_count": 18135,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T14:06:07.000Z",
+        "description": "post-structuralism｜🚪200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pavane2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pavane2",
+                "start": 0,
+                "url": "https://t.co/j2oTjRD47o"
+              }
+            ]
+          }
+        },
+        "id": "2004554262756651009",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099843672099672535",
+        "name": "De lá grammatologie",
+        "pinned_tweet_id": "2095147615944061437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004554262756651009/1780073297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092543677159940096/JlI8BiUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 78,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/j2oTjRD47o",
+        "username": "M2uriceRave1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

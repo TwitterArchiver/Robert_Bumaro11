@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2100930231293104619",
+    "created_at": "2026-09-18T12:49:35.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100930231293104619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016175327069011971",
+          "start": 3,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100930231293104619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100852222829731866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shanhu_mi: 我不和你们玩了你们的pr原粉太贵了我买不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2100930231293104619",
+        "created_at": "2026-09-18T12:49:35.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100930231293104619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016175327069011971",
+              "start": 3,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100930231293104619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100852222829731866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shanhu_mi: 我不和你们玩了你们的pr原粉太贵了我买不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016175327069011971",
+        "conversation_id": "2100852222829731866",
+        "created_at": "2026-09-18T07:39:36.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100852222829731866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100852222829731866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 839,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不和你们玩了你们的pr原粉太贵了我买不起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2100930231293104619",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 526,
+          "like_count": 18507,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2554
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\n哦滴。zc。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪52好友位和圈圈\n🚪88 被动聊天\n备用小号@BanLi_mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "BanLi_mi"
+              }
+            ]
+          }
+        },
+        "id": "2016175327069011971",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100917180611359207",
+        "name": "T^",
+        "pinned_tweet_id": "2088638181327712668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016175327069011971/1788343599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095091022959394817/kup8bJ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 196,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1463
+        },
+        "url": "",
+        "username": "shanhu_mi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

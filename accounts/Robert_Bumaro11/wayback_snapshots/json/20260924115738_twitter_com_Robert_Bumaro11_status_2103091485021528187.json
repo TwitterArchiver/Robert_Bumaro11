@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101836829687525377"
+      ],
+      "media_source_tweet_id": [
+        "2101836934847078597"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103091485021528187",
+    "created_at": "2026-09-24T11:57:38.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103091485021528187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1591761041133895680",
+          "start": 3,
+          "username": "Robert_Bumaro11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3fjGh3zDhu",
+          "end": 60,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2101836934847078597/photo/1",
+          "media_key": "3_2101836829687525377",
+          "start": 37,
+          "url": "https://t.co/3fjGh3zDhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103091485021528187",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101836829687525377"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101836934847078597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Robert_Bumaro11: 财政赤字了我也挂个赞赏码在这（ https://t.co/3fjGh3zDhu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2101836829687525377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSs5delbsAEVKSY.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101836829687525377"
+          ],
+          "media_source_tweet_id": [
+            "2101836934847078597"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103091485021528187",
+        "created_at": "2026-09-24T11:57:38.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103091485021528187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1591761041133895680",
+              "start": 3,
+              "username": "Robert_Bumaro11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fjGh3zDhu",
+              "end": 60,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2101836934847078597/photo/1",
+              "media_key": "3_2101836829687525377",
+              "start": 37,
+              "url": "https://t.co/3fjGh3zDhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103091485021528187",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101836829687525377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101836934847078597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Robert_Bumaro11: 财政赤字了我也挂个赞赏码在这（ https://t.co/3fjGh3zDhu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101836829687525377"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "1957208951289958452",
+        "created_at": "2026-09-21T00:52:30.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101836934847078597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fjGh3zDhu",
+              "end": 39,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2101836934847078597/photo/1",
+              "media_key": "3_2101836829687525377",
+              "start": 16,
+              "url": "https://t.co/3fjGh3zDhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101836934847078597",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101836829687525377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957208951289958452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "财政赤字了我也挂个赞赏码在这（ https://t.co/3fjGh3zDhu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103091485021528187",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 536,
+          "like_count": 19298,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

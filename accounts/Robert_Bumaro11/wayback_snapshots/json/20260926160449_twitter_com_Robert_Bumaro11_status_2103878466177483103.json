@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103878466177483103",
+    "created_at": "2026-09-26T16:04:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103878466177483103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pontifex/statu…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Pontifex/status/2103534999290933432",
+          "start": 141,
+          "url": "https://t.co/LT4VAwV9rw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103878466177483103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103534999290933432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧只见他人眼中有刺而不见自己眼中的梁木，教会不是义人的俱乐部，她欢迎妓女、外邦人与麻风病人，永远向罪人敞开它的大门。那基督徒的门扉向什么人敞开呢？这世界从不乏假冒为善的基督徒，如果视友人为敌寇，以划清界限为敬虔，将自保作为圣洁，连踏入社区都如临大敌，这样的基督徒已经品鉴得够多了 https://t.co/LT4VAwV9rw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103878466177483103",
+        "created_at": "2026-09-26T16:04:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103878466177483103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pontifex/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Pontifex/status/2103534999290933432",
+              "start": 141,
+              "url": "https://t.co/LT4VAwV9rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103878466177483103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103534999290933432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧只见他人眼中有刺而不见自己眼中的梁木，教会不是义人的俱乐部，她欢迎妓女、外邦人与麻风病人，永远向罪人敞开它的大门。那基督徒的门扉向什么人敞开呢？这世界从不乏假冒为善的基督徒，如果视友人为敌寇，以划清界限为敬虔，将自保作为圣洁，连踏入社区都如临大敌，这样的基督徒已经品鉴得够多了 https://t.co/LT4VAwV9rw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922567634907791360",
+        "conversation_id": "2103534999290933432",
+        "created_at": "2026-09-25T17:20:00.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103534999290933432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103534999290933432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 502,
+                "start": 485,
+                "tag": "ApostolicJourney"
+              },
+              {
+                "end": 510,
+                "start": 503,
+                "tag": "France"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 534,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/9/25/francia-vespri.html",
+                "start": 511,
+                "url": "https://t.co/bqNVwuLgeg"
+              }
+            ]
+          },
+          "text": "The Christian community is not a refuge into which we withdraw in order to protect ourselves from our age. On the contrary, like the cathedrals of old, the Church is a place of welcome, respect, revelation, and meaning for everyone. The strength of a living Church lies in welcoming those on the peripheries who already have a place in her heart; welcoming those who are far away but in reality are already near; welcoming the stranger, in whom Christ is already knocking at the door. #ApostolicJourney #France https://t.co/bqNVwuLgeg"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 377440,
+          "like_count": 7293,
+          "quote_count": 50,
+          "reply_count": 291,
+          "retweet_count": 864
+        },
+        "reply_settings": "everyone",
+        "text": "The Christian community is not a refuge into which we withdraw in order to protect ourselves from our age. On the contrary, like the cathedrals of old, the Church is a place of welcome, respect, revelation, and meaning for everyone. The strength of a living Church lies in"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103878466177483103",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 544,
+          "like_count": 19687,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:21:32.000Z",
+        "description": "Welcome to the official account of His Holiness, Pope Leo XIV.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vatican.va/content/leo-xi…",
+                "end": 23,
+                "expanded_url": "https://www.vatican.va/content/leo-xiv/en.html",
+                "start": 0,
+                "url": "https://t.co/b4w8ATgvVU"
+              }
+            ]
+          }
+        },
+        "id": "1922567634907791360",
+        "is_identity_verified": false,
+        "location": "Vatican City",
+        "most_recent_tweet_id": "2103877262311370993",
+        "name": "Pope Leo XIV",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922567634907791360/1747211229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922601341576216576/JA1DF-Tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17874201,
+          "following_count": 47,
+          "like_count": 0,
+          "listed_count": 1804,
+          "media_count": 31,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/b4w8ATgvVU",
+        "username": "Pontifex",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

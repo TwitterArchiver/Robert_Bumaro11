@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104349164301935088",
+    "created_at": "2026-09-27T23:15:12.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104349164301935088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1493601466346610712",
+          "start": 3,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104349164301935088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104249434339201204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @basilbakery1127: 用正常描述很多人的很多方面感覺都很傻逼\n比如性取向 我要是聽到一個人說我性取向是正常的我真想一斧頭砍過去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104349164301935088",
+        "created_at": "2026-09-27T23:15:12.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104349164301935088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1493601466346610712",
+              "start": 3,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104349164301935088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104249434339201204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @basilbakery1127: 用正常描述很多人的很多方面感覺都很傻逼\n比如性取向 我要是聽到一個人說我性取向是正常的我真想一斧頭砍過去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493601466346610712",
+        "conversation_id": "2104249434339201204",
+        "created_at": "2026-09-27T16:38:54.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104249434339201204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104249434339201204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用正常描述很多人的很多方面感覺都很傻逼\n比如性取向 我要是聽到一個人說我性取向是正常的我真想一斧頭砍過去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104349164301935088",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 547,
+          "like_count": 19870,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。 sub/🏳️‍⚧️MtX｜可以叫我Yui或者小唯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basilbakery",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basilbakery",
+                "start": 0,
+                "url": "https://t.co/ogMKAWtQuQ"
+              }
+            ]
+          }
+        },
+        "id": "1493601466346610712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104276807805808810",
+        "name": "Yui✝️",
+        "pinned_tweet_id": "2092913905521897846",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493601466346610712/1786082181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085605828011450368/HcZy9LBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 350,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/ogMKAWtQuQ",
+        "username": "basilbakery1127",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103891576577519616"
+      ],
+      "media_source_tweet_id": [
+        "2103892027939402034"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103902180336103826",
+    "created_at": "2026-09-26T17:39:03.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103902180336103826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1695553771961729024",
+          "start": 3,
+          "username": "Shiraishiwatari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hYzxc13iib",
+          "end": 102,
+          "expanded_url": "https://x.com/Shiraishiwatari/status/2103892027939402034/photo/1",
+          "media_key": "3_2103891576577519616",
+          "start": 79,
+          "url": "https://t.co/hYzxc13iib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103902180336103826",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103891576577519616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103892027939402034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiraishiwatari: 你们谈到善良第一反应是“没有报复前任打过胎（并没有提及时间所以合理怀疑并非两人在一起时）”这件事也足够让我震颤的。 https://t.co/hYzxc13iib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2446,
+        "media_key": "3_2103891576577519616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKGPfPW8AAFWcN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103891576577519616"
+          ],
+          "media_source_tweet_id": [
+            "2103892027939402034"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103902180336103826",
+        "created_at": "2026-09-26T17:39:03.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103902180336103826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1695553771961729024",
+              "start": 3,
+              "username": "Shiraishiwatari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYzxc13iib",
+              "end": 102,
+              "expanded_url": "https://x.com/Shiraishiwatari/status/2103892027939402034/photo/1",
+              "media_key": "3_2103891576577519616",
+              "start": 79,
+              "url": "https://t.co/hYzxc13iib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103902180336103826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103891576577519616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103892027939402034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiraishiwatari: 你们谈到善良第一反应是“没有报复前任打过胎（并没有提及时间所以合理怀疑并非两人在一起时）”这件事也足够让我震颤的。 https://t.co/hYzxc13iib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103891576577519616"
+          ]
+        },
+        "author_id": "1695553771961729024",
+        "conversation_id": "2103892027939402034",
+        "created_at": "2026-09-26T16:58:42.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103892027939402034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYzxc13iib",
+              "end": 81,
+              "expanded_url": "https://x.com/Shiraishiwatari/status/2103892027939402034/photo/1",
+              "media_key": "3_2103891576577519616",
+              "start": 58,
+              "url": "https://t.co/hYzxc13iib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103892027939402034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103891576577519616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们谈到善良第一反应是“没有报复前任打过胎（并没有提及时间所以合理怀疑并非两人在一起时）”这件事也足够让我震颤的。 https://t.co/hYzxc13iib"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103902180336103826",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 544,
+          "like_count": 19730,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "我爱你们",
+        "id": "1695553771961729024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103894389831405970",
+        "name": "白石渡",
+        "pinned_tweet_id": "2100166162197753930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695553771961729024/1735211506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 82,
+          "like_count": 11128,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 4808
+        },
+        "url": "",
+        "username": "Shiraishiwatari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

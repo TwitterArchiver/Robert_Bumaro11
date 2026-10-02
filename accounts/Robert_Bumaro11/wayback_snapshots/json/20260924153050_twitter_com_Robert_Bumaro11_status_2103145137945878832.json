@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103145137945878832",
+    "created_at": "2026-09-24T15:30:50.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103145137945878832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082078917683503104",
+          "start": 3,
+          "username": "kuraage2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103145137945878832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1002
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102735248610177049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuraage2: 薬を開発している方々へ。\n1粒飲むだけですぐに死ねる薬を作ってください。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103145137945878832",
+        "created_at": "2026-09-24T15:30:50.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103145137945878832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082078917683503104",
+              "start": 3,
+              "username": "kuraage2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103145137945878832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1002
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102735248610177049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuraage2: 薬を開発している方々へ。\n1粒飲むだけですぐに死ねる薬を作ってください。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082078917683503104",
+        "conversation_id": "2102735248610177049",
+        "created_at": "2026-09-23T12:22:04.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102735248610177049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102735248610177049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 316955,
+          "like_count": 8277,
+          "quote_count": 81,
+          "reply_count": 119,
+          "retweet_count": 1002
+        },
+        "reply_settings": "everyone",
+        "text": "薬を開発している方々へ。\n1粒飲むだけですぐに死ねる薬を作ってください。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103145137945878832",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 537,
+          "like_count": 19346,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2698
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:27:30.000Z",
+        "description": "🗝@0ku_chan8 /ペア画@rua_1r /DM〇/通話×/出会い厨/ツイ消し/病み垢/愚痴垢/無言フォロー",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "0ku_chan8"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "username": "rua_1r"
+              }
+            ]
+          }
+        },
+        "id": "2082078917683503104",
+        "is_identity_verified": false,
+        "location": "生き地獄",
+        "most_recent_tweet_id": "2103120702111117583",
+        "name": "くらげ",
+        "pinned_tweet_id": "2103118661380935808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082078917683503104/1788250366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098689241358520320/lvyqyqax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 574,
+          "like_count": 471,
+          "listed_count": 27,
+          "media_count": 10,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "kuraage2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

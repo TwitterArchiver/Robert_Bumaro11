@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103867765346243020",
+    "created_at": "2026-09-26T15:22:17.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103867765346243020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1937919950385254401",
+          "start": 3,
+          "username": "CAS148553_50_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103867765346243020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103865343009780030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CAS148553_50_8: 因为这个世界上的一切都只是我的幻觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103867765346243020",
+        "created_at": "2026-09-26T15:22:17.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103867765346243020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1937919950385254401",
+              "start": 3,
+              "username": "CAS148553_50_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103867765346243020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103865343009780030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CAS148553_50_8: 因为这个世界上的一切都只是我的幻觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937919950385254401",
+        "conversation_id": "2103865343009780030",
+        "created_at": "2026-09-26T15:12:40.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103865343009780030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2087530016334831896",
+              "start": 18,
+              "url": "https://t.co/zl29RpJVLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103865343009780030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087530016334831896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这个世界上的一切都只是我的幻觉 https://t.co/zl29RpJVLh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103867765346243020",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 544,
+          "like_count": 19678,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2758
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T17:05:10.000Z",
+        "description": "=莉莉卡 \naudhd/oder/女/刚找回账号欢迎互fo\n中文/日本語/English\n遵循用法用量 上网快乐冲浪",
+        "id": "1937919950385254401",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103866143165612468",
+        "name": "りりか",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937919950385254401/1789981403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100623651813097473/9QevBrMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 231,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "CAS148553_50_8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2100959973912248346",
+    "created_at": "2026-09-18T17:10:47.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100995966304444455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1743531573478363136",
+          "start": 0,
+          "username": "chionli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100995966304444455",
+    "in_reply_to_user_id": "1743531573478363136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100959973912248346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chionli 主动探索"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2100959973912248346",
+        "created_at": "2026-09-18T17:10:47.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100995966304444455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1743531573478363136",
+              "start": 0,
+              "username": "chionli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100995966304444455",
+        "in_reply_to_user_id": "1743531573478363136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100959973912248346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chionli 主动探索"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743531573478363136",
+        "conversation_id": "2100959973912248346",
+        "created_at": "2026-09-18T14:47:46.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100959973912248346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chionli/status…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/chionli/status/2100462056227181055",
+              "start": 104,
+              "url": "https://t.co/vfWDoEJibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100959973912248346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 189,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100462056227181055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "觀察學習是無法替代主動探索的。\n沒有主動探索，結局只有閉塞。自然遇見不到自己在意而覺得有趣的東西。那自然也沒有目標，十分空虛，沒有動力。迷茫地隨波逐流。\n\n因為恐懼而閉塞。\n所以要換個處境以將恐懼最終消除。 https://t.co/vfWDoEJibs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2100995966304444455",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 528,
+          "like_count": 18546,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-06T07:15:08.000Z",
+        "description": "Owner: @akaeltn\nwas/were\nfate or destiny\n\nBut we still love you\nWe will be together that never apart.\n❤️🥰🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "akaeltn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chionli",
+                "end": 23,
+                "expanded_url": "https://t.me/chionli",
+                "start": 0,
+                "url": "https://t.co/q7N3KVTFn9"
+              }
+            ]
+          }
+        },
+        "id": "1743531573478363136",
+        "is_identity_verified": false,
+        "location": "molecular orbital",
+        "most_recent_tweet_id": "2100967931282686110",
+        "name": "c.",
+        "pinned_tweet_id": "2080690109800976433",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743531573478363136/1742291664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629062096142336/HijGL79K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 308,
+          "like_count": 3618,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2844
+        },
+        "url": "https://t.co/q7N3KVTFn9",
+        "username": "chionli",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

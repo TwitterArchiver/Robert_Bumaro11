@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103155137468649657",
+    "created_at": "2026-09-25T14:23:53.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T15:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103490677950828872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085569219400486912",
+          "start": 0,
+          "username": "espasovazio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103490677950828872",
+    "in_reply_to_user_id": "2085569219400486912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103155137468649657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@espasovazio 难以分清"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103155137468649657",
+        "created_at": "2026-09-25T14:23:53.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103490677950828872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085569219400486912",
+              "start": 0,
+              "username": "espasovazio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103490677950828872",
+        "in_reply_to_user_id": "2085569219400486912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103155137468649657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@espasovazio 难以分清"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085569219400486912",
+        "conversation_id": "2103155137468649657",
+        "created_at": "2026-09-24T16:10:34.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103155137468649657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103155137468649657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说到那些早期的朋友 其实我觉得自己“暗恋”过他们中的一些人\n其实我也很难分清恋爱的爱和对朋友的好感有什么区别\n现在我比以前更容易产生爱的情感 但是不同类型好感的界限也越来越模糊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103490677950828872",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 537,
+          "like_count": 19394,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T03:31:50.000Z",
+        "description": "空空间",
+        "id": "2085569219400486912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103489444661903572",
+        "name": "Espaço Vazio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085569219400486912/1786980855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 38,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "espasovazio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103512450733941105",
+    "created_at": "2026-09-25T15:50:24.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103512450733941105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1164409142",
+          "start": 3,
+          "username": "lyaabobinha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103512450733941105",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102943061252739502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyaabobinha: se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103512450733941105",
+        "created_at": "2026-09-25T15:50:24.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103512450733941105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1164409142",
+              "start": 3,
+              "username": "lyaabobinha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103512450733941105",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102943061252739502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyaabobinha: se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164409142",
+        "conversation_id": "2102943061252739502",
+        "created_at": "2026-09-24T02:07:51.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102943061252739502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102943061252739502",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1402,
+          "impression_count": 644197,
+          "like_count": 30803,
+          "quote_count": 156,
+          "reply_count": 198,
+          "retweet_count": 3193
+        },
+        "reply_settings": "everyone",
+        "text": "se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103512450733941105",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 537,
+          "like_count": 19426,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-09T23:46:02.000Z",
+        "description": "burra e viciada em dar o k*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weirdgirlsssx",
+                "end": 23,
+                "expanded_url": "https://t.me/weirdgirlsssx",
+                "start": 0,
+                "url": "https://t.co/rYRMaqimUU"
+              }
+            ]
+          }
+        },
+        "id": "1164409142",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103249912628441374",
+        "name": "lyaa",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164409142/1773276861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031896538415337472/JIt23wo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 0,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/rYRMaqimUU",
+        "username": "lyaabobinha",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

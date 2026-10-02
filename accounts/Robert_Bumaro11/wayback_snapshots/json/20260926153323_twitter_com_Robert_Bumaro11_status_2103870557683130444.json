@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2103864836212007392",
+    "created_at": "2026-09-26T15:33:23.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103870557683130444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056547558462480384",
+          "start": 0,
+          "username": "Aliestria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103870557683130444",
+    "in_reply_to_user_id": "2056547558462480384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103864836212007392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aliestria 客家犹太，后面的忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2103864836212007392",
+        "created_at": "2026-09-26T15:33:23.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103870557683130444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056547558462480384",
+              "start": 0,
+              "username": "Aliestria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103870557683130444",
+        "in_reply_to_user_id": "2056547558462480384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103864836212007392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aliestria 客家犹太，后面的忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2103864836212007392",
+        "created_at": "2026-09-26T15:10:39.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103864836212007392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103864836212007392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "虽然希特勒的反犹思想是错误的，这是因为犹太人生来就是神的选民，但是纳粹主义中的种族主义观点毫无疑问是正确的。\n\n不同人种之间确实有高低贵贱之分，雅利安人作为雅弗的后裔，其文明程度明显要高于绝大多数人种。而犹太人则更是人类从野蛮走向文明的过程中不可或缺的力量。没有以色列人建立的信仰，就不可能会有如今人类文化的繁荣。没有犹太科学家们的伟大成就，人类的科技水平至少会倒退两百年。犹太民族无疑是神选民族，注定能获得神的恩典✞。\n\n相比之下，其他民族，包括斯拉夫人，非希伯来人的闪米特人以及其他非白种人对世界的贡献和文化影响力都极其有限，只能被归类为边缘民族。\n\n在我看来，纳粹主义思想中关于维持民族血统纯洁性，划分优劣种族的观点并没有错。但可惜他们为净化劣等种族，创造理想种族秩序世界的斗争最终失败了 。再加上战后西方各国政府对这一思想的打压封锁和污蔑，导致很多人对纳粹主义的印象天然就打上了“罪恶”的标签，却无法深入研究其中真正合理性的部分。\n\n纳粹主义并非完全是坏的，当今欧洲各国相当多的国民都承受着左翼政党放开移民政策而放弃维护其民族血统纯洁性遭受的恶果。希特勒最大的错误就是把犹太人划分为了劣等民族，这种错误的种族优劣划分也最终导致了他的失败。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然希特勒的反犹思想是错误的，这是因为犹太人生来就是神的选民，但是纳粹主义中的种族主义观点毫无疑问是正确的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2103870557683130444",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 544,
+          "like_count": 19683,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "反跨跨女，顺性别药娘，邪恶跨畜\n右翼保守派新教徒，坚定的资本主义战士\n对血液🩸很敏感，患有渴血症\n我是罪人，吃药是为了惩罚自己\n“地狱的烈焰不熄，因至高的审判从未止息”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aliestria",
+                "end": 23,
+                "expanded_url": "http://t.me/Aliestria",
+                "start": 0,
+                "url": "https://t.co/UTWrj83veE"
+              }
+            ]
+          }
+        },
+        "id": "2056547558462480384",
+        "is_identity_verified": true,
+        "location": "炼狱山",
+        "most_recent_tweet_id": "2103864836212007392",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2103502666982986023",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1789557105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102785411970199552/j6gsdx_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 594,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/UTWrj83veE",
+        "username": "Aliestria",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101217435160601078",
+    "created_at": "2026-09-19T07:50:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101217435160601078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581445416691724290",
+          "start": 3,
+          "username": "tradcatboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101217435160601078",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101046134982758865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tradcatboy: The non-Christian right winger is a despicable character. No grace, no forgiveness, no mercy, just hypocritical condemnatio…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101217435160601078",
+        "created_at": "2026-09-19T07:50:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101217435160601078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581445416691724290",
+              "start": 3,
+              "username": "tradcatboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101217435160601078",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101046134982758865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tradcatboy: The non-Christian right winger is a despicable character. No grace, no forgiveness, no mercy, just hypocritical condemnatio…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581445416691724290",
+        "conversation_id": "2101046134982758865",
+        "created_at": "2026-09-18T20:30:08.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101046134982758865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101046134982758865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 17672,
+          "like_count": 1208,
+          "quote_count": 12,
+          "reply_count": 65,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "The non-Christian right winger is a despicable character. No grace, no forgiveness, no mercy, just hypocritical condemnation of sins we are all guilty of."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101217435160601078",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 531,
+          "like_count": 18632,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-16T00:42:52.000Z",
+        "description": "traditionalist catholic male",
+        "id": "1581445416691724290",
+        "is_identity_verified": true,
+        "location": "Brisbane, Queensland",
+        "most_recent_tweet_id": "2101199589403689440",
+        "name": "Religious Sailor Moon",
+        "pinned_tweet_id": "1670413294572826624",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581445416691724290/1665882356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825314562960433152/gPzJtwqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5389,
+          "following_count": 1306,
+          "like_count": 204969,
+          "listed_count": 49,
+          "media_count": 3391,
+          "tweet_count": 40978
+        },
+        "url": "",
+        "username": "tradcatboy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

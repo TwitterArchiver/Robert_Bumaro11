@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099548265637400576"
+      ],
+      "media_source_tweet_id": [
+        "2099548414174478399"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099857366246359252",
+    "created_at": "2026-09-15T13:46:24.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099857366246359252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1063756609904697344",
+          "start": 3,
+          "username": "Clairmyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rmzbjb7pus",
+          "end": 37,
+          "expanded_url": "https://x.com/Clairmyo/status/2099548414174478399/video/1",
+          "media_key": "13_2099548265637400576",
+          "start": 14,
+          "url": "https://t.co/Rmzbjb7pus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099857366246359252",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2099548265637400576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099548414174478399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Clairmyo: https://t.co/Rmzbjb7pus"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55521,
+        "height": 1088,
+        "media_key": "13_2099548265637400576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099548265637400576/img/ZBArr_vTLPrBSbZS.jpg",
+        "public_metrics": {
+          "view_count": 240729
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099548265637400576/vid/avc1/634x360/vt8VYvWMGzHRWSk8.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099548265637400576/vid/avc1/476x270/aPCbnSYQV3dGJmsw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099548265637400576/pl/IOC8WEgq4XFIiYjR.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099548265637400576/vid/avc1/1920x1088/ybAErfrD04RIu_XN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099548265637400576/vid/avc1/1270x720/918vN53BihxfvNSS.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099548265637400576"
+          ],
+          "media_source_tweet_id": [
+            "2099548414174478399"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099857366246359252",
+        "created_at": "2026-09-15T13:46:24.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099857366246359252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1063756609904697344",
+              "start": 3,
+              "username": "Clairmyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rmzbjb7pus",
+              "end": 37,
+              "expanded_url": "https://x.com/Clairmyo/status/2099548414174478399/video/1",
+              "media_key": "13_2099548265637400576",
+              "start": 14,
+              "url": "https://t.co/Rmzbjb7pus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099857366246359252",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2099548265637400576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099548414174478399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Clairmyo: https://t.co/Rmzbjb7pus"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099548265637400576"
+          ]
+        },
+        "author_id": "1063756609904697344",
+        "conversation_id": "2099548414174478399",
+        "created_at": "2026-09-14T17:18:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099548414174478399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rmzbjb7pus",
+              "end": 23,
+              "expanded_url": "https://x.com/Clairmyo/status/2099548414174478399/video/1",
+              "media_key": "13_2099548265637400576",
+              "start": 0,
+              "url": "https://t.co/Rmzbjb7pus"
+            },
+            {
+              "display_url": "x.com/cuteonlyvibes/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cuteonlyvibes/status/1991380145165463976",
+              "start": 24,
+              "url": "https://t.co/bAFKFaK4b9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099548414174478399",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2099548265637400576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4038,
+          "impression_count": 601526,
+          "like_count": 29279,
+          "quote_count": 62,
+          "reply_count": 95,
+          "retweet_count": 4171
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991380145165463976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rmzbjb7pus https://t.co/bAFKFaK4b9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2099857366246359252",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 520,
+          "like_count": 18116,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-17T11:31:54.000Z",
+        "description": "Posto sobre qualquer coisa e dou opiniões.\nNão costumo seguir de volta.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/profile/Clairm…",
+                "end": 23,
+                "expanded_url": "https://myanimelist.net/profile/Clairmyo",
+                "start": 0,
+                "url": "https://t.co/2Z8mtZC1Le"
+              }
+            ]
+          }
+        },
+        "id": "1063756609904697344",
+        "is_identity_verified": false,
+        "location": "Ela/Dela | She/Her",
+        "most_recent_tweet_id": "2099854376370380923",
+        "name": "Clair 🏳️‍⚧️",
+        "pinned_tweet_id": "1609748312457969667",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063756609904697344/1783217788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073592101603082240/BDYc_I36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 100,
+          "like_count": 106155,
+          "listed_count": 5,
+          "media_count": 5144,
+          "tweet_count": 21392
+        },
+        "url": "https://t.co/2Z8mtZC1Le",
+        "username": "Clairmyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

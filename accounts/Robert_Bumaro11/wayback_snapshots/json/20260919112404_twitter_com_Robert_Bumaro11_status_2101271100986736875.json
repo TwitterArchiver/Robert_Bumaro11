@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101271100986736875",
+    "created_at": "2026-09-19T11:24:04.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101271100986736875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GodsLibtard/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/GodsLibtard/status/2100790561032511510",
+          "start": 9,
+          "url": "https://t.co/tRXHO0BrMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101271100986736875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100790561032511510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实，后来麻木了 https://t.co/tRXHO0BrMs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101271100986736875",
+        "created_at": "2026-09-19T11:24:04.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101271100986736875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GodsLibtard/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/GodsLibtard/status/2100790561032511510",
+              "start": 9,
+              "url": "https://t.co/tRXHO0BrMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101271100986736875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100790561032511510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实，后来麻木了 https://t.co/tRXHO0BrMs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736175311878848512",
+        "conversation_id": "2100790561032511510",
+        "created_at": "2026-09-18T03:34:35.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100790561032511510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100790561032511510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 278634,
+          "like_count": 8559,
+          "quote_count": 551,
+          "reply_count": 566,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "do transgender women with bad handwriting get dysphoric when they write"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101271100986736875",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 531,
+          "like_count": 18709,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2615
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T00:03:47.000Z",
+        "description": "ope lemme just fly right by ya | mothtwink mothwife | under 16 dnf | priv: @dukaccino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "dukaccino"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "godslibtard.straw.page",
+                "end": 23,
+                "expanded_url": "https://godslibtard.straw.page/",
+                "start": 0,
+                "url": "https://t.co/X1VzBx3KLF"
+              }
+            ]
+          }
+        },
+        "id": "1736175311878848512",
+        "is_identity_verified": false,
+        "location": "Hell, Michigan",
+        "most_recent_tweet_id": "2101147692004934091",
+        "name": "mothberg 500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736175311878848512/1734107852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958866214605770752/Ly2zjgkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 753,
+          "like_count": 388499,
+          "listed_count": 11,
+          "media_count": 6899,
+          "tweet_count": 81735
+        },
+        "url": "https://t.co/X1VzBx3KLF",
+        "username": "GodsLibtard",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

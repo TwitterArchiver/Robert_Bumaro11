@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "1886285704210047243",
+    "created_at": "2025-02-03T06:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886297424509161819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1574491477543206912",
+          "start": 0,
+          "username": "AomameYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886297424509161819",
+    "in_reply_to_user_id": "1574491477543206912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886285704210047243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AomameYe 新纪元运动和那帮低端邪教堪称神秘学之耻..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1886285704210047243",
+        "created_at": "2025-02-03T06:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886297424509161819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574491477543206912",
+              "start": 0,
+              "username": "AomameYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886297424509161819",
+        "in_reply_to_user_id": "1574491477543206912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886285704210047243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AomameYe 新纪元运动和那帮低端邪教堪称神秘学之耻..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886285701999738881",
+            "3_1886285702150619136"
+          ]
+        },
+        "author_id": "1574491477543206912",
+        "conversation_id": "1886285704210047243",
+        "created_at": "2025-02-03T05:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886285704210047243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQzIBspLRg",
+              "end": 134,
+              "expanded_url": "https://x.com/AomameYe/status/1886285704210047243/photo/1",
+              "media_key": "3_1886285701999738881",
+              "start": 111,
+              "url": "https://t.co/hQzIBspLRg"
+            },
+            {
+              "display_url": "pic.x.com/hQzIBspLRg",
+              "end": 134,
+              "expanded_url": "https://x.com/AomameYe/status/1886285704210047243/photo/1",
+              "media_key": "3_1886285702150619136",
+              "start": 111,
+              "url": "https://t.co/hQzIBspLRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886285704210047243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“灵性”、高维、能量、升维、接触、星际种子。傻子太多骗子不够用以至于傻子自己不得不上场当骗子发现自己也能收割的这段对话已成经典永流传。到底是谁发明的这些不中不西不佛不道不神秘主义玄学魔法两不沾的新时代气功热式低端邪教的。 https://t.co/hQzIBspLRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵🟨⬜🟪⬛",
+        "id": "1591761041133895680",
+        "location": "广东",
+        "name": "Robert Bumaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 225,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T20:10:07.000Z",
+        "description": "🧘‍♀️🪷📿🦭🏳️‍🌈🏳️‍⚧️",
+        "id": "1574491477543206912",
+        "location": "Montreal, Quebec",
+        "name": "☁︎青豆☁︎（non-op trans girl🏳️‍⚧️）",
+        "pinned_tweet_id": "1879977041464029250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874873812182827008/_LDnbPfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 233,
+          "like_count": 24625,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 2290
+        },
+        "username": "AomameYe",
+        "verified": false
+      }
+    ]
+  }
+}

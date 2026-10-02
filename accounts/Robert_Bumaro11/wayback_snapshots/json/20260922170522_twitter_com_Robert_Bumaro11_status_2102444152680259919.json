@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102444117242589184",
+        "3_2102444117196488704"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2102444152680259919",
+    "created_at": "2026-09-22T17:05:22.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102444152680259919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0YllKyw2bR",
+          "end": 30,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2102444152680259919/photo/1",
+          "media_key": "3_2102444117242589184",
+          "start": 7,
+          "url": "https://t.co/0YllKyw2bR"
+        },
+        {
+          "display_url": "pic.x.com/0YllKyw2bR",
+          "end": 30,
+          "expanded_url": "https://x.com/Robert_Bumaro11/status/2102444152680259919/photo/1",
+          "media_key": "3_2102444117196488704",
+          "start": 7,
+          "url": "https://t.co/0YllKyw2bR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102444152680259919",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102444117242589184"
+      },
+      {
+        "media_key": "3_2102444117196488704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？！精分？！ https://t.co/0YllKyw2bR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2102444117242589184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1hyRBasAAICDl.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2102444117196488704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1hyQ2bQAAwIue.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102444117242589184",
+            "3_2102444117196488704"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2102444152680259919",
+        "created_at": "2026-09-22T17:05:22.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102444152680259919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YllKyw2bR",
+              "end": 30,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2102444152680259919/photo/1",
+              "media_key": "3_2102444117242589184",
+              "start": 7,
+              "url": "https://t.co/0YllKyw2bR"
+            },
+            {
+              "display_url": "pic.x.com/0YllKyw2bR",
+              "end": 30,
+              "expanded_url": "https://x.com/Robert_Bumaro11/status/2102444152680259919/photo/1",
+              "media_key": "3_2102444117196488704",
+              "start": 7,
+              "url": "https://t.co/0YllKyw2bR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102444152680259919",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102444117242589184"
+          },
+          {
+            "media_key": "3_2102444117196488704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？！精分？！ https://t.co/0YllKyw2bR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2102444152680259919",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 534,
+          "like_count": 19076,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

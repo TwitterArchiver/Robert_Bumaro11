@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098731360752132096"
+      ],
+      "media_source_tweet_id": [
+        "2098731366926192697"
+      ]
+    },
+    "author_id": "1591761041133895680",
+    "conversation_id": "2099859165015679123",
+    "created_at": "2026-09-15T13:53:33.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099859165015679123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1522748886346993665",
+          "start": 3,
+          "username": "tamanobuland"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8MTuelfly8",
+          "end": 41,
+          "expanded_url": "https://x.com/tamanobuland/status/2098731366926192697/photo/1",
+          "media_key": "3_2098731360752132096",
+          "start": 18,
+          "url": "https://t.co/8MTuelfly8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099859165015679123",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098731360752132096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1023
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098731366926192697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tamanobuland: https://t.co/8MTuelfly8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2098731360752132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAxDZSaYAAQ8EB.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098731360752132096"
+          ],
+          "media_source_tweet_id": [
+            "2098731366926192697"
+          ]
+        },
+        "author_id": "1591761041133895680",
+        "conversation_id": "2099859165015679123",
+        "created_at": "2026-09-15T13:53:33.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099859165015679123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1522748886346993665",
+              "start": 3,
+              "username": "tamanobuland"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MTuelfly8",
+              "end": 41,
+              "expanded_url": "https://x.com/tamanobuland/status/2098731366926192697/photo/1",
+              "media_key": "3_2098731360752132096",
+              "start": 18,
+              "url": "https://t.co/8MTuelfly8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099859165015679123",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098731360752132096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1023
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098731366926192697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @tamanobuland: https://t.co/8MTuelfly8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098731360752132096"
+          ]
+        },
+        "author_id": "1522748886346993665",
+        "conversation_id": "2098731366926192697",
+        "created_at": "2026-09-12T11:12:05.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098731366926192697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MTuelfly8",
+              "end": 23,
+              "expanded_url": "https://x.com/tamanobuland/status/2098731366926192697/photo/1",
+              "media_key": "3_2098731360752132096",
+              "start": 0,
+              "url": "https://t.co/8MTuelfly8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098731366926192697",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098731360752132096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 810,
+          "impression_count": 47883,
+          "like_count": 8166,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 1023
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/8MTuelfly8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2099859165015679123",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 520,
+          "like_count": 18132,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2507
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T01:23:32.000Z",
+        "description": "このアカウントには二次創作の同性愛,異性愛,ネタバレ（🚌9.5章↑）が含まれます。⏰をキャラクターの一人として愛でます。閲覧は自己責任で各自自衛をお願い致します。\n @everydaymauniti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "everydaymauniti"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/110422946",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/110422946",
+                "start": 0,
+                "url": "https://t.co/DTZnKn2Cfl"
+              }
+            ]
+          }
+        },
+        "id": "1522748886346993665",
+        "is_identity_verified": false,
+        "location": "機械学習・Al・転載・repost🚫",
+        "most_recent_tweet_id": "2099858297277079567",
+        "name": "毎日面白い",
+        "pinned_tweet_id": "2026793099901677584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522748886346993665/1788476773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080091592661372929/EPYWoOad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31827,
+          "following_count": 344,
+          "like_count": 66676,
+          "listed_count": 103,
+          "media_count": 1286,
+          "tweet_count": 20741
+        },
+        "url": "https://t.co/DTZnKn2Cfl",
+        "username": "tamanobuland",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101219193731567619",
+    "created_at": "2026-09-19T07:57:49.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101219193731567619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sacrificeQAQ/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/sacrificeQAQ/status/2101046680607244419",
+          "start": 28,
+          "url": "https://t.co/iuM9nDP2Ru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101219193731567619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101046680607244419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被虐待被凌辱都需要打扮得漂亮才能得到关注，我讨厌这样子 https://t.co/iuM9nDP2Ru"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101219193731567619",
+        "created_at": "2026-09-19T07:57:49.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101219193731567619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sacrificeQAQ/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/sacrificeQAQ/status/2101046680607244419",
+              "start": 28,
+              "url": "https://t.co/iuM9nDP2Ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101219193731567619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101046680607244419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被虐待被凌辱都需要打扮得漂亮才能得到关注，我讨厌这样子 https://t.co/iuM9nDP2Ru"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "conversation_id": "2101046680607244419",
+        "created_at": "2026-09-18T20:32:18.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101046680607244419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101046680607244419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以感受到\"坏东西去死\"是很多人的意志"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101219193731567619",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 531,
+          "like_count": 18634,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2601
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "QT间期延长 室间隔缺损(已康复) 轻度肺阻塞 慢性肛裂 肝内胆管结石 肾结石 高度近视 散光 弱视 慢性扁桃体炎 髌骨软骨软化 慢性外耳道炎 感音神经性聋",
+        "id": "1077035952655163392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101168706068066483",
+        "name": "lastwidecat𓃠",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 1922,
+          "like_count": 225084,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 8164
+        },
+        "url": "",
+        "username": "sacrificeQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

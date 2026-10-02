@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101369055634694435",
+    "created_at": "2026-09-19T17:53:19.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101369055634694435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beyondr3pairr/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/beyondr3pairr/status/2101349683561984506",
+          "start": 34,
+          "url": "https://t.co/viqaN0rHdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101369055634694435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101349683561984506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是何地方。难以相信厌性性少数能在找到属于他们的性别友好地点（？） https://t.co/viqaN0rHdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "3_2101349409015377920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSl-J3FWsAAMlIj.png",
+        "width": 326
+      },
+      {
+        "height": 148,
+        "media_key": "3_2101349429429071872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSl-LDIW8AATgtW.png",
+        "width": 316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101369055634694435",
+        "created_at": "2026-09-19T17:53:19.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101369055634694435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beyondr3pairr/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/beyondr3pairr/status/2101349683561984506",
+              "start": 34,
+              "url": "https://t.co/viqaN0rHdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101369055634694435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101349683561984506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是何地方。难以相信厌性性少数能在找到属于他们的性别友好地点（？） https://t.co/viqaN0rHdk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101349409015377920",
+            "3_2101349429429071872"
+          ]
+        },
+        "author_id": "1938969907548372992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101349683561984506",
+        "created_at": "2026-09-19T16:36:20.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101349683561984506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwYVyY07Le",
+              "end": 101,
+              "expanded_url": "https://x.com/beyondr3pairr/status/2101349683561984506/photo/1",
+              "media_key": "3_2101349409015377920",
+              "start": 78,
+              "url": "https://t.co/HwYVyY07Le"
+            },
+            {
+              "display_url": "pic.x.com/HwYVyY07Le",
+              "end": 101,
+              "expanded_url": "https://x.com/beyondr3pairr/status/2101349683561984506/photo/1",
+              "media_key": "3_2101349429429071872",
+              "start": 78,
+              "url": "https://t.co/HwYVyY07Le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101349683561984506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101349409015377920"
+          },
+          {
+            "media_key": "3_2101349429429071872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 386,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我之前以为群体亲密接触这种事情是推特跨圈缺爱或者边界感模糊的人在做\n怎么充满了现充和社会活动家的muchroom也玩这个\n\n😭我们性少数能不能少一点索多玛 https://t.co/HwYVyY07Le"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101369055634694435",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 532,
+          "like_count": 18782,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nOutcast of my \"people\", Nomad to nowhere · YT/TikTok: @beyondr3pairr Discord: https://t.co/bC8DKdsEdI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "beyondr3pairr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/5NB4RN3TZk",
+                "end": 135,
+                "expanded_url": "https://discord.gg/5NB4RN3TZk",
+                "start": 112,
+                "url": "https://t.co/bC8DKdsEdI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7ml2"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2101364167223414884",
+        "name": "拼接碎片 - BeyondR3pairr 🇨🇦",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938969907548372992/1783356999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092132630611329025/1FNIQBA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 161,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 1691,
+          "tweet_count": 9803
+        },
+        "url": "https://t.co/kdPl4R7ml2",
+        "username": "beyondr3pairr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

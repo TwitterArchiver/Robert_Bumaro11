@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101372022056194374",
+    "created_at": "2026-09-19T18:05:06.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T19:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101372022056194374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noname2095_/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/noname2095_/status/2101353965258674313",
+          "start": 7,
+          "url": "https://t.co/eIc9Oc5DOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101372022056194374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101353965258674313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这根本就是我 https://t.co/eIc9Oc5DOb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101372022056194374",
+        "created_at": "2026-09-19T18:05:06.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101372022056194374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/noname2095_/status/2101353965258674313",
+              "start": 7,
+              "url": "https://t.co/eIc9Oc5DOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101372022056194374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101353965258674313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这根本就是我 https://t.co/eIc9Oc5DOb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2101353965258674313",
+        "created_at": "2026-09-19T16:53:21.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101353965258674313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LauraBeckerRea…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/LauraBeckerReal/status/2101075717266313674",
+              "start": 51,
+              "url": "https://t.co/HUgplQbZZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101353965258674313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 775,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101075717266313674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从12岁开始，被迫暴露在超高睾酮环境中至少五年以上，造成了相当多的永久损伤，却从未有人这样关心过我 https://t.co/HUgplQbZZe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101372022056194374",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 532,
+          "like_count": 18788,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2101371612092326272",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736265610911428608/1702793756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 479,
+          "like_count": 5512,
+          "listed_count": 9,
+          "media_count": 330,
+          "tweet_count": 13302
+        },
+        "url": "",
+        "username": "noname2095_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104457879952728131",
+    "created_at": "2026-09-28T06:27:12.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104457879952728131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062190491991744512",
+          "start": 3,
+          "username": "Sypshenlipu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104457879952728131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104262047991312876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sypshenlipu: 我现在不去卖的唯一原因就是我他妈太丑了👎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104457879952728131",
+        "created_at": "2026-09-28T06:27:12.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104457879952728131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062190491991744512",
+              "start": 3,
+              "username": "Sypshenlipu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104457879952728131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104262047991312876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sypshenlipu: 我现在不去卖的唯一原因就是我他妈太丑了👎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2104262047991312876",
+        "created_at": "2026-09-27T17:29:02.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104262047991312876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104262047991312876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我现在不去卖的唯一原因就是我他妈太丑了👎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104457879952728131",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 547,
+          "like_count": 19938,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2811
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104311833364750739",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 413,
+          "like_count": 64141,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 1940
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

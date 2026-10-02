@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2104348598901346384",
+    "created_at": "2026-09-27T23:12:57.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T00:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104348598901346384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1594280404504444931",
+          "start": 3,
+          "username": "LichitLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104348598901346384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104263804284760147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LichitLich: 我希望可以有幾十塊錢或者一百塊錢，還有朋友可以一起出門"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2104348598901346384",
+        "created_at": "2026-09-27T23:12:57.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104348598901346384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1594280404504444931",
+              "start": 3,
+              "username": "LichitLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104348598901346384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104263804284760147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LichitLich: 我希望可以有幾十塊錢或者一百塊錢，還有朋友可以一起出門"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594280404504444931",
+        "conversation_id": "2104263804284760147",
+        "created_at": "2026-09-27T17:36:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104263804284760147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104263804284760147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望可以有幾十塊錢或者一百塊錢，還有朋友可以一起出門"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2104348598901346384",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 547,
+          "like_count": 19859,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2787
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104346897041535439",
+        "name": "Lich🐱🙏守卫信仰，救助苦难",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594280404504444931/1776403992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 3159,
+          "like_count": 37898,
+          "listed_count": 5,
+          "media_count": 1303,
+          "tweet_count": 10956
+        },
+        "url": "",
+        "username": "LichitLich",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

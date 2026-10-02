@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2098358672212795722",
+    "created_at": "2026-09-11T11:17:18.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098370291907092492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1548037417378009090",
+          "start": 0,
+          "username": "jolnobewild8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098370291907092492",
+    "in_reply_to_user_id": "1548037417378009090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098361685891580111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jolnobewild8964 淚目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2098358672212795722",
+        "created_at": "2026-09-11T11:17:18.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098370291907092492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548037417378009090",
+              "start": 0,
+              "username": "jolnobewild8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098370291907092492",
+        "in_reply_to_user_id": "1548037417378009090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098361685891580111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jolnobewild8964 淚目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548037417378009090",
+        "conversation_id": "2098358672212795722",
+        "created_at": "2026-09-11T10:43:06.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098361685891580111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098361685891580111",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098358672212795722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 我也是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2098370291907092492",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 505,
+          "like_count": 17748,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T20:11:19.000Z",
+        "description": "طلاب وحراس الإمام الخميني",
+        "id": "1548037417378009090",
+        "is_identity_verified": false,
+        "location": "Xen星球",
+        "most_recent_tweet_id": "2098361685891580111",
+        "name": "☫ 南條愛乃2🇮🇷🇮🇶🇾🇪☫",
+        "pinned_tweet_id": "2061054090650759630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548037417378009090/1779805274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018730065107038210/Pyh4qm-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2718,
+          "like_count": 96177,
+          "listed_count": 6,
+          "media_count": 953,
+          "tweet_count": 30002
+        },
+        "url": "",
+        "username": "jolnobewild8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

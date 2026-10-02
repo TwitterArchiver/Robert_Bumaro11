@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2099219800631456044",
+    "created_at": "2026-09-13T19:32:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099219800631456044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1407069627046416390",
+          "start": 3,
+          "username": "Areter19"
+        },
+        {
+          "end": 25,
+          "id": "1430976467131842564",
+          "start": 14,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099219800631456044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099218595351867573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Areter19: @_muguopick 我现在觉得学习残忍才是好人的主题，这是为了自己和以后接受你善意的人。因为你是好人所以你的善意是更加需要分配的资源，因为你是好人你才要学习怎么用最残忍的手段反制心怀不轨的人，避免陷入长久的内耗。没有朝外棱角的好人在这个时代下场是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2099219800631456044",
+        "created_at": "2026-09-13T19:32:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099219800631456044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1407069627046416390",
+              "start": 3,
+              "username": "Areter19"
+            },
+            {
+              "end": 25,
+              "id": "1430976467131842564",
+              "start": 14,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099219800631456044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099218595351867573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Areter19: @_muguopick 我现在觉得学习残忍才是好人的主题，这是为了自己和以后接受你善意的人。因为你是好人所以你的善意是更加需要分配的资源，因为你是好人你才要学习怎么用最残忍的手段反制心怀不轨的人，避免陷入长久的内耗。没有朝外棱角的好人在这个时代下场是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407069627046416390",
+        "conversation_id": "2099180058611265610",
+        "created_at": "2026-09-13T19:28:09.000Z",
+        "display_text_range": [
+          12,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099218595351867573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099218595351867573",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099180058611265610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 我现在觉得学习残忍才是好人的主题，这是为了自己和以后接受你善意的人。因为你是好人所以你的善意是更加需要分配的资源，因为你是好人你才要学习怎么用最残忍的手段反制心怀不轨的人，避免陷入长久的内耗。没有朝外棱角的好人在这个时代下场是很悲惨的，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2099219800631456044",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 507,
+          "like_count": 17929,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-21T20:15:41.000Z",
+        "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | Bi | INFP-T 9w1（划掉）intp4w5 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求不到职中｜是猫",
+        "id": "1407069627046416390",
+        "is_identity_verified": false,
+        "location": "某个小房间",
+        "most_recent_tweet_id": "2099218595351867573",
+        "name": "Areter",
+        "pinned_tweet_id": "1991364996220219875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407069627046416390/1664926107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043031951939125248/Xe2xfVp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 757,
+          "like_count": 27955,
+          "listed_count": 1,
+          "media_count": 750,
+          "tweet_count": 8043
+        },
+        "url": "",
+        "username": "Areter19",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "🎵l//虚弱人格@infps_offical //神出鬼没的奇怪乐手//提问箱📪https://t.co/AW5EeaHMZJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "infps_offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_muguopick",
+                "end": 63,
+                "expanded_url": "https://ngl.link/_muguopick",
+                "start": 40,
+                "url": "https://t.co/AW5EeaHMZJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/7344798",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/7344798",
+                "start": 0,
+                "url": "https://t.co/0GBs33suqj"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2099180058611265610",
+        "name": "Ringoo Kino树莓果酱🐭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430976467131842564/1787601846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092929237204508672/Ux3TfVWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 458,
+          "like_count": 3297,
+          "listed_count": 4,
+          "media_count": 633,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/0GBs33suqj",
+        "username": "_muguopick",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1591761041133895680",
+    "conversation_id": "2101207506156687427",
+    "created_at": "2026-09-19T07:11:22.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101207506156687427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NaginoHidari/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/NaginoHidari/status/2101141505385914447",
+          "start": 2,
+          "url": "https://t.co/ygU2PKTXru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101207506156687427",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101141505385914447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧐 https://t.co/ygU2PKTXru"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2101207506156687427",
+        "created_at": "2026-09-19T07:11:22.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101207506156687427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NaginoHidari/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/NaginoHidari/status/2101141505385914447",
+              "start": 2,
+              "url": "https://t.co/ygU2PKTXru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101207506156687427",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101141505385914447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧐 https://t.co/ygU2PKTXru"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332566519113412609",
+        "conversation_id": "2101141505385914447",
+        "created_at": "2026-09-19T02:49:06.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101141505385914447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101141505385914447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2337,
+          "like_count": 86,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "好多人没意识到，其实incel羞辱是一种翻版荡妇羞辱，根上都是针对传统中“女性不应被轻易获取，男性无性则是无能”的性贞操理论。\n结果现在女性解放了，大家都不能提荡妇羞辱，但是男性反而被套了一身污名化了的incel标签，还能在这个所谓“进步”的时代大行其道。\n醒醒吧，没有什么性解放，只有爱比堡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2101207506156687427",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 530,
+          "like_count": 18579,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2584
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-28T06:06:41.000Z",
+        "description": "我完成了我的历史使命，隐入尘烟",
+        "id": "1332566519113412609",
+        "is_identity_verified": false,
+        "location": "Osaka-fu, Japan",
+        "most_recent_tweet_id": "2101158597380243641",
+        "name": "塔塔_仏😇😇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332566519113412609/1695102748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1332566804405764096/RtrftSY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 418,
+          "like_count": 6417,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 6277
+        },
+        "url": "",
+        "username": "NaginoHidari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
